@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Le paysage sonore dans la littérature"
 order: 0
+in_menu: true
 ---
+# Le paysage sonore dans la littérature
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+2 descriptions de paysage sonore trouvées dans la littérature. 
