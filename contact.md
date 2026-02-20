@@ -1,9 +1,14 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Le paysage sonore dans la littérature
 
-L'Échappée Belle est actuellement composée de 6 membres.
+Contact : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+https://soundcloud.com/gerard-paresys
+
+http://gerard.paresys.free.fr
+
+https://github.com/gerardparesys 
