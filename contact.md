@@ -3,8 +3,6 @@ title: "Contact"
 order: 2
 in_menu: true
 ---
-Le paysage sonore dans la littérature
-
 Contact email : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
 [SoundCloud](https://soundcloud.com/gerard-paresys)
