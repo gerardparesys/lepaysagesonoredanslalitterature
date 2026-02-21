@@ -20,10 +20,4 @@ Quelques bibliothèques numériques :
 - [Internet Archive](https://archive.org/)
 - [Project Gutenberg](https://www.gutenberg.org/browse/languages/fr)
 - [Ebooks gratuits](https://www.ebooksgratuits.com/)
-- [BNF-Gallica](https://gallica.bnf.fr/)
-
-- Wikisource
-- Internet Archive
-- Project Gutenberg
-- Ebooks gratuits
-- BNF-Gallica 
+- [BNF-Gallica](https://gallica.bnf.fr/) 
