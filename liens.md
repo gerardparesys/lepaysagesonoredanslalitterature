@@ -8,8 +8,9 @@ in_menu: true
 [Le Paysage sonore Le monde comme musique](https://wildproject.org/livres/le-paysage-sonore) Traduction (1979) de Sylvette Gleize
 
 
-[Site](http://gerard.paresys.free.fr)
-
+Wikipedia:  
+- [Paysage sonore](https://fr.wikipedia.org/wiki/Paysage_sonore)
+- [Soundscape](https://en.wikipedia.org/wiki/Soundscape)
 
  - Paysage sonore ../ARGOPd/wikipedia-16x16fr     Soundscape ../ARGOPd/wikipedia-16x16en
 
