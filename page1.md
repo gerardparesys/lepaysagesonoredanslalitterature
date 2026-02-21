@@ -1,5 +1,5 @@
 ---
-title: "Titre"
+title: "Page1"
 order: 1
 in_menu: true
 ---
