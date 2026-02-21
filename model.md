@@ -16,4 +16,8 @@ OK :
 - 2
 - 3 
 
-[Site](http://gerard.paresys.free.fr) 
+Lien:
+[Site](http://gerard.paresys.free.fr)
+
+Image:
+![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %}) 
