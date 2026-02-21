@@ -39,7 +39,7 @@ Lien :
 
 Image : ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})
 
-Image et texte ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})Texte
+Image et texte![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})Texte
 
 Lien image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
