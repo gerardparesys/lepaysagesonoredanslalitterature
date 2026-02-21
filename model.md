@@ -1,5 +1,5 @@
 ---
-title: "Page1"
+title: "Model"
 order: 1
 in_menu: true
 ---
