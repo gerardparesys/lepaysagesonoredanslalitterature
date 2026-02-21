@@ -44,3 +44,8 @@ Lien image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg
 Lien image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
 Lien image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
+
+
+
+Un encart : 
+ <p class="encart">Un incroyable encart !</p> 
