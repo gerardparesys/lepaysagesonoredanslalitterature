@@ -14,8 +14,10 @@ Wikipedia:
 
 [Écoute du paysage et esthétique écosophique](https://plastik.univ-paris1.fr/2020/09/14/ecoute-du-paysage-et-esthetique-ecosophique/) par Roberto Barbanti
 
- - Écoute du paysage et esthétique écosophique par Roberto Barbanti
-
- - Les sonorités de Maigret / The Sounds of Maigret par / by Murielle Wenger
-
- - Bibliothèque électronique du Québec -  Wikisource  -  Internet Archive  -  Project Gutenberg  -  Ebooks gratuits  -  BNF-Gallica 
+Quelques bibliothèques numériques :  
+- Bibliothèque électronique du Québec
+- Wikisource
+- Internet Archive
+- Project Gutenberg
+- Ebooks gratuits
+- BNF-Gallica 
