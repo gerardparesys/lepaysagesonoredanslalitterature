@@ -16,11 +16,11 @@ Wikipedia:
 
 Quelques bibliothèques numériques :  
 - [Bibliothèque électronique du Québec](https://beq.ebooksgratuits.com/)
-- [Wikisource](https://en.wikipedia.org/wiki/Soundscape)
-- [Internet Archive](https://en.wikipedia.org/wiki/Soundscape)
-- [Project Gutenberg](https://en.wikipedia.org/wiki/Soundscape)
-- [Ebooks gratuits](https://en.wikipedia.org/wiki/Soundscape)
-- [BNF-Gallica](https://en.wikipedia.org/wiki/Soundscape)
+- [Wikisource](https://wikisource.org/)
+- [Internet Archive](https://archive.org/)
+- [Project Gutenberg](https://www.gutenberg.org/browse/languages/fr)
+- [Ebooks gratuits](https://www.ebooksgratuits.com/)
+- [BNF-Gallica](https://gallica.bnf.fr/)
 
 - Wikisource
 - Internet Archive
