@@ -18,7 +18,7 @@ in_menu: true
 
 cité dans : [Bruit et émotion dans la littérature akkadienne](https://theses.hal.science/tel-00770955v1/document) de Anne-Caroline Rendu Loisel
 
-#####1600 av. J.-C.
+##### 1600 av. J.-C.
 
 "Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. » "
 
@@ -29,6 +29,6 @@ cité dans : [Bruit et émotion dans la littérature akkadienne](https://theses.
 Anonyme - Papyrus Westcar
 Le Roi Khoufouî et les Magiciens - Traduction (1911) de Gaston Maspero
 
-#####1550 .. 1292 av. J.-C.  (XVIIIe DYNASTIE)
+##### 1550 .. 1292 av. J.-C.  (XVIIIe DYNASTIE)
 
 "La servante alla et elle ouvrit la chambre ; elle entendit des voix, du chant, de la musique, des danses, du zaggarit, tout ce qu’on fait à un roi, dans la chambre. Elle revint, elle rapporta tout ce qu’elle avait entendu à Roudîtdidît. Celle-ci parcourut la chambre et elle ne trouva point la place d’où le bruit venait. Elle appliqua sa tempe contre la huche et elle trouva que le bruit était à l’intérieur : elle mit donc la huche dans un coffre en bois, elle apposa un autre sceau, elle l’entoura de cuir, elle plaça le tout dans la chambre où étaient ses vases et elle ferma celle-ci de son sceau." 
