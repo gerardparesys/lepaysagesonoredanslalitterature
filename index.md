@@ -12,10 +12,11 @@ in_menu: true
 
 3 descriptions de paysage sonore trouvées dans la littérature. 
 
-Mythologie mésopotamienne
+[Mythologie mésopotamienne](https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne)
 
-Mythe d'Atrahasis - Traduction de Jean Bottéro ?
-cité dans : Bruit et émotion dans la littérature akkadienne de Anne-Caroline Rendu Loisel
+[Mythe d'Atrahasis](https://fr.wikipedia.org/wiki/Mythe_d%27Atrahasis) - Traduction de Jean Bottéro ?
+
+cité dans : [Bruit et émotion dans la littérature akkadienne](https://theses.hal.science/tel-00770955v1/document) de Anne-Caroline Rendu Loisel
 
 1600 av. J.-C.
 
