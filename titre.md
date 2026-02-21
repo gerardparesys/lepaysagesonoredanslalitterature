@@ -1,5 +1,5 @@
 ---
-title: "Activités"
+title: "Titre"
 order: 1
 in_menu: true
 ---
