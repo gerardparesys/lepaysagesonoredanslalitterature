@@ -47,5 +47,4 @@ Lien image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x12
 
 
 
-Un encart : 
- <p class="encart">Un incroyable encart !</p> 
+Un encart : <p class="encart">Un incroyable encart !</p> 
