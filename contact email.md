@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact email"
 order: 2
 in_menu: true
 ---
