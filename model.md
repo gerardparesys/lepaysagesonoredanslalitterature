@@ -28,6 +28,12 @@ OK :
 - ##### [L'Iliade - Traduction (1955) de Robert Flacelière](https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955_)  
 - ##### 8e siècle av. J.-C.
 
+Citation:
+> La route est longue mais la voie est libre…
+
+Citation: > La route est longue mais la voie est libre…
+
+
 Lien : 
 [Site](http://gerard.paresys.free.fr)
 
