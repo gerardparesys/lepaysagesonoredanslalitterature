@@ -50,4 +50,28 @@ Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4
 Un encart :
 <p class="encart">Un encart 1!</p> 
 
-Un encart :  <p class="encart">Un encart 2!</p> 
+Un encart :<p class="encart">Un encart 2!</p> 
+
+Code html :
+
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne" target="_blank">Mythologie mésopotamienne</a><br>
+<a href="https://fr.wikipedia.org/wiki/Mythe_d%27Atrahasis" target="_blank">Mythe d'Atrahasis</a> - Traduction de <a href="https://fr.wikipedia.org/wiki/Jean_Bott%C3%A9ro" target="_blank">Jean
+Bottéro</a>&nbsp;?<br>
+cité dans : <a href="https://theses.hal.science/tel-00770955v1/document" target="_blank">Bruit et émotion dans la littérature akkadienne</a> de
+Anne-Caroline Rendu Loisel<br>
+1600 av. J.-C.<br>
+<br>
+"Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le
+peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par
+leur
+vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara
+aux grands dieux : « le tapage de l’humanité est devenu trop pesant
+pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une
+peste. » "<br>
+
+<br>
+"On ne se voyait plus l’un l’autre, on ne se reconnaissait plus dans la
+destruction. Le déluge mugissait comme un taureau, le vent braillait
+comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus
+de soleil !"<br>
+</div> 
