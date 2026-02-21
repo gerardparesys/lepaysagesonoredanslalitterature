@@ -35,9 +35,9 @@ Le Roi Khoufouî et les Magiciens - Traduction (1911) de Gaston Maspero
 
 
 
-[Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
+##### [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
-[L'Iliade - Traduction (1955) de Robert Flacelière](https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955_)
+##### [L'Iliade - Traduction (1955) de Robert Flacelière](https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955_)
 
 ##### 8e siècle av. J.-C.
 
