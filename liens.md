@@ -15,7 +15,8 @@ Wikipedia:
 [Écoute du paysage et esthétique écosophique](https://plastik.univ-paris1.fr/2020/09/14/ecoute-du-paysage-et-esthetique-ecosophique/) par Roberto Barbanti
 
 Quelques bibliothèques numériques :  
-- Bibliothèque électronique du Québec
+- [Bibliothèque électronique du Québec](https://beq.ebooksgratuits.com/)
+
 - Wikisource
 - Internet Archive
 - Project Gutenberg
