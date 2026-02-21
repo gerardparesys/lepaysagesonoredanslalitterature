@@ -41,12 +41,13 @@ Image : ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})
 
 Lien image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
-Lien image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
+Lien exte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
-Lien image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
+Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
 
 
 
-Un encart : <p class="encart">Un encart 1!</p> 
+Un encart :
+<p class="encart">Un encart 1!</p> 
 
 Un encart :  <p class="encart">Un encart 2!</p> 
