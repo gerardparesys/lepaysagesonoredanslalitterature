@@ -28,11 +28,8 @@ destruction. Le déluge mugissait comme un taureau, le vent braillait
 comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus
 de soleil !"<br>
 </div>
-
 <br>
-
 <br>
-
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a href="https://fr.wikipedia.org/wiki/Litt%C3%A9rature_de_l%27%C3%89gypte_antique" target="_blank">Égypte antique</a><br>
 Anonyme - <a href="https://fr.wikipedia.org/wiki/Papyrus_Westcar" target="_blank">Papyrus Westcar</a><br>
 <a href="https://gallica.bnf.fr/ark:/12148/bpt6k36147z/f118.item" target="_blank">Le Roi Khoufouî et les Magiciens - Traduction (1911)
@@ -49,11 +46,8 @@ mit donc la huche dans un coffre en bois, elle apposa un autre sceau,
 elle l’entoura de cuir, elle plaça le tout dans la chambre où étaient
 ses vases et elle ferma celle-ci de son sceau."<br>
 </div>
-
 <br>
-
 <br>
-
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne" target="_blank">Mythologie mésopotamienne</a><br>
 <a href="https://fr.wikipedia.org/wiki/%C3%89pop%C3%A9e_de_Gilgamesh#Cinqui%C3%A8me_tablette_:_le_combat_contre_Humbaba" target="_blank">Épopée de Gilgamesh - Tablette V</a><br>
 1200 av. J.-C.<br>
