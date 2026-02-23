@@ -5,8 +5,8 @@ in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
 631 descriptions de paysage sonore trouvées dans la littérature.
-  
-  
+ 
+ 
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne" target="_blank">Mythologie mésopotamienne</a><br>
 <a href="https://fr.wikipedia.org/wiki/Mythe_d%27Atrahasis" target="_blank">Mythe d'Atrahasis</a> - Traduction de <a href="https://fr.wikipedia.org/wiki/Jean_Bott%C3%A9ro" target="_blank">Jean
 Bottéro</a>&nbsp;?<br>
