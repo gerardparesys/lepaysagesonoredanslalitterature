@@ -5,7 +5,6 @@ in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
 631 descriptions de paysage sonore trouvées dans la littérature.
-a
   
 c  
 d
