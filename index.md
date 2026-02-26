@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
-631 descriptions de paysage sonore trouvées dans la littérature
+634 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <br>
@@ -8953,4 +8953,5 @@ Pennac</a><br>
 dernier éternuement."
 </div>
 
-<br> 
+<br>
+page mise à jour 26 2 2026 
