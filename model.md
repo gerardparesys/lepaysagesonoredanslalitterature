@@ -3,12 +3,12 @@ title: "Model"
 order: 3
 in_menu: true
 ---
-Code Markdown
-# Titre 1
-## Titre 2
-### Titre 3
-#### Titre 4
-##### Titre 5
+Code Markdown  
+# Titre 1  
+## Titre 2  
+### Titre 3  
+#### Titre 4  
+##### Titre 5  
 
 ---
 _italique_ normal **gras** **_gras-italique_** ~~barré~~ 
