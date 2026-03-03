@@ -107,4 +107,8 @@ Paysage sonore <img src="images/wikipedia-32x32.png" alt="Wikipedia" align="top"
 </div>
 
 ---
+
+Image: <img style="width: 171px; height: 128px;" alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" align="middle">
+
+---
 Fin 
