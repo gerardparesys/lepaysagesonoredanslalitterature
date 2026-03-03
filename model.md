@@ -70,8 +70,8 @@ Lien texte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_
 Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
 
 ---
-Un encarttt :
-<p class="encart1">Un encart 1!</p> 
+Un encarttttttt :
+<p class="encart">Un encart 1!</p> 
 
 Un encart :  <p class="encart">Un encart 2!</p> 
 
