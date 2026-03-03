@@ -101,3 +101,5 @@ de soleil !"<br>
 
 
 <a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-16x16.png" alt="images/wikipedia-16x16.png" align="top">fr</a> 
+
+Fin 
