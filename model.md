@@ -91,21 +91,7 @@ Anne-Caroline Rendu Loisel<br>
 <br>
 "Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. »"<br>
 <br>
-<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-16x16.png" alt="images/wikipedia-16x16.png" align="top">fr</a>
-<br>
 </div> 
-
-![Wikipedia]({% link images/wikipedia-16x16.png %})  
-![Wikipedia]({% link images/wikipedia-32x32.png %})  
-
-<div>
-Paysage sonore <img src="images/wikipedia-32x32.png" alt="Wikipedia" align="top"> fr
-</div>
-
-<div>
-<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-32x32.png" alt="Wikipedia" align="top"> fr</a>
-</div>
-
 ---
 
 Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" align="middle">OKOK
