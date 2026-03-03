@@ -91,10 +91,11 @@ Anne-Caroline Rendu Loisel<br>
 <br>
 "Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. »"<br>
 <br>
-"On ne se voyait plus l’un l’autre, on ne se reconnaissait plus dans la
-destruction. Le déluge mugissait comme un taureau, le vent braillait
-comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus
-de soleil !"<br>
+"On ne se voyait plus l’un l’autre, on ne se reconnaissait plus dans la destruction. Le déluge mugissait comme un taureau, le vent braillait comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus de soleil !"
+<br>
+<br>
+<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-16x16.png" alt="images/wikipedia-16x16.png" align="top">fr</a>
+<br>
 </div> 
 
 ![Texte décrivant l'image]({% link images/wikipedia-16x16.png %})
