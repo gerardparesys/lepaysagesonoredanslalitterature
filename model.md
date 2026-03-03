@@ -1,7 +1,7 @@
 ---
 title: "Model"
 order: 3
-in_menu: false
+in_menu: true
 ---
 Code Markdown
 # Titre 1
@@ -60,8 +60,6 @@ Image et texte![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg
 Lien image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
 Lien texte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
-
-Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
 ---
 
