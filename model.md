@@ -120,7 +120,7 @@ Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" a
 
 ---
 
-<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png"/> OKOKOKOKOK
+<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png"/align="top"> OKOKOKOKOK
 
 
 ---
