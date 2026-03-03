@@ -73,7 +73,7 @@ Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4
 Un encart :
 <p class="encart">Un encart 1!</p> 
 
-Un encart :  <p class="encart">Un encart 2!</p> 
+Un encart : <p class="encart">Un encart 2!</p> 
 
 ---
 Code html :
@@ -86,7 +86,6 @@ Anne-Caroline Rendu Loisel<br>
 1600 av. J.-C.<br>
 <br>
 "Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. »"<br>
-
 <br>
 "On ne se voyait plus l’un l’autre, on ne se reconnaissait plus dans la
 destruction. Le déluge mugissait comme un taureau, le vent braillait
