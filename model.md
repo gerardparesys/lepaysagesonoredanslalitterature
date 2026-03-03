@@ -1,7 +1,7 @@
 ---
 title: "Model"
 order: 3
-in_menu: false
+in_menu: true
 ---
 ...
 # Titre 1
