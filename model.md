@@ -94,35 +94,6 @@ Anne-Caroline Rendu Loisel<br>
 </div> 
 ---
 
-Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" align="middle">OKOK
-
----
-  
-<img style="float: right;" src="images/wikipedia-32x32.png"> OKOKOK
-
----
-
-"Ca marche"<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> OKOKOKOK1
-
----
-
-Ca marche<img style="float:left;" src="images/wikipedia-32x32.png" align="middle"> OKOKOKOK2
-
----
-
-"Ca marche" 
-<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> OKOKOKOK3
-
----
-
-<img style="float: left;" src="images/wikipedia-32x32.png" align="top"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
-
-<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
-
-<img style="float: left;" src="images/wikipedia-32x32.png" align="low"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
-
-<img style="float: left;" src="images/wikipedia-32x32.png" align="low"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
-
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="top" src="images/wikipedia-24x24.png">  Homère</a>
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-24x24.png">  Homère</a>
