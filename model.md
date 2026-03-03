@@ -24,7 +24,9 @@ Une autre liste :
 1. D
 2. E 
 3. F 
+
 ---
+Un lien :
 [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
 ---
