@@ -137,7 +137,7 @@ Ca marche<img style="float:left;" src="images/wikipedia-32x32.png" align="middle
 
 <img style="float: left;" src="images/wikipedia-32x32.png" align="low"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img alt="Wikipedia Homere" src="images/wikipedia-32x32.png"> Homère</a>
+<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img alt="Wikipedia" src="images/wikipedia-32x32.png"> Homère</a>
 
 ---
 
