@@ -95,5 +95,8 @@ Anne-Caroline Rendu Loisel<br>
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
 
+![pdf]({% link images/pdf24x25.png %})
+
+
 ---
 Fin 
