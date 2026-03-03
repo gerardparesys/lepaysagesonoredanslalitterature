@@ -113,6 +113,8 @@ Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" a
   
 <img style="float: right;" src="images/wikipedia-32x32.png"> OKOKOK
 
+<img style="float: left;" src="images/wikipedia-32x32.png"> OKOKOK
+
   
 <img style="display: block; margin: auto;" src="images/wikipedia-32x32.png"/> OKOKOKOK
 
