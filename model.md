@@ -116,11 +116,15 @@ Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" a
 
 ---
 
-Ca marche:<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> OKOKOKOK
+"Ca marche"<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> OKOKOKOK
 
 ---
 
-<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png">OKOKOKOKOK
+Ca marche: <img src="images/wikipedia-32x32.png" align="middle"> OKOKOKOKOK
+
+---
+
+<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png">OKOKOKOKOKOK
 
 
 ---
