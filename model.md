@@ -108,7 +108,14 @@ Paysage sonore <img src="images/wikipedia-32x32.png" alt="Wikipedia" align="top"
 
 ---
 
-Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" align="middle">
+Image: <img alt="Wikipedia" title="Wikipedia" src="images/wikipedia-32x32.png" align="middle">OKOK
+
+  
+<img style="float: right;" src="images/wikipedia-32x32.png"> OKOKOK
+
+  
+<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png"/> OKOKOKOK
+
 
 ---
 Fin 
