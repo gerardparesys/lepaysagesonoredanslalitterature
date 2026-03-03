@@ -141,7 +141,7 @@ Ca marche<img style="float:left;" src="images/wikipedia-32x32.png" align="middle
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-24x24.png">  Homère</a>
 
-Lien : <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
+Lien:<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
 
 ---
 
