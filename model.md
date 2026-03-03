@@ -89,20 +89,11 @@ cité dans : <a href="https://theses.hal.science/tel-00770955v1/document" target
 Anne-Caroline Rendu Loisel<br>
 1600 av. J.-C.<br>
 <br>
-"Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. »"<br>
+"Il ne s’était pas encore écoulé 1200 ans, que le pays augmenta, et le peuple devint trop nombreux. Comme un boeuf, le pays mugissait. Par leur vacarme, le dieu fut troublé. Enlil, ayant entendu leur tapage, déclara aux grands dieux : « le tapage de l’humanité est devenu trop pesant pour moi. Par leur vacarme, je suis privé de sommeil... qu’il y ait une peste. »"
 <br>
 </div> 
----
-
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="top" src="images/wikipedia-24x24.png">  Homère</a>
-
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-24x24.png">  Homère</a>
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
-
-Lien:<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
-
-Lien:<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: none;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
 
 ---
 Fin 
