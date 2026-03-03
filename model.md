@@ -129,6 +129,11 @@ Ca marche<img style="float: left;" src="images/wikipedia-32x32.png" align="middl
 
 ---
 
+<img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
+
+
+---
+
 Ca marche: <img src="images/wikipedia-32x32.png" align="middle"> OKOKOKOKOK
 
 ---
