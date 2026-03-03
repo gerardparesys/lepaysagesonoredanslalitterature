@@ -1,7 +1,7 @@
 ---
 title: "Model"
 order: 3
-in_menu: true
+in_menu: false
 ---
 Code Markdown
 # Titre 1
