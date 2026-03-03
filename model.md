@@ -69,13 +69,13 @@ Lien texte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_
 
 Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
 
-
-
+---
 Un encart :
 <p class="encart">Un encart 1!</p> 
 
 Un encart :<p class="encart">Un encart 2!</p> 
 
+---
 Code html :
 
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne" target="_blank">Mythologie mésopotamienne</a><br>
