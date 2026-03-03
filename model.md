@@ -96,3 +96,8 @@ destruction. Le déluge mugissait comme un taureau, le vent braillait
 comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus
 de soleil !"<br>
 </div> 
+
+![Texte décrivant l'image]({% link images/wikipedia-16x16.png %})
+
+
+<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-16x16.png" alt="images/wikipedia-16x16.png" align="top">fr</a> 
