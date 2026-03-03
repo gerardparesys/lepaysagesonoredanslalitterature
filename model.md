@@ -79,10 +79,6 @@ Un encart : <p class="encart">Un encart 2!</p>
 
  Emoji et symboles :  📅  📝  ✉️ 
 
-/var/folders/lv/qxzy932s4q502_k9by8t88q40000gn/T/com.apple.Preview/PreviewTemp-ju0o94/xQNBo.gif
-/var/folders/lv/qxzy932s4q502_k9by8t88q40000gn/T/com.apple.Preview/com.apple.Preview.PasteboardItems/xQNBo.gif
-
-
 ---
 Code html :
 
