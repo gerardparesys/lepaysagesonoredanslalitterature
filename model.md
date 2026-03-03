@@ -10,7 +10,11 @@ in_menu: true
 #### Titre 4
 ##### Titre 5
 
-------------------------------------------------------------------
+---
+_italique_ normal **gras** **_gras-italique_** ~~barré~~ 
+
+---
+
 Azertyuiop :
 
 - 1
