@@ -18,6 +18,7 @@ Une liste :
 - A
 - B
 - C
+
 ---
 Une autre liste :
 1. D
