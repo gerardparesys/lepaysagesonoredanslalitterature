@@ -95,10 +95,11 @@ Anne-Caroline Rendu Loisel<br>
 <br>
 </div> 
 
-![Wikipedia]({% link images/wikipedia-16x16.png %})
+![Wikipedia]({% link images/wikipedia-16x16.png %})  
+![Wikipedia]({% link images/wikipedia-32x32.png %})  
 
 <div>
-<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-16x16.png" alt="Wikipedia" align="top"> fr</a>
+<a href="https://fr.wikipedia.org/wiki/Paysage_sonore" target="_blank">Paysage sonore <img src="images/wikipedia-32x32.png" alt="Wikipedia" align="top"> fr</a>
 </div>
 
 ---
