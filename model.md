@@ -139,9 +139,7 @@ Ca marche<img style="float:left;" src="images/wikipedia-32x32.png" align="middle
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="top" src="images/wikipedia-32x32.png">  Homère</a>
 
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re"><img style="float: left;" alt="Wikipedia" align="top" src="images/wikipedia-32x32.png">  Homère</a>
-
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="bottom" src="images/wikipedia-32x32.png">  Homère</a>
+<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-32x32.png">  Homère</a>
 
 ---
 
