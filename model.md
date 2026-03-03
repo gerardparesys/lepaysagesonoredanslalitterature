@@ -67,7 +67,7 @@ Lien image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg
 
 Lien texte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
-Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr) 
+Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
 ---
 Un encart :
@@ -134,6 +134,10 @@ Ca marche<img style="float:left;" src="images/wikipedia-32x32.png" align="middle
 <img style="float: left;" src="images/wikipedia-32x32.png" align="middle"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
 <img style="float: left;" src="images/wikipedia-32x32.png" align="low"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
+
+<img style="float: left;" src="images/wikipedia-32x32.png" align="low"> [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
+
+<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img alt="Wikipedia Homere" src="images/wikipedia-32x32.png"> Homère</a>
 
 ---
 
