@@ -14,13 +14,15 @@ in_menu: true
 _italique_ normal **gras** **_gras-italique_** ~~barré~~ 
 
 ---
-
-Azertyuiop :
-
-- 1
-- 2
-- 3 
-
+Une liste :
+- A
+- B
+- C
+---
+Une autre liste :
+1. D
+2. E 
+3. F 
 ---
 [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
