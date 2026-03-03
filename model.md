@@ -65,8 +65,7 @@ Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4
 
 ---
 
-Un encart :  
-<p class="encart">Un encart 1!</p> 
+<p class="encart">Un encart !</p> 
 
 ---
 
