@@ -49,10 +49,8 @@ Un lien :
 Citation:
 > La route est longue mais la voie est libre…
 Enfin...  
-Oui...
+Oui...  
 Non...
-
-Citation: > La route est longue mais la voie est libre…  
 
 ---
 
@@ -70,8 +68,6 @@ Lien texte + image [Baratin ![Photo de paysage - 128x128]({% link images/imm005_
 Lien texte + image [Baratin![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](http://gerard.paresys.free.fr)
 
 ---
-Un encart :
-<p class="encart">Un encart 1!</p> 
 
 Un encart : <p class="encart">Un encart 2!</p> 
 
