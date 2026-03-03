@@ -98,20 +98,11 @@ Anne-Caroline Rendu Loisel<br>
 
 <a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-24x24.png">  Homère</a>
 
-<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" align="baseline" src="images/wikipedia-24x24.png">  Homère</a>
+<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
 
 Lien:<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: left;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
 
 Lien:<a href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank"><img style="float: none;"  alt="Wikipedia" src="images/wikipedia-24x24.png">  Homère</a>
-
----
-
-Ca marche: <img src="images/wikipedia-32x32.png" align="middle"> OKOKOKOKOK
-
----
-
-<img style="display: block; margin: auto;" src="images/wikipedia-32x32.png">OKOKOKOKOKOK
-
 
 ---
 Fin 
