@@ -18,7 +18,7 @@ Textes:
 
 - [La Cloche et la lyre. Pour une poétique médiévale du paysage sonore](https://publications-romanes-francaises.droz.org/book/9782600014748){:target="_blank"} de Jean-Marie Fritz
 
-- [Les sonorités de Maigret](https://www.trussel.com/maig/sonorites-f.htm#1){:target="_blank"} de Murielle Wenger
+- [Les sonorités de Maigret](https://www.trussel.com/maig/sonorites-f.htm){:target="_blank"} de Murielle Wenger
 
 Bibliothèques numériques :  
 - [Bibliothèque électronique du Québec](https://beq.ebooksgratuits.com/){:target="_blank"}
