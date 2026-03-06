@@ -29,6 +29,9 @@ Une autre liste :
 Un lien :
 [Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re)
 
+Un lien qui s'ouvre dans un nouvel onglet ou fenêtre: 
+[Homère](https://fr.wikipedia.org/wiki/Hom%C3%A8re){:target="_blank"}  
+
 ---
 2 liens (Titre 5) :
 
