@@ -18,7 +18,7 @@ Textes:
 
 - [La Cloche et la lyre. Pour une poétique médiévale du paysage sonore](https://publications-romanes-francaises.droz.org/book/9782600014748){:target="_blank"} de Jean-Marie Fritz
 
-Quelques bibliothèques numériques :  
+Bibliothèques numériques :  
 - [Bibliothèque électronique du Québec](https://beq.ebooksgratuits.com/){:target="_blank"}
 - [Wikisource](https://wikisource.org/){:target="_blank"}
 - [Internet Archive](https://archive.org/){:target="_blank"}
