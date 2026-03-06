@@ -14,10 +14,12 @@ Wikipedia:
 
 [Écoute du paysage et esthétique écosophique](https://plastik.univ-paris1.fr/2020/09/14/ecoute-du-paysage-et-esthetique-ecosophique/) par Roberto Barbanti
 
+[Le silencement du monde Paysages sonores au haut Moyen Âge et nouvelle culture aurale](https://shs.cairn.info/revue-annales-2017-3-page-659) de Nira Pancer
+
 Quelques bibliothèques numériques :  
 - [Bibliothèque électronique du Québec](https://beq.ebooksgratuits.com/)
 - [Wikisource](https://wikisource.org/)
 - [Internet Archive](https://archive.org/)
 - [Project Gutenberg](https://www.gutenberg.org/browse/languages/fr)
-- [Ebooks gratuits](https://www.ebooksgratuits.com/)
+- [Ebooks libres et gratuits](https://www.ebooksgratuits.com/)
 - [BNF-Gallica](https://gallica.bnf.fr/) 
