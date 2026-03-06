@@ -3,9 +3,9 @@ title: "Liens"
 order: 1
 in_menu: true
 ---
-[The Tuning of the World (The Soundscape)](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf){:target="_blank"} (1977) by Raymond Murray Schafer
-
-[Le Paysage sonore Le monde comme musique](https://wildproject.org/livres/le-paysage-sonore){:target="_blank"} Traduction (1979) de Sylvette Gleize
+Raymond Murray Schafer:
+- [The Tuning of the World (The Soundscape)](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf){:target="_blank"} (1977)
+- [Le Paysage sonore Le monde comme musique](https://wildproject.org/livres/le-paysage-sonore){:target="_blank"} Traduction (1979) de Sylvette Gleize
 
 Wikipedia:  
 - [Paysage sonore](https://fr.wikipedia.org/wiki/Paysage_sonore){:target="_blank"}
