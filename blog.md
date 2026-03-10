@@ -1,7 +1,7 @@
 ---
-title: "Articles"
+title: "Blog"
 order: 1
-in_menu: false
+in_menu: true
 blog_index: true
 ---
 <aside>
@@ -18,4 +18,4 @@ blog_index: true
   <a href="{{post.url | relative_url}}"> Lire l'article <span aria-hidden="true">➞</span></a>
 </article>
 <hr />
-{% endfor %}
+{% endfor %} 
