@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
-634 descriptions de paysage sonore trouvées dans la littérature
+646 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <br>
@@ -518,6 +518,10 @@ href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
 target="_blank">Apocalypse de Jean - Bible de Jerusalem (1956)</a><br>
 1er siècle<br>
+<br>
+Apocalypse 8<br>
+"Et lorsque l'Agneau ouvrit le septième sceau, il se fit un silence
+dans le ciel, environ une demi-heure..."<br>
 <br>
 Apocalypse 14<br>
 "Et j'entendis un bruit venant du ciel, comme le mugissement des
@@ -2822,39 +2826,39 @@ cloches d’une cathédrale."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
 target="_blank">Bernardin de Saint-Pierre</a><br>
-<a href="https://obtic.huma-num.fr/obvie//ecole/doc?&amp;start=308"
-target="_blank">Harmonies de la Nature</a><br>
-1796<br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f267.item"
+target="_blank">Études et harmonies de la nature (mises en ordre par
+l'abbé Dauphin) - 12e étude<br>
+</a>1796<br>
 <br>
-Les forêts agitées par les vents<br>
-<br>
-"Quelquefois un vieux chêne élève au milieu d’eux ses longs bras
-dépouillés de feuilles et immobiles : comme un vieillard, il ne prend
-plus de part aux agitations qui l’environnent ; il a vécu dans un autre
-siècle. Cependant ces grands corps insensibles font entendre des bruits
-profonds et mélancoliques. Ce ne sont point des accents distincts ; ce
-sont des murmures confus comme ceux d’un peuple qui célèbre au loin une
-fête par des acclamations. Il n’y a point de voix dominantes : ce sont
-des sons monotones, parmi lesquels se font entendre des bruits sourds
-et profonds, qui nous jettent dans une tristesse pleine de douceur.
-Ainsi les murmures d’une forêt accompagnent les accents du rossignol.
-C’est un fond de concert qui fait ressortir les chants éclatants des
-oiseaux, comme la douce verdure est un fond de couleurs sur lequel se
-détache l’éclat des fleurs et des fruits.<br>
+"Quelquefois un vieux Chêne élève au milieu d'eux ses larges bras
+dépouillés de feuilles, et immobiles. Comme un vieillard, il ne prend
+plus part aux agitations qui l'environnent ; il a vécu dans un autre
+siècle.<br>
+&nbsp;&nbsp;&nbsp; Cependant ces grands corps insensibles font entendre
+des bruits profonds et mélancoliques. Ce ne sont point des accents
+distincts, ce sont des murmures confus, comme ceux d'un peuple qui
+célèbre au loin une fête par des acclamations. Il n'y a point de voix
+dominantes ; ce sont des sons monotones, parmi lesquels se font
+entendre des bruits sourds et profonds, qui nous jettent dans une
+tristesse pleine de douceur. C'est un fond de concerts qui fait
+ressortir les chants éclatants des oiseaux, comme la douce verdure est
+un fond de couleur, sur lequel se détache l'éclat des fleurs et des
+fruits.<br>
 &nbsp;&nbsp;&nbsp; Ce bruissement des prairies, ces gazouillements des
-bois, ont des charmes que je préfère aux plus brillants accords ; mon
-âme s’y abandonne, elle se berce avec les feuillages ondoyants des
-arbres, elle s’élève avec leur crime vers les cieux, elle se transporte
-dans les temps qui les ont vus naître et dans ceux qui les verront
-mourir ; ils étendent dans l’infini mon existence circonscrite et
-fugitive. Il me semble qu’ils me parlent, comme ceux de Dodone, un
-langage mystérieux ; ils me plongent dans d’ineffables rêveries qui
+bois ont des charmes que je préfère aux plus brillants accords ; mon
+âme s'y abandonne ; elle se berce avec les feuillages ondoyants des
+arbres ; elle s'élève avec leurs cimes vers les cieux ; elle se
+transporte dans les temps qui les ont vus naître, et dans ceux qui les
+verront mourir ; ils étendent dans l'infini mon existence circonscrite
+et fugitive. Il me semble qu'ils me parlent, comme ceux de Dodone, un
+langage mystérieux ; ils me plongent dans d'ineffables rêveries, qui
 souvent ont fait tomber de mes mains les livres des philosophes.
-Majestueuses forêts, paisible solitude, qui plus d’une fois avez calmé
-mes passions, puissent les cris de la guerre ne troubler jamais vos
-résonnantes clairières ! N’accompagnez de vos religieux murmures que
-les chants des oiseaux ou les doux entretiens des amis qui veulent se
-reposer sous vos ombrages."<br>
+Majestueuses forêts, paisibles solitudes, qui plus d'une fois avez
+calmé mes passions, puissent les cris de la guerre ne troubler jamais
+vos résonnantes clairières ! N'accompagnez de vos religieux murmures
+que les chants des oiseaux, ou les doux entretiens des amis, qui
+viennent se reposer sous vos ombrages !<br>
 </div>
 <br>
 <br>
@@ -3511,20 +3515,6 @@ D’un esprit qui voyage et passe dans les cieux."
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
-target="_blank">Honoré
-de Balzac</a><br>
-<a href="https://beq.ebooksgratuits.com/Balzac-xpdf/Balzac-35.pdf"
-target="_blank"> Illusions perdues</a><br>
-1837 .. 1843<br>
-<br>
-"Le brouhaha des voix et le bruit de la promenade formait un murmure
-qui s’entendait dès le milieu du jardin, comme une basse continue
-brodée des éclats de rire des filles ou des cris de quelque rare
-dispute." </div>
-<br>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
 <a href="https://www.gutenberg.org/ebooks/932" target="_blank">The Fall
@@ -3733,6 +3723,20 @@ enveloppé d’un épais brouillard, confus comme ce premier fond que jette
 négligemment un peintre là où il se propose de représenter de vastes
 horizons de plaines désertes."<br>
 </div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
+target="_blank">Honoré
+de Balzac</a><br>
+<a href="https://beq.ebooksgratuits.com/Balzac-xpdf/Balzac-35.pdf"
+target="_blank"> Illusions perdues</a><br>
+1837 .. 1843<br>
+<br>
+"Le brouhaha des voix et le bruit de la promenade formait un murmure
+qui s’entendait dès le milieu du jardin, comme une basse continue
+brodée des éclats de rire des filles ou des cris de quelque rare
+dispute." </div>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3989,6 +3993,24 @@ rien de plus.&nbsp;»"</td>
 </tr>
 </tbody>
 </table>
+</div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
+target="_blank">Honoré de Balzac</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Petites_Mis%C3%A8res_de_la_vie_conjugale/Texte_entier"
+target="_blank">Petites Misères de la vie conjugale</a><br>
+1830 .. 1846<br>
+<br>
+"Et vous vous rendormez bercé par le bruit vague des premières
+voitures. Ces terribles, ces pétulantes, ces vives voitures chargées de
+viande, ces charrettes à mamelles de fer-blanc pleines de lait, et qui
+font des tapages infernaux, qui brisent les pavés, elles roulent sur du
+coton, elles vous rappellent vaguement l’orchestre de Napoléon Musard.
+Quand votre maison tremble dans ses membres et s’agite sur sa quille,
+vous vous croyez comme un marin bercé par le zéphyr."<br>
 </div>
 <br>
 <br>
@@ -4552,6 +4574,26 @@ target="_blank">La Ville noire</a><br>
 "... j’entends cliqueter les barres de fer sur les chariots, tous ces
 bruits qui fendent la tête et qui n’empêchent pas l’artisan de
 réfléchir et même de rêver..." </div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/George_Eliot" target="_blank">George
+Eliot</a><br>
+<a href="https://georgeeliotarchive.org/items/show/10" target="_blank">The
+Mill on the Floss</a><br>
+<a href="https://www.ebooksgratuits.com/pdf/eliot_moulin_floss_1.pdf"
+target="_blank">Le Moulin sur la Floss - Traduction (1863) de François
+d’Albert-Durade - Tome 1</a> - <a
+href="https://www.ebooksgratuits.com/pdf/eliot_moulin_floss_2.pdf"
+target="_blank">Tome 2</a><br>
+1860<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le mugissement de l’eau et le fracas des roues qui
+m’assourdissent me portent à la rêverie et font ressortir le calme de
+cette scène. On dirait un grand rideau de bruit qui me sépare du reste
+du monde. Voici maintenant un énorme chariot rempli de sacs de blé, qui
+revient au moulin avec un roulement semblable à celui du tonnerre."<br>
+</div>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6679,11 +6721,11 @@ Tandis que le grand vent glapit des noms de mortes,<br>
 Ou bruit de vieille pluie aigre sur quelque route,<br>
 Qui n’invite qu’afin que le destin s’égare<br>
 Vers le clocher aveugle à girouette bizarre ?<br>
-Ecoute – plus rien - Seul, le grand silence écoute ...<br>
+Ecoute – plus rien - Seul, le grand silence écoute...<br>
 <br>
 Tu peux partir, ou t’endormir, ou bien mourir<br>
 Dans le sang ou la boue, ou même encore, belle,<br>
-Mendier ton pain de vieille aux pays inconnus;<br>
+Mendier ton pain de vieille aux pays inconnus ;<br>
 <br>
 Car nulle autre aujourd’hui ne veut m’être réelle<br>
 Que celle mort des demains et du souvenir,<br>
@@ -9206,6 +9248,33 @@ n’expriment rien de leur nature muette."<br>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
+target="_blank">Claude Lévi-Strauss</a><br>
+<a
+href="https://psychaanalyse.com/pdf/LA%20PENSEE%20SAUVAGE%20par%20Claude%20Levi%20Strauss%20BIBLIO%20%28413%20Pages%20-%2015,1%20Mo%29.pdf"
+target="_blank">La Pensée sauvage</a><br>
+1962<br>
+<br>
+"Les Iban ou Dayak de la mer, du sud de Bornéo, tirent des présages en
+interprétant le chant et le vol de plusieurs espèces d'oiseaux. Le
+chant précipité du geai crêté (<span style="font-style: italic;">Platylophus
+galericulatus</span>
+Cuvier) évoque, disent-ils, le craquement des braises et il augure donc
+favorablement du succès de l'écobuage ; le cri d'alarme d'un trogon (<span
+style="font-style: italic;">Harpactes diardi</span> Temminck), comparé
+aux râles d'un animal égorgé, présage une bonne chasse, tandis que le
+cri d'alarme de <span style="font-style: italic;">Sasia abnormis</span>
+Temminck est censé détacher comme en les raclant les mauvais esprits
+qui hantent les cultures, parce qu'il ressemble au raclement d'un
+couteau. Un autre trogon (<span style="font-style: italic;">Harpactes
+duvauceli</span>
+Temminck) présage par son « rire » le succès des expéditions
+commerciales, et par son camail rouge brillant, il évoque le prestige
+qui s'attache aux guerres victorieuses et aux voyages lointains."<br>
+</div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Samuel_Beckett" target="_blank">Samuel
 Beckett</a><br>
 <a
@@ -9965,4 +10034,4 @@ target="_blank">Mon assassin</a><br>
 dernier éternuement."
 </div>
 <br>
-page mise à jour 7 3 2026 
+page mise à jour 10 3 2026 
