@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
-646 descriptions de paysage sonore trouvées dans la littérature
+648 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <br>
@@ -1391,6 +1391,32 @@ Qu’il fait froid !<br>
 Les bruissements des feuilles qui tombent,<br>
 la bougie qui baisse et le
 silence qui enveloppe la longue porte, augmentent ma tristesse."<br>
+</div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marco_Polo" target="_blank">Marco
+Polo</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Les_Merveilleux_Voyages_de_Marco_Polo_dans_l%E2%80%99Asie_du_XIIIe_si%C3%A8cle/Texte_entier"
+target="_blank">Les Merveilleux Voyages de Marco Polo dans l’Asie du
+XIIIe siècle - Publiés (1929) par Maurice Turpaud</a><br>
+1298<br>
+<br>
+"Quand on chevauche de nuit dans ce désert, il arrive qu’un voyageur
+reste en arrière et s’écarte pour dormir ou pour tout autre motif.
+Quand il veut rejoindre la caravane, il entend des voix qui lui
+semblent être celles de ses compagnons. Parfois elles l’appellent par
+son nom : il change ainsi de direction à plusieurs reprises et finit
+par s’égarer complètement. De nombreux voyageurs ont péri de cette
+manière. Je vous dis que même de nos jours, ces voix ont été entendues.
+D’autres fois, on entend jouer des instruments de musique,
+particulièrement du tambour."<br>
+<br>
+<div style="text-align: right;">Voir : <a
+href="https://fr.wikipedia.org/wiki/Chant_des_dunes" target="_blank">Le
+chant des dunes</a><br>
+</div>
 </div>
 <br>
 <br>
@@ -6121,9 +6147,8 @@ respirant, dans cette nuit d’été, comme un colosse épuisé de fatigue." </d
 href="https://fr.wikipedia.org/wiki/Robert_Louis_Stevenson"
 target="_blank">Robert
 Louis Stevenson</a><br>
-<a
-href="https://www.commackschools.org/Downloads/Jekyll%20and%20Hyde%20text.pdf"
-target="_blank">Strange Case of Dr Jekyll and Mr Hyde</a><br>
+<a href="https://www.gutenberg.org/ebooks/43" target="_blank">Strange
+Case of Dr Jekyll and Mr Hyde</a><br>
 <a
 href="https://beq.ebooksgratuits.com/vents/Stevenson-docteur-Varlet.pdf"
 target="_blank"> L’étrange cas du docteur Jekyll et de Mr Hyde -
@@ -6710,25 +6735,27 @@ target="_blank">Oscar Vladislas de Lubicz-Milosz</a><br>
 Les sept solitudes<br>
 1906<br>
 <br>
-Cité par Jacques Roubaud dans <a
-href="https://blogs.oulipo.net/qc/2011/02/12/1906-1/" target="_blank">Quasi-Cristaux</a><br>
+sur le blog <a
+href="https://arbrealettres.wordpress.com/2017/01/11/un-son-maigre-et-pluvieux-sonne-en-fausset-mes-heures-oscar-venceslas-de-lubicz-milosz/"
+target="_blank">Arbrealettres</a><a
+href="https://blogs.oulipo.net/qc/2011/02/12/1906-1/" target="_blank"></a><br>
 <br>
 "Un son maigre et pluvieux sonne en fausset mes heures,<br>
-Coassement – croassement – requiem des portes<br>
+Coassement — croassement — requiem des portes<br>
 Aux grands châteaux venteux dont le regard fait peur<br>
 Tandis que le grand vent glapit des noms de mortes,<br>
 <br>
-Ou bruit de vieille pluie aigre sur quelque route,<br>
-Qui n’invite qu’afin que le destin s’égare<br>
+Ou bruit de vieille pluie aigre sur quelque route<br>
+Qui n’invite qu’afin que le Destin s’égare<br>
 Vers le clocher aveugle à girouette bizarre ?<br>
-Ecoute – plus rien - Seul, le grand silence écoute...<br>
+Ecoute — plus rien — Seul, le grand silence écoute...<br>
 <br>
 Tu peux partir, ou t’endormir, ou bien mourir<br>
 Dans le sang ou la boue, ou même encore, belle,<br>
 Mendier ton pain de vieille aux pays inconnus ;<br>
 <br>
 Car nulle autre aujourd’hui ne veut m’être réelle<br>
-Que celle mort des demains et du souvenir,<br>
+Que cette mort des demains et du souvenir,<br>
 Que cette cloche du moment aux lointains nus."<br>
 <br>
 dans : <a
@@ -9248,6 +9275,40 @@ n’expriment rien de leur nature muette."<br>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Iannis_Xenakis" target="_blank">Iannis
+Xenakis</a><br>
+<a
+href="https://monoskop.org/images/b/b6/Xenakis_Iannis_Musiques_formelles_Nouveaux_principes_formels_de_composition_musicale_French.pdf"
+target="_blank">Musiques formelles</a><br>
+1961<br>
+<br>
+"... des événements naturels tels que les chocs de la grêle ou de la
+pluie sur des surfaces dures ou encore le chant des cigales dans un
+champ en plein été. Ces événements sonores globaux sont faits de
+milliers de sons isolés, dont la multitude crée un événement sonore
+nouveau sur un plan d'ensemble.<br>
+... Tout le monde a observé les phénomènes sonores d'une grande foule
+politisée de dizaines ou de centaines de milliers de personnes. Le
+fleuve humain scande un mot d'ordre en rythme unanime. Puis un autre
+mot d'ordre est lancé en tête de la manifestation, et se propage à la
+queue en remplaçant le premier. Une onde de transition part ainsi de la
+tête à la queue. La clameur emplit la ville, la force inhibitrice de la
+voix et du rythme est culminante. C'est un événement hautement puissant
+et beau dans sa férocité. Puis le choc des manifestants et de l'ennemi
+se produit. Le rythme parfait du dernier mot d'ordre se rompt en un
+amas énorme de cris chaotiques qui, lui aussi, se propage à la queue.
+Imaginons de plus des crépitements de dizaines de mitrailleuses et les
+sifflements des balles qui ajoutent leur ponctuation à ce désordre
+total. Puis, rapidement, la foule est dispersée et, à l'enfer sonore et
+visuel, succède un calme détonant, plein de désespoir, de mort et de
+poussière. Les lois statistiques de ces événements vidés de leur
+contenu politique ou moral, sont celles des cigales ou de la pluie. Ce
+sont des lois du passage de l'ordre parfait au désordre total d'une
+manière continue ou explosive. Ce sont des lois stochastiques."<br>
+</div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
 target="_blank">Claude Lévi-Strauss</a><br>
 <a
@@ -10034,4 +10095,4 @@ target="_blank">Mon assassin</a><br>
 dernier éternuement."
 </div>
 <br>
-page mise à jour 10 3 2026 
+page mise à jour 14 3 2026 
