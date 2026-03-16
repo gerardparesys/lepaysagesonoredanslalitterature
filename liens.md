@@ -18,6 +18,8 @@ Textes:
 
 - [La Cloche et la lyre. Pour une poétique médiévale du paysage sonore](https://publications-romanes-francaises.droz.org/book/9782600014748){:target="_blank"} de Jean-Marie Fritz
 
+- [Les paysages sonores Du Moyen Âge à la Renaissance](https://books.openedition.org/pur/47096){:target="_blank"} sous la direction de Laurent Hablot et Laurent Vissière
+
 - [Les sonorités de Maigret](https://www.trussel.com/maig/sonorites-f.htm){:target="_blank"} de Murielle Wenger
 
 Bibliothèques numériques :  
