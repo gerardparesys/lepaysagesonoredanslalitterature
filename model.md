@@ -93,4 +93,12 @@ Anne-Caroline Rendu Loisel<br>
 <a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">&nbsp;Odyssée</a>
 
 ---
+Player Audio mp3:
+<div><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="Soundscape/Insecte3.mp3"><br>
+</source></audio>   Insecte3.mp3<br>
+</div>
+Placer le fichier "Goch-Dwa-CreoleHaitien.mp3" dans:
+
+
+---
 Fin 
