@@ -95,8 +95,9 @@ Anne-Caroline Rendu Loisel<br>
 ---
 Player Audio mp3:
 <div><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Goch-Dwa-CreoleHaitien.mp3"><br>
-</source></audio>   Goch-Dwa-CreoleHaitien.mp3<br><br>
+</source></audio>   Goch-Dwa-CreoleHaitien.mp3
 </div>
+<br>
 Placer le fichier "Goch-Dwa-CreoleHaitien.mp3" dans un dossier "audio"
 
 
