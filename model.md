@@ -110,7 +110,7 @@ Player Video
   <source src="/video/Bruges-0673-640x480.mp4" type="video/mp4" />
 
   Télécharger la vidéo
-  <a href="/video/Bruges-0673-640x480.mp4">MP4</a>
+  <a href="/video/Bruges-0673-640x480.mp4">mp4</a>
   .
 </video>
 
