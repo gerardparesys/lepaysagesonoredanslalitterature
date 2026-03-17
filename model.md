@@ -106,6 +106,7 @@ SoundCloud:
 
 --- 
 Player Video video/Bruges-0673-640x480.mp4
+
 <video controls width="250">
   <source src="video/Bruges-0673-640x480.mp4" type="video/mp4" />
 </video>
