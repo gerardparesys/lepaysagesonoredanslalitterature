@@ -105,9 +105,15 @@ SoundCloud:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A300549733&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerard-paresys" title="Gerard Paresys" target="_blank" style="color: #cccccc; text-decoration: none;">Gerard Paresys</a> · <a href="https://soundcloud.com/gerard-paresys/bird1" title="Bird1" target="_blank" style="color: #cccccc; text-decoration: none;">Bird1</a></div>
 
 --- 
-Player Vimeo
+Player Vimeo  
+
+Ancien
 
 <iframe src="//player.vimeo.com/video/109319992?title=0&amp;byline=0&amp;portrait=0" frameborder="0" height="439" width="600"></iframe>
+
+Nouveau
+
+<div style="padding:80% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/109319992?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="echelle1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ---  
 YouTube:
