@@ -108,6 +108,10 @@ SoundCloud:
 Player Video  
 <video controls width="250">
   <source src="/video/Bruges-0673-640x480.mp4" type="video/mp4" />
+
+  Télécharger la vidéo
+  <a href="/video/Bruges-0673-640x480.mp4">MP4</a>
+  .
 </video>
 
 /video/Bruges-0673-640x480.mp4
