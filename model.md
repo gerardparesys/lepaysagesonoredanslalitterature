@@ -114,8 +114,7 @@ Player Video
   .
 </video>
 
-/video/Bruges-0673-640x480.mp4
-
+Bruges-0673-640x480-H264.mp4 
 
 --- 
 Player Vimeo  
