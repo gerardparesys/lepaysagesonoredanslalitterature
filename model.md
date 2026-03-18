@@ -126,13 +126,17 @@ Player Video 3
 
 <div style="position: relative; padding-top: 56.25%;"><iframe title="Filtre photo infrarouge fait maison avec une disquette." src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
 
----
-Player Vimeo  
+--- 
+Player Video 4  
 
-Ancien
+<iframe title="Bruges" src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe>
+---   
+
+Player Vimeo Ancien
+
 <iframe src="//player.vimeo.com/video/109319992?title=0&amp;byline=0&amp;portrait=0" frameborder="0" height="439" width="600"></iframe>
 
-Nouveau
+Player Vimeo Nouveau
 <div style="padding:80% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/109319992?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="echelle1"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ---  
