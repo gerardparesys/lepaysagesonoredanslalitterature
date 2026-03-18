@@ -110,7 +110,7 @@ Player Video
 <source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
 </video>
 
-Bruges-0673-640x480-Handbrake.mp4 
+Bruges-0673-640x480-Handbrake.mp4  
 
 ---   
 
@@ -123,6 +123,8 @@ Player Vimeo Nouveau
 
 ---  
 YouTube:
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/e5l6jFGavMU?si=_I93L_wmlJl7gJbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e5l6jFGavMU?si=_I93L_wmlJl7gJbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
