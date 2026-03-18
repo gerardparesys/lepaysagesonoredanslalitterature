@@ -117,8 +117,9 @@ Player Video
 Bruges-0673-640x480-Handbrake.mp4 
 
 --- 
+Player Video  
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Filtre photo infrarouge fait maison avec une disquette." src="https://peertube.ch/videos/embed/8d19d7b9-f029-4f77-bb17-ff73be0c7f70?title=0&amp;warningTitle=0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Filtre photo infrarouge fait maison avec une disquette." src="/video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
 
 ---
 Player Vimeo  
