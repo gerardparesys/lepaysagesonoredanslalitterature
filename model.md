@@ -107,7 +107,7 @@ SoundCloud:
 --- 
 Player Video 1  
 <video controls width="100%">
-  <source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
+<source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
 </video>
 
 Bruges-0673-640x480-Handbrake.mp4 
@@ -120,7 +120,7 @@ Player Video 2
 --- 
 Player Video 3  
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Filtre photo infrarouge fait maison avec une disquette." src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
+<div style="position: relative;"><iframe title="Bruges" src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
 
 --- 
 Player Video 4  
