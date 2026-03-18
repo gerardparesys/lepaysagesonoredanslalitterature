@@ -106,7 +106,7 @@ SoundCloud:
 
 --- 
 Player Video 1  
-<video controls width="250">
+<video controls width="100%">
   <source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
 
   Télécharger la vidéo
