@@ -108,10 +108,6 @@ SoundCloud:
 Player Video 1  
 <video controls width="100%">
   <source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
-
-  Télécharger la vidéo
-  <a href="/video/Bruges-0673-640x480-Handbrake.mp4">mp4</a>
-  .
 </video>
 
 Bruges-0673-640x480-Handbrake.mp4 
