@@ -105,27 +105,13 @@ SoundCloud:
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A300549733&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/gerard-paresys" title="Gerard Paresys" target="_blank" style="color: #cccccc; text-decoration: none;">Gerard Paresys</a> · <a href="https://soundcloud.com/gerard-paresys/bird1" title="Bird1" target="_blank" style="color: #cccccc; text-decoration: none;">Bird1</a></div>
 
 --- 
-Player Video 1  
+Player Video  
 <video controls width="100%">
 <source src="video/Bruges-0673-640x480-Handbrake.mp4" type="video/mp4" />
 </video>
 
 Bruges-0673-640x480-Handbrake.mp4 
 
---- 
-Player Video 2  
-
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Filtre photo infrarouge fait maison avec une disquette." src="https://peertube.ch/videos/embed/8d19d7b9-f029-4f77-bb17-ff73be0c7f70?title=0&amp;warningTitle=0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
-
---- 
-Player Video 3  
-
-<div><iframe title="Bruges" src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe></div>
-
---- 
-Player Video 4  
-
-<iframe title="Bruges" src="video/Bruges-0673-640x480-Handbrake.mp4" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;" width="100%" height="100%" frameborder="0"></iframe>
 ---   
 
 Player Vimeo Ancien
