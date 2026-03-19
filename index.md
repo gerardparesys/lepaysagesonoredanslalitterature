@@ -34,7 +34,6 @@ comme une mule sauvage. Les ténèbres étaient denses. Il n’y avait plus
 de soleil !"<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Litt%C3%A9rature_de_l%27%C3%89gypte_antique"
 target="_blank">Égypte antique</a><br>
@@ -57,7 +56,6 @@ elle l’entoura de cuir, elle plaça le tout dans la chambre où étaient
 ses vases et elle ferma celle-ci de son sceau."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
@@ -77,7 +75,6 @@ Au cri du francolin, la forêt jubile pleinement.<br>
 Les mères singes chantent à haute voix, un jeune singe crie :<br>
 Tel un orchestre de musiciens et de percussionnistes,<br>
 Chaque jour ils font retentir cette symphonie devant Humbaba." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
@@ -127,7 +124,6 @@ l'Olympe, entend, et son coeur rit, joyeux de voir les dieux entrer
 dans la mêlée."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 Ésaïe<br>
@@ -161,7 +157,6 @@ Toute réjouissance a disparu,<br>
 ..."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 <a href="http://www.sefarim.fr/Proph%E8tes_J%E9r%E9mie_47_2.aspx"
@@ -176,7 +171,6 @@ Au trot bruyant des sabots des fiers coursiers, au roulement des chars,
 au fracas de leurs roues, les pères n'ont plus de regard pour leurs
 enfants, tant ils sont abattus..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
@@ -200,7 +194,6 @@ Et le bruit des ailes des Haïot qui se joignaient l'une l'autre et le
 bruit des roues vis-à-vis d'elles et le bruit d'un grand tumulte."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 Livre des Psaumes<br>
@@ -215,7 +208,6 @@ les fleuves déchaînent leur fracas ; plus que la voix des eaux
 innombrables, plus superbe que le ressac de la mer ; superbe est Yahvé
 dans les hauteurs.
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Platon" target="_blank">Platon</a><br>
@@ -237,7 +229,6 @@ peine y
 entrera-t-il quelque portion de récit."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 <a
@@ -252,7 +243,6 @@ poussent un hurlement ;<br>
 il n'a pas plus tôt retenti que toutes les nations se préparent à la
 guerre contre le peuple des justes."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Sima_Xiangru" target="_blank">Sima
@@ -292,7 +282,6 @@ Les personnes de son entourage, saisies,<br>
 pleurent abondamment."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
 <a
@@ -306,7 +295,6 @@ rude fracas des pierres dégringolant, la course invisible d'animaux
 bondissants, le rugissement des bêtes les plus sauvages, l'écho se
 répercutant au creux des montagnes, tout les terrorisait et les
 paralysait." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Virgile" target="_blank">Virgile</a><br>
@@ -336,7 +324,6 @@ les animaux parlèrent !"<br>
 la trompette, au roulement des roues qui crient sur le sable, et au
 cliquetis des freins."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Virgile" target="_blank">Virgile</a><br>
@@ -375,7 +362,6 @@ qu’entends-je ? Pourquoi ce trouble affreux dans la triste Laurente ?
 Quelles horribles clameurs s’en élèvent de toutes parts ? »"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ovide" target="_blank">Ovide</a>
 (43 av. J.-C. .. 18 ap. J.-C.)<br>
@@ -413,7 +399,6 @@ semant mille rumeurs, amas confus de confuses paroles, mélange obscur
 du mensonge et de la vérité."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/V%C3%A2lm%C3%AEki" target="_blank">Vālmīki</a><br>
 <a href="https://archive.org/details/lermyanadev01valm" target="_blank">Le
@@ -446,7 +431,6 @@ ville, depuis que Râma est exilé&nbsp;!"<br>
 point l'aurore, et grossi par le vent, le mugissement sonore des
 cavernes et celui des taureaux semblent se compléter l'un l'autre."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que" target="_blank">Sénèque</a><br>
@@ -486,7 +470,6 @@ serrurier voisin, ou de cet autre qui, près de la Meta sudans, essaye
 ses trompettes et ses flûtes, et beugle plutôt qu'il ne joue."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Martial_%28po%C3%A8te%29"
 target="_blank">Martial</a> (40 .. 104)<br>
@@ -510,7 +493,6 @@ de Bellone ou le naufragé babillard qui porte avec lui sa tirelire ou
 le Juif instruit par sa mère à mendier ou le chassieux débitant
 d'allumettes."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
@@ -536,7 +518,6 @@ mugissement des grandes eaux, comme le grondement de violents tonnerres
 ; on clamait : "Alleluia ! Car il a pris possession de son règne, le
 Seigneur, le Dieu Maître-de-tout."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Apul%C3%A9e" target="_blank">Apulée</a><br>
@@ -572,7 +553,6 @@ paisiblement expirer sur la grève. Pas un nuage n’altérait l’azur
 éclatant de la voûte des cieux."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_de_Bernay"
 target="_blank">Alexandre de Paris</a><br>
@@ -592,7 +572,6 @@ l’armée monte à cheval, le son des cors est puissant.<br>
 Les olifants y sonnent dans un grand vacarme,<br>
 retentissant à plus de cinq lieues."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Lu_Ji" target="_blank">Lu Ji (ou
@@ -616,7 +595,6 @@ Et les cuscutes et les vrilles y trouvent leurs appuis, leurs soutiens.<br>
 Que la pensée mélancolique du voyageur est profonde !<br>
 Les plantes verdoyantes et le concert des oiseaux l’affligent."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Augustin_d%27Hippone"
@@ -675,11 +653,11 @@ les montagnes sont ébranlées, et que la mer s’élève en courroux, Dieu
 témoigne par l’impétuosité du fleuve qu’il n’abandonne point sa cité."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Sidoine_Apollinaire"
 target="_blank">Sidoine Apollinaire</a> (430 .. 486)<br>
 Lettres<br>
+<br>
 <table style="text-align: left; width: 100%;" border="0" cellpadding="2"
 cellspacing="2">
 <tbody>
@@ -699,8 +677,7 @@ touffues ! A ce concert viennent se mêler encore les sons rustiques de
 la flûte à sept trous, avec laquelle les vigilants Tityres de nos
 montagnes se disputent le prix du chant durant la nuit, au milieu des
 troupeaux qui font retentir leurs sonnettes en beuglant dans la prairie
-; ces voix, ces sons divers, favoriseront encore plus ton sommeil."
-</td>
+; ces voix, ces sons divers, favoriseront encore plus ton sommeil." </td>
 <td style="vertical-align: top; width: 50%; text-align: left;"> <a
 href="https://www.lesbelleslettres.com/livre/9782251012483/tome-ii-correspondance-livres-i-v"
 target="_blank">Traduction (1970) de André Loyen</a><br>
@@ -719,13 +696,11 @@ de nos montagnes oublieux du sommeil, au milieu de leurs troupeaux
 porteurs de cloches, dont les mugissements se répondent à travers les
 pacages où ils paissent. Et pourtant, ces harmonies variées des voix et
 des instruments se mettront à ton service pour te faire goûter un
-sommeil plus profond."
-</td>
+sommeil plus profond." </td>
 </tr>
 </tbody>
 </table>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Li
 Daoyuan (<a href="https://en.wikipedia.org/wiki/Li_Daoyuan"
@@ -751,7 +726,6 @@ trois cris mélodieux du gibbon font pleurer à s’en tremper les
 vêtements. »"<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Venance_Fortunat" target="_blank">Venance
 Fortunat</a> (530 .. 609)<br>
@@ -773,7 +747,6 @@ actions de grâce. Si les halliers retentissent en ton honneur du ramage
 des oiseaux, moi, humble passereau, je mêle à leurs concerts mon chant
 d’amour."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gr%C3%A9goire_Ier" target="_blank">Grégoire
@@ -798,7 +771,6 @@ as refusé si indignement d'imiter Dieu, te voilà digne d'imiter les
 bêtes ! »"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Isidore_de_S%C3%A9ville"
 target="_blank">Isidore de Séville</a><br>
@@ -818,7 +790,6 @@ puissante aux oreilles des fidèles, à travers l'univers entier, afin
 que le monde averti puisse reconnaître sa culpabilité."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://www.le-coran.com/" target="_blank">Le Coran - Traduction
 (1989) de Muhammad Hamidullah</a><br>
@@ -836,7 +807,6 @@ souches de palmiers évidées.<br>
 ..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Meng_Haoran" target="_blank">Meng
 Haoran</a> (689 .. 740)<br>
@@ -850,7 +820,6 @@ On se réveille aux appels des oiseaux.<br>
 Nuit passée, bruissement de vent, de pluie :<br>
 Que de pétales, déjà, ont du tomber..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://en.wikipedia.org/wiki/Li_Qi_%28poet%29" target="_blank">Li
@@ -870,7 +839,6 @@ La fontaine tombe avec fracas, vole sur la cime des arbres<br>
 Les cerfs farouches se lamentent, errant au pied du temple.”
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Chang_Jian" target="_blank">Chang
 Jian</a>&nbsp; (708 .. 765)<br>
@@ -887,7 +855,6 @@ Reflets des eaux où s'épurent les coeurs,<br>
 Toute rumeur du monde ici s'est tue,<br>
 Rien que le son de la cloche et du gong."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Thao-han
 (ou T'ao Han)<br>
@@ -906,7 +873,6 @@ sur les bords du torrent.<br>
 Mon âme s'est élancée en dehors des choses visibles,<br>
 Errante et captive, tout à la fois, dans un merveilleux ravissement."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
@@ -944,7 +910,6 @@ Vers mon amant pour l'en parer."<br>
 &nbsp;&nbsp;&nbsp; zelkovas : sorte d'orme<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jiaoran" target="_blank">Jiaoran</a>
 (730 .. 799)<br>
@@ -967,7 +932,6 @@ Qui comble de fraîcheur<br>
 &nbsp; tout l’espace et son cœur.”
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bai_Juyi" target="_blank">Bai Juyi
 (ou Po Kiu-yi)</a><br>
@@ -988,7 +952,6 @@ d’hirondelles ;<br>
 mais le départ des loriots et des hirondelles amène souvent un silence
 effroyable !"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ouyang_Xiu" target="_blank">Ouyang
@@ -1023,7 +986,6 @@ En ces contrées étranges aux mœurs si différentes, leur nom m’est
 inconnu.”
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Su_Shi" target="_blank">Su Shi (ou
 Sou Tong-pho ou Su Dongpo)</a> (1037 .. 1101)<br>
@@ -1042,7 +1004,6 @@ verrez ses tableaux.<br>
 Regardez les tableaux de Mo-khi et vous entendrez ses odes.»"<br>
 </div>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Su_Shi" target="_blank">Su Shi (ou
@@ -1071,7 +1032,6 @@ plumage comme une robe blanche et noire. Elle frôla notre bateau avec
 un long cri rauque et s'en alla vers l'ouest."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marbode" target="_blank">Marbode
 de Rennes</a> (1040 .. 1123)<br>
@@ -1089,7 +1049,6 @@ Au milieu du tumulte enivrant de la ville ?<br>
 Entraîné hors de soi, qui ne remplirait pas<br>
 Le vain écho du bruit de ses propres ébats ?"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Baudri_de_Bourgueil"
@@ -1110,7 +1069,6 @@ parfois nous effaçons nos tablettes de cire avec notre calame,<br>
 souvent nous prenons du plaisir au son du pipeau des bergers,<br>
 qui charme aussi les paysans de nos régions."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcabru" target="_blank">Marcabru</a>
@@ -1148,7 +1106,6 @@ frelons, ces ailés maudits, je ne les entends bruire ni ne sens leur
 mauvaise odeur, car le franc hiver nous en délivre."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Prise_d%27Orange" target="_blank">La
 Prise d’Orange</a><br>
@@ -1165,7 +1122,6 @@ les chevaux hennir et les mulets braire,<br>
 les Sarrasins se divertir et s’égayer."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Charroi_de_N%C3%AEmes"
 target="_blank">Charroi de Nîmes</a><br>
@@ -1179,7 +1135,6 @@ paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
 et les destriers hennir et gratter<br>
 et les faucons crier sur les perches."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Renart" target="_blank">Jean
@@ -1201,7 +1156,6 @@ dans le vacarme des mortiers<br>
 et des cloches des églises<br>
 qu’on sonne toutes en même temps."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_de_Tud%C3%A8le"
@@ -1229,7 +1183,6 @@ les chevaux, les tresses, l’or, le ciclaton, étaient rouges de sang.
 Tels furent la noise, le bruit, le tumulte, que beaucoup de ceux de la
 ville rentrèrent à la dérobée, ..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Carmina_Burana" target="_blank">Carmina
@@ -1270,7 +1223,6 @@ le vautour jabote,<br>
 l’épervier lamente."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://www.erudit.org/fr/revues/topiques/2022-v6-topiques07705/1096695ar.pdf"
 target="_blank">La
@@ -1305,7 +1257,6 @@ Pépiements d’oiseaux<br>
 Coups de tonnerre<br>
 ..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine"
 target="_blank">Jacques de Voragine</a><br>
@@ -1324,7 +1275,6 @@ aux pieds les adversités du monde, le monde étant comparé à la mer ;
 car, comme dit saint Chrysostome sur saint Mathieu : « Sur la mer, il y
 a un bruit confus, une crainte continuelle, l’image de la mort, une
 véhémence infatigable des eaux, et une agitation constante »." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gautier_d%27%C3%89pinal"
@@ -1345,7 +1295,6 @@ que je vois à nouveau transparent,<br>
 me rappellent<br>
 là où sont et seront<br>
 tous mes charmants désirs jusqu’à la mort." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Salimbene_de_Adam" target="_blank">Salimbene
@@ -1370,7 +1319,6 @@ merveilles de la cour céleste, c’est-à-dire de la gloire du paradis et
 des choses terrifiantes des peines de l’enfer."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ma_Zhiyuan" target="_blank">Ma
 Zhiyuan (ou Ma Tche-yuan)</a>&nbsp; (vers 1250 .. vers 1321)<br>
@@ -1393,7 +1341,6 @@ la bougie qui baisse et le
 silence qui enveloppe la longue porte, augmentent ma tristesse."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marco_Polo" target="_blank">Marco
 Polo</a><br>
@@ -1412,13 +1359,11 @@ par s’égarer complètement. De nombreux voyageurs ont péri de cette
 manière. Je vous dis que même de nos jours, ces voix ont été entendues.
 D’autres fois, on entend jouer des instruments de musique,
 particulièrement du tambour."<br>
-<br>
 <div style="text-align: right;">Voir : <a
 href="https://fr.wikipedia.org/wiki/Chant_des_dunes" target="_blank">Le
 chant des dunes</a><br>
 </div>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Codex_Runicus" target="_blank">Codex
@@ -1451,7 +1396,6 @@ dans le tourment et la détresse, en courant sans cesse de-ci de-là dans
 les airs."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gervais_du_Bus" target="_blank">Gervais
 de Bus</a> et Raoul Chaillou de Pesstain <br>
@@ -1476,7 +1420,6 @@ Et de grands instruments ignobles et sales,<br>
 Des castagnettes et des « macequotes »<br>
 Dont ils tiraient des sons et des notes<br>
 Si aigus que personne ne saurait les décrire." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Dante_Alighieri" target="_blank">Dante
@@ -1516,7 +1459,6 @@ Par la suite il devint une voix qui sortit<br>
 hors de son bec ouvert, sous forme de propos,<br>
 tels que les attendait mon coeur, où je les mis :<br>
 ..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/P%C3%A9trarque" target="_blank">Pétrarque</a>
@@ -1559,7 +1501,6 @@ courage à moi-même et peut-être quelquefois aux autres, elle est
 maintenant immobile et se tait souvent du matin au soir, car elle n'a
 que moi à qui parler." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/P%C3%A9trarque" target="_blank">Pétrarque</a><br>
 <a
@@ -1573,7 +1514,6 @@ solitaire - Traduction (1999) de Christophe Carraud</a><br>
 feuillages agités par le vent, le murmure des eaux qui sourdent
 alentour me semblaient faire entendre ces seuls mots : tes conseils
 sont bons, tes décisions sont droites, tes paroles sont vraies." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://en.wikipedia.org/wiki/Liu_Bowen" target="_blank">Liu Ji</a>
@@ -1640,7 +1580,6 @@ encore, comme un bourdonnement d’insectes cachés dans les herbes, tour
 justes pour les décrire. À l’écouter, l’oreille se fait plus subtile.”<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Ier_d%27Orl%C3%A9ans"
 target="_blank">Charles d’Orléans</a> (1394..1465)<br>
@@ -1663,7 +1602,6 @@ Sur le dur lit d’Ennuieuse Pensée."<br>
 target="_blank">livrée</a>: couleurs distinctes d'une chose<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Michault_Taillevent"
 target="_blank">Michault Taillevent</a><br>
@@ -1682,7 +1620,6 @@ on l’entendrait bien de l’intérieur d’un coche :<br>
 on croirait le tonnerre ou la tempête.<br>
 Un tel bruit fait mal à la tête" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a
 href="https://fr.wikisource.org/wiki/Il_fait_bon_voir_ces_hommes_d%E2%80%99armes"
@@ -1698,7 +1635,6 @@ Et que puissions bon bruit acquerre.<br>
 Entre nous, gentils compagnons,<br>
 Suivons la guerre."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Martial_d%27Auvergne"
@@ -1717,7 +1653,6 @@ comme une claire sirène,<br>
 dans un pré jouxtant la rivière,<br>
 je m’endormis si rapidement..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci"
@@ -1759,7 +1694,6 @@ et couleurs comme du son des cloches ; dans leurs battements tu
 trouveras tous les sons et les mots que tu voudras imaginer."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Cl%C3%A9ment_Marot" target="_blank">Clément
 Marot</a><br>
@@ -1773,7 +1707,6 @@ Un cler ruisseau bruyant près de l'umbrage,<br>
 L'herbe à souhait, les ventz non violens,<br>
 Puis toy. Colin, qui de chanter fais rage."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais"
@@ -1812,7 +1745,6 @@ parlons de harnois fourbis et d’épées resplendissantes."<br>
 &nbsp;&nbsp;&nbsp; ullement : hurlement<br>
 &nbsp;&nbsp;&nbsp; pâtissent : souffrent<br>
 &nbsp;&nbsp;&nbsp; ullent : hurlent </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais"
@@ -1877,7 +1809,6 @@ trompettes."<br>
 &nbsp;&nbsp;&nbsp; on : au<br>
 &nbsp;&nbsp;&nbsp; hourt : choc </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joachim_du_Bellay" target="_blank">Joachim
 du Bellay</a><br>
@@ -1895,7 +1826,6 @@ Une cloche, une forge, un rompement de teste,<br>
 Le bruit d'une charrete, &amp; la doulce chanson<br>
 D'un asne, qui se plaingt en effroyable son. " </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_de_Ronsard" target="_blank">Pierre
 de Ronsard</a><br>
@@ -1910,7 +1840,6 @@ Et des vents printanniers le gracieux murmure,<br>
 Quand celle qui me blesse et de mon mal n'a cure<br>
 ..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais"
@@ -1978,7 +1907,6 @@ processionnent bâtons en mains <br>
 &nbsp;&nbsp;&nbsp; garot : gros trait<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_de_Ronsard" target="_blank">Pierre
 de Ronsard</a><br>
@@ -1993,7 +1921,6 @@ Icy entre les pins les Zéphyres s’entendent.<br>
 A nos cols endormis, et semble que ce temps<br>
 Soit à nous un hyver, aux autres un printemps."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://en.wikipedia.org/wiki/Yuan_Zhongdao">Yuan
@@ -2024,7 +1951,6 @@ souillures, me baigne dans l’oubli du monde qui m’emprisonnait, dans
 l’indifférence à la vie et à la mort. Ainsi, plus fort est le bruit de
 la fontaine, plus profonde est la paix de mon esprit.”<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Miguel_de_Cervantes"
@@ -2111,7 +2037,6 @@ l’épouvantable cliquetis des charrettes, tout cela formait à la fois un
 bruit si confus, si horrible, que don Quichotte eut besoin de
 rassembler tout son courage pour l’entendre sans effroi." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georg_Philipp_Harsd%C3%B6rffer"
 target="_blank">Georg Philipp Harsdörffer</a><br>
@@ -2128,7 +2053,6 @@ bien perceptiblement tous les sons.<br>
 Elle tonne avec le ciel, lance des éclairs avec les nuages rapides,
 darde avec la grêle, siffle avec les vents, écume avec les vagues, ..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Boileau" target="_blank">Nicolas
@@ -2168,7 +2092,6 @@ Et, se mêlant au bruit de la grêle et des vents,<br>
 Pour honorer les morts font mourir les vivans."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Blaise_Pascal" target="_blank">Blaise
 Pascal</a><br>
@@ -2190,7 +2113,6 @@ intelligence qui gouverne les villes et les royaumes.<br>
 <br>
 "Le silence éternel de ces espaces infinis m'effraie."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D" target="_blank">Bashô</a>
@@ -2223,7 +2145,6 @@ le chant des cigales<br>
 pénètre les rocs
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_de_La_Bruy%C3%A8re"
 target="_blank">Jean de La Bruyère</a><br>
@@ -2249,7 +2170,6 @@ les plonge dans un sommeil doux et facile, et qui ne leur procure que
 de beaux songes : ils se lèvent tard, et vont à l’église se faire payer
 d’avoir dormi."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hong_Sheng" target="_blank">Hong
@@ -2299,7 +2219,6 @@ herbes.</span>"
 </div>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/F%C3%A9nelon" target="_blank">Fénelon</a><br>
 <a
@@ -2344,7 +2263,6 @@ l’appareil frémissant de la guerre, à semer la rage dans tous les
 coeurs."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Takarai_Kikaku" target="_blank">Kikaku</a>
 (1661 .. 1707)<br>
@@ -2356,7 +2274,6 @@ target="_blank">Tanka Haiku Renga Le triangle magique de Maurice Coyaud</a><br>
 Les gouttes dégoulinent en forêt<br>
 Voix du coucou kanko"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a><br>
@@ -2370,7 +2287,6 @@ d’elles-mêmes avec un grand bruit. Les deux amants entrèrent, au son de
 mille voix et de mille instruments, dans un vestibule de marbre de
 Paros ; ..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a><br>
@@ -2388,7 +2304,6 @@ cloches, des orgues, des canons, nous gémissons en silence sur ces
 meurtres qui causent la publique allégresse."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Chiyo-ni" target="_blank">Chiyo-ni</a>
 (1703 .. 1775)<br>
@@ -2398,7 +2313,6 @@ href="https://fr.wikipedia.org/wiki/Chiyo-ni" target="_blank">Chiyo-ni</a>
 S’est affaibli<br>
 Le chant des cigales."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
@@ -2437,7 +2351,6 @@ plus loin en hiver par la gelée que par le plus beau temps de toute
 autre saison."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yosa_Buson" target="_blank">Buson</a>
 (1716 .. 1783)<br>
@@ -2448,7 +2361,6 @@ href="https://fr.wikipedia.org/wiki/Yosa_Buson" target="_blank">Buson</a>
 Le pivert<br>
 Et le bruit de la hache."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yuan_Mei" target="_blank">Yuan Mei</a>
@@ -2470,7 +2382,6 @@ j’éprouverais, à contempler la cascade, un plaisir aussi fort. Ce
 Kiosque doit recéler quelque sortilège !”
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a><br>
 <a href="https://www.ebooksgratuits.com/pdf/voltaire_candide.pdf"
@@ -2483,7 +2394,6 @@ plaisanteries dont la plupart sont insipides, de fausses nouvelles, de
 mauvais raisonnements, un peu de politique et beaucoup de médisance ;
 on parla même de livres nouveaux."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
@@ -2524,7 +2434,6 @@ joindre l’agréable à l’utile."<br>
 &nbsp;&nbsp;&nbsp; Légrefass : Sorte de foudre ou de grand tonneau du
 pays. </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 target="_blank">Jean-Jacques
@@ -2544,7 +2453,6 @@ plaine ou dans une vallée on met l’oreille à terre, on entend la voix
 des hommes et le pas des chevaux de beaucoup plus loin qu’en restant
 debout." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
 Diderot</a><br>
@@ -2562,7 +2470,6 @@ orage, une tempête, la plainte de ceux qui vont périr, mêlée au
 sifflement des vents, au fracas du tonnerre&nbsp;; c’était la nuit,
 avec ses ténèbres&nbsp;; c’était l’ombre et le silence, car le silence
 même se peint par des sons." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
@@ -2594,7 +2501,6 @@ l’entendait courir, cogner, crier à pleine tête. Je ne sais de combien
 d’hommes il faisait le travail, mais il faisait toujours le bruit de
 dix ou douze." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
 Diderot</a><br>
@@ -2617,7 +2523,6 @@ plainte d’une femme qui accouche, toute plainte qui cesse et qui
 reprend, qui reprend avec éclat, et qui finit en s’éteignant ; il y a,
 dans toutes ces choses, je ne sais quoi de terrible, de grand et
 d’obscur." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis-S%C3%A9bastien_Mercier"
@@ -2643,7 +2548,6 @@ de l’homme n’a jamais pu imiter qu’imparfaitement. À l’ivresse du
 plaisir se joignait la douce surprise : &amp; la volupté qui naissait
 de ce mélange heureux descendait dans tous les coeurs." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
 Diderot</a> &amp; <a
@@ -2656,7 +2560,6 @@ target="_blank">Leçons de clavecin et principes d’harmonie</a><br>
 <br>
 "... un peu de bruit lointain prête un charme inconcevable au silence."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
@@ -2680,7 +2583,6 @@ broussailles du côté d’où venait le bruit, et dans une combe à vingt
 pas du lieu même où je croyais être parvenu le premier j’aperçois une
 manufacture de bas." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fabre_d%27%C3%89glantine"
 target="_blank">Fabre d’Églantine</a><br>
@@ -2698,7 +2600,6 @@ Il roule en approchant.<br>
 Prends un abri bergère,<br>
 ... " </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
 Diderot</a><br>
@@ -2711,7 +2612,6 @@ j’entendis des portes s’ouvrir, se refermer, des religieuses aller et
 venir, le murmure de personnes qui se parlent bas. Je mis l’oreille à
 ma serrure&nbsp;; mais il me parut qu’on se taisait en passant, et
 qu’on marchait sur la pointe des pieds." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis-S%C3%A9bastien_Mercier"
@@ -2808,7 +2708,6 @@ parce qu’ils imitaient le son des coquilles &amp; des castagnettes.
 Tous ces applaudissements, comme les acclamations, se donnaient en
 cadence." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Edme_Restif_de_La_Bretonne"
 target="_blank">Restif de La Bretonne</a><br>
@@ -2821,7 +2720,6 @@ la ville.</a><br>
 "C’est le rendez-vous de tous les enrhumés, de tous les cracheurs, de
 tous les moucheurs, de tous les rousseurs, de tous les polissons qui
 aiment à entendre et à faire du bruit !" </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
@@ -2847,7 +2745,6 @@ les vents dans la forêt, tantôt ils fuient au loin, tantôt ils se
 rapprochent tous à la fois, et assourdissent, comme les sons des
 cloches d’une cathédrale."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
@@ -2887,7 +2784,6 @@ que les chants des oiseaux, ou les doux entretiens des amis, qui
 viennent se reposer sous vos ombrages !<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis_Marie_de_Milet_de_Mureau"
 target="_blank">Louis-Antoine Milet-Mureau</a><br>
@@ -2909,7 +2805,6 @@ tombant, un bruit qui retentit au loin dans les montagnes. L'air y est
 si tranquille et le silence si profond, que la simple voix d'un homme
 se fait entendre à une demi-lieue, ainsi que le bruit de quelques
 oiseaux de mer qui déposent leurs oeufs dans le creux de ces rochers." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand"
@@ -2933,7 +2828,6 @@ alors
 il sort de tels bruits du fond des forêts, il se passe de telles choses
 aux yeux, que j'essaierais en vain de les décrire à ceux qui n'ont
 point parcouru ces champs primitifs de la nature." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
@@ -2975,7 +2869,6 @@ Hérons et hiboux gémissent,<br>
 Mêlant leur triste chanson ; ..."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mary_Shelley" target="_blank">Mary
 Shelley</a><br>
@@ -3001,7 +2894,6 @@ vent s’éleva ; la mer rugit ; et, semblable à un fort tremblement de
 terre, se fendit, et éclata avec un bruit affreux et effrayant."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alfred_de_Vigny" target="_blank">Alfred
 de Vigny</a><br>
@@ -3022,7 +2914,6 @@ Se suspend immobile au sommet du rocher;<br>
 Et la cascade unit, dans une chute immense,<br>
 Son éternelle plainte aux chants de la romance." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/James_Fenimore_Cooper"
 target="_blank">James Fenimore Cooper</a><br>
@@ -3041,7 +2932,6 @@ interrompu que par la voix basse des deux individus dont nous venons de
 parler, et par le bruit sourd que faisait le pivert en frappant les
 arbres de son bec, le cri discordant du geai, et le son éloigné d’une
 chute d’eau." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Stendhal" target="_blank">Stendhal</a><br>
@@ -3062,7 +2952,6 @@ lui-même, lui parut ajouter encore à l’horreur de sa position.
 L’extrême fatigue lui procurait-elle un instant de demi-repos, le
 bourdonnement confus de paroles humaines qu’il lui semblait entendre
 auprès de son oreille, le réveillait en sursaut." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ren%C3%A9_de_Chateaubriand"
@@ -3105,14 +2994,12 @@ tantôt plus faibles, croissant et décroissant à chaque instant, me
 faisaient tressaillir ; chaque arbre était pour moi une espèce de lyre
 harmonieuse dont les vents tiraient d’ineffables accords." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
 Hugo</a><br>
 <a href="https://fr.wikisource.org/wiki/Les_Orientales/Les_Djinns"
 target="_blank">Les Djinns</a><br>
 1828<br>
-<br>
 <div style="text-align: right; margin-left: 80px; margin-right: 20px;">﻿Et
 comme les grues qui font dans l’air
 de longues files vont chantant leur plainte, ainsi je vis venir
@@ -3198,7 +3085,6 @@ La maison crie et chancelle penchée,<br>
 Et l’on dirait que, du sol arrachée,<br>
 Ainsi qu’il chasse une feuille séchée,<br>
 Le vent la roule avec leur tourbillon !<br>
-<br>
 <div style="margin-left: 20px;">Prophète ! si ta main me sauve<br>
 De ces impurs démons des soirs,<br>
 J’irai prosterner mon front chauve<br>
@@ -3270,7 +3156,6 @@ Le bruit.
 </div>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq"
 target="_blank">Eugène-François Vidocq</a><br>
@@ -3293,7 +3178,6 @@ remonte, concourent à ce charivari ; l’argenterie résonne, et des
 jurons anglais et français, jetés pêle-mêle au milieu du vacarme, font
 retentir les airs." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
 target="_blank">Honoré
@@ -3308,7 +3192,6 @@ qui accélère les battements du coeur."<br>
 <br>
 "C’était une de ces journées où la nature semble muette, et où les
 bruits sont absorbés par l’atmosphère." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Stendhal" target="_blank">Stendhal</a><br>
@@ -3334,7 +3217,6 @@ des cigales et le chant des oiseaux. Sans ce bruit importun, un cri de
 joie, parti des grandes roches, aurait pu arriver jusqu’ici."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nathaniel_Hawthorne"
 target="_blank">Nathaniel Hawthorne</a><br>
@@ -3352,7 +3234,6 @@ d’une horloge et le bruit que font les morceaux de coke embrasé,
 tombant d’eux-mêmes dans le cendrier, donnaient l’apparence de la
 réalité à cette scène dont le tableau se déroulait à ses yeux. " </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
 target="_blank">Honoré
@@ -3368,7 +3249,6 @@ un calme dont la magie n’est connue que de ceux qui ont erré dans Paris
 désert, à ces heures où son tapage, un moment apaisé, renaît et
 s’entend dans le lointain comme la grande voix de la mer."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_Pouchkine"
@@ -3395,7 +3275,6 @@ Une foule de nymphes autour d’elle, — enfin !<br>
 Istomina sur ses pointes..."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe"
 target="_blank">Johann Wolfgang von Goethe</a><br>
@@ -3406,9 +3285,7 @@ target="_blank">Faust - Der Tragödie zweiter Teil</a><br>
 href="https://fr.wikisource.org/wiki/Faust_%28Goethe,_trad._Nerval,_1877%29/Second_Faust/Prologue"
 target="_blank">Second Faust - Traduction (1850) de Gérard de Nerval</a><br>
 1831 (posthume)<br>
-<br>
-<div style="text-align: right;">
-"Un bruit immense annonce l’approche du
+<div style="text-align: right;">"Un bruit immense annonce l’approche du
 soleil.<br>
 </div>
 Ariel.<br>
@@ -3445,7 +3322,6 @@ vignerons."<br>
 </div>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
 Sand</a><br>
@@ -3461,7 +3337,6 @@ rochers ; mais tous ces bruits étaient dominés par les battements de
 son coeur, qui résonnaient dans ses oreilles comme le son d’une cloche
 funèbre."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
@@ -3480,7 +3355,6 @@ porte et le fossé, le coursier s’élança sur les escaliers branlants du
 palais et disparut avec son cavalier dans le tourbillon de ce feu
 chaotique."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
@@ -3505,7 +3379,6 @@ style="font-style: italic;">rubans d’eau</span>, les mousses
 aquatiques pendantes et chevelues, tremblent incessamment dans ses
 petits remous silencieux ; ..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
@@ -3541,7 +3414,6 @@ On croirait voir la robe ou l’ombre transparente<br>
 D’un esprit qui voyage et passe dans les cieux."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
@@ -3561,7 +3433,6 @@ mille cataractes, – et l’étang profond et croupi placé à mes pieds se
 referma tristement et silencieusement sur les ruines de la <span
 style="font-style: italic;">Maison Usher</span>."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Darwin" target="_blank">Charles
@@ -3603,7 +3474,6 @@ pour ces pierres, et chaque note de cette musique sauvage n’est-elle
 pas le signe que chacune d’elles a fait un pas vers sa destinée ?"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Stendhal" target="_blank">Stendhal</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/Stendhal-chartreuse.pdf"
@@ -3620,7 +3490,6 @@ jouir."<br>
 "Le silence universel n’était troublé, à intervalles égaux, que par la
 petite lame du lac qui venait expirer sur la grève."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
@@ -3695,7 +3564,6 @@ route parmi les pierres de son lit. Le lendemain, il parlait plus haut
 ; le surlendemain, il roulait les roches qui gênaient sa course."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
@@ -3711,7 +3579,6 @@ je vis ce que les marins appellent le caractère <span
 style="font-style: italic;">clapoteux</span> de la mer se changer
 rapidement en un courant qui se faisait vers l’est."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Aloysius_Bertrand" target="_blank">Aloysius
@@ -3730,7 +3597,6 @@ funèbre d’une cloche auquel répondaient les sanglots funèbres d’une
 cellule, — des cris plaintifs et des rires féroces dont frissonnait
 chaque feuille le long d’une ramée, — et les prières bourdonnantes
 des pénitents noirs qui accompagnent un criminel au supplice." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Gogol" target="_blank">Nicolas
@@ -3752,7 +3618,6 @@ négligemment un peintre là où il se propose de représenter de vastes
 horizons de plaines désertes."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
 target="_blank">Honoré
@@ -3765,7 +3630,6 @@ target="_blank"> Illusions perdues</a><br>
 qui s’entendait dès le milieu du jardin, comme une basse continue
 brodée des éclats de rire des filles ou des cris de quelque rare
 dispute." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Sue" target="_blank">Eugène
@@ -3816,7 +3680,6 @@ torrents de pluie et les violentes rafales de vent qui semblaient
 ébranler la vieille maison jusque dans ses fondements."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Gogol" target="_blank">Nicolas
 Vassiliévitch Gogol</a> (<a
@@ -3840,7 +3703,6 @@ les éperons, les mugissements des boeufs, les grincements des chariots
 chargés, et les voix d’hommes parlant entre eux ou excitant leurs
 chevaux."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier"
@@ -3869,7 +3731,6 @@ comme des îlots de lumière quelques motifs de la <span
 style="font-style: italic;">Lucia</span> ou du <span
 style="font-style: italic;">Barbier</span>."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul-%C3%89mile_Daurand-Forgues"
@@ -3905,7 +3766,6 @@ graves, soudaines ou lentement prolongées, jeunes et perçantes, ou
 cassées, vieilles et raboteuses."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
@@ -3932,7 +3792,6 @@ bruit
 sourd, étouffé, fréquent, ressemblant beaucoup à ce que ferait une
 montre enveloppée dans du coton.</span>"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_Dumas" target="_blank">Alexandre
@@ -3961,7 +3820,6 @@ Tout à coup elle jeta un grand cri de joie et s’élança vers la porte,
 elle avait reconnu la voix de d’Artagnan."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq"
 target="_blank">Eugène-François Vidocq</a><br>
@@ -3978,7 +3836,6 @@ toute la capitale et les campagnes environnantes, et l’on est si
 rapproché du ciel que les mille bruits de la grande ville ne viennent
 plus frapper les oreilles que comme un vague murmure."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
@@ -4023,7 +3880,6 @@ rien de plus.&nbsp;»"</td>
 </table>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
 target="_blank">Honoré de Balzac</a><br>
@@ -4041,7 +3897,6 @@ Quand votre maison tremble dans ses membres et s’agite sur sa quille,
 vous vous croyez comme un marin bercé par le zéphyr."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
 Sand</a><br>
@@ -4057,7 +3912,6 @@ voix lui répondait ; mais il n’entendait que la cloche des vaches
 éparses dans les taillis, et le cri sauvage des porcs qui se
 disputaient la glandée."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_Dumas" target="_blank">Alexandre
@@ -4100,7 +3954,6 @@ joyeux comme on se lève d’habitude à cet âge.<br>
 Villefort sonna à son tour."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
 target="_blank">Honoré
@@ -4118,7 +3971,6 @@ approche du sifflement. Il part souvent des coups de sifflet. Enfin les
 talons de botte ont je ne sais quoi de provoquant et de moqueur. Cet
 ensemble de choses donne le vertige." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
 Flaubert</a><br>
@@ -4135,7 +3987,6 @@ Flandre sur ces parois, des lames de corne à ces fenêtres, moins
 d’herbe, et des voix et des rumeurs de vivants, oui, là, plus d’un
 cœur, serré dans sa gaine de velours rouge, a battu d’angoisse et
 d’amour." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charlotte_Bront%C3%AB"
@@ -4175,7 +4026,6 @@ cherchant à distinguer au milieu de ce bruit confus les accents de M.
 Rochester, ce qui me fut facile&nbsp;; puis je m’efforçai de comprendre
 ces
 sons que la distance rendait vagues." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Emily_Bront%C3%AB" target="_blank">Emily
@@ -4220,7 +4070,6 @@ seulement les alouettes, mais les grives, les merles, les linottes, les
 coucous prodiguent de tous côtés leur musique&nbsp;; ..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Elias_L%C3%B6nnrot" target="_blank">Elias
 Lönnrot</a><br>
@@ -4250,7 +4099,6 @@ tremblèrent, les pierres du foyer dansèrent, la poutre en bois madré de
 la cheminée oscilla."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
@@ -4264,7 +4112,6 @@ aurait entendu tomber une feuille, une plume. Ce silence fut interrompu
 par une espèce de grincement sourd, mais rauque et prolongé, qui sembla
 jaillir tout d’un coup de tous les coins de la chambre."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
@@ -4312,7 +4159,6 @@ Le beau valet de cœur et la dame de pique<br>
 Causent sinistrement de leurs amours défunts."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Barbey_d%27Aurevilly"
 target="_blank">Jules Barbey d'Aurevilly</a><br>
@@ -4338,7 +4184,6 @@ comprimé dans le poêle, et de temps en temps, — quand le vent les leur
 apportait, — les sons douloureux d’une cloche lointaine, qui sonnait
 pour les morts." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Herman_Melville" target="_blank">Herman
 Melville</a><br>
@@ -4352,7 +4197,6 @@ target="_blank">Moby Dick - Traduction (1970) de Henriette Guex-Rolle</a><br>
 "... et le silence se fit sur le pont déserté si bruyant l’instant
 d’auparavant. Un calme ardent, cuivré, comme un universel lotus jaune,
 s’épanouissait à l’infini sur la mer, pétale à pétale, sans bruit..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
@@ -4372,7 +4216,6 @@ le fracas de la victoire, si cher à une nation militaire comme la
 nôtre."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
 Flaubert</a><br>
@@ -4388,7 +4231,6 @@ ce sera là. <span style="font-style: italic;">Il faut que ça hurle par
 l’ensemble</span>, qu’on entende à la fois des beuglements de taureaux,
 des soupirs d’amour et des phrases d’administrateurs."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henry_David_Thoreau"
@@ -4427,7 +4269,6 @@ la cloche, mais en partie la voix du bois ; les mêmes mots et notes
 vulgaires chantés par une nymphe des bois."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
 Sand</a><br>
@@ -4458,7 +4299,6 @@ grincer les verrous des dortoirs, mettait fin à ma contemplation
 auditive."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
@@ -4470,7 +4310,6 @@ target="_blank">Les Fleurs du mal - Le crépuscule du soir</a><br>
 "On entend çà et là les cuisines siffler,<br>
 Les théâtres glapir, les orchestres ronfler ;"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
@@ -4499,7 +4338,6 @@ Charles, debout près de sa couche, qui respirait."<br>
 claquement d’une charrette roulant au loin dans les ornières, le cri
 d’un coq qui se répétait ou la galopade d’un poulain que l’on voyait
 s’enfuir sous les pommiers." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9on_Tolsto%C3%AF"
@@ -4531,7 +4369,6 @@ imperceptible, que font deux vieux bouleaux en se frôlant ; la chanson
 d’un moustique qui s’est glissé sous ma couverture, près de mon oreille
 ; ..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
@@ -4568,7 +4405,6 @@ Les sons et les parfums tournent dans l'air du soir ;<br>
 Valse mélancolique et langoureux vertige !"<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ivan_Gontcharov" target="_blank">Ivan
 Aleksandrovitch Gontcharov</a>&nbsp; (<a
@@ -4591,7 +4427,6 @@ Dans la maison règne aussi un silence de mort. L’heure de la sieste
 générale a sonné."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Sand" target="_blank">George
 Sand</a><br>
@@ -4602,7 +4437,6 @@ target="_blank">La Ville noire</a><br>
 "... j’entends cliqueter les barres de fer sur les chariots, tous ces
 bruits qui fendent la tête et qui n’empêchent pas l’artisan de
 réfléchir et même de rêver..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Eliot" target="_blank">George
@@ -4623,7 +4457,6 @@ du monde. Voici maintenant un énorme chariot rempli de sacs de blé, qui
 revient au moulin avec un roulement semblable à celui du tonnerre."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
@@ -4643,7 +4476,6 @@ Mon esprit les retrouve en lui ; ce rire amer<br>
 De l’homme vaincu, plein de sanglots et d’insultes,<br>
 Je l’entends dans le rire énorme de la mer."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edmond_de_Goncourt" target="_blank">Edmond</a>
@@ -4703,7 +4535,6 @@ pour tout bruit, sur la route qu'on ne voit plus, l'essieu d'une
 charrette geint."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
@@ -4728,7 +4559,6 @@ circonstances, entre une fenêtre ouverte et le cadavre d’une personne
 morte un jour d’été."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Michelet" target="_blank">Jules
 Michelet</a><br>
@@ -4742,7 +4572,6 @@ insensés, absurdes ; jamais rien de suivi ; c'étaient des tonnerres
 discordants, de si aigres sifflements comme ceux des machines à vapeur,
 qu'on se bouchait les oreilles. Abasourdi d'un spectacle qui hébétait
 tous les sens, j'essayai de me ravoir..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Dickens" target="_blank">Charles
@@ -4772,7 +4601,6 @@ entendre et que la sienne gardât le silence."<br>
 commencèrent à se faire entendre. Le cabinet murmurait, la cheminée
 soupirait, le petit lavabo craquait, et une corde de guitare vibrait de
 temps à autre dans la commode." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
@@ -4835,7 +4663,6 @@ arrivait à ses pieds avec le bruit d’un baiser. On entendait le
 dialogue aérien des nids qui se disaient bonsoir dans les ormes des
 Champs-Élysées." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier"
 target="_blank">Théophile Gautier</a><br>
@@ -4893,7 +4720,6 @@ piquée des vers éclate dans le feu comme un marron d’artifice et vous
 réveille avec transes au moment même où vous alliez vous assoupir."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
@@ -4911,7 +4737,6 @@ Arbres qui frissonnez autour,<br>
 Votre pure mélancolie<br>
 Est le miroir de mon amour."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
@@ -4937,7 +4762,6 @@ ses
 flancs frissonner."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
@@ -4956,7 +4780,6 @@ Ce monde rayonnant de métal et de pierre<br>
 Me ravit en extase, et j’aime avec fureur<br>
 Les choses où le son se mêle à la lumière."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
@@ -4994,7 +4817,6 @@ phosphorescence avait été le premier avertissement&nbsp;; ce murmure,
 le
 second." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fiodor_Dosto%C3%AFevski"
 target="_blank">Fiodor Mikhaïlovitch Dostoïevski</a>&nbsp; (<a
@@ -5019,7 +4841,6 @@ l’escalier, s’amasser la foule ; on entend des voix, des exclamations ;
 les gens montent, bruyants, claquent des portes, accourent. « Mais pour
 quelle raison, pourquoi ? ... »" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Michel_Honor%C3%A9_Vincelot"
 target="_blank">Michel Honoré Vincelot</a> (Abbé Vincelot)<br>
@@ -5038,7 +4859,6 @@ l’époque du printemps, le long des routes, dans les pays ombragés, a
 quelque chose de triste et de sinistre."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
 Zola</a><br>
@@ -5052,7 +4872,6 @@ dans chaque cabinet, dans chaque salon, il y avait des sociétés qui
 parlaient haut, et les minces cloisons donnaient une sonorité vibrante
 à tout ce tapage. Les garçons en montant faisaient trembler
 l’escalier." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alphonse_Daudet" target="_blank">Alphonse
@@ -5147,7 +4966,6 @@ les chiens, dont on entend le galop confus et l’haleine haletante, se
 pressent vers les parcs, peureux et indisciplinés."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus"
 target="_blank">Élisée
@@ -5173,7 +4991,6 @@ mouvement des cailloux ; maintenant il roule dans son lit des blocs de
 pierre qui s'entre-choquent avec un sourd fracas, il mine à la base les
 parois de rocher qui le bordent, fait ébouler les terres et les
 pierrailles, et déracine parfois les arbres qui l'ombragent." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9on_Tolsto%C3%AF"
@@ -5236,7 +5053,6 @@ ravissement mêlé de terreur, les sublimes harmonies, et il ne sut
 jamais combien de temps elles durèrent !"<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
 Flaubert</a><br>
@@ -5260,7 +5076,6 @@ pavé un roulement sourd et formidable ; le cœur se serrait à ces bruits
 différant de tous les bruits ordinaires. Ils semblaient même élargir le
 silence, qui était profond, absolu, un silence noir. " </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Lautr%C3%A9amont" target="_blank">Lautréamont</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/Lautreamont-Maldoror.pdf"
@@ -5272,7 +5087,6 @@ les voiles en charpie. Les coups de tonnerre éclataient au milieu des
 éclairs, et ne pouvaient surpasser le bruit des lamentations qui
 s’entendaient sur la maison sans bases, sépulcre mouvant."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
@@ -5286,7 +5100,6 @@ qui n'étaient plus de la chair, craquements de la potence, froissements
 du squelette, cliquetis des ferrailles, cris de la rafale, tumulte, pas
 de lutte plus lugubre."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Rimbaud" target="_blank">Arthur
@@ -5302,7 +5115,6 @@ Avec ses bâtons forts et ses piques de fer,<br>
 Ses tambours, ses grands cris de halles et de bouges,"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Octave
 d'Assailly (1838 .. 1899)<br>
 <a
@@ -5316,7 +5128,6 @@ d'abeilles, des notes de musette, les cris perçants des agneaux à la
 mamelle, ou bien encore le bruit lointain et cadencé des chars ployant
 sous les gerbes d'épis."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Rimbaud" target="_blank">Arthur
@@ -5337,7 +5148,6 @@ Dans les plaintes de l’arbre et les soupirs des nuits ;<br>
 C’est que la voix des mers folles, immense râle,<br>
 Bisait ton sein d’enfant, trop humain et trop doux ;"<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Quinet" target="_blank">Edgar
@@ -5369,7 +5179,6 @@ rire ? Où la mésange charbonnière a-t-elle pris le grincement
 métallique de sa lime de serrurier ?"<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
 Verne</a><br>
@@ -5385,7 +5194,6 @@ battant les eaux du golfe de ses pales sonores."<br>
 "Puis, sur cette nature désolée, un silence farouche, à peine rompu par
 le battement d’ailes des pétrels ou des puffins. Tout était gelé alors,
 même le bruit." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
@@ -5408,7 +5216,6 @@ vierge martyre se redressant et souriant sous le fouet. Et toujours,
 roulée dans le flot sonore, la foule coulait."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
@@ -5422,7 +5229,6 @@ Par terre et sur les toits !<br>
 Pour un cœur qui s'ennuie<br>
 Ô le chant de la pluie !"<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
@@ -5440,7 +5246,6 @@ les serrures ne cliquetaient pas, et dont les hôtes ne faisaient pas
 plus de bruit que leur ombre. Le divin Harpocrate l’eût certainement
 choisie pour le temple du silence."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Barbey_d%27Aurevilly"
@@ -5484,7 +5289,6 @@ d’un son, n’interrompaient pas ces âmes attentives et ferventes dans le
 train-train de leurs prières et l’éternité de leur susurrement."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Rimbaud" target="_blank">Arthur
 Rimbaud</a><br>
@@ -5497,7 +5301,6 @@ target="_blank">Les Illuminations - Fairy</a><br>
 la ruine des bois, de la sonnerie des bestiaux à l’écho des vals, et
 des cris des steppes."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ivan_Tourgueniev" target="_blank">Ivan
@@ -5529,7 +5332,6 @@ les télègues chargées ; les appels, les cris de commandement, les coups
 de sifflet se croisaient dans l’air."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
 Hugo</a><br>
@@ -5559,7 +5361,6 @@ Vacarme de marteaux lointains dans une forge.<br>
 L'eau clapote. On entend haleter un steamer.<br>
 Une mouche entre. Souffle immense de la mer." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Vall%C3%A8s" target="_blank">Jules
 Vallès</a><br>
@@ -5581,7 +5382,6 @@ bien loin&nbsp;!"<br>
 <br>
 "C’est un bruit de casseroles et d’assiettes, puis un bruit de
 mâchoires, puis un bruit de bouchons&nbsp;!" </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
@@ -5613,7 +5413,6 @@ les trois lanternes rouges du dernier wagon, et alors retentit le bruit
 saccadé des voitures sautant sur les plaques tournantes."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henry_C%C3%A9ard" target="_blank">Henri
 Céard</a><br>
@@ -5636,7 +5435,6 @@ coup de canon aux bastions. Si bien que, dans les intervalles de
 silence, on entendait comme des écroulements de maisons,
 distinctement."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -5663,7 +5461,6 @@ entremêlement d’atomes légers qui semblaient emplir l’espace, couvrir
 le monde."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
@@ -5677,7 +5474,6 @@ Que l’appel, ô mon Dieu, des cloches dans la tour,<br>
 Et faire un de ces bruits soi-même, cela pour<br>
 L’accomplissement vil de tâches puériles ;"<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
@@ -5696,7 +5492,6 @@ n’entendait plus que le petit bruit des sources."<br>
 bruit des fourchettes et des mâchoires, avec le pas des servants sur le
 parquet et ces deux mots répétés : Madère&nbsp;! Sauterne&nbsp;!" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -5708,7 +5503,6 @@ target="_blank"> La Maison Tellier</a><br>
 "Ce silence illimité des champs, qui semble presque religieux,
 enveloppait le petit village, un silence tranquille, pénétrant et large
 jusqu’aux astres." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
@@ -5751,7 +5545,6 @@ accompagné d’un petit vibrement de rampe remuant sur ses barreaux et
 d’un frou-frou de linge empesé ratissant les marches."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -5770,7 +5563,6 @@ roulement continu auquel paraissait répondre parfois au loin, dans la
 plaine, le sifflet d’un train accourant à toute vapeur, ou bien fuyant,
 à travers la province, vers l’Océan."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
@@ -5827,7 +5619,6 @@ bouteilles qu’on vidait, des chocs de verres reposés trop vivement, le
 bruit de meule de cinq cents mâchoires solides broyant avec énergie. Et
 les paroles, rares encore, s’étouffaient dans les bouches pleines." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -5840,7 +5631,6 @@ vie</a><br>
 le galet et une vague rumeur de la terre glissant encore sur les
 ondulations des vagues, mais confuse, presque insaisissable."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Robert_Louis_Stevenson"
@@ -5888,7 +5678,6 @@ parts, joint au bourdonnement, dans la brousse, de myriades d’insectes.
 Pas un être humain, pas une voile en mer..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -5902,7 +5691,6 @@ silence autour du corps, mais un silence autour de l’âme, et, quand un
 meuble craque ou tressaille, jusqu’au coeur, car aucun bruit n’est
 attendu dans ce morne logis."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -5924,7 +5712,6 @@ nuit, les aboiements interrompus d’un chien, le cri court des crapauds,
 le frémissement imperceptible des feuilles."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
@@ -5941,7 +5728,6 @@ Ou ride cet azur implacablement lisse<br>
 Où le silence bout dans l’immobilité."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -5955,7 +5741,6 @@ une rumeur sourde, proche, lointaine, une vague et énorme palpitation
 de vie : le souffle de Paris, respirant comme un être colossal."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
 target="_blank">Joris-Karl Huysmans</a><br>
@@ -5967,7 +5752,6 @@ rebours</a><br>
 paysage, et il débuta par une phrase, sonore, ample, ouvrant tout d’un
 coup une échappée de campagne immense."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Yuan-héou<br>
 Élégie allégorique<br>
@@ -6010,7 +5794,6 @@ Et s'enfuient tout droit, furieux contre l'importun :<br>
 Ils disparaissent dans la buée de l'horizon sans tarder un instant."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6031,7 +5814,6 @@ Mais soudain un bruit étrange les fit tous tressaillir, quelque chose
 comme un souffle rauque poussé sous la porte, un souffle de bête, fort
 et ronflant."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mark_Twain" target="_blank">Mark
@@ -6055,7 +5837,6 @@ Alors, ils ne trouvent plus le repos dans leur tombe, et, la nuit, ils
 errent en gémissant."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6071,7 +5852,6 @@ et le glissement de l’eau qui coule faisait autour de nous une sorte de
 bruit confus, presque insaisissable, inquiétant, et nous donnait une
 vague sensation de peur mystérieuse."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Rimbaud" target="_blank">Arthur
@@ -6092,7 +5872,6 @@ Font crépiter parmi ses grises indolences<br>
 Sous leurs ongles royaux la mort des petits poux."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6106,7 +5885,6 @@ qu’un bruit confus, mou et cependant démesuré de troupeau marchant, un
 piétinement infini, mêlé d’un vague cliquetis de gamelles ou de
 sabres."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
@@ -6123,7 +5901,6 @@ Puis, tout retombait au noir, les rivelaines tapaient à grands coups
 sourds, il n'y avait plus que le halètement des poitrines, le
 grognement de gêne et de fatigue, sous la pesanteur de l'air et la
 pluie des sources." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -6143,7 +5920,6 @@ enfermés des gens qui dînent."<br>
 bruits innombrables et différents, une rumeur sourde, proche,
 lointaine, une vague et énorme palpitation de vie, le souffle de Paris
 respirant, dans cette nuit d’été, comme un colosse épuisé de fatigue." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Robert_Louis_Stevenson"
@@ -6165,7 +5941,6 @@ s’entendaient nettement d’un côté à l’autre de la chaussée&nbsp;; e
 le
 bruit de leur marche précédait de beaucoup les passants." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6176,7 +5951,6 @@ target="_blank">Mont-Oriol</a><br>
 "Le murmure des voix montait, tantôt léger, à peine perceptible, tantôt
 plus vif, une rumeur confuse de cris et de mouvements humains, mais
 émiettée dans l’air, évaporée déjà, une sorte de poussière de bruit." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
@@ -6205,7 +5979,6 @@ endormie de ces chambres pour que le château revécût son existence
 arrêtée depuis des ans."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6231,7 +6004,6 @@ des femmes faisaient une rumeur continue et douce, mêlée à la brise
 insensible et qu’on aspirait avec elle."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
@@ -6249,7 +6021,6 @@ comme un paysage polaire électriquement illuminé – des pavés bleus et
 pâles. Par-dessus s’étendent les infinis champs bleus où fleurissent de
 frêles étoiles... J’ai refermé la fenêtre."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
@@ -6269,7 +6040,6 @@ Vers des vols tout prochains à des cieux violets<br>
 Encore et que le point du jour éclaire à peine.<br>
 Ô ces wagons qui vont dévaler dans la plaine !" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
@@ -6284,7 +6054,6 @@ bleus et bariolés, mêlant leurs cris au bruit du quai, apportent dans
 le fracas des navires déchargés, des passants et des voitures, une
 rumeur violente, aiguë, piaillarde, assourdissante, de forêt lointaine
 et surnaturelle." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -6303,7 +6072,6 @@ toits."<br>
 de vie, mille bruits frêles dont l’harmonie ressemblait d’abord à du
 silence.<br>
 Une caille, dans un pré voisin, jetait son double cri, ..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
@@ -6329,7 +6097,6 @@ terre, qui la secouaient avec les meubles, l’avaient affolée. Puis, peu
 à peu, l’habitude était venue, la gare sonore et frissonnante entrait
 dans sa vie&nbsp;; et, maintenant, elle s’y plaisait, son calme était
 fait de cette agitation et de ce vacarme." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -6357,7 +6124,6 @@ prenait, par moments, une intensité violente, qui semblait devenir un
 grondement d’impatience, de colère, d’émeute mystérieuse."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Maurice_Maeterlinck"
 target="_blank">Maurice Maeterlinck</a><br>
@@ -6378,7 +6144,6 @@ de la nuit ou le bruit du silence...<br>
 &nbsp; Entendez-vous la mer derrière nous ? – Elle ne semble pas
 heureuse cette nuit..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
@@ -6388,7 +6153,6 @@ target="_blank">Liturgies intimes - Agnus Dei</a><br>
 <br>
 "Son pas fait le bruit d'une averse sur la poussière."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Renard" target="_blank">Jules
@@ -6431,7 +6195,6 @@ humain ?<br>
 Il faut rentrer. Par une route déjà effacée, je retourne au village.
 Lui seul connaît son nom." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Masaoka_Shiki" target="_blank">Masaoka
 Shiki</a> (1867 .. 1902)<br>
@@ -6447,7 +6210,6 @@ Dans la cour du temple, bruit des kakis murs<br>
 Tombant"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9"
 target="_blank">Stéphane Mallarmé</a><br>
@@ -6458,7 +6220,6 @@ target="_blank">Conflit</a><br>
 "Même le calme, obligatoire dans une région d'échos, comme on y trempe,
 je l'ai, particulièrement les soirs de dimanche, jusqu'au silence."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
@@ -6486,7 +6247,6 @@ frisson des feuilles froissées par la brise. Une à une je les entendais
 déferler comme des vagues sur le vaste silence de la nuit tout entière.
 Puis ce bruit même décrût et s'éteignit." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
@@ -6503,7 +6263,6 @@ Ou plutôt celles des toc tocs et des tic tacs<br>
 De la pendule en garni dont la voix sévère<br>
 Voudrait persévérer à nous donner le trac"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bram_Stoker" target="_blank">Bram
@@ -6542,7 +6301,6 @@ fit entendre, comme venant du large et se rapprochant de plus en plus,
 en même temps qu’un roulement encore sourd grondait au-dessus des
 nuages" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Andr%C3%A9_Gide" target="_blank">André
 Gide</a><br>
@@ -6567,7 +6325,6 @@ nuits d’été ; et puis ces oiseaux mêmes, par instants, se taisaient ;
 alors on entendait très faiblement le bruit des vagues."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/August_Strindberg" target="_blank">Strindberg</a><br>
 <a href="https://www.gutenberg.org/ebooks/44108" target="_blank">The
@@ -6587,7 +6344,6 @@ Cité par Gaston Bachelard dans <a
 href="https://classiques.uqam.ca/classiques/bachelard_gaston/flamme_de_la_chandelle/flamme_de_la_chandelle.pdf"
 target="_blank">La Flamme d'une chandelle</a><br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
@@ -6612,7 +6368,6 @@ sur les rails, au milieu de cette monotonie bruyante, qui finit par
 vous endormir même pendant les temps d’arrêt."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louise_Michel" target="_blank">Louise
 Michel</a><br>
@@ -6634,7 +6389,6 @@ la nuit du ciel et la nuit de l’océan.<br>
 souffles énormes du vent et de la mer, tout cela se réunit en un chœur
 magnifique et terrible."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Octave_Mirbeau" target="_blank">Octave
@@ -6672,7 +6426,6 @@ La porte se referma et les bruits s’assourdirent, et les visages
 disparurent."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
@@ -6706,7 +6459,6 @@ du murmure plus faible des autres marronniers jusqu’à ceux plus
 imperceptibles de leurs feuilles."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Conan_Doyle" target="_blank">Arthur
 Conan Doyle</a><br>
@@ -6730,7 +6482,6 @@ entendant un cliquetis métallique près de la barrière. On était entré
 dans l’avenue&nbsp;; un silence se fit..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Oscar_Vladislas_de_Lubicz-Milosz"
 target="_blank">Oscar Vladislas de Lubicz-Milosz</a><br>
@@ -6739,8 +6490,7 @@ Les sept solitudes<br>
 <br>
 sur le blog <a
 href="https://arbrealettres.wordpress.com/2017/01/11/un-son-maigre-et-pluvieux-sonne-en-fausset-mes-heures-oscar-venceslas-de-lubicz-milosz/"
-target="_blank">Arbrealettres</a><a
-href="https://blogs.oulipo.net/qc/2011/02/12/1906-1/" target="_blank"></a><br>
+target="_blank">Arbrealettres</a><br>
 <br>
 "Un son maigre et pluvieux sonne en fausset mes heures,<br>
 Coassement — croassement — requiem des portes<br>
@@ -6805,7 +6555,6 @@ Le sang du roi voudrait crier,<br>
 L’odeur du silence est si vieille."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
 <a
@@ -6860,7 +6609,6 @@ sommeil sépare Minne du monde vivant et, seul, le nasillement ailé de
 la musique s’insinue jusqu’à son rêve pour l’agacer d’un bourdonnement
 d’abeilles..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Franz_Kafka" target="_blank">Franz
 Kafka</a><br>
@@ -6887,7 +6635,6 @@ brève comme celle d’une voix de femme et se ferme sur une secousse
 sourde et virile qui est du plus brutal effet pour l’oreille. Mon père
 est parti, maintenant commence un bruit plus fin, plus dispersé, plus
 désespérant encore et dirigé par la voix des deux canaris." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Natsume_S%C5%8Dseki"
@@ -6920,7 +6667,6 @@ son attention fut attirée par le vrombissement du vent dans les fils
 télégraphiques qui étaient tendus au-dessus de sa tête ; ..."&nbsp;
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke" target="_blank">Rainer
 Maria Rilke</a><br>
@@ -6950,7 +6696,6 @@ angoissé qui te sonde comme si tu étais dans le secret de chaque son
 étouffé, d’accord avec lui et de concert."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume
@@ -6964,7 +6709,6 @@ target="_blank">Alcools</a><br>
 Et l’on entend aussi se lamenter l’autan<br>
 Et du fleuve prochain à grand’voix triomphales<br>
 Les elfes rire au vent ou corner aux rafales" </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gaston_Roupnel" target="_blank">Gaston
@@ -6985,7 +6729,6 @@ meuglaient les vaches, beuglaient les veaux, aboyaient les chiens, et
 braillaient l'âne, avec toutes les capacités et la réussite d'un vrai
 bétail."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Luigi_Russolo" target="_blank">Luigi
@@ -7011,7 +6754,6 @@ les tintamarres différents des gares, des forges, des filatures, des
 imprimeries, des usines électriques et des chemins de fer souterrains."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Blaise_Cendrars" target="_blank">Blaise
 Cendrars</a><br>
@@ -7034,7 +6776,6 @@ Le train tonne sur les plaques tournantes<br>
 Le train roule<br>
 Un gramophone grasseye une marche tzigane" </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
 <a href="https://www.gutenberg.org/files/43475/43475-h/43475-h.htm"
@@ -7055,7 +6796,6 @@ voix
 de femmes et d'enfants, tintements de cuillères et de verrerie, mieux :
 le son d'un bon orchestre, tout proche, qui joue, — sans rancune, — une
 valse viennoise..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
@@ -7288,7 +7028,6 @@ réguliers la bonne nouvelle et jetait en l’air son cri de joie."<br>
 target="_blank">À la recherche du temps perdu (Texte intégral en une
 seule page)</a>&nbsp; </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume Apollinaire</a><br>
@@ -7307,7 +7046,6 @@ virginaux et les chocs incessants des bâtons remplaçant le fer à
 repasser, comme si c’était l’aube blanche elle-même qu’on lavait et
 qu’on repassait."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gaston_Leroux" target="_blank">Gaston
@@ -7339,7 +7077,6 @@ expirer tout doucement, à bout de forces...<br>
 sursaut brutal et rageur
 d’un éclatement."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Maran" target="_blank">René
@@ -7410,7 +7147,6 @@ recevait en bloc. Elle les enregistrait, en quelque sorte, assignant à
 chacun sa place exacte et sa signification précise."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Franz_Kafka" target="_blank">Franz
 Kafka</a><br>
@@ -7433,7 +7169,6 @@ qu’on lui avait raconté que bien des fonctionnaires, pour se distraire
 de leur constante tension d’esprit, s’occupaient parfois de menuiserie,
 de serrurerie, etc."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/James_Joyce" target="_blank">James
@@ -7492,7 +7227,6 @@ Giovanni</span> qu’il joue à présent."&nbsp;<br>
 </table>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9e_Dunan" target="_blank">Renée
 Dunan</a><br>
@@ -7507,7 +7241,6 @@ agrémentait son roulement métallique de sifflements enroués et
 sinistres."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Ashin'an
 Setsujin (1872 .. 1958)<br>
 <a href="https://www.editionslibretto.fr/catalogue/fourmis-sans-ombre/"
@@ -7517,7 +7250,6 @@ target="_blank">Fourmis sans ombre - Le livre du haïku, Maurice Coyaud</a><br>
 Bruit du télégraphe<br>
 Paysage nocturne à la fenêtre"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Kyoshi_Takahama" target="_blank">Kyoshi
@@ -7529,7 +7261,6 @@ target="_blank">Fourmis sans ombre - Le livre du haïku, Maurice Coyaud</a><br>
 Les cailles en cage font<br>
 Coucou !"
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fernando_Pessoa" target="_blank">Fernando
@@ -7580,7 +7311,6 @@ que cette tristesse vient d’avoir croisé le bruit soudain (vu avec
 l’ouïe) du tram qui passe, le brouhaha de voix des jeunes gens, la
 rumeur oubliée de la ville bien vivante." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir
 Nabokov</a><br>
@@ -7600,7 +7330,6 @@ extraordinaire ; on n'entendait que ma logeuse, une veuve un peu
 négligée, qui sanglotait et se mouchait dans le couloir."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke" target="_blank">Rainer
 Maria Rilke</a><br>
@@ -7618,7 +7347,6 @@ Pays qui se tait, car le chant des eaux<br>
 n'est qu'un excès de silence,<br>
 de ce silence entre les mots<br>
 qui, en rythmes, avancent." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
@@ -7644,7 +7372,6 @@ passa... puis, de nouveau, ce fut un silence écrasant, mort, la paix
 particulière des dimanches de Paris dans les quartiers riches."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Giraudoux" target="_blank">Jean
 Giraudoux</a><br>
@@ -7664,7 +7391,6 @@ autant que possible, en un mot... Pas de phrases avec les morts. Un
 mot, un mot crié de toute ma force, de tout mon être, dans un paysage
 sonore, voilà tout ce qu’ils réclamaient, tout ce qu’ils pouvaient
 entendre&nbsp;!"<br>
-<br>
 <div style="text-align: right;"><span style="font-style: italic;">A ma
 connaissance c'est dans ce texte où apparait pour la première fois<br>
 en langue française l'expression "paysage sonore".</span><br>
@@ -7686,7 +7412,6 @@ dialecte pittoresque, dont on sourit, parce qu’il couvre les grands
 mots de terminaisons trop sensibles."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/William_Faulkner" target="_blank">William
 Faulkner</a><br>
@@ -7705,7 +7430,6 @@ comme de l’eau qui monte."<br>
 "... et la petite scie des grillons qui s’éteignait dans l’herbe
 m’accompagnait d’îlots de silence mouvants..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Yourcenar"
 target="_blank">Marguerite Yourcenar</a><br>
@@ -7722,7 +7446,6 @@ Voyez, par exemple, une fontaine. L'eau muette emplit les conduits, en
 déborde, et la perle qui en tombe est sonore. Il m'a toujours semblé
 que la musique ne devrait être que le trop-plein d'un grand silence."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke">Rainer
@@ -7745,7 +7468,6 @@ peut-être le plus intérieur, alors on ne peut que vous souhaiter de
 laisser, avec confiance et patience, la grandiose solitude travailler
 sur vous, ..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ernest_Hemingway" target="_blank">Ernest
@@ -7771,7 +7493,6 @@ mais j’avais le souffle coupé et je me sentis sortir tout entier de
 moi-même, emporté loin, bien loin par le vent."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -7781,7 +7502,6 @@ target="_blank">Le Charretier de la Providence</a><br>
 <br>
 "Il avait eu un sommeil agité, tout plein de piétinements de chevaux,
 d'appels confus, de pas dans l'escalier, de verres heurtés, en bas." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
@@ -7796,7 +7516,6 @@ savoureuse, des cris en patois wallon, la sonnerie aigre des tramways
 jaune et rouge, le quadruple jet d'une fontaine monumentale surmontée
 du perron liégeois qui tentait de dominer la rumeur du marché proche." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -7810,7 +7529,6 @@ vivant, fait de chants d'oiseaux, du bruissement du feuillage, du
 bourdonnement des mouches et du caquet lointain de poules sur la route,
 le tout scandé par les coups espacés du marteau sur l'enclume de la
 forge." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
@@ -7832,7 +7550,6 @@ rue vide. Des taxis passaient rapidement. Une voix enrouée appelait le
 concierge dans la cour."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -7845,7 +7562,6 @@ demies. Les piétinements et les conciliabules cessèrent sur le
 trottoir, et il n'y eut plus que la plainte monotone du vent, la pluie
 qui battait les vitres." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -7856,7 +7572,6 @@ target="_blank">Le Fou de Bergerac</a><br>
 "... du rythme de la vie qui, sur la grand-place, partant de la porte
 ouverte par une ménagère, du bruit des roues d'une charrette, d'un
 volet brusquement écarté, allait en s'amplifiant jusqu'à midi." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/William_Faulkner" target="_blank">William
@@ -7878,7 +7593,6 @@ dans le chaud silence, tranquille et balsamique, de cette après-midi
 d'août."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -7892,7 +7606,6 @@ aussitôt. Le timbre du bistrot de droite résonna tandis que les
 cailloux dégringolaient dans le moulin du concasseur et qu'un petit
 remorqueur à triangle bleu sifflait tout ce qu'il pouvait, rageur,
 devant la porte de l'écluse qu'on lui fermait au nez." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis-Ferdinand_C%C3%A9line"
@@ -7910,7 +7623,6 @@ décembre 14. J’ai attrapé la guerre dans ma tête. Elle est enfermée
 dans ma tête.”<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
@@ -7926,7 +7638,6 @@ du ciel, autant de bruits qui faisaient le silence et la désolation de
 ces lieux. De loin en loin, un claquement sec, un cri aigu, marquaient
 l’envol d’un oiseau tapi entre des pierres."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
@@ -7947,7 +7658,6 @@ sentimentales, jusqu'au fond de la nuit, paisiblement."<br>
 "Pur soupir de roseau magique, à peine distinct du silence, et doux
 comme un appel de crapaud à la lune..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Karen_Blixen" target="_blank">Karen
@@ -7972,7 +7682,6 @@ au-dessous de moi, alors c'était bien la pluie. C'était comme de
 retrouver la mer après en avoir été longtemps privé, comme l'étreinte
 d'un amant."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
@@ -8002,7 +7711,6 @@ ni souffle, ni murmure, ni fracas,<br>
 mais quelque part il y a tant de bruit,<br>
 tant de hurlements, tant de bavardages, et qu’on n’entend pas." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
@@ -8013,7 +7721,6 @@ target="_blank">Carnets I</a><br>
 "Tout se taisait. Le wagon vibrait doucement. Et si j'entendais
 derrière les vitres les froissements de la nuit pluvieuse, je
 l'entendais encore comme un silence." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Boulgakov"
@@ -8077,7 +7784,6 @@ lointains appels de trompettes, mêlés au piétinement assourdi de
 centaines de sabots de chevaux."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Koestler" target="_blank">Arthur
 Koestler</a><br>
@@ -8122,7 +7828,6 @@ cages, se frappant la poitrine et tambourinant ; il collait l’oeil au
 judas, se soulevant et retombant en cadence sur ses orteils tout en
 roulant du tambour."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Sergue%C3%AF_Eisenstein"
@@ -8171,7 +7876,6 @@ strictement musical</span>, l’on se trouve aussitôt et immanquablement
 en présence d’une composition de type « partition »."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -8187,7 +7891,6 @@ commutateur électrique.<br>
 Une allumette craquait dans la cuisine et le réchaud à gaz, en
 s'allumant, laissait fuser un « pfffttt »." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
@@ -8198,7 +7901,6 @@ target="_blank">Carnets II</a><br>
 "Bourdonnement sans chaleur des guêpes, le vent dans les feuilles, un
 coq entêté à chanter derrière les collines, des aboiements creux, de
 loin en loin un croassement de corneille." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
@@ -8226,7 +7928,6 @@ oisif. Mais son visage était pâle et meurtri par l'ennui.<br>
 ferma la fenêtre le
 bruissement de la vallée cessa brusquement comme si elle avait fermé
 les vannes d'une rivière."<br>
-<br>
 <div style="text-align: right; font-style: italic;">Ce texte est l'un
 des premiers en langue française qui contient l'expression "paysage
 sonore". <br>
@@ -8236,7 +7937,6 @@ target="_blank">Roberto Barbanti - Écoute du paysage et esthétique
 écosophique</a>)
 </div>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gaston_Bachelard" target="_blank">Gaston
@@ -8256,7 +7956,6 @@ grand de l'univers parlant."<br>
 la violence à la détresse. Le caractère même des souffles heurtés et
 inutiles peut donner une image d’une mélancolie anxieuse..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis_Aragon" target="_blank">Louis
 Aragon&nbsp;</a><br>
@@ -8273,7 +7972,6 @@ clameurs de gaité, et la voix de Lulli qui dans l'entrée criait par
 moments : « Ollé&nbsp;! Ollé&nbsp;! » avec un geste approprié, histoire
 d'encourager
 l'atmosphère espagnole." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
@@ -8311,7 +8009,6 @@ ne sent pas, on est ce rien de désordre qui sent. Une chose à constater
 la mer. On goûte alors comme une gourmande le bruit de son cœur qui
 bat. Alors qu’il pourrait ne pas... " </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_Seghers" target="_blank">Pierre
 Seghers</a><br>
@@ -8328,7 +8025,6 @@ Une brume qui se dissipe et disparaît<br>
 Comme au jeu des images."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -8340,7 +8036,6 @@ target="_blank">Maigret se fâche</a><br>
 bruits du dehors, le caquet des poules qui grattaient le fumier dans
 une cour, la chaîne d'un chien, les appels insistants des remorqueurs
 et ceux, plus sourds, des péniches à moteur." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Char" target="_blank">René
@@ -8355,7 +8050,6 @@ Dans l'arbre un oiseau rêve, pépie. Une fenêtre reste éclairée. On tire
 un rideau rouge à l'intérieur. L'expressif monde nocturne : grillons,
 chouettes, crapauds ; un renard glapit. Rien parfois : le silence, par
 miracle." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
@@ -8380,7 +8074,6 @@ Elle s'imposait comme un être.<br>
 La paix avait un corps. Pris dans la nuit, fait avec la nuit. Un corps
 réel, un corps immobile." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nathalie_Sarraute" target="_blank">Nathalie
 Sarraute</a><br>
@@ -8399,7 +8092,6 @@ cuisine, le bruit aigu, arrogant, des assiettes que la bonne glisse
 l'une sur l'autre, la tête légèrement penchée vers la porte
 entrouverte. Des bruits dans ce silence, angoissants, menaçants comme
 le son distant d'un tamtam." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yasunari_Kawabata" target="_blank">Yasunari
@@ -8430,7 +8122,6 @@ n’avait-il pas retenti ? <br>
 Mais pourtant il a vraiment retenti, ce grondement de la montagne,
 comme si quelque démon l’avait fait résonner au passage." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Giono" target="_blank">Jean
 Giono</a><br>
@@ -8446,7 +8137,6 @@ vertèbre, très craquant malgré le bruit du pas assourdi par la
 poussière et un silence si total que la présence des grands arbres
 muets devenait presque irréelle."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Michaux" target="_blank">Henri
@@ -8465,7 +8155,6 @@ Un monde immense l'entendait encore, mais elle n'était plus, devenue
 seulement, et uniquement un bruit, qui allait rouler encore des siècles
 et destiné à s'éteindre <span style="font-style: italic;">complètement</span>,
 comme si elle n'avait jamais été." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Francis_Ponge" target="_blank">Francis
@@ -8491,7 +8180,6 @@ Un coup de poing irrésistible a été donné sur la tôle de la nuit,
 jusqu’à ce qu’elle <span style="font-style: italic;">vibre</span> au
 blanc. De très bonne heure ce matin. Et les vibrations vont
 s’amplifiant jusqu’à midi." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Samuel_Beckett" target="_blank">Samuel
@@ -8544,7 +8232,6 @@ Vladimir (angoissé) - Dis n'importe quoi !<br>
 Estragon. - Qu'est-ce qu'on fait maintenant ?<br>
 Vladimir. - On attend Godot. </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Brassens" target="_blank">Georges
 Brassens</a><br>
@@ -8560,7 +8247,6 @@ Ding ding dong ! faut l'dire à personne :<br>
 J'ai graissé la patte au sonneur."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
 Duras</a><br>
@@ -8575,7 +8261,6 @@ et l’énorme bruissement des abeilles sur les arbouses."<br>
 seul le bourdonnement des frelons autour des fleurs dérangeait l’air
 épais, sirupeux, du matin."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Rafael_Alberti" target="_blank">Rafaël
@@ -8619,7 +8304,6 @@ Et l’homme, toujours silencieux,<br>
 de peur, se met à parler."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Robbe-Grillet"
 target="_blank">Alain Robbe-Grillet</a><br>
@@ -8647,7 +8331,6 @@ jeune
 femme, à son insu : un coup de revolver, des pas précipités sur le
 gravier, une porte qui claque, un moteur d’automobile..."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Aldous_Huxley" target="_blank">Aldous
@@ -8694,7 +8377,6 @@ sonore, l’esprit peut encore garder conscience de ce qui l’entoure, de
 ce qui l’a précédé et lui survivra."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
@@ -8715,7 +8397,6 @@ exténuée. Quand elle retombe sur elle-même, elle fait siffler le
 silence. Une heure de cuisson et l'eau pâle, grande plaque de tôle
 portée au blanc, grésille. Elle grésille, elle fume, brûle enfin."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -8745,7 +8426,6 @@ cimetière.<br>
 &nbsp;&nbsp;&nbsp; Le téléphone sonna."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Herv%C3%A9_Bazin" target="_blank">Hervé
 Bazin</a><br>
@@ -8772,7 +8452,6 @@ rainette jusqu’au cri terrifiant de la proie éventrée par un rapace
 nocturne : à noter."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -8788,7 +8467,6 @@ une cloche que l’on actionnait à l’aide d’un cordon assez usé, terminé
 par un gland rouge. Le tintement brisa le silence, mourut lentement,
 mais personne ne répondit."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -8815,7 +8493,6 @@ Le calme absolu enveloppait le quartier. Les fantômes eux-mêmes se
 tenaient tranquilles, refusant de remuer leurs chaînes de peur qu’on
 les prît pour des bimbelotiers en train de proposer l’article."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -8844,7 +8521,6 @@ gargouillis de radio qui cessèrent aussi vite qu’ils étaient nés. Le
 silence, la douceur et le calme."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -8866,10 +8542,9 @@ la frime, je frappai aux deux portes qui donnaient sur le palier. Rien.
 Aucun écho."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">
-Vladimir Nabokov</a><br>
+href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir
+Nabokov</a><br>
 <a
 href="https://mrbeland.weebly.com/uploads/3/0/5/5/30558007/lolita.pdf"
 target="_blank">Lolita</a>
@@ -8900,7 +8575,6 @@ encore le cliquetis d’un petit chariot d’enfant, mais tout cela était
 trop éloigné pour que l’œil pût distinguer quelque mouvement que ce
 fût dans la délicate eau-forte des rues."</div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -8921,7 +8595,6 @@ lors de ma première visite clandestine et nocturne. Et ce n’était pas
 parce qu’il y avait davantage de bruit ambiant. Le silence enveloppait
 toujours la maison, qui paraissait inhabitée."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -8955,7 +8628,6 @@ comme si j’avais besoin de ça –, une quelconque horloge du voisinage
 égrena le quart d’une heure. "
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -8972,7 +8644,6 @@ la voix de Georges Brassens, chantant <span style="font-style: italic;">Gare
 au gorille</span>, domina le
 tumulte."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
@@ -9008,7 +8679,6 @@ d’eaux s’élargit encore, puis se précisa, en même temps que la lanterne
 grossissait"
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -9028,7 +8698,6 @@ lointain d’un chien, plus près de moi les craquements des vieux
 meubles, j’attends."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
 Bosco</a><br>
@@ -9047,7 +8716,6 @@ battement inattendu, d’un son si beau que vous désiriez qu’il en vînt
 un autre... Même aux douze coups de minuit, on faisait malgré soi ce
 voeu déraisonnable..."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -9073,7 +8741,6 @@ Lentement, lentement, quelques flocons de neige dansèrent devant mes
 yeux. L’un d’eux échoua dans le fourneau de ma pipe et fondit dans un
 grésillement bref."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gaston_Bachelard" target="_blank">Gaston
@@ -9130,7 +8797,6 @@ toute anxiété. La paix de la forêt est pour lui une paix de l'âme. La
 forêt est un état d'âme."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
@@ -9149,7 +8815,6 @@ Versailles-Invalides, passant dans la tranchée, entre le quai de Javel
 et la Seine, qui, elle, coulait doucement sous le pont Mirabeau, avec
 un tas d’autres choses, si l’on en croit le poète."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Robbe-Grillet"
@@ -9174,7 +8839,6 @@ ronronnement de moteur, ni autre bruit, à cette heure de la journée où
 tout travail s'est interrompu et où les bêtes se taisent, dans la
 chaleur."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
@@ -9201,7 +8865,6 @@ ses zigzags, me parvient comme à travers deux épaisseurs de ouate des
 profondeurs hostiles de la nuit."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Simone_de_Beauvoir" target="_blank">Simone
 de Beauvoir</a><br>
@@ -9218,7 +8881,6 @@ infini, sous l’infini du ciel, il semblait que la terre fît écho à
 cette voix en moi qui sans répit chuchotait : je suis là ; mon coeur
 oscillait de sa chaleur vivante au feu glacé des étoiles."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
@@ -9243,7 +8905,6 @@ gonflement de nuages, le soleil ne fut plus recouvert et brilla
 librement de ses derniers feux. La sirène, ce soir-là, fut
 interminable. Mais elle cessa cependant, comme les autres soirs." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
 Queneau</a><br>
@@ -9258,7 +8919,6 @@ dans les rues, les pneus se dégonfler lentement dans la nuit. Par la
 fenêtre entrouverte, elles voyaient la lune scintiller sur le gril
 d’une antenne de tévé en ne faisant que très peu de bruit." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Brassens" target="_blank">Georges
 Brassens</a><br>
@@ -9271,7 +8931,6 @@ target="_blank">L'orage</a><br>
 Un vrai tonnerr' de Brest, avec des cris d'putois,<br>
 Allumait ses feux d'artifice."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Claude_Simon" target="_blank">Claude
@@ -9292,7 +8951,6 @@ cheminement même du temps, c'est-à-dire invisible immatériel sans
 commencement ni fin ni repère, et au sein duquel il avait la sensation
 de se tenir, glacé, raide sur son cheval lui aussi invisible dans le
 noir, ..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Francis_Ponge" target="_blank">Francis
@@ -9317,7 +8975,6 @@ style="font-style: italic;">rien</span>, qu’ils ne disent que <span
 style="font-style: italic;">riens</span>, quand ils parlent — qu’ils
 n’expriment rien de leur nature muette."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Iannis_Xenakis" target="_blank">Iannis
@@ -9352,7 +9009,6 @@ sont des lois du passage de l'ordre parfait au désordre total d'une
 manière continue ou explosive. Ce sont des lois stochastiques."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss"
 target="_blank">Claude Lévi-Strauss</a><br>
@@ -9378,7 +9034,6 @@ Temminck) présage par son « rire » le succès des expéditions
 commerciales, et par son camail rouge brillant, il évoque le prestige
 qui s'attache aux guerres victorieuses et aux voyages lointains."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Samuel_Beckett" target="_blank">Samuel
@@ -9415,7 +9070,6 @@ reste. (<span style="font-style: italic;">Un temps.</span>) Des bruits.
 (<span style="font-style: italic;">Un temps.</span>)
 Comme des petits... effritements, des petits... éboulements." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
@@ -9427,7 +9081,6 @@ target="_blank">Maigret se défend</a><br>
 trottoir puis une sonnerie lointaine, étouffée. La petite porte qui se
 refermait dans la grande. Des pas sur les pavés inégaux de la cour, la
 porte vitrée qui s'ouvrait à son tour, l'escalier..." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Roald_Dahl" target="_blank">Roald
@@ -9448,7 +9101,6 @@ machine. Après un bref silence, il y eut quelques grondements bizarres.
 Puis ce fut encore le silence. Et soudain, la machine poussa une
 plainte monstrueuse et au même instant..." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
 Perec</a><br>
@@ -9459,7 +9111,6 @@ choses</a><br>
 "Les rues, désertes et longues, larges, sonores, résonnaient sous leurs
 pas synchrones. De rares taxis passaient lentement, presque sans bruit."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
@@ -9491,7 +9142,6 @@ Ils avancent en silence."<br>
 noctambules chape-chuter sur le boulevard.<br>
 Puis il y a des clameurs, des cris, des jurements peut-être."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
@@ -9553,7 +9203,6 @@ tes bruits d'eau, ton souffle, sont-ils pour lui, avec la goutte d'eau,
 le clocher, les bruits de la rue, de la ville, l'épais tissu du temps
 qui s'écoule, de la vie qui demeure." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Chaulet" target="_blank">Georges
 Chaulet</a><br>
@@ -9581,7 +9230,6 @@ Fantômette sauta hors de son lit, traversa le dortoir sur la pointe des
 pieds, ouvrit la porte. Les bruits lui parvinrent plus distinctement.
 Selon toute apparence, on se battait à l'étage supérieur."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Philip_K._Dick" target="_blank">Philip
@@ -9617,7 +9265,6 @@ retenir sa soif de tout engloutir. Plus maintenant. Maintenant qu’il
 avait presque partie gagnée."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
 Perec</a><br>
@@ -9630,7 +9277,6 @@ glas, plus sourd qu'un tocsin, plus profond qu'un bourdon, non loin,
 sonna trois coups. Du canal Saint-Martin, un clapotis plaintif
 signalait un chaland qui passait." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
 Perec</a><br>
@@ -9639,7 +9285,6 @@ Perec</a><br>
 <a
 href="https://lieux-georges-perec.seuil.com/11-contrescarpe-reel-1-juin-1969/"
 target="_blank">11. Contrescarpe, réel 1 - Juin 1969</a><br>
-<br>
 <div style="margin-left: 40px;">"Le patron des « Cinq Billards » est à
 sa porte et grommelle je ne sais quoi sans doute en rapport avec le
 bruit sur le terre-plein.<br>
@@ -9657,7 +9302,6 @@ m’aurait étonné). Musique filtrant du « Mouffe-Club »." </div>
 <a
 href="https://lieux-georges-perec.seuil.com/56-choiseul-reel-3-avril-1971/"
 target="_blank">56. Choiseul, réel 3 - Avril 1971</a><br>
-<br>
 <div style="margin-left: 40px;">"Grand silence<br>
 Il n’y a pas plus de dix personnes dans le passage<br>
 Bruit du ressemeleur tapant sur son enclume"</div>
@@ -9665,7 +9309,6 @@ Bruit du ressemeleur tapant sur son enclume"</div>
 <a
 href="https://lieux-georges-perec.seuil.com/84-franklin-reel-4-juin-1972/"
 target="_blank">84. Franklin, réel 4 - Juin 1972</a><br>
-<br>
 <div style="margin-left: 40px;">"Bruits :<br>
 crissement de pneus<br>
 les voitures<br>
@@ -9676,7 +9319,6 @@ peut-être freinage&nbsp;?<br>
 faibles cris de pigeons (genre de crouic)<br>
 voix (allemand&nbsp;?)" </div>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Italo_Calvino" target="_blank">Italo
@@ -9695,7 +9337,6 @@ crépitement de la mitraille, l’explosion d’une poudrière dans le ciel
 jaune des incendies allumés par la guerre civile."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Michaux" target="_blank">Henri
 Michaux</a><br>
@@ -9708,7 +9349,6 @@ target="_blank">Emergences-Résurgences</a><br>
 de quantité de couleurs, fortes, fortes, qui me tapaient dessus,
 pressées, perçantes, dissonantes comme des bruits. Martyrisantes."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
@@ -9726,7 +9366,6 @@ claquement différencié des portes, éclats de voix, bruits de cuisine,
 de tuyaux, rumeurs extérieures..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
@@ -9743,7 +9382,6 @@ mais des ondes me traversaient, tantôt lointaines, tantôt plus fortes
 et tous ces échos épars qui flottaient dans l’air se cristallisaient et
 c’était moi."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nathalie_Sarraute" target="_blank">Nathalie
@@ -9764,7 +9402,6 @@ le palier... la clef tâtonne dans la serrure, elle va tourner... Il
 faut que je m’arrache à la joie d’écouter, ..."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Echenoz" target="_blank">Jean
 Echenoz</a><br>
@@ -9779,7 +9416,6 @@ rumeurs pendant que la droite improvisait sur les motifs cliquetants et
 véloces, aigus et précis, fournis par les coups de parechoc ou de
 klaxon dans la rue de Rome, les bris de glace de la miroiterie."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Lucien_Bodard" target="_blank">Lucien
@@ -9796,7 +9432,6 @@ des roues sur la chaussée trempée, pieds du tireur de pousse-pousse
 claquant dans les flaques."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
 Duras</a><br>
@@ -9812,7 +9447,6 @@ volets, aux murs, au frottement des gens contre les persiennes. Ceux
 des rires. Des courses et des cris d’enfants. Des appels des marchands
 de glaces, de pastèque, de thé."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Corbin" target="_blank">Alain
@@ -9833,7 +9467,6 @@ de la solennité des messages sonores au pouvoir civil résulte du désir
 d’émanciper la vie municipale de l’emprise sensuelle et des injonctions
 sonores du pouvoir ecclésiastique."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Echenoz" target="_blank">Jean
@@ -9856,7 +9489,6 @@ parfois un bref énoncé mélodique en contrepoint, quelques riffs en
 tierce."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pascal_Quignard" target="_blank">Pascal
 Quignard</a><br>
@@ -9869,7 +9501,6 @@ target="_blank">La Haine de la musique</a><br>
 de paysage sonore parce que le paysage suppose l’écart devant le
 visible. Il n’y a pas d’écart devant le sonore."
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Olga_Tokarczuk" target="_blank">Olga
@@ -9896,7 +9527,6 @@ résonnait d'un son qui était plus lourd que l'air et filait aussitôt
 sous terre. Les lits grinçaient au rythme du sommeil."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Cornelia_Funke" target="_blank">Cornelia
 Funke</a><br>
@@ -9913,7 +9543,6 @@ bateau, la respiration de Mosca près de lui et, au loin, des voix qui
 résonnaient sur l'eau." <br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Antoine_Volodine" target="_blank">Antoine
 Volodine</a><br>
@@ -9927,7 +9556,6 @@ pompes qui tiraient, vers les réservoirs du toit, l'eau venue des
 puits. C'était une vibration régulière. Là-dessus se greffaient la
 criaillerie d'un feuilleton télévisé, et les musiques et les voix de
 quelques radios." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Michel_Butor" target="_blank">Michel
@@ -10010,7 +9638,6 @@ steppes de <br>
 l’Asie centrale.<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Olga_Tokarczuk" target="_blank">Olga
 Tokarczuk</a><br>
@@ -10038,7 +9665,6 @@ vibrations délicates, un mouvement lointain, un souffle.. Pas de doute,
 la terre était vivante."
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/J._M._G._Le_Cl%C3%A9zio"
 target="_blank">J.
@@ -10059,7 +9685,6 @@ le bruit de la lumière qui bondissait sur les roches, tous les
 craquements secs, les claquements, les chuintements, et, près de ses
 oreilles, le murmure aigu pareil au chant des abeilles." </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Bernard_Pouy">Jean-Bernard
 Pouy</a><br>
@@ -10075,7 +9700,6 @@ montargoise, il y avait un silence si épais qu'il m'empêchait de
 dormir. J'entendais tout, même le blaireau qui, en pleine nuit, pétait
 dans la forêt."<br>
 </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://fr.wikipedia.org/wiki/Pascal_Quignard">Pascal
@@ -10108,7 +9732,6 @@ Je vais vous jouer le morceau de musique que fait le vent quand il
 s’engouffre dans le portemanteau du corridor de la cure..."<br>
 </div>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Herv%C3%A9_Le_Tellier"
 target="_blank">Hervé
@@ -10127,7 +9750,6 @@ infirmière dans la salle de garde, un coup de klaxon impatient dans la
 rue, ou le simple claquement de talons sur le carrelage. Peut-être y
 a-t-il encore un peu de bruit avant que les dernières cellules ne
 s’éteignent à jamais. Je prendrai ce qu’il y aura." </div>
-<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Daniel_Pennac" target="_blank">Daniel
