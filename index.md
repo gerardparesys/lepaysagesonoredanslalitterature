@@ -4,7 +4,7 @@ order: 0
 in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
-648 descriptions de paysage sonore trouvées dans la littérature
+649 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <br>
@@ -1882,18 +1882,18 @@ trompettes."<br>
 href="https://fr.wikipedia.org/wiki/Joachim_du_Bellay" target="_blank">Joachim
 du Bellay</a><br>
 <a
-href="https://www.comptoirlitteraire.com/docs/603-du-bellay-joachim.pdf"
+href="https://reseauxpoetes16e.huma-num.fr/data/1558%20Divers%20jeux%20rustiques%20-%20Hymne%20de%20la%20surdite%20a%20Pierre%20de%20Ronsard.pdf"
 target="_blank">Hymne à la surdité</a><br>
 1556<br>
 <br>
-"Or celui qui est sourd, si tel défaut lui nie<br>
-Le plaisir qui provient d’une douce harmonie,<br>
-Aussi est-il privé de sentir maintes fois<br>
-L’ennui d’un faux accord, une mauvaise voix,<br>
-Un fâcheux instrument, un bruit, une tempête,<br>
-Une cloche, une forge, un rompement de tête,<br>
-Le bruit d’une charrette, et la douce chanson<br>
-D’un âne qui se plaint en effroyable son." </div>
+"&nbsp;&nbsp;&nbsp; Or celuy qui est sourd, si tel default luy nie<br>
+Le plaisir qui provient d'une doulce armonie,<br>
+Aussi est-il privé de sentir maintefois<br>
+L'ennuy d'un faulx accord, une mauvaise voix,<br>
+Un fascheux instrument, un bruit, une tempeste,<br>
+Une cloche, une forge, un rompement de teste,<br>
+Le bruit d'une charrete, &amp; la doulce chanson<br>
+D'un asne, qui se plaingt en effroyable son. " </div>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -1903,7 +1903,7 @@ de Ronsard</a><br>
 target="_blank">Pièces retranchées des amours</a> - XXV<br>
 1560<br>
 <br>
-"Hé! que me sert, Pasquier, ceste belle verdure<br>
+"&nbsp;&nbsp;&nbsp; Hé ! que me sert, Pasquier, ceste belle verdure<br>
 Qui rit parmy les prez, et d'ouïr les oiseaux,<br>
 D'ouïr en-contre-val le gazouillis des eaux,<br>
 Et des vents printanniers le gracieux murmure,<br>
@@ -1989,7 +1989,7 @@ target="_blank">Eglogue 1 - Bergerie</a><br>
 "Icy le gazouillis enroué des ruisseaux<br>
 S’accorde doucement aux plaintes des oiseaux ;<br>
 Icy entre les pins les Zéphyres s’entendent.<br>
-Nos flutes cependant trop paresseuses pendent<br>
+&nbsp;&nbsp;&nbsp; Nos flutes cependant trop paresseuses pendent<br>
 A nos cols endormis, et semble que ce temps<br>
 Soit à nous un hyver, aux autres un printemps."<br>
 </div>
@@ -3051,7 +3051,8 @@ target="_blank">Armance</a><br>
 <br>
 "Le bruissement léger des feuilles agitées par le vent du soir semblait
 prêter un nouveau charme à leur silence.<br>
-Octave regardait les grands yeux d’Armance qui se fixaient sur les
+&nbsp;&nbsp;&nbsp; Octave regardait les grands yeux d’Armance qui se
+fixaient sur les
 siens. Tout à coup ils comprirent un certain bruit qui depuis quelque
 temps frappait leur oreille sans attirer leur attention."<br>
 <br>
@@ -3075,7 +3076,8 @@ target="_blank">Voyage en Italie</a><br>
 carrefours. Tout ce qui s’agite et fait du bruit nous plaît ; le
 recueillement, la gravité, le silence, nous ennuient."<br>
 <br>
-"Je retrouve ici ce silence absolu que j’ai observé autrefois, à midi,
+"&nbsp;&nbsp;&nbsp; Je retrouve ici ce silence absolu que j’ai observé
+autrefois, à midi,
 dans les forêts de l’Amérique, lorsque, retenant mon haleine, je
 n’entendais que le bruit de mes artères dans mes tempes et le battement
 de mon coeur. Quelquefois seulement des bouffées de vent, tombant du
@@ -8576,6 +8578,49 @@ seul le bourdonnement des frelons autour des fleurs dérangeait l’air
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Rafael_Alberti" target="_blank">Rafaël
+Alberti</a><br>
+<a
+href="https://terresdefemmes.fr/mon_weblog/2011/02/rafael-alberti-ballade-du-silence-craintif.html"
+target="_blank">Baladas y canciones del Paraná - Balada del silencio
+temeroso</a><br>
+<a
+href="https://terresdefemmes.fr/mon_weblog/2011/02/rafael-alberti-ballade-du-silence-craintif.html"
+target="_blank">Ballades et Chansons du Parana</a><br>
+1953<br>
+<br>
+Ballade du silence craintif<br>
+<br>
+"Ici, quand le vent meurt,<br>
+les mots défaillent.<br>
+Et le moulin ne parle plus.<br>
+Et les arbres ne parlent plus.<br>
+Et les chevaux ne parlent plus.<br>
+Et les brebis ne parlent plus.<br>
+<br>
+Se tait le fleuve.<br>
+Se tait le ciel.<br>
+Se tait l’oiseau.<br>
+Et se tait le perroquet vert.<br>
+Et, là-haut, se tait le soleil.<br>
+<br>
+Se tait la grive.<br>
+Se tait le caïman.<br>
+Se tait l’iguane.<br>
+Et se tait le serpent.<br>
+Et, en bas, se tait l’ombre.<br>
+<br>
+Se tait tout le marais.<br>
+Se tait tout le vallon.<br>
+Et se tait même la colombe<br>
+qui au grand jamais ne se tait.<br>
+<br>
+Et l’homme, toujours silencieux,<br>
+de peur, se met à parler."<br>
+</div>
+<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Robbe-Grillet"
 target="_blank">Alain Robbe-Grillet</a><br>
 <a href="https://excerpts.numilog.com/books/9782707321862.pdf"
@@ -10095,4 +10140,4 @@ target="_blank">Mon assassin</a><br>
 dernier éternuement."
 </div>
 <br>
-page mise à jour 14 3 2026 
+page mise à jour 19 3 2026 
