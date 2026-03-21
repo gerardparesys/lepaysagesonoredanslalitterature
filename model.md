@@ -95,6 +95,8 @@ Anne-Caroline Rendu Loisel<br>
 Image 100%:   
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
 
+<img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
+
 ---
 Player Audio mp3:
 <div><audio style="width: 100%" controls="controls"><source type="audio/mpeg" src="audio/Goch-Dwa-CreoleHaitien.mp3"><br>
