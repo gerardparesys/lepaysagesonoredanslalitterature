@@ -4,6 +4,9 @@ order: 0
 in_menu: true
 ---
 ![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
+
+<img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
+
 649 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
