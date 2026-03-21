@@ -7,7 +7,6 @@ in_menu: true
 649 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
-<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
