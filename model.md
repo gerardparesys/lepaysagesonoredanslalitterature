@@ -92,8 +92,7 @@ Anne-Caroline Rendu Loisel<br>
 
 <a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">&nbsp;Odyssée</a>   
 
-Image 100%:   
-
+Image Largeur 100%:   
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 
 ---
