@@ -20,7 +20,7 @@ Textes:
 
 - [Les paysages sonores Du Moyen Âge à la Renaissance](https://books.openedition.org/pur/47096){:target="_blank"} sous la direction de Laurent Hablot et Laurent Vissière
 
-- [Le paysage sonore dans la littérature d’Ancien Régime...](https://www.erudit.org/fr/revues/topiques/2022-v6-topiques07705/){:target="_blank"}
+- [Le paysage sonore dans la littérature d’Ancien Régime...](https://www.erudit.org/fr/revues/topiques/2022-v6-topiques07705/){:target="_blank"} (Topiques, études satoriennes Vol 6, 2022)
 
 - [Les sonorités de Maigret](https://www.trussel.com/maig/sonorites-f.htm){:target="_blank"} de Murielle Wenger
 
