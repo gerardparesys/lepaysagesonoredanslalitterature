@@ -92,8 +92,8 @@ Anne-Caroline Rendu Loisel<br>
 
 <a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">&nbsp;Odyssée</a>   
 
-Image 100%:
-
+Image 100%:   
+![Photo de paysage - 128x128]({% link images/imm005_4A-300x200.jpg %})  
 
 ---
 Player Audio mp3:
