@@ -90,7 +90,10 @@ Anne-Caroline Rendu Loisel<br>
 
 <a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">  Odyssée</a>
 
-<a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">&nbsp;Odyssée</a>
+<a href="https://philo-labo.fr/fichiers/Hom%C3%A8re_Odyssee.pdf" target="_blank"><img style="float: left;"  alt="Odyssee" src="images/pdf24x25.png">&nbsp;Odyssée</a>   
+
+Image 100%:
+
 
 ---
 Player Audio mp3:
