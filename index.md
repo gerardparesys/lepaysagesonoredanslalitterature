@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 
-649 descriptions de paysage sonore trouvées dans la littérature
+650 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3085,6 +3085,7 @@ La maison crie et chancelle penchée,<br>
 Et l’on dirait que, du sol arrachée,<br>
 Ainsi qu’il chasse une feuille séchée,<br>
 Le vent la roule avec leur tourbillon !<br>
+<br>
 <div style="margin-left: 20px;">Prophète ! si ta main me sauve<br>
 De ces impurs démons des soirs,<br>
 J’irai prosterner mon front chauve<br>
@@ -3734,10 +3735,11 @@ style="font-style: italic;">Barbier</span>."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul-%C3%89mile_Daurand-Forgues"
-target="_blank">Paul-Émile Daurand-Forgues</a><br>
+target="_blank">Paul-Émile Daurand-Forgues</a> (Old Nick)<br>
 <a
 href="https://books.google.fr/books?id=ToQGAAAAQAAJ&amp;hl=fr&amp;pg=PP1#v=onepage&amp;q&amp;f=false"
-target="_blank">Les petites misères de la vie humaine</a><br>
+target="_blank">Les petites misères de la vie humaine</a> illustré par
+Grandville<br>
 1843<br>
 <br>
 "Reconnaissez, dit-il, ce tumulte quotidien, et toujours le même, où se
@@ -6700,10 +6702,11 @@ angoissé qui te sonde comme si tu étais dans le secret de chaque son
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume
 Apollinaire</a><br>
-Le vent nocturne<br>
-<a href="http://www.bouquineux.com/pdf/Apollinaire-Alcools.pdf"
+<a href="https://fr.wikisource.org/wiki/Alcools/Texte_entier"
 target="_blank">Alcools</a><br>
 1913<br>
+<br>
+Le vent nocturne<br>
 <br>
 "Oh&nbsp;! les cimes des pins grincent en se heurtant<br>
 Et l’on entend aussi se lamenter l’autan<br>
@@ -7031,15 +7034,16 @@ seule page)</a>&nbsp; </div>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume Apollinaire</a><br>
-Le Roi-Lune<br>
 <a target="_blank"
 href="https://fr.wikisource.org/wiki/Le_Po%C3%A8te_assassin%C3%A9">Le
 Poète assassiné</a><br>
 1916<br>
 <br>
+Le Roi-Lune<br>
+<br>
 "Mais les rumeurs lointaines qui provenaient du triste royaume des
 ermitages me sollicitaient trop pour que je ne me laissasse point aller
-au charme qui m’arrivait de la terre des Vêtements blancs et, écoutant
+au charme qui m’arrivait de la terre des vêtements blancs et, écoutant
 attentivement les murmures de l’aube, il me sembla entendre le bruit
 des lavandières battant perpétuellement les linges et les costumes
 virginaux et les chocs incessants des bâtons remplaçant le fer à
@@ -7391,9 +7395,11 @@ autant que possible, en un mot... Pas de phrases avec les morts. Un
 mot, un mot crié de toute ma force, de tout mon être, dans un paysage
 sonore, voilà tout ce qu’ils réclamaient, tout ce qu’ils pouvaient
 entendre&nbsp;!"<br>
-<div style="text-align: right;"><span style="font-style: italic;">A ma
-connaissance c'est dans ce texte où apparait pour la première fois<br>
-en langue française l'expression "paysage sonore".</span><br>
+<br>
+<div style="text-align: right; margin-left: 80px;"><span
+style="font-style: italic;">A ma
+connaissance c'est dans ce texte où apparait pour la première fois en
+langue française l'expression "paysage sonore".</span><br>
 </div>
 <br>
 "C’était l’heure où monte de la terre ce relent qui enivre depuis
@@ -7927,7 +7933,8 @@ oisif. Mais son visage était pâle et meurtri par l'ennui.<br>
 &nbsp;&nbsp;&nbsp; Lorsqu'elle se retourna vers la chambre et qu'elle
 ferma la fenêtre le
 bruissement de la vallée cessa brusquement comme si elle avait fermé
-les vannes d'une rivière."<br>
+les vannes d'une rivière<br>
+<br>
 <div style="text-align: right; font-style: italic;">Ce texte est l'un
 des premiers en langue française qui contient l'expression "paysage
 sonore". <br>
@@ -8189,7 +8196,7 @@ href="https://monoskop.org/images/f/f5/Beckett_Samuel_En_attendant_Godot_1957.pd
 target="_blank">En attendant Godot</a><br>
 1952<br>
 <br>
-Vladimir. - Nous avons des excuses.<br>
+"Vladimir. - Nous avons des excuses.<br>
 Estragon. - C'est pour ne pas entendre.<br>
 Vladimir. - Nous avons nos raisons.<br>
 Estragon. - Toutes les voix mortes.<br>
@@ -8230,7 +8237,7 @@ Estragon. - Je cherche.<br>
 </div>
 Vladimir (angoissé) - Dis n'importe quoi !<br>
 Estragon. - Qu'est-ce qu'on fait maintenant ?<br>
-Vladimir. - On attend Godot. </div>
+Vladimir. - On attend Godot." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Brassens" target="_blank">Georges
@@ -8543,8 +8550,8 @@ Aucun écho."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir
-Nabokov</a><br>
+href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">
+Vladimir Nabokov</a><br>
 <a
 href="https://mrbeland.weebly.com/uploads/3/0/5/5/30558007/lolita.pdf"
 target="_blank">Lolita</a>
@@ -9115,7 +9122,7 @@ pas synchrones. De rares taxis passaient lentement, presque sans bruit."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
 Queneau</a><br>
-<a href="https://www.100th.be/_grafix/philo/fleurs_bleues.pdf"
+<a href="https://fr.wikipedia.org/wiki/Les_Fleurs_bleues"
 target="_blank">Les fleurs bleues</a><br>
 1965<br>
 <br>
@@ -9141,6 +9148,30 @@ Ils avancent en silence."<br>
 "Pendant des minutes d’affilée, on n’entend plus que les houatures
 noctambules chape-chuter sur le boulevard.<br>
 Puis il y a des clameurs, des cris, des jurements peut-être."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Pierre_Schaeffer" target="_blank">Pierre
+Schaeffer</a><br>
+<a href="https://fr.wikipedia.org/wiki/Trait%C3%A9_des_objets_musicaux"
+target="_blank">Traité des objets musicaux</a><br>
+1966<br>
+<br>
+"&nbsp;&nbsp;&nbsp; A proprement parler, je ne cesse jamais d'ouïr. Je
+vis dans un monde qui ne cesse pas d'être là pour moi, et ce monde est
+sonore aussi bien que tactile et visuel. Je me déplace dans une "
+ambiance " comme dans un paysage. Le silence le plus profond est encore
+un fond sonore comme un autre, sur lequel se détachent alors, avec une
+solennité inhabituelle, le bruit de mon souffle et celui de mon coeur.
+Quelle serait pour nous l'étrangeté d'un monde subitement privé de
+cette dimension, nous pouvons l'entrevoir à la faveur d'un incident
+technique, lorsque fa bande sonore d'un film est brutalement
+interrompue, ou dans certains rêves. On se souvient de celui de
+Baudelaire, et de ses " mouvantes merveilles " sur lesquelles " planait
+- terrible nouveauté - tout pour l'oeil, rien pour l'oreille - un
+silence d'éternité ". Comme si la rumeur continuelle qui imprègne
+jusqu'à notre sommeil se confondait avec le sentiment de notre propre
+durée." &nbsp;<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9285,6 +9316,7 @@ Perec</a><br>
 <a
 href="https://lieux-georges-perec.seuil.com/11-contrescarpe-reel-1-juin-1969/"
 target="_blank">11. Contrescarpe, réel 1 - Juin 1969</a><br>
+<br>
 <div style="margin-left: 40px;">"Le patron des « Cinq Billards » est à
 sa porte et grommelle je ne sais quoi sans doute en rapport avec le
 bruit sur le terre-plein.<br>
@@ -9302,6 +9334,7 @@ m’aurait étonné). Musique filtrant du « Mouffe-Club »." </div>
 <a
 href="https://lieux-georges-perec.seuil.com/56-choiseul-reel-3-avril-1971/"
 target="_blank">56. Choiseul, réel 3 - Avril 1971</a><br>
+<br>
 <div style="margin-left: 40px;">"Grand silence<br>
 Il n’y a pas plus de dix personnes dans le passage<br>
 Bruit du ressemeleur tapant sur son enclume"</div>
@@ -9309,6 +9342,7 @@ Bruit du ressemeleur tapant sur son enclume"</div>
 <a
 href="https://lieux-georges-perec.seuil.com/84-franklin-reel-4-juin-1972/"
 target="_blank">84. Franklin, réel 4 - Juin 1972</a><br>
+<br>
 <div style="margin-left: 40px;">"Bruits :<br>
 crissement de pneus<br>
 les voitures<br>
@@ -9585,14 +9619,11 @@ style="font-style: italic;">
 <span style="font-style: italic;">contrebasse et batterie</span><br>
 <br>
   Entre l’avion et le métro le prédicateur rassemble ses ouailles.
-Vite. Entre le<br>
-métro et les voitures les chœurs se font signe. Plus vite. Entre les
-voitures et le<br>
-métro les couleurs se tressent. Encore plus vite. Entre le métro et
-l’avion la <br>
-portière claque. Urgence.<br>
+Vite. Entre le métro et les voitures les chœurs se font signe. Plus
+vite. Entre les voitures et le métro les couleurs se tressent. Encore
+plus vite. Entre le métro et l’avion la portière claque. Urgence.<br>
 <br>
-<span style="font-style: italic;">Les maison de terre douce</span><br
+<span style="font-style: italic;">Les maisons de terre douce</span><br
 style="font-style: italic;">
 <span style="font-style: italic;">les sirènes policières</span><br
 style="font-style: italic;">
@@ -9609,10 +9640,9 @@ style="font-style: italic;">
 <span style="font-style: italic;">le tumulte des machines</span><br>
 <br>
   Un incendie éclate sur l’aéroport. Angoisse. Les tambours
-transmettent <br>
-l’alarme jusqu’aux grandes plaines, jusqu’aux rochers monumentaux dans
-le<br>
-désert. Confusion. Les tambours battent le rappel des esprits. Soupirs.<br>
+transmettent l’alarme jusqu’aux grandes plaines, jusqu’aux rochers
+monumentaux dans le désert. Confusion. Les tambours battent le rappel
+des esprits. Soupirs.<br>
 <br>
 (MONGOLIE TROPICALE)<br>
 <br>
@@ -9634,8 +9664,7 @@ le démontage des yourtes</span><br style="font-style: italic;">
 départ au petit matin</span><br>
 <br>
 &nbsp; Les grands tétras pérorent comme des robots mal huilés dans les
-steppes de <br>
-l’Asie centrale.<br>
+steppes de l’Asie centrale.<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9758,8 +9787,10 @@ Pennac</a><br>
 target="_blank">Mon assassin</a><br>
 2024<br>
 <br>
-"Ça freine, ça chuinte, ça crisse, ça siffle, ça s’immobilise dans un
+"... on retombe dans le silence.<br>
+Puis, le contrôleur annonce Paris gare de l'Est. On arrive à
+destination.<br>
+Ça freine, ça chuinte, ça crisse, ça siffle, ça s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 19 3 2026 
+</div><br>
+page mise à jour 23 3 2026 
