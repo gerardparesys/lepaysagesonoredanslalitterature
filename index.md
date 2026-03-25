@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 
-650 descriptions de paysage sonore trouvées dans la littérature
+651 descriptions de paysage sonore trouvées dans la littérature
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6761,7 +6761,7 @@ imprimeries, des usines électriques et des chemins de fer souterrains."
 href="https://fr.wikipedia.org/wiki/Blaise_Cendrars" target="_blank">Blaise
 Cendrars</a><br>
 <a
-href="https://is.muni.cz/el/1441/podzim2014/FJBP_LI3S/um/Cendrars_Prose_du_transsiberien.pdf"
+href="https://monoskop.org/images/4/4c/Cendrars_Blaise_Delaunay-Terk_Sonia_La_prose_du_Transsiberien_et_de_La_petite_Jehanne_de_France.pdf"
 target="_blank">La Prose du Transsibérien et de la petite Jehanne de
 France</a><br>
 1913<br>
@@ -6777,7 +6777,9 @@ les heures quand j'étais dans un bureau<br>
 Et mes souvenirs<br>
 Le train tonne sur les plaques tournantes<br>
 Le train roule<br>
-Un gramophone grasseye une marche tzigane" </div>
+Un gramophone grasseye une marche tzigane<br>
+Et le monde comme l'horloge du quartier juif de Prague, tourne
+éperdument à rebours." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
@@ -7030,6 +7032,34 @@ réguliers la bonne nouvelle et jetait en l’air son cri de joie."<br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">À la recherche du temps perdu (Texte intégral en une
 seule page)</a>&nbsp; </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Alfred_D%C3%B6blin" target="_blank">Alfred
+Döblin</a><br>
+<a
+href="https://de.wikipedia.org/wiki/Die_drei_Spr%C3%BCnge_des_Wang-lun"
+target="_blank">Die drei Sprünge des Wang-lun, Chinesischer Roman</a><br>
+Les trois bonds de Wang Lun : roman chinois - Traduction (1932) de Eric
+Pierre Isler<br>
+1915<br>
+<br>
+"Je vais fermer ma fenêtre.<br>
+Les rues ont pris des voix bizarres ces dernières années. On a tendu un
+gril sous les pierres. À chaque poteau pendillent de gros éclats de
+verre,&nbsp; des plaques de fer qui grondent, des tubes qui mâchent
+l’écho. Le bois, l’air comprimé, des bouches formidables, des
+roulements incessants emplissent l’atmosphère d’un bruit sourd,
+discordant, saccadé.<br>
+...<br>
+Je ne blâme pas ces vibrations déconcertantes. Mais je ne m’y retrouve
+pas. Je ne sais pas à qui sont ces voix. Quelle est donc cette âme qui
+a besoin d’une voûte de résonance aussi écrasante ?"<br>
+<br>
+cité dans : <a
+href="https://cerisy-colloques.fr/wp-content/uploads/2020/05/DixNeufCentTreize-PubCerisy2015.pdf"
+target="_blank">1913 : cent ans après - Enchantements et
+désenchantements</a> de Colette Camelin et Marie-Paule Berranger<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
@@ -8278,7 +8308,8 @@ target="_blank">Baladas y canciones del Paraná - Balada del silencio
 temeroso</a><br>
 <a
 href="https://terresdefemmes.fr/mon_weblog/2011/02/rafael-alberti-ballade-du-silence-craintif.html"
-target="_blank">Ballades et Chansons du Parana</a><br>
+target="_blank">Ballades et Chansons du Parana - Traduction (1998) de
+Claude Couffon</a><br>
 1953<br>
 <br>
 Ballade du silence craintif<br>
@@ -9165,7 +9196,7 @@ un fond sonore comme un autre, sur lequel se détachent alors, avec une
 solennité inhabituelle, le bruit de mon souffle et celui de mon coeur.
 Quelle serait pour nous l'étrangeté d'un monde subitement privé de
 cette dimension, nous pouvons l'entrevoir à la faveur d'un incident
-technique, lorsque fa bande sonore d'un film est brutalement
+technique, lorsque la bande sonore d'un film est brutalement
 interrompue, ou dans certains rêves. On se souvient de celui de
 Baudelaire, et de ses " mouvantes merveilles " sur lesquelles " planait
 - terrible nouveauté - tout pour l'oeil, rien pour l'oreille - un
@@ -9792,5 +9823,6 @@ Puis, le contrôleur annonce Paris gare de l'Est. On arrive à
 destination.<br>
 Ça freine, ça chuinte, ça crisse, ça siffle, ça s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 23 3 2026 
+</div>
+<br>
+page mise à jour 25 3 2026 
