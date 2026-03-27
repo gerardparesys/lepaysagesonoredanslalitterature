@@ -4,9 +4,7 @@ order: 0
 in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
-
-651 descriptions de paysage sonore trouvées dans la littérature
-<br>
+655 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2902,15 +2900,15 @@ de Vigny</a><br>
 <br>
 "...<br>
 C'est là qu’il faut s’asseoir, c’est là qu'il faut entendre<br>
-Les airs lointains d'un cor mélancolique et tendre.<br>
+Les airs lointains d'un Cor mélancolique et tendre.<br>
 <br>
 Souvent un voyageur, lorsque l'air est sans bruit,<br>
-De cette voix d’airain fait retentir la nuit;<br>
+De cette voix d’airain fait retentir la nuit ;<br>
 A ses chants cadencés autour de lui se mêle<br>
 L'harmonieux grelot du jeune agneau qui bêle.<br>
 <br>
 Une biche attentive, au lieu de se cacher,<br>
-Se suspend immobile au sommet du rocher;<br>
+Se suspend immobile au sommet du rocher,<br>
 Et la cascade unit, dans une chute immense,<br>
 Son éternelle plainte aux chants de la romance." </div>
 <br>
@@ -3008,7 +3006,7 @@ Dante<br>
 </div>
 <br>
 <div style="margin-left: 140px;">Murs, ville,<br>
-Et port.<br>
+Et port,<br>
 Asile<br>
 De mort,<br>
 Mer grise<br>
@@ -3208,7 +3206,8 @@ commençaient à tomber sur ses feuilles les plus basses."<br>
 par ce léger vent de la nuit, et les chiens du moulin du Doubs qui
 aboyaient dans le lointain."<br>
 <br>
-"Après un instant de prières dans le plus profond silence, troublé
+"&nbsp;&nbsp;&nbsp; Après un instant de prières dans le plus profond
+silence, troublé
 seulement par le son lointain des cloches de tous les villages à dix
 lieues à la ronde, l’évêque d’Agde demanda au roi la permission de
 parler."<br>
@@ -3274,6 +3273,31 @@ Une lumière magique jouant autour d'elle,<br>
 L’enchantement des archets dociles,<br>
 Une foule de nymphes autour d’elle, — enfin !<br>
 Istomina sur ses pointes..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
+Hugo</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Les_Feuilles_d%E2%80%99automne/Texte_entier"
+target="_blank">Les feuilles d’automne</a><br>
+1831<br>
+<br>
+Pan<br>
+<br>
+"Allez dans les forêts, allez dans les vallées !<br>
+Faites-vous un concert des notes isolées !<br>
+Cherchez dans la nature, étalée à vos yeux,<br>
+Soit que l’hiver l'attriste ou que l’été l’égaye,<br>
+Le mot mystérieux que chaque voix bégaye ;<br>
+Écoutez ce que dit la foudre dans les cieux !<br>
+...<br>
+Enivrez-vous de tout ! enivrez-vous, poètes,<br>
+Des gazons, des ruisseaux, des feuilles inquiètes,<br>
+Du voyageur de nuit dont on entend la voix,<br>
+De ces premières fleurs dont février s’étonne,<br>
+Des eaux, de l’air, des prés, et du bruit monotone<br>
+Que font les chariots qui passent dans les bois."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -4086,15 +4110,16 @@ fer du joug résonnent, l'arc du collier oscille, les rênes frémissent,
 les clochettes de cuivre carillonnent, tandis que l'étalon, le
 vigoureux étalon bondit."<br>
 <br>
-"... de loin , on entendit le bruit des rames battant contre les flancs
+"... de loin, on entendit le bruit des rames battant contre les flancs
 de la carène.<br>
 ... les bancs du navire craquèrent, ses courbes frissonnèrent ; les
 avirons en bois de sorbier grincèrent ; leurs manches caquetèrent comme
-des gelinottes , leurs palettes crièrent comme des coqs de bruyères ;
-la proue chanta comme un cygne , la poupe croassa comme un corbeau, les
+des gelinottes, leurs palettes crièrent comme des coqs de bruyères ;
+la proue chanta comme un cygne, la poupe croassa comme un corbeau, les
 supports des rames gloussèrent comme des oies."<br>
 <br>
-"Lorsqu'il joua dans sa maison, sa maison construite en bois de sapin,
+"&nbsp;&nbsp;&nbsp; Lorsqu'il joua dans sa maison, sa maison construite
+en bois de sapin,
 le toit résonna dans ses hauteurs, la voûte du toit fit écho, le
 plancher tressaillit, les portes mugirent, toutes les fenêtres
 tremblèrent, les pierres du foyer dansèrent, la poutre en bois madré de
@@ -4109,7 +4134,8 @@ Allan Poe</a><br>
 histoires extraordinaires - Traduction (1857) de Charles Baudelaire</a><br>
 1849<br>
 <br>
-"Il y eut pendant une demi-minute un silence de mort, pendant lequel on
+"&nbsp;&nbsp;&nbsp; Il y eut pendant une demi-minute un silence de
+mort, pendant lequel on
 aurait entendu tomber une feuille, une plume. Ce silence fut interrompu
 par une espèce de grincement sourd, mais rauque et prolongé, qui sembla
 jaillir tout d’un coup de tous les coins de la chambre."
@@ -6101,6 +6127,25 @@ dans sa vie&nbsp;; et, maintenant, elle s’y plaisait, son calme était
 fait de cette agitation et de ce vacarme." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Knut_Hamsun" target="_blank">Knut
+Hamsun</a><br>
+<a
+href="https://www.hamsun.dk/wp-content/uploads/2017/03/hamsun_sult_no_dk_gutenberg.pdf"
+target="_blank">Sult</a><br>
+<a href="https://beq.ebooksgratuits.com/classiques/Hamsun-faim.pdf"
+target="_blank">La faim - Traduction (1926) de Georges Sautreau</a><br>
+1890<br>
+<br>
+"&nbsp;&nbsp;&nbsp; L'obscurité régnait autour de moi, tout était
+tranquille, tout. Mais dans les hauteurs bruissait le chant éternel de
+l'atmosphère, ce bourdonnement lointain, sans modulations, qui jamais
+ne se tait. Je prêtai si longtemps l'oreille à ce murmure sans fin, ce
+murmure morbide, qu'il commença à me troubler. C'étaient certainement
+les symphonies des mondes tournant dans l'espace au-dessus de moi, les
+étoiles qui entonnaient un hymne..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
 <a
@@ -6755,6 +6800,58 @@ le clapotement des drapeaux. Nous nous amuserons à orchestrer
 idéalement les portes à coulisses des magasins, le brouhaha des foules,
 les tintamarres différents des gares, des forges, des filatures, des
 imprimeries, des usines électriques et des chemins de fer souterrains."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Valery_Larbaud" target="_blank">Valery
+Larbaud</a><br>
+Les Poésies de A.O. Barnabooth<br>
+1913<br>
+<br>
+Thalassa<br>
+<br>
+"Bruits du navire : voix dans un corridor,<br>
+Craquements des boiseries, grincements des lampes oscillantes,<br>
+Rythme des machineries, leur odeur fade par bouffées,<br>
+Cris mangés de vent, qui brouillent la musique<br>
+D’une mandoline égrenant : ‘Sobre las olas del mar...’<br>
+Et le bruit coutumier qui finit par être silence.<br>
+&nbsp;<br>
+Oh! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
+Sifflant dans les cordages, et faisant claquer comme un fouet<br>
+Le drapeau de bandes et d’étoiles aux trois couleurs…"<br>
+<br>
+cité par <a target="_blank"
+href="https://data.over-blog-kiwi.com/5/98/25/87/20200925/ob_8558d3_larbaud-thalassa.pdf">Daniel
+Lefèvre</a><br>
+<br>
+"Prête-moi ton grand bruit, ta grande allure si douce,<br>
+Ton glissement nocturne à travers l’Europe illuminée,<br>
+Ô train de luxe ! et l’angoissante musique<br>
+Qui bruit le long de tes couloirs de cuir doré,<br>
+Tandis que derrière les portes laquées, aux loquets de cuivre lourd,<br>
+Dorment les millionnaires.<br>
+Je parcours en chantonnant tes couloirs<br>
+Et je suis ta course vers Vienne et Budapesth,<br>
+Mêlant ma voix à tes cent mille voix,<br>
+Ô Harmonika-Zug !<br>
+...<br>
+Prêtez-moi, ô Orient-Express, Sud-Brenner-Bahn, prêtez-moi<br>
+Vos miraculeux bruits sourds et<br>
+Vos vibrantes voix de chanterelle ;<br>
+Prêtez-moi la respiration légère et facile<br>
+Des locomotives hautes et minces, aux mouvements<br>
+Si aisés, les locomotives des rapides,<br>
+Précédant sans effort quatre wagons jaunes à lettres d’or<br>
+Dans les solitudes montagnardes de la Serbie,<br>
+Et, plus loin, à travers la Bulgarie pleine de roses…<br>
+Ah ! il faut que ces bruits et que ce mouvement<br>
+Entrent dans mes poèmes..."<br>
+<br>
+cité dans : <a
+href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A209766/datastream/PDF_01/view"
+target="_blank">Sur les rails De Victor Hugo à Jacques Roubaud</a> de
+Anne Reverseau <br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7754,9 +7851,13 @@ Camus</a><br>
 target="_blank">Carnets I</a><br>
 1939<br>
 <br>
-"Tout se taisait. Le wagon vibrait doucement. Et si j'entendais
-derrière les vitres les froissements de la nuit pluvieuse, je
-l'entendais encore comme un silence." </div>
+"Et alors, une fois assis, au milieu de l'extraordinaire silence qui
+m'accueillait soudain, je me suis senti délivré.<br>
+...<br>
+Tout se taisait. Le wagon vibrait doucement. Et si j'entendais derrière
+les vitres les froissements de la nuit pluvieuse, je l'entendais encore
+comme un silence."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Boulgakov"
@@ -8381,7 +8482,8 @@ href="https://ia800307.us.archive.org/28/items/pdfy-vnXO-od_TGesvm_S/Huxley%2CAl
 target="_blank">Le désert - Traduction (1954) de Jules Castier</a><br>
 1954<br>
 <br>
-"Et pourtant, malgré tout, le silence persiste. Car ce silence du
+"&nbsp;&nbsp;&nbsp; Et pourtant, malgré tout, le silence persiste. Car
+ce silence du
 désert est tel, que les sons fortuits, et même le bruit systématique de
 la civilisation, ne peuvent l’abolir. Ils coexistent avec lui, – à
 titre de petites incohérences à angle droit par rapport à une
@@ -9626,8 +9728,8 @@ quelques radios." </div>
 href="https://fr.wikipedia.org/wiki/Michel_Butor" target="_blank">Michel
 Butor</a><br>
 <a href="https://www.gallimard.fr/catalogue/seize-lustres/9782070776832"
-target="_blank">Seize lustres</a> - Paysages planétaires - cité dans: <a
-href="https://www.barapoemes.net/archives/2020/08/12/38475537.html"
+target="_blank">Seize lustres</a> - Paysages planétaires - cité dans :
+<a href="https://www.barapoemes.net/archives/2020/08/12/38475537.html"
 target="_blank">Le bar à poèmes<br>
 1990 .. 2006</a><br>
 <br>
@@ -9819,9 +9921,10 @@ target="_blank">Mon assassin</a><br>
 2024<br>
 <br>
 "... on retombe dans le silence.<br>
-Puis, le contrôleur annonce Paris gare de l'Est. On arrive à
-destination.<br>
-Ça freine, ça chuinte, ça crisse, ça siffle, ça s’immobilise dans un
+&nbsp;&nbsp;&nbsp; Puis, le contrôleur annonce Paris gare de l'Est. On
+arrive à destination.<br>
+&nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
+s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
