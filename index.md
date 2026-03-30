@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 <br>
-655 descriptions de paysage sonore trouvées dans la littérature.<br>
+657 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1665,14 +1665,16 @@ href="https://fr.wikisource.org/wiki/Textes_choisis_:_pens%C3%A9es,_th%C3%A9orie
 target="_blank">Textes choisis Pensées, théories, préceptes, fables et
 facéties - Traduction (1907) de Joséphin Péladan</a><br>
 <br>
-"Oh ! quelles rumeurs effrayantes on entend dans l’air obscur, déchiré
+"&nbsp;&nbsp;&nbsp; Oh ! quelles rumeurs effrayantes on entend dans
+l’air obscur, déchiré
 par la fureur du tonnerre et les fulgurances de ces secousses qui
 dévastent et passent, frappant tout ce qui leur fait obstacle ! Oh !
 combien vous en auriez vu boucher leurs oreilles avec leurs mains pour
 ne pas entendre l’immense rumeur qui emplit l’air ténébreux de la
 fureur des vents mêlés a la pluie, aux tonnerres célestes et à la
 fureur de la foudre.<br>
-D’autres ne se bornent pas à fermer leurs yeux, ils y posent leurs
+&nbsp;&nbsp;&nbsp; D’autres ne se bornent pas à fermer leurs yeux, ils
+y posent leurs
 mains superposées et les serrent pour ne pas voir le cruel destin que
 la colère de Dieu fait à l’espèce humaine."<br>
 <br>
@@ -1713,11 +1715,12 @@ target="_blank">François
 Rabelais</a><br>
 Gargantua et Pantagruel<br>
 <a
-href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29%5CTiersLivre"
+href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel,_Tome_II_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29/Texte_entier"
 target="_blank"> TiersLivre - Transcrit et annoté (1913) par Clouzot</a><br>
 1546<br>
 <br>
-"Quand tu vois le heurt de deux armées, penses-tu, couillasse, que le
+"&nbsp;&nbsp;&nbsp; Quand tu vois le heurt de deux armées, penses-tu,
+couillasse, que le
 bruit si grand et horrible que l’on y ouît provienne des voix humaines,
 du hurtis des harnois, du cliquetis des bardes, du
 chaplis des masses, du froissis des piques, du bris des lances, du
@@ -1751,7 +1754,7 @@ target="_blank">François
 Rabelais</a><br>
 Gargantua et Pantagruel<br>
 <a
-href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29%5CQuartLivre"
+href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29/QuartLivre"
 target="_blank"> Quart Livre - Transcrit et annoté (1913) par Clouzot</a><br>
 1548<br>
 <br>
@@ -1762,12 +1765,14 @@ les chaplis des masses, les hurtis des harnois, des
 bardes, les hennissements des chevaux, et tout autre effroi de combat.
 À cette heure, la rigueur de l’hiver passée, advenant la sérénité
 et tempérie du bon temps, elles fondent et sont ouîes.<br>
-— Par Dieu, dit Panurge, je l’en crois. Mais en pourrions-nous voir
+&nbsp;&nbsp;&nbsp; — Par Dieu, dit Panurge, je l’en crois. Mais en
+pourrions-nous voir
 quelqu’une&nbsp;? Me souvient avoir lu que l’orée de la montagne
 en
 laquelle Moses reçut la loi des Juifs, le peuple voyait les voix
 sensiblement.<br>
-— Tenez, tenez, dit Pantagruel, voyez-en ci qui encore ne sont
+&nbsp;&nbsp;&nbsp; — Tenez, tenez, dit Pantagruel, voyez-en ci qui
+encore ne sont
 dégelées.<br>
 Lors nous jeta sur le tillac pleines mains de paroles gelées, et
 semblaient dragées perlées de diverses couleurs. Nous y vîmes des
@@ -1782,10 +1787,12 @@ tressaillir. « C’était, dit frère Jean, un coup de faucon en son
 temps. » Panurge requit Pantagruel lui en donner encore. Pantagruel lui
 répondit que donner paroles était acte des amoureux. « Vendez-m’en
 donc, disait Panurge.<br>
-— C’est acte d’avocats, répondit Pantagruel, vendre paroles. Je vous
+&nbsp;&nbsp;&nbsp; — C’est acte d’avocats, répondit Pantagruel, vendre
+paroles. Je vous
 vendrais plutôt silence et plus chèrement, ainsi que quelquefois le
 vendit Démosthènes moyennant son argentangine. »<br>
-Ce nonobstant il en jeta sur le tillac trois ou quatre poignées Et y
+&nbsp;&nbsp;&nbsp; Ce nonobstant il en jeta sur le tillac trois ou
+quatre poignées Et y
 vis des paroles bien piquantes, des paroles sanglantes, (lesquelles le
 pilote nous disait quelquefois retourner on lieu duquel étaient
 proférées, mais c’était la gorge coupée), des paroles horrifiques,
@@ -1836,7 +1843,7 @@ target="_blank">Pièces retranchées des amours</a> - XXV<br>
 Qui rit parmy les prez, et d'ouïr les oiseaux,<br>
 D'ouïr en-contre-val le gazouillis des eaux,<br>
 Et des vents printanniers le gracieux murmure,<br>
-Quand celle qui me blesse et de mon mal n'a cure<br>
+&nbsp;&nbsp;&nbsp; Quand celle qui me blesse et de mon mal n'a cure<br>
 ..."<br>
 </div>
 <br>
@@ -1846,7 +1853,7 @@ target="_blank">François
 Rabelais</a><br>
 Gargantua et Pantagruel<br>
 <a
-href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29%5CCinqui%C3%A8meLivre"
+href="https://fr.wikisource.org/wiki/Gargantua_et_Pantagruel_%28Texte_transcrit_et_annot%C3%A9_par_Clouzot%29/Cinqui%C3%A8meLivre"
 target="_blank"> Cinquième Livre - Transcrit et annoté (1913) par
 Clouzot</a><br>
 1564<br>
@@ -1872,12 +1879,14 @@ infatigable des hommes là résidants, comme était notre avis."<br>
 &nbsp;&nbsp;&nbsp; révoquer : rappeler<br>
 &nbsp;&nbsp;&nbsp; triballement : agitation<br>
 <br>
-"Cherchants donc par ledit pays si viandes aucunes trouverions,
+"&nbsp;&nbsp;&nbsp; Cherchants donc par ledit pays si viandes aucunes
+trouverions,
 entendîmes un bruit strident et divers, comme si fussent femmes lavant
 la buée ou traquets du moulin du Bazacle-lez-Toulouse."<br>
 &nbsp;&nbsp;&nbsp; buée : lessive<br>
 <br>
-"Soudainement les deux portes, sans que personne y touchât, de soi-même
+"&nbsp;&nbsp;&nbsp; Soudainement les deux portes, sans que personne y
+touchât, de soi-même
 s’ouvrirent, et, s’ouvrant, firent non bruit strident, non
 frémissement horrible, comme font ordinairement portes de bronze rudes
 et pesantes, mais doux et gracieux murmure, retentissant par la voûte
@@ -1896,7 +1905,8 @@ de la sacrée bouteille issit un bruit tel que font les abeilles
 naissantes de la chair d’un jeune taureau occis et accoutré selon
 l’art et invention d’Aristéus, ou tel que fait un garot
 débandant l’arbalète, ou en été une forte pluie soudainement
-tombant. Lors fut ouî ce mot : Trinc. « Elle est, s’écria Panurge, par
+tombant. Lors fut ouï ce mot : <span style="font-style: italic;">Trinc.</span>
+« Elle est, s’écria Panurge, par
 la vertu Dieu, rompue ou fêlée, que je ne mente : ainsi parlent les
 bouteilles cristallines de nos pays, quand elles près du feu
 éclatent. »"<br>
@@ -1928,27 +1938,29 @@ Zhongdao</a> (1570 .. 1624)<br>
 target="_blank">Le kiosque des accords parfaits - Traduction (1987) de
 Martine Vallette-Hémery</a><br>
 <br>
-“La Fontaine de Jade sourd en une pluie de perles pour se déverser dans
-un canal obstrué de grosses pierres. L’eau tombe d’une hauteur de plus
-de dix pieds avec un bruit si fort qu’il s’entend à plusieurs li à la
-ronde. J’aime à venir l’écouter quand je séjourne sur la montagne.<br>
-La fontaine est bordée de pierres sur lesquelles je peux déposer un
-coussin et passer la journée en posture de méditation. Tout d’abord,
-mon esprit reste fluctuant et mes pensées tumultueuses. Mes oreilles ne
-sont pas à l’unisson de la fontaine, encore distraites par le chant du
-vent dans les branches ou des oiseaux dans la vallée. Je ferme les yeux
-et respire à fond, soustrais ma vue et mon ouïe aux sollicitations
-extérieures. J’oublie les dix mille causes de la destinée et suis
-soudain envahi de solitude.<br>
-Alors la fontaine se manifeste à moi dans toutes ses métamorphoses.
-Elle est tour à tour un pin qui se lamente, un jade qui se brise, un
-luth pincé avec un plectre de fer, de fulgurants roulements de tonnerre
-qui ébranlent les monts et les eaux. Plus mon esprit s’apaise, plus
-fort est le bruit de la fontaine, et il me pénètre jusqu’au cœur. Une
-calme fraîcheur ruisselle dans mes entrailles et les lave de leurs
-souillures, me baigne dans l’oubli du monde qui m’emprisonnait, dans
-l’indifférence à la vie et à la mort. Ainsi, plus fort est le bruit de
-la fontaine, plus profonde est la paix de mon esprit.”<br>
+“&nbsp;&nbsp;&nbsp; La Fontaine de Jade sourd en une pluie de
+perles pour se déverser dans un canal obstrué de grosses pierres. L’eau
+tombe d’une hauteur de plus de dix pieds avec un bruit si fort qu’il
+s’entend à plusieurs li à la ronde. J’aime à venir l’écouter quand je
+séjourne sur la montagne.<br>
+&nbsp;&nbsp;&nbsp; La fontaine est bordée de pierres sur lesquelles je
+peux déposer un coussin et passer la journée en posture de méditation.
+Tout d’abord, mon esprit reste fluctuant et mes pensées tumultueuses.
+Mes oreilles ne sont pas à l’unisson de la fontaine, encore distraites
+par le chant du vent dans les branches ou des oiseaux dans la vallée.
+Je ferme les yeux et respire à fond, soustrais ma vue et mon ouïe aux
+sollicitations extérieures. J’oublie les dix mille causes de la
+destinée et suis soudain envahi de solitude.<br>
+&nbsp;&nbsp;&nbsp; Alors la fontaine se manifeste à moi dans toutes ses
+métamorphoses. Elle est tour à tour un pin qui se lamente, un jade qui
+se brise, un luth pincé avec un plectre de fer, de fulgurants
+roulements de tonnerre qui ébranlent les monts et les eaux. Plus mon
+esprit s’apaise, plus fort est le bruit de la fontaine, et il me
+pénètre jusqu’au cœur. Une calme fraîcheur ruisselle dans mes
+entrailles et les lave de leurs souillures, me baigne dans l’oubli du
+monde qui m’emprisonnait, dans l’indifférence à la vie et à la mort.
+Ainsi, plus fort est le bruit de la fontaine, plus profonde est la paix
+de mon esprit.”<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -1971,7 +1983,8 @@ target="_blank">Tome 2</a><br>
 "Écoute donc, et prête une oreille attentive, non pas au son
 harmonieux, mais au bruit confus qui, pour ma satisfaction et pour ton
 dépit, s’exhale du fond de ma poitrine amère :<br>
-« Que le rugissement du lion, le féroce hurlement du loup, le
+&nbsp;&nbsp;&nbsp; « Que le rugissement du lion, le féroce hurlement du
+loup, le
 sifflement horrible du serpent écailleux, l’effroyable cri de quelque
 monstre, le croassement augural de la corneille, le vacarme du vent qui
 agite la mer, l’implacable mugissement du taureau vaincu, le plaintif
@@ -2029,7 +2042,8 @@ quatre
 coins du bois on livrât en même temps quatre batailles. Là, résonnait
 le bruit sourd et effroyable de l’artillerie&nbsp;; ici, partaient une
 infinité d’arquebuses&nbsp;; tout près, on entendait les cris des
-combattants&nbsp;; plus loin, les hélélis sarrasins. Finalement, les
+combattants&nbsp;; plus loin, les <span style="font-style: italic;">hélélis</span>
+sarrasins. Finalement, les
 cornets, les cors de chasse, les clairons, les trompettes, les
 tambours, l’artillerie, les coups d’arquebuse, et par-dessus tout
 l’épouvantable cliquetis des charrettes, tout cela formait à la fois un
@@ -2114,24 +2128,27 @@ intelligence qui gouverne les villes et les royaumes.<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D" target="_blank">Bashô</a>
+href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D" target="_blank">Matsuo
+Bashō</a>
 (1644 .. 1694)<br>
+<br>
 <a href="https://www.editionslibretto.fr/catalogue/fourmis-sans-ombre/"
 target="_blank">Fourmis sans ombre - Le livre du haïku - Maurice Coyaud</a><br>
 1681<br>
 <br>
-Bananier. Tempête automnale<br>
+"Bananier. Tempête automnale<br>
 La pluie dans le baquet<br>
-J’écoute : c’est la nuit<br>
+J’écoute : c’est la nuit"<br>
 <br>
 <a
-href="https://terresdefemmes.blogs.com/mon_weblog/2023/02/ce-printemps-dans-ma-cabane-absolument-rien-absolument-tout-yamaguchi-sod%C3%B4-25-autour-de-ma.html"
+href="https://www.librairie-gallimard.com/livre/9782070413065-haiku-anthologie-du-poeme-court-japonais-collectif/"
 target="_blank">Traduction de Corinne Atlan et Zéno Bianu - Haiku,
 Anthologie du poème court japonais</a><br>
+1688<br>
 <br>
-La cloche se tait -<br>
-les fleurs en echo<br>
-parfument le soir !<br>
+"La cloche se tait -<br>
+les fleurs en écho<br>
+parfument le soir !"<br>
 <br>
 <a href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D#cite_ref-11"
 target="_blank">Traduction de Cheng Wing et Hervé Collet</a> pour <a
@@ -2139,9 +2156,9 @@ target="_blank" href="https://moundarren.com/poesie-japonaise/">les Ed
 Moundarren</a><br>
 1689<br>
 <br>
-Silence<br>
+"Silence<br>
 le chant des cigales<br>
-pénètre les rocs
+pénètre les rocs"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2319,10 +2336,10 @@ target="_blank">Buffon</a><br>
 <a
 href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan"
 target="_blank">Œuvres complètes</a><br>
-<br>
 <a
-href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan/Table_par_tomes/Tome_I"
-target="_blank">Tome 1 Histoire et théorie de la Terre</a><br>
+href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan/Introduction/2"
+target="_blank">Tome 1 Histoire et théorie de la Terre - Organisation
+de la Terre</a><br>
 1749<br>
 <br>
 "Aussi les éruptions des volcans et les tremblements de terre sont
@@ -2330,24 +2347,6 @@ précédés et accompagnés d’un bruit sourd et roulant, qui ne diffère de
 celui du tonnerre que par le ton sépulcral et profond que le son prend
 nécessairement en traversant une grande épaisseur de matière solide,
 lorsqu’il s’y trouve renfermé."<br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan/Table_par_tomes/Tome_V"
-target="_blank">Tome 5 Oiseaux</a><br>
-1770<br>
-<br>
-"J’ai souvent passé des jours entiers dans les forêts, où l’on est
-obligé de s’appeler de loin et d’écouter avec attention pour entendre
-le son du cor et la voix des chiens ou des hommes ; j’ai remarqué que,
-dans le temps de la plus grande chaleur du jour, c’est à dire depuis
-dix heures jusqu’à quatre, on ne peut entendre que d’assez près les
-mêmes voix, les mêmes sons que l’on entend de loin le matin, le soir,
-et surtout la nuit, dont le silence ne fait rien ici, parce qu’à
-l’exception des cris de quelques reptiles ou de quelques oiseaux
-nocturnes, il n’y avait pas le moindre bruit dans ces forêts ; j’ai de
-plus observé qu’à toutes les heures du jour et de la nuit on entendait
-plus loin en hiver par la gelée que par le plus beau temps de toute
-autre saison."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2387,7 +2386,8 @@ href="https://fr.wikipedia.org/wiki/Voltaire" target="_blank">Voltaire</a><br>
 target="_blank">Candide</a><br>
 1759<br>
 <br>
-"Le souper fut comme la plupart des soupers de Paris ; d’abord du
+"&nbsp;&nbsp;&nbsp; Le souper fut comme la plupart des soupers de Paris
+; d’abord du
 silence, ensuite un bruit de paroles qu’on ne distingue point, puis des
 plaisanteries dont la plupart sont insipides, de fausses nouvelles, de
 mauvais raisonnements, un peu de politique et beaucoup de médisance ;
@@ -2453,24 +2453,6 @@ des hommes et le pas des chevaux de beaucoup plus loin qu’en restant
 debout." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
-Diderot</a><br>
-<a href="https://beq.ebooksgratuits.com/vents/diderot-neveu.pdf"
-target="_blank"> Le neveu de Rameau</a><br>
-1762 .. 1773<br>
-<br>
-"Il pleurait, il riait, il soupirait, il regardait, ou attendri, ou
-tranquille, ou furieux&nbsp;; c’était une femme qui se pâme de
-douleur&nbsp;; c’était un malheureux livré à tout son désespoir&nbsp;;
-un temple qui s’élève&nbsp;; des oiseaux qui se taisent au soleil
-couchant&nbsp;; des eaux ou qui murmurent dans un lieu solitaire et
-frais, ou qui descendent en torrent du haut des montagnes&nbsp;; un
-orage, une tempête, la plainte de ceux qui vont périr, mêlée au
-sifflement des vents, au fracas du tonnerre&nbsp;; c’était la nuit,
-avec ses ténèbres&nbsp;; c’était l’ombre et le silence, car le silence
-même se peint par des sons." </div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 target="_blank">Jean-Jacques
 Rousseau</a><br>
@@ -2524,6 +2506,31 @@ dans toutes ces choses, je ne sais quoi de terrible, de grand et
 d’obscur." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
+target="_blank">Buffon</a><br>
+<a
+href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan"
+target="_blank">Œuvres complètes</a><br>
+<a
+href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan/Histoire_naturelle_des_oiseaux/Discours_sur_la_nature_des_oiseaux"
+target="_blank">Tome 5 Oiseaux - Discours sur la nature des oiseaux</a><br>
+1770<br>
+<br>
+"J’ai souvent passé des jours entiers dans les forêts, où l’on est
+obligé de s’appeler de loin et d’écouter avec attention pour entendre
+le son du cor et la voix des chiens ou des hommes ; j’ai remarqué que,
+dans le temps de la plus grande chaleur du jour, c’est à dire depuis
+dix heures jusqu’à quatre, on ne peut entendre que d’assez près les
+mêmes voix, les mêmes sons que l’on entend de loin le matin, le soir,
+et surtout la nuit, dont le silence ne fait rien ici, parce qu’à
+l’exception des cris de quelques reptiles ou de quelques oiseaux
+nocturnes, il n’y avait pas le moindre bruit dans ces forêts ; j’ai de
+plus observé qu’à toutes les heures du jour et de la nuit on entendait
+plus loin en hiver par la gelée que par le plus beau temps de toute
+autre saison."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis-S%C3%A9bastien_Mercier"
 target="_blank">Louis-Sébastien Mercier</a><br>
 <a
@@ -2559,6 +2566,24 @@ target="_blank">Leçons de clavecin et principes d’harmonie</a><br>
 <br>
 "... un peu de bruit lointain prête un charme inconcevable au silence."
 </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
+Diderot</a><br>
+<a href="https://beq.ebooksgratuits.com/vents/diderot-neveu.pdf"
+target="_blank"> Le neveu de Rameau</a><br>
+1773<br>
+<br>
+"Il pleurait, il riait, il soupirait, il regardait, ou attendri, ou
+tranquille, ou furieux&nbsp;; c’était une femme qui se pâme de
+douleur&nbsp;; c’était un malheureux livré à tout son désespoir&nbsp;;
+un temple qui s’élève&nbsp;; des oiseaux qui se taisent au soleil
+couchant&nbsp;; des eaux ou qui murmurent dans un lieu solitaire et
+frais, ou qui descendent en torrent du haut des montagnes&nbsp;; un
+orage, une tempête, la plainte de ceux qui vont périr, mêlée au
+sifflement des vents, au fracas du tonnerre&nbsp;; c’était la nuit,
+avec ses ténèbres&nbsp;; c’était l’ombre et le silence, car le silence
+même se peint par des sons." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
@@ -2613,101 +2638,6 @@ ma serrure&nbsp;; mais il me parut qu’on se taisait en passant, et
 qu’on marchait sur la pointe des pieds." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Louis-S%C3%A9bastien_Mercier"
-target="_blank">Louis-Sébastien Mercier</a><br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris"
-target="_blank">Tableau de Paris</a><br>
-1782 .. 1789<br>
-<br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_4"
-target="_blank">Tome 4</a><br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/330"
-target="_blank">Les Heures du Jour</a><br>
-1782<br>
-<br>
-"À cinq heures &amp; un quart, c’est un tapage affreux, infernal.
-Toutes les rues sont embarrassées, toutes les voitures roulent en tous
-sens, volent aux différents spectacles ou se rendent aux promenades.
-Les cafés se remplissent.<br>
-À sept heures le calme recommence : calme profond &amp; presque
-universel. Tous les chevaux frappent en vain du pied le pavé. La ville
-est silencieuse, &amp; le tumulte paraît enchaîné par une main
-invisible.<br>
-...<br>
-À neuf heures du soir le bruit recommence : c’est le défilé des
-spectacles. Les maisons sont ébranlées par le roulis des voitures ;
-mais ce bruit est passager.<br>
-...<br>
-Le marteau du forgeron &amp; du maréchal-ferrant trouble quelquefois le
-sommeil du matin, pour les paresseux qui sont encore au lit. Si l’on en
-croyait nos Sybarites, on reléguerait hors des villes tous les artisans
-qui font frémir la lime mordante ; il ne serait plus permis au
-chaudronnier de battre sa marmite, au charron de cercler la roue d’un
-fer durable, aux différentes professions qui courent les rues, d’élever
-ces voix aigres &amp; retentissantes qui se font entendre au sommet
-&amp; jusques sur le derrière des maisons. Il faudrait que le bruit de
-la cité fût enchaîné de toute part, pour protéger leur oisive mollesse,
-&amp; que, le calme du silence environnant leur paisible alcôve, tous
-ces voluptueux pussent presser la plume oiseuse jusqu’à la douzième
-heure, lorsque le soleil est au haut de sa carrière."<br>
-<br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_6"
-target="_blank">Tome 6</a><br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/540"
-target="_blank">Mimes d’un genre nouveau</a><br>
-1783<br>
-<br>
-"Ils imitaient parfaitement ce que personne ne songe à imiter, comme le
-bruit léger d’une mouche qui vole &amp; bourdonne, d’une porte qui se
-ferme &amp; de la clef qui tombe, d’un pot qui se casse. Vous entendez
-ensuite le chant de vingt religieuses, où vous distinguez les voix
-jeunes &amp; les voix cassées ; une procession, un enterrement que
-coupe un embarras, la voix mesurée des prêtres &amp; la voix rauque des
-voituriers. L’oeil voit l’auteur qui crée tous ces tons différents,
-&amp; l’oreille s’étonne de leur vérité &amp; de leur précision.<br>
-Le même homme à table se métamorphose rapidement en plusieurs
-personnages, pleure, rit, chante, sanglote, éternue, tousse, fait le
-sourd, le niais, l’aveugle, le goutteux. Chaque tableau passe comme un
-éclair ; ce sont des nuances fines, délicates, promptes, qui donnent à
-sa physionomie des physionomies diverses, &amp; qui lui impriment une
-prodigieuse &amp; incroyable mobilité."<br>
-<br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_7"
-target="_blank">Tome 7</a><br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/568"
-target="_blank">Rue Plâtriere</a><br>
-1783<br>
-<br>
-"Qui l’eût dit que J. J. Rousseau aurait passé les dix dernières années
-de sa vie dans les fanges &amp; le tumulte de la capitale, tandis que
-l’auteur de la Pucelle a vécu trente années sans y mettre le pied ?<br>
-Quoi, celui qui avait entendu le cri des aigles planants sur les forêts
-de sapin, le rugissement des torrents bleuâtres, lime sourde &amp;
-éternelle qui fend les rocs, creuse des vallons, nourrit les lacs &amp;
-les fleuves, est venu habiter un plancher étroit, resserré, où
-parvenaient sans cesse à son oreille les jurements des forts de la
-halle, &amp; les glapissements des crieuses de vieux chapeaux ! Et
-Voltaire qui travaillait incessamment pour les petits soupers de Paris,
-demeurait au pied du mont Jura."<br>
-<br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_9"
-target="_blank">Tome 9</a><br>
-<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/743"
-target="_blank">Rumeurs théâtrales</a><br>
-1788<br>
-<br>
-"Chez les Romains, il y avait trois sortes d’acclamations ou
-d’applaudissements. La première s’appelait <span
-style="font-style: italic;">bombi</span>, parce qu’ils imitaient le
-bourdonnement des abeilles ; la seconde était appelée <span
-style="font-style: italic;">imbrices</span>, parce qu’ils rendaient un
-son semblable au bruit que fait la pluie en tombant sur les tuiles ;
-&amp; la troisième se nommait <span style="font-style: italic;">testæ</span>,
-parce qu’ils imitaient le son des coquilles &amp; des castagnettes.
-Tous ces applaudissements, comme les acclamations, se donnaient en
-cadence." </div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Edme_Restif_de_La_Bretonne"
 target="_blank">Restif de La Bretonne</a><br>
 <a
@@ -2744,6 +2674,109 @@ les vents dans la forêt, tantôt ils fuient au loin, tantôt ils se
 rapprochent tous à la fois, et assourdissent, comme les sons des
 cloches d’une cathédrale."
 </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Louis-S%C3%A9bastien_Mercier"
+target="_blank">Louis-Sébastien Mercier</a><br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris"
+target="_blank">Tableau de Paris</a><br>
+1782 .. 1789<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_4"
+target="_blank">Tome 4</a><br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/330"
+target="_blank">Les Heures du Jour</a><br>
+1782<br>
+<br>
+"&nbsp;&nbsp;&nbsp; À cinq heures &amp; un quart, c’est un tapage
+affreux, infernal.
+Toutes les rues sont embarrassées, toutes les voitures roulent en tous
+sens, volent aux différents spectacles ou se rendent aux promenades.
+Les cafés se remplissent.<br>
+&nbsp;&nbsp;&nbsp; À sept heures le calme recommence : calme profond
+&amp; presque
+universel. Tous les chevaux frappent en vain du pied le pavé. La ville
+est silencieuse, &amp; le tumulte paraît enchaîné par une main
+invisible.<br>
+...<br>
+&nbsp;&nbsp;&nbsp; À neuf heures du soir le bruit recommence : c’est le
+défilé des
+spectacles. Les maisons sont ébranlées par le roulis des voitures ;
+mais ce bruit est passager.<br>
+...<br>
+&nbsp;&nbsp;&nbsp; Le marteau du forgeron &amp; du maréchal-ferrant
+trouble quelquefois le
+sommeil du matin, pour les paresseux qui sont encore au lit. Si l’on en
+croyait nos Sybarites, on reléguerait hors des villes tous les artisans
+qui font frémir la lime mordante ; il ne serait plus permis au
+chaudronnier de battre sa marmite, au charron de cercler la roue d’un
+fer durable, aux différentes professions qui courent les rues, d’élever
+ces voix aigres &amp; retentissantes qui se font entendre au sommet
+&amp; jusques sur le derrière des maisons. Il faudrait que le bruit de
+la cité fût enchaîné de toute part, pour protéger leur oisive mollesse,
+&amp; que, le calme du silence environnant leur paisible alcôve, tous
+ces voluptueux pussent presser la plume oiseuse jusqu’à la douzième
+heure, lorsque le soleil est au haut de sa carrière."<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_6"
+target="_blank">Tome 6</a><br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/540"
+target="_blank">Mimes d’un genre nouveau</a><br>
+1783<br>
+<br>
+"Ils imitaient parfaitement ce que personne ne songe à imiter, comme le
+bruit léger d’une mouche qui vole &amp; bourdonne, d’une porte qui se
+ferme &amp; de la clef qui tombe, d’un pot qui se casse. Vous entendez
+ensuite le chant de vingt religieuses, où vous distinguez les voix
+jeunes &amp; les voix cassées ; une procession, un enterrement que
+coupe un embarras, la voix mesurée des prêtres &amp; la voix rauque des
+voituriers. L’oeil voit l’auteur qui crée tous ces tons différents,
+&amp; l’oreille s’étonne de leur vérité &amp; de leur précision.<br>
+&nbsp;&nbsp;&nbsp; Le même homme à table se métamorphose rapidement en
+plusieurs
+personnages, pleure, rit, chante, sanglote, éternue, tousse, fait le
+sourd, le niais, l’aveugle, le goutteux. Chaque tableau passe comme un
+éclair ; ce sont des nuances fines, délicates, promptes, qui donnent à
+sa physionomie des physionomies diverses, &amp; qui lui impriment une
+prodigieuse &amp; incroyable mobilité."<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_7"
+target="_blank">Tome 7</a><br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/568"
+target="_blank">Rue Plâtriere</a><br>
+1783<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Qui l’eût dit que J. J. Rousseau aurait passé les
+dix dernières années
+de sa vie dans les fanges &amp; le tumulte de la capitale, tandis que
+l’auteur de la Pucelle a vécu trente années sans y mettre le pied ?<br>
+&nbsp;&nbsp;&nbsp; Quoi, celui qui avait entendu le cri des aigles
+planants sur les forêts
+de sapin, le rugissement des torrents bleuâtres, lime sourde &amp;
+éternelle qui fend les rocs, creuse des vallons, nourrit les lacs &amp;
+les fleuves, est venu habiter un plancher étroit, resserré, où
+parvenaient sans cesse à son oreille les jurements des forts de la
+halle, &amp; les glapissements des crieuses de vieux chapeaux ! Et
+Voltaire qui travaillait incessamment pour les petits soupers de Paris,
+demeurait au pied du mont Jura."<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/Tome_9"
+target="_blank">Tome 9</a><br>
+<a href="https://fr.wikisource.org/wiki/Tableau_de_Paris/743"
+target="_blank">Rumeurs théâtrales</a><br>
+1788<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Chez les Romains, il y avait trois sortes
+d’acclamations ou
+d’applaudissements. La première s’appelait <span
+style="font-style: italic;">bombi</span>, parce qu’ils imitaient le
+bourdonnement des abeilles ; la seconde était appelée <span
+style="font-style: italic;">imbrices</span>, parce qu’ils rendaient un
+son semblable au bruit que fait la pluie en tombant sur les tuiles ;
+&amp; la troisième se nommait <span style="font-style: italic;">testæ</span>,
+parce qu’ils imitaient le son des coquilles &amp; des castagnettes.
+Tous ces applaudissements, comme les acclamations, se donnaient en
+cadence." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
@@ -2814,7 +2847,8 @@ href="https://www.ebooksgratuits.com/ebooksfrance/chateaubriand_atala.pdf"
 target="_blank">Atala</a><br>
 1801<br>
 <br>
-"Si tout est silence et repos dans les savanes de l'autre côté du
+"&nbsp;&nbsp;&nbsp; Si tout est silence et repos dans les savanes de
+l'autre côté du
 fleuve, tout ici, au contraire, est mouvement et murmure : des coups de
 bec contre le tronc des chênes, des froissement d'animaux qui marchent,
 broutent ou broient entre leurs dents les noyaux des fruits, des
@@ -3233,7 +3267,7 @@ chambre, et les murs en renvoyaient l’écho ; on entendait trépider les
 vitres sous l’effort du vent ; l’oscillation régulière du balancier
 d’une horloge et le bruit que font les morceaux de coke embrasé,
 tombant d’eux-mêmes dans le cendrier, donnaient l’apparence de la
-réalité à cette scène dont le tableau se déroulait à ses yeux. " </div>
+réalité à cette scène dont le tableau se déroulait à ses yeux." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac"
@@ -3355,7 +3389,8 @@ Sand</a><br>
 target="_blank">Indiana</a><br>
 1832<br>
 <br>
-"Elle s’occupa aussitôt de déterrer sa valise d’écorce, et elle s’assit
+"&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Elle s’occupa aussitôt de
+déterrer sa valise d’écorce, et elle s’assit
 dessus, silencieuse, tremblante, écoutant le vent qui sifflait, la
 vague qui râlait en mourant à ses pieds, et la satanite qui gémissait
 d’une voix aigre dans les grandes algues marines pendues aux parois des
@@ -3410,34 +3445,40 @@ petits remous silencieux ; ..."<br>
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://www.ebooksgratuits.com/pdf/baudelaire_les_fleurs_du_mal.pdf"
+href="https://fr.wikisource.org/wiki/%C5%92uvres_posthumes_%28Baudelaire%29_%281908%29/Texte_entier"
 target="_blank">Incompatibilité</a><br>
 1837 .. 1838<br>
 <br>
-"On rencontre un lac sombre encaissé dans l’abîme<br>
+"... <br>
+On rencontre un lac sombre encaissé dans l’abîme<br>
 Que forment quelques pics désolés et neigeux ;<br>
 L’eau, nuit et jour, y dort dans un repos sublime,<br>
 Et n’interrompt jamais son silence orageux.<br>
+<br>
 Dans ce morne désert, à l’oreille incertaine<br>
 Arrivent par moments des bruits faibles et longs,<br>
 Et des échos plus morts que la cloche lointaine<br>
 D’une vache qui paît aux penchants des vallons.<br>
+<br>
 Sur ces monts où le vent efface tout vestige,<br>
 Ces glaciers pailletés qu’allume le soleil,<br>
 Sur ces rochers altiers où guette le vertige,<br>
 Dans ce lac où le soir mire son teint vermeil,<br>
-Sous mes pieds, sur ma tête et partout, le silence,<br>
+<br>
+Sous mes pieds, sur ma tête et partout le silence,<br>
 Le silence qui fait qu’on voudrait se sauver,<br>
 Le silence éternel et la montagne immense,<br>
 Car l’air est immobile et tout semble rêver.<br>
+<br>
 On dirait que le ciel, en cette solitude,<br>
 Se contemple dans l’onde, et que ces monts, là-bas,<br>
 Écoutent, recueillis, dans leur grave attitude,<br>
 Un mystère divin que l’homme n’entend pas.<br>
+<br>
 Et lorsque par hasard une nuée errante<br>
 Assombrit dans son vol le lac silencieux,<br>
 On croirait voir la robe ou l’ombre transparente<br>
-D’un esprit qui voyage et passe dans les cieux."
+D’un esprit qui voyage et passe dans les cieux."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3454,7 +3495,7 @@ histoires extraordinaires - Traduction (1857) de Charles Baudelaire</a><br>
 bien que le bruit du bois sec et sonnant le creux porta l’alarme et fut
 répercuté d’un bout à l’autre de la forêt."<br>
 <br>
-"Il se fit un bruit prolongé, un fracas tumultueux comme la voix de
+"– Il se fit un bruit prolongé, un fracas tumultueux comme la voix de
 mille cataractes, – et l’étang profond et croupi placé à mes pieds se
 referma tristement et silencieusement sur les ruines de la <span
 style="font-style: italic;">Maison Usher</span>."
@@ -3526,7 +3567,8 @@ target="_blank">Un hiver à Majorque</a><br>
 <br>
 "J’étais fort occupé, je m’en souviens, à recueillir les bruits de la
 nuit et à m’en rendre compte.<br>
-Il est bien certain, et chacun le sait, que chaque pays a ses
+&nbsp;&nbsp;&nbsp; Il est bien certain, et chacun le sait, que chaque
+pays a ses
 harmonies, ses plaintes, ses cris, ses chuchotements mystérieux, et
 cette langue matérielle des choses n’est pas un des moindres signes
 caractéristiques dont le voyageur est frappé. Le clapotement mystérieux
@@ -3542,7 +3584,8 @@ de Barcelone. Le lac Majeur a des harmonies différentes de celles du
 lac de Genève. Le perpétuel craquement des pommes de pin dans les
 forêts de la Suisse ne ressemble en rien non plus aux craquements qui
 se font entendre sur les glaciers.<br>
-À Majorque, le silence est plus profond que partout ailleurs. Les
+&nbsp;&nbsp;&nbsp; À Majorque, le silence est plus profond que partout
+ailleurs. Les
 ânesses et les mules qui passent la nuit au pâturage l’interrompent
 parfois en secouant leurs clochettes, dont le son est moins grave et
 plus mélodique que celles des vaches suisses. Le boléro y résonne dans
@@ -3560,11 +3603,13 @@ L’espace<br>
 Efface<br>
 Le bruit.
 </div>
-Dans la ferme voisine, j’entendais le vagissement d’un petit enfant, et
+&nbsp;&nbsp;&nbsp; Dans la ferme voisine, j’entendais le vagissement
+d’un petit enfant, et
 j’entendais aussi la mère, qui, pour l’endormir, lui chantait un joli
 air du pays, bien monotone, bien triste, bien arabe. Mais d’autres voix
 moins poétiques vinrent me rappeler la partie grotesque de Majorque.<br>
-Les cochons s’éveillèrent et se plaignirent sur un mode que je ne
+&nbsp;&nbsp;&nbsp; Les cochons s’éveillèrent et se plaignirent sur un
+mode que je ne
 saurais point définir. Alors le <span style="font-style: italic;">pagès</span>,
 père de famille, s’éveilla à la voix de ses porcs chéris, comme la mère
 s’était éveillée aux pleurs de son nourrisson. Je l’entendis mettre la
@@ -3582,7 +3627,8 @@ il écoutait sans doute, les yeux ouverts, livré à l’espèce de stupeur
 où les bruits incompris plongent cette pensée naissante de l’homme au
 berceau, qui fait un si mystérieux travail sur elle-même avant de se
 manifester.<br>
-Mais tout à coup, après des nuits si sereines, le déluge commença. Un
+&nbsp;&nbsp;&nbsp; Mais tout à coup, après des nuits si sereines, le
+déluge commença. Un
 matin, après que le vent nous eut bercés toute la nuit de ses longs
 gémissements, tandis que la pluie battait nos vitres, nous entendîmes,
 à notre réveil, le bruit du torrent qui commençait à se frayer une
@@ -3594,7 +3640,7 @@ route parmi les pierres de son lit. Le lendemain, il parlait plus haut
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/poe-1.pdf" target="_blank">Histoires
-extraordinaires - Traduction de Charles Baudelaire</a><br>
+extraordinaires - Traduction (1856) de Charles Baudelaire</a><br>
 Une descente dans le Maelstrom<br>
 1841<br>
 <br>
@@ -3614,15 +3660,26 @@ href="https://fr.wikisource.org/wiki/Gaspard_de_la_nuit_%28%C3%A9d._1920%29/Text
 target="_blank">Gaspard de la Nuit</a><br>
 1842 (Edition posthume)<br>
 <br>
-"Deux ladres se lamentaient sous ma fenêtre, un chien hurlait dans le
+LE CLAIR DE LUNE<br>
+"...<br>
+&nbsp;&nbsp;&nbsp; Deux ladres se lamentaient sous ma fenêtre, un chien
+hurlait dans le
 carrefour, et le grillon de mon foyer vaticinait tout bas.<br>
-Mais bientôt mon oreille n’interrogea plus qu’un silence profond."<br>
+&nbsp;&nbsp;&nbsp; Mais bientôt mon oreille n’interrogea plus qu’un
+silence profond."<br>
 <br>
-"Ce furent ensuite, — ainsi j’ai entendu, ainsi je raconte, — le glas
+UN RÊVE<br>
+<div style="text-align: right;">J’ai rêvé tant et plus, mais je n’y
+entends note.<br>
+Pantagruel, livre III.<br>
+</div>
+"...<br>
+&nbsp;&nbsp;&nbsp; Ce furent ensuite, — ainsi j’ai entendu, ainsi je
+raconte, — le glas
 funèbre d’une cloche auquel répondaient les sanglots funèbres d’une
 cellule, — des cris plaintifs et des rires féroces dont frissonnait
 chaque feuille le long d’une ramée, — et les prières bourdonnantes
-des pénitents noirs qui accompagnent un criminel au supplice." </div>
+des pénitents noirs qui accompagnaient un criminel au supplice." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nicolas_Gogol" target="_blank">Nicolas
@@ -3635,6 +3692,9 @@ target="_blank">Мёртвые души</a><br>
 <a href="https://fr.wikisource.org/wiki/Les_%C3%82mes_mortes"
 target="_blank">Les Âmes mortes - Traduction (1859) de Ernest Charrière</a><br>
 1842<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Les_%C3%82mes_mortes/I/8"
+target="_blank">Chant VIII. Le bal du gouverneur.</a><br>
 <br>
 "Il lui sembla, selon ce qu’il a avoué plus tard, que ce bal, tout ce
 parlage, ce bruit, cet éclat, que les violons et les trompettes étaient
@@ -3666,10 +3726,12 @@ href="https://beq.ebooksgratuits.com/vents/Sue-mysteres-2.pdf"
 target="_blank">Tome 2</a><br>
 1843<br>
 <br>
-"Les sons de l’orchestre, affaiblis par la distance et par le sourd et
+"&nbsp;&nbsp;&nbsp; Les sons de l’orchestre, affaiblis par la distance
+et par le sourd et
 joyeux bourdonnement de la galerie, venaient mélodieusement mourir dans
 le feuillage immobile des grands arbres exotiques.<br>
-Involontairement, on parlait à voix basse dans ce jardin, on y
+&nbsp;&nbsp;&nbsp; Involontairement, on parlait à voix basse dans ce
+jardin, on y
 entendait à peine le bruit léger des pas et le frôlement des robes de
 satin ; cet air à la fois léger, tiède et embaumé des mille suaves
 senteurs des plantes aromatiques, cette musique vague, lointaine,
@@ -3678,29 +3740,36 @@ jetaient tous les sens dans une douce et molle quiétude."<br>
 "... on entendit le craquement des hauts peupliers agités par le vent,
 le cliquetis des chaînes de bateaux, les sifflements de la bise, le
 mugissement de la rivière.<br>
-Ces bruits étaient profondément tristes."<br>
+&nbsp;&nbsp;&nbsp; Ces bruits étaient profondément tristes."<br>
 <br>
-"On entendit un piétinement précipité, interrompu à différents
+"&nbsp;&nbsp;&nbsp; On entendit un piétinement précipité, interrompu à
+différents
 intervalles par un bruit sourd, retentissant comme celui d’une boîte
 osseuse qui rebondirait sur une pierre contre laquelle on voudrait la
 briser.<br>
-Des plaintes aiguës, convulsives, et un éclat de rire infernal
+&nbsp;&nbsp;&nbsp; Des plaintes aiguës, convulsives, et un éclat de
+rire infernal
 accompagnaient chacun de ces coups.<br>
-Puis ce fut un râle... d’agonie...<br>
-Puis on n’entendit plus rien.<br>
-Rien que le piétinement furieux... rien que les coups sourds et
+&nbsp;&nbsp;&nbsp; Puis ce fut un râle... d’agonie...<br>
+&nbsp;&nbsp;&nbsp; Puis on n’entendit plus rien.<br>
+&nbsp;&nbsp;&nbsp; Rien que le piétinement furieux... rien que les
+coups sourds et
 rebondissants qui continuèrent toujours...<br>
-Bientôt un bruit lointain de pas et de voix arriva jusqu’aux
+&nbsp;&nbsp;&nbsp; Bientôt un bruit lointain de pas et de voix arriva
+jusqu’aux
 profondeurs du caveau... De vives lueurs brillèrent à l’extrémité du
 passage souterrain."<br>
 <br>
-"Le profond silence qui règne dans le pavillon habité par Jacques
+"&nbsp;&nbsp;&nbsp; Le profond silence qui règne dans le pavillon
+habité par Jacques
 Ferrand est interrompu de temps en temps par les gémissements du vent
 et par les rafales de la pluie qui tombe à torrents.<br>
-Ces bruits mélancoliques semblent rendre plus complète encore la
+&nbsp;&nbsp;&nbsp; Ces bruits mélancoliques semblent rendre plus
+complète encore la
 solitude de cette demeure."<br>
 <br>
-"Les paroles de cette lente mélodie étaient suaves et expressives.
+"&nbsp;&nbsp;&nbsp; Les paroles de cette lente mélodie étaient suaves
+et expressives.
 Quoique contenu, le mâle contralto de Cecily dominait le bruit des
 torrents de pluie et les violentes rafales de vent qui semblaient
 ébranler la vieille maison jusque dans ses fondements."
@@ -3718,10 +3787,15 @@ target="_blank">Тарас Бульба</a><br>
 Boulba - Traduction (1853) de Louis Viardot</a><br>
 1843<br>
 <br>
+<a href="https://fr.wikisource.org/wiki/Tarass_Boulba/3" target="_blank">Chapitre
+II</a><br>
+<br>
 "Ils pouvaient entendre le pétillement, le frôlement, tous les bruits
 du monde innombrable d’insectes qui fourmillaient dans l’herbe. Tous
 ces bruits, fondus dans le silence de la nuit, arrivaient harmonieux à
 l’oreille."<br>
+<br>
+Chapitre IV<br>
 <br>
 "De toutes parts retentissaient le piétinement des bêtes de somme, le
 bruit des coups d’arquebuse tirés à la cible, le choc des sabres contre
@@ -3857,7 +3931,8 @@ href="https://ebooks-bnr.com/ebooks/pdf4/vidocq_les_vrais_mysteres_de_paris_2.pd
 target="_blank">Tome 6-9</a> <br>
 1844<br>
 <br>
-"Des fenêtres de ce logement, qui fait partie d’une maison située sur
+"&nbsp;&nbsp;&nbsp; Des fenêtres de ce logement, qui fait partie d’une
+maison située sur
 le point culminant du quartier le plus élevé de Paris, on découvre
 toute la capitale et les campagnes environnantes, et l’on est si
 rapproché du ciel que les mille bruits de la grande ville ne viennent
@@ -3882,7 +3957,7 @@ cellpadding="2" cellspacing="2">
 style="vertical-align: middle; width: 50%; text-align: left; height: 121px;">Traduction
 (1853) de Charles Baudelaire :<br>
 <br>
-"Et
+"&nbsp;&nbsp;&nbsp; Et
 le soyeux, triste et vague bruissement des rideaux pourprés me
 pénétrait, me remplissait de terreurs fantastiques, inconnues pour moi
 jusqu’à ce jour ; si bien qu’enfin, pour apaiser le battement de mon
@@ -3895,7 +3970,8 @@ plus.&nbsp;»"<br>
 style="vertical-align: middle; height: 121px; width: 50%; text-align: left;">Traduction
 (1875) de Stéphane Mallarmé :<br>
 <br>
-"Et de la soie l’incertain et triste bruissement en chaque rideau
+"&nbsp;&nbsp;&nbsp; Et de la soie l’incertain et triste bruissement en
+chaque rideau
 purpural me traversait —&nbsp; m’emplissait de fantastiques terreurs
 pas senties encore : si bien que, pour calmer le battement de mon cœur,
 je demeurais maintenant à répéter « C’est quelque visiteur qui
@@ -3943,21 +4019,26 @@ disputaient la glandée."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_Dumas" target="_blank">Alexandre
 Dumas</a><br>
-<a href="https://beq.ebooksgratuits.com/vents/dumas.htm" target="_blank">
+<a
+href="https://fr.wikisource.org/wiki/Le_Comte_de_Monte-Cristo/Texte_entier"
+target="_blank">
 Le Comte de Monte-Cristo</a><br>
 1846<br>
 <br>
-"Presque au même instant un bruit sourd retentit dans l'escalier ; le
+"... presque au même instant un bruit sourd retentit dans l'escalier ;
+le
 retentissement d'un pas pesant, une rumeur confuse de voix mêlées à un
 cliquetis d'armes couvrirent les exclamations des convives, si
 bruyantes qu'elles fussent, et attirèrent l'attention générale, qui se
-manifesta à l'instant même par un silence inquiet. Le bruit s'approcha
+manifesta à l'instant même par un silence inquiet.<br>
+&nbsp;&nbsp;&nbsp; Le bruit s'approcha
 :
 trois coups retentirent dans le panneau de la porte ; chacun regarda
 son
 voisin d'un air étonné."<br>
 <br>
-"Dantès entendit rouler et grincer du fond de son cachot tous ces
+"&nbsp;&nbsp;&nbsp; Dantès entendit rouler et grincer du fond de son
+cachot tous ces
 préparatifs, qui faisaient en haut beaucoup de fracas, mais qui, en
 bas, eussent été des bruits inappréciables pour toute autre oreille que
 pour celle d’un prisonnier, accoutumé à écouter, dans le silence de la
@@ -3968,9 +4049,11 @@ goutte d’eau qui met une heure à se former au plafond de son cachot."<br>
 chant d’une chouette qui jetait son cri aigu et lugubre comme un appel
 aux fantômes de la nuit."<br>
 <br>
-"Le bruit d’un baiser innocent et perdu retentit, et Valentine s’enfuit
+"&nbsp;&nbsp;&nbsp; Le bruit d’un baiser innocent et perdu retentit, et
+Valentine s’enfuit
 sous les tilleuls.<br>
-Morrel écouta les derniers bruits de sa robe frôlant les charmilles, de
+&nbsp;&nbsp;&nbsp; Morrel écouta les derniers bruits de sa robe frôlant
+les charmilles, de
 ses pieds faisant crier le sable... "<br>
 <br>
 "Villefort, de son cabinet, entendit les bruits successifs qui
@@ -3978,7 +4061,7 @@ constituent pour ainsi dire la vie de la maison : les portes mises en
 mouvement, le tintement de la sonnette de Mme de Villefort qui appelait
 sa femme de chambre, les premiers cris de l’enfant, qui se levait
 joyeux comme on se lève d’habitude à cet âge.<br>
-Villefort sonna à son tour."
+&nbsp;&nbsp;&nbsp; Villefort sonna à son tour."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -4022,11 +4105,9 @@ Brontë</a><br>
 <a
 href="https://onemorelibrary.com/index.php/fr/?option=com_djclassifieds&amp;format=raw&amp;view=download&amp;task=download&amp;fid=28315"
 target="_blank"> Jane Eyre</a><br>
-<a href="http://beq.ebooksgratuits.com/vents/Bronte_Jane_Eyre_1.pdf"
-target="_blank">Traduction (1854) de Noëmi Lesbazeilles-Souvestre -
-Tome 1</a> - <a
-href="http://beq.ebooksgratuits.com/vents/Bronte_Jane_Eyre_2.pdf"
-target="_blank">Tome 2</a><br>
+<a href="https://fr.wikisource.org/wiki/Jane_Eyre/Texte_entier"
+target="_blank">Jane Eyre - Traduction (1854) de Noëmi
+Lesbazeilles-Souvestre</a><br>
 1847<br>
 <br>
 "... j’écoutais le son du piano et de la harpe, le bruit des verres et
@@ -4065,7 +4146,8 @@ target="_blank">Les Hauts de Hurle-Vent - Traduction (1925) de
 Frédéric Delebecque</a><br>
 1847<br>
 <br>
-"Les cloches de la chapelle de Gimmerton retentissaient encore&nbsp;;
+"&nbsp;&nbsp;&nbsp; Les cloches de la chapelle de Gimmerton
+retentissaient encore&nbsp;;
 le
 bruit du ruisseau qui coulait moelleusement à pleins bords dans la
 vallée venait caresser l’oreille, et remplaçait agréablement le murmure
@@ -4145,7 +4227,8 @@ jaillir tout d’un coup de tous les coins de la chambre."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
-<a href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29"
+<a
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
 target="_blank">Les Fleurs du mal</a><br>
 <br>
 <a
@@ -4191,11 +4274,13 @@ Causent sinistrement de leurs amours défunts."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Barbey_d%27Aurevilly"
 target="_blank">Jules Barbey d'Aurevilly</a><br>
-<a href="https://fr.wikisource.org/wiki/Une_vieille_ma%C3%AEtresse"
+<a
+href="https://fr.wikisource.org/wiki/Une_vieille_ma%C3%AEtresse/Texte_entier"
 target="_blank"> Une vieille maîtresse</a><br>
 1851<br>
 <br>
-"Le coin du feu... On y alimente ses rêveries en entendant le grillon,
+"Le coin du feu... <br>
+On y alimente ses rêveries en entendant le grillon,
 — cette cigale de l’âtre de l’homme, — qui chante dans la cendre
 chaude, comme la cigale de l’été chante dans les blés brûlés de soleil,
 — et plus loin, au dehors, derrière les remparts transparents des
@@ -4235,7 +4320,8 @@ href="https://fr.wikisource.org/wiki/L%E2%80%99Art_romantique/Pierre_Dupont"
 target="_blank">L’Art romantique - Pierre Dupont</a><br>
 1852<br>
 <br>
-"Sans doute, plusieurs personnes regretteront de ne pas trouver
+"&nbsp;&nbsp;&nbsp; Sans doute, plusieurs personnes regretteront de ne
+pas trouver
 dans ces chants politiques et guerriers tout le bruit et tout l’éclat
 de la guerre, tous les transports de l’enthousiasme et de la haine, les
 cris enragés du clairon, le sifflement du fifre pareil à la folle
@@ -4278,7 +4364,8 @@ pastorale. Lorsque le vieux sonnailler qui est en tête fait retentir sa
 sonnette, les montagnes, oui-da, sautent comme des béliers, et les
 collines comme des agneaux."<br>
 <br>
-"Parfois, le dimanche, j’entendais les cloches, la cloche de Lincoln,
+"&nbsp;&nbsp;&nbsp; Parfois, le dimanche, j’entendais les cloches, la
+cloche de Lincoln,
 d’Acton, de Bedford ou de Concord, lorsque le vent se trouvait
 favorable, comme une faible, douce, et eût-on dit, naturelle mélodie,
 digne d’importation dans la solitude. À distance suffisante par-dessus
@@ -4351,7 +4438,8 @@ target="_blank"> Madame Bovary</a><br>
 bruissaient en un frisson rapide, tandis que les cimes, se balançant
 toujours, continuaient leur grand murmure."<br>
 <br>
-"Les bruits de la ville insensiblement s’éloignaient, le roulement des
+"&nbsp;&nbsp;&nbsp; Les bruits de la ville insensiblement
+s’éloignaient, le roulement des
 charrettes, le tumulte des voix, le jappement des chiens sur le pont
 des navires."<br>
 <br>
@@ -4388,7 +4476,8 @@ bourdonnement d’une abeille qui reste toujours à la même place,
 j’entends, quelque part dans une petite allée, les pas du jardinier,
 cet imbécile d’Akime, et son incessant marmottage."<br>
 <br>
-"J’entends des pieds nus, une toux, un soupir, un bruit de fenêtre, un
+"&nbsp;&nbsp;&nbsp; J’entends des pieds nus, une toux, un soupir, un
+bruit de fenêtre, un
 frou-frou de robe, et chaque fois je me lève en sursaut, j’écoute comme
 un voleur... "<br>
 <br>
@@ -4402,7 +4491,8 @@ d’un moustique qui s’est glissé sous ma couverture, près de mon oreille
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
-<a href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29"
+<a
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
 target="_blank">Les Fleurs du mal</a><br>
 <br>
 <a
@@ -4446,13 +4536,16 @@ target="_blank">Обломов</a><br>
 target="_blank">Oblomov - Traduction (1877) de Piotr Artamov</a><br>
 1859<br>
 <br>
-"Ni arbre ni eau, rien ne remue ; sur le village et les champs plane un
+"&nbsp;&nbsp;&nbsp; Ni arbre ni eau, rien ne remue ; sur le village et
+les champs plane un
 silence que rien ne trouble : on dirait que tout est mort. Dans le vide
 résonne au loin la voix humaine.<br>
-À quarante mètres on distingue le vol et le bourdonnement du hanneton,
+&nbsp;&nbsp;&nbsp; À quarante mètres on distingue le vol et le
+bourdonnement du hanneton,
 et dans l’herbe touffue on entend comme le ronflement d’un homme qui
 dormirait d’un doux sommeil.<br>
-Dans la maison règne aussi un silence de mort. L’heure de la sieste
+&nbsp;&nbsp;&nbsp; Dans la maison règne aussi un silence de mort.
+L’heure de la sieste
 générale a sonné."
 </div>
 <br>
@@ -4595,12 +4688,23 @@ Michelet</a><br>
 target="_blank">La Mer</a><br>
 1861<br>
 <br>
-"Elle grinçait d'écume blanche, et comme d'exécrables sourires, à la
+"Elle grinçait d'écume blanche, et comme d'exécrables sourires, à
+la
 férocité des laves qui, sans pitié, la brisaient. C'étaient des bruits
 insensés, absurdes ; jamais rien de suivi ; c'étaient des tonnerres
 discordants, de si aigres sifflements comme ceux des machines à vapeur,
 qu'on se bouchait les oreilles. Abasourdi d'un spectacle qui hébétait
-tous les sens, j'essayai de me ravoir..." </div>
+tous les sens, j'essayai de me ravoir ;&nbsp; m'appuyant bien à un mur
+qui rentrait et n'eût pas permis à la furieuse de me prendre, je
+compris mieux ce tapage. Rude et courte était la lame, et le plus dur
+du combat tenait à cette côte étrange, découpée si sèchement, à ces
+angles cruels qui pointaient dans la tempête, déchiraient le flot. La
+corniche par-dessous, ici et là, l'enfonçait dans ses profondeurs
+tonnantes.<br>
+<br>
+&nbsp;&nbsp;&nbsp; L'œil aussi était blessé autant que l'oreille au
+contraste diabolique de cette neige éblouissante fouettant dans ces
+laves si noires." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Dickens" target="_blank">Charles
@@ -4651,7 +4755,8 @@ cette
 cavalerie déboucha sur le plateau, et ce fut comme l’entrée d’un
 tremblement de terre."<br>
 <br>
-"Tout était retombé dans le silence. Plus rien dans la rue, plus rien
+"&nbsp;&nbsp;&nbsp; Tout était retombé dans le silence. Plus rien dans
+la rue, plus rien
 dans le jardin. Ce qui menaçait, ce qui rassurait, tout s’était
 évanoui. Le vent froissait dans la crête du mur quelques herbes sèches
 qui faisaient un petit bruit doux et lugubre."<br>
@@ -4666,26 +4771,32 @@ bruit de la liberté, de l’insouciance heureuse, du loisir qui a des
 ailes&nbsp;; de l’autre le bruit du travail. Chose qui le faisait rêver
 profondément, et presque réfléchir, c’étaient deux bruits joyeux."<br>
 <br>
-"Le bruit des portes qu’on ouvre et qu’on ferme, le grincement des
+"&nbsp;&nbsp;&nbsp; Quatre heures sonnèrent. Thénardier tressaillit,
+peu d’instants après, cette rumeur effarée et confuse qui suit une
+évasion découverte éclata dans la prison. Le bruit des portes qu’on
+ouvre et qu’on ferme, le grincement des
 grilles sur leurs gonds, le tumulte du corps de garde, les appels
 rauques des guichetiers, le choc des crosses de fusil sur le pavé des
 cours, arrivaient jusqu’à lui."<br>
 <br>
 "Il y avait à peine au loin quelques rares roulements de voitures. On
 écoutait, sur le pas des portes, les rumeurs, les cris, les tumultes,
-les bruits sourds et indistincts, des choses dont on disait : C’est la
-cavalerie, ou : Ce sont des caissons qui galopent, les clairons, les
+les bruits sourds et indistincts, des choses dont on disait : <span
+style="font-style: italic;">C’est la
+cavalerie</span>, ou : <span style="font-style: italic;">Ce sont des
+caissons qui galopent</span>, les clairons, les
 tambours, la fusillade, et surtout ce lamentable tocsin de Saint-Merry.
 On attendait le premier coup de canon."<br>
 <br>
 <a href="https://beq.ebooksgratuits.com/vents/Hugo-miserables-5.pdf"
 target="_blank">Cinquième partie Jean Valjean</a><br>
-"Çà et là, par intervalles, quand le vent donnait, on entendait
+"&nbsp;&nbsp;&nbsp; Çà et là, par intervalles, quand le vent donnait,
+on entendait
 confusément des cris, une rumeur, des espèces de râles tumultueux qui
 étaient des fusillades, et des frappements sourds qui étaient des coups
 de canon. Il y avait de la fumée au-dessus des toits du côté des
 halles. Une cloche, qui avait l’air d’appeler, sonnait au loin.<br>
-Ces enfants ne semblaient pas percevoir ces bruits."<br>
+&nbsp;&nbsp;&nbsp; Ces enfants ne semblaient pas percevoir ces bruits."<br>
 <br>
 "Le ciel s’offrait de toutes parts comme un calme énorme. La rivière
 arrivait à ses pieds avec le bruit d’un baiser. On entendait le
@@ -4706,11 +4817,13 @@ faméliquement quelques bouts de laine à l’envers de la basse lisse. Les
 vers râpaient le bois des poutres avec un bruit de lime sourde, et
 l’horloge de la mort frappait l’heure sur les panneaux des boiseries."<br>
 <br>
-"La lampe saisie par l’atmosphère humide grésillait et jetait des
+"&nbsp;&nbsp;&nbsp; La lampe saisie par l’atmosphère humide grésillait
+et jetait des
 lueurs intermittentes, le vent poussait des soupirs d’orgue à travers
 les couloirs, et des bruits effrayants et singuliers se faisaient
 entendre dans les chambres désertes.<br>
-Le temps était devenu mauvais, et de larges gouttes de pluie, poussées
+&nbsp;&nbsp;&nbsp; Le temps était devenu mauvais, et de larges gouttes
+de pluie, poussées
 par la rafale, tintaient sur les vitres secouées dans leurs mailles de
 plomb. Quelquefois le vitrage semblait près de ployer et de s’ouvrir,
 comme si l’on eût fait une pesée à l’extérieur. C’était le genou de la
@@ -4731,7 +4844,8 @@ rumeur indistincte. Parmi ces bruits, Sigognac crut distinguer dans le
 corridor un pas d’homme botté marchant avec précaution comme s’il ne
 voulait pas être entendu."<br>
 <br>
-"Aussi la pauvre Isabelle tressaillait-elle au plus léger bruit. Le
+"&nbsp;&nbsp;&nbsp; Aussi la pauvre Isabelle tressaillait-elle au plus
+léger bruit. Le
 murmure de l’eau, un soupir du vent, un craquement de la boiserie, une
 crépitation du feu lui faisaient perler dans le dos des sueurs froides."<br>
 <br>
@@ -4777,14 +4891,16 @@ target="_blank"> Les Aventures du capitaine Hatteras</a><br>
 "Le craquement ininterrompu des glaces, se joignant aux gémissements du
 navire, formait un bruit triste qui tenait du soupir et de la plainte."<br>
 <br>
-"L’oreille surexcitée percevait dans le grondement général des bruits
+"&nbsp;&nbsp;&nbsp; L’oreille surexcitée percevait dans le grondement
+général des bruits
 particuliers, non pas le brouhaha qui accompagne la chute des corps
 pesants, mais bien le craquement clair des corps qui se brisent&nbsp;;
 on
 entendait distinctement des fracas nets et francs, comme ceux de
 l’acier qui se rompt, au milieu des roulements allongés de la tempête."<br>
 <br>
-"L’atmosphère s’emplissait des bruits sourds du volcan&nbsp;; la
+"&nbsp;&nbsp;&nbsp; L’atmosphère s’emplissait des bruits sourds du
+volcan&nbsp;; la
 montagne
 résonnait et ronflait comme une chaudière bouillante&nbsp;; on sentait
 ses
@@ -4817,7 +4933,8 @@ Hugo</a><br>
 target="_blank">Les Travailleurs de la mer</a><br>
 1866<br>
 <br>
-"Le vaste trouble des solitudes a une gamme ; crescendo redoutable
+"&nbsp;&nbsp;&nbsp; Le vaste trouble des solitudes a une gamme ;
+crescendo redoutable
 : le grain, la rafale, la bourrasque, l’orage, la tourmente, la
 tempête, la trombe ; les sept cordes de la lyre des vents, les sept
 notes de l’abîme.<br>
@@ -4833,18 +4950,22 @@ des oliphants, des bugles et des trompettes, une sorte de fanfare
 prométhéenne. Qui les entend écoute Pan. Ce qu’il y a d’effroyable,
 c’est qu’ils jouent."<br>
 <br>
-"La rumeur du large, éteinte, ressemblait à un souffle d’enfant.<br>
-On entendait dans la direction du havre de Saint-Sampson de petits
-coups sourds, qui étaient des coups de marteau."<br>
-<br>
 "Tout orage est précédé d’un murmure. Il y a derrière l’horizon
 chuchotement préalable des ouragans. <br>
-C’est là ce que, dans l’obscurité, au loin, par-dessus le silence
+&nbsp;&nbsp;&nbsp; C’est là ce que, dans l’obscurité, au loin,
+par-dessus le silence
 effrayé de la mer, on entend.<br>
-Ce chuchotement redoutable, Gilliatt l’avait entendu. La
+&nbsp;&nbsp;&nbsp; Ce chuchotement redoutable, Gilliatt l’avait
+entendu. La
 phosphorescence avait été le premier avertissement&nbsp;; ce murmure,
 le
-second." </div>
+second."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; La rumeur du large, éteinte, ressemblait à un
+souffle d’enfant.<br>
+On entendait dans la direction du havre de Saint-Sampson de petits
+coups sourds, qui étaient des coups de marteau."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fiodor_Dosto%C3%AFevski"
@@ -4879,7 +5000,8 @@ target="_blank">Les Noms des Oiseaux expliqués par leurs moeurs</a><br>
 Mésange charbonnière<br>
 1867<br>
 <br>
-"Dans le midi de la France, la grosse charbonnière a reçu le nom
+"&nbsp;&nbsp;&nbsp; Dans le midi de la France, la grosse charbonnière a
+reçu le nom
 vulgaire de <span style="font-style: italic;">saraïé</span>,
 c’est-à-dire de <span style="font-style: italic;">serrurier</span>,
 à cause de son cri aigu et saccadé qui ressemble à celui que produit le
@@ -4939,7 +5061,8 @@ paysage provençal ne vit que par la lumière."<br>
 Le phare des sanguinaires <br>
 1869<br>
 <br>
-"Au-dehors, le noir, l’abîme. Sur le petit balcon qui tourne autour du
+"&nbsp;&nbsp;&nbsp; Au-dehors, le noir, l’abîme. Sur le petit balcon
+qui tourne autour du
 vitrage, le vent court comme un fou, en hurlant. Le phare craque, la
 mer ronfle. À la pointe de l’île, sur les brisants, les lames font
 comme des coups de canon... Par moments, un&nbsp; oiseau de nuit, que
@@ -4989,7 +5112,8 @@ des troupeaux entendues tout à coup, puis oubliées, perdues dans le
 vent, reviennent chanter sous la porte ébranlée avec le charme d’un
 refrain...<br>
 ...<br>
-Bientôt un piétinement immense se rapproche, pareil à un bruit de
+&nbsp;&nbsp;&nbsp; Bientôt un piétinement immense se rapproche, pareil
+à un bruit de
 pluie. Des milliers de moutons, rappelés par les bergers, harcelés par
 les chiens, dont on entend le galop confus et l’haleine haletante, se
 pressent vers les parcs, peureux et indisciplinés."<br>
@@ -5003,7 +5127,8 @@ Reclus</a><br>
 d'un ruisseau</a><br>
 1869<br>
 <br>
-"Descendant, descendant toujours, le ruisseau, qui grossit
+"&nbsp;&nbsp;&nbsp; Descendant, descendant toujours, le ruisseau, qui
+grossit
 incessamment, devient aussi plus tapageur : près de la source, il
 murmurait à peine ; même, en certains endroits, il fallait coller son
 oreille contre terre pour entendre le frémissement de l'eau contre ses
@@ -5031,7 +5156,12 @@ href="https://ru.wikisource.org/wiki/%D0%92%D0%BE%D0%B9%D0%BD%D0%B0_%D0%B8_%D0%B
 target="_blank">Война и мир</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Guerre_et_Paix_%28trad._Pask%C3%A9vitch%29/Texte_entier"
-target="_blank">Guerre et Paix - Traduction (1901) de Irène Paskévitch</a><br>
+target="_blank">Guerre et Paix - Traduction (1901) de Irène Paskévitch
+Vol1</a>&nbsp; <a
+href="https://fr.wikisource.org/wiki/Guerre_et_Paix_%28trad._Pask%C3%A9vitch%29/Texte_entier/II"
+target="_blank">Vol2</a>&nbsp; <a
+href="https://fr.wikisource.org/wiki/Guerre_et_Paix_%28trad._Pask%C3%A9vitch%29/Texte_entier/III"
+target="_blank">Vol3</a><br>
 1869<br>
 <br>
 "Les domestiques se précipitèrent sur les chaises, qui furent avancées
@@ -5045,7 +5175,8 @@ entendait de tous côtés le bruit des roues, des charrettes, des affûts,
 le piétinement des chevaux, les cris des conducteurs pressant leurs
 attelages, les jurons des soldats, des domestiques et des officiers."<br>
 <br>
-"On aurait dit un sombre et invisible fleuve s’écoulant dans la même
+"&nbsp;&nbsp;&nbsp; On aurait dit un sombre et invisible fleuve
+s’écoulant dans la même
 direction, dont le grondement était représenté par le murmure sourd des
 voix, le bruit des fers des chevaux et le grincement des roues. Du
 milieu de cette confusion s’élevaient, perçants et distincts, les
@@ -5089,10 +5220,12 @@ Flaubert</a><br>
 target="_blank">L’éducation sentimentale</a><br>
 1869<br>
 <br>
-"Les grands murs des collèges, comme allongés par le silence, avaient
-un aspect plus morne encore ; on entendait toutes sortes de bruits
-paisibles, des battements d’ailes dans des cages, le ronflement d’un
-tour, le marteau d’un savetier ; ..."<br>
+"&nbsp;&nbsp;&nbsp; Il remontait, au hasard, le quartier latin, si
+tumultueux d’habitude, mais désert à cette époque, car les étudiants
+étaient partis dans leurs familles. Les grands murs des collèges, comme
+allongés par le silence, avaient un aspect plus morne encore ; on
+entendait toutes sortes de bruits paisibles, des battements d’ailes
+dans des cages, le ronflement d’un tour, le marteau d’un savetier ; ..."<br>
 <br>
 "La foule innombrable parlait très haut ; et toutes ces voix,
 répercutées par les maisons, faisaient comme le bruit continuel des
@@ -5120,14 +5253,17 @@ s’entendaient sur la maison sans bases, sépulcre mouvant."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
 Hugo</a><br>
-<a href="http://www.bouquineux.com/pdf/Hugo-L_Homme_qui_Rit.pdf"
+<a
+href="https://www.ebooksgratuits.com/blackmask/hugo_homme_qui_rit.pdf"
 target="_blank">L'Homme qui rit</a><br>
 1869<br>
 <br>
 "Coups d'ongle, coups de bec, croassements, arrachements de lambeaux
 qui n'étaient plus de la chair, craquements de la potence, froissements
 du squelette, cliquetis des ferrailles, cris de la rafale, tumulte, pas
-de lutte plus lugubre."
+de lutte plus lugubre.<br>
+...<br>
+On entendait en bas un grondement immense, qui était la mer."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5232,7 +5368,8 @@ target="_blank">La Fortune des Rougon</a><br>
 1871<br>
 <br>
 "À certains moments, il lui semblait qu'ils ne marchaient plus, qu'ils
-étaient charriés par la Marseillaise elle-même, par ce chant rauque aux
+étaient charriés par <span style="font-style: italic;">la Marseillaise</span>
+elle-même, par ce chant rauque aux
 sonorités formidables. Elle ne pouvait distinguer les paroles, elle
 n'entendait qu'un grondement continu, allant de notes sourdes à des
 notes vibrantes, aiguës comme des pointes qu'on aurait, par saccades,
@@ -5248,7 +5385,7 @@ roulée dans le flot sonore, la foule coulait."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
-<a
+<a target="_blank"
 href="https://fr.wikisource.org/wiki/Romances_sans_paroles_%281902%29/%C2%AB_Il_pleure_dans_mon_c%C5%93ur_%C2%BB">Romances
 sans paroles</a><br>
 1872<br>
@@ -5264,10 +5401,11 @@ href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
 Verne</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Une_fantaisie_du_docteur_Ox/Texte_entier"
-target="_blank">Fantaisie du docteur Ox</a><br>
+target="_blank">Une fantaisie du docteur Ox</a><br>
 1874<br>
 <br>
-"Telle était cette maison, paisible et silencieuse, dont les portes ne
+"&nbsp;&nbsp;&nbsp; Telle était cette maison, paisible et silencieuse,
+dont les portes ne
 criaient pas, dont les vitres ne grelottaient pas, dont les parquets ne
 gémissaient pas, dont les cheminées ne ronflaient pas, dont les
 girouettes ne grinçaient pas, dont les meubles ne craquaient pas, dont
@@ -5298,7 +5436,8 @@ singulière ! J’entendais, à ne pouvoir m’y méprendre, le froissement
 animé du fer.<br>
 ...<br>
 On entendait les épées comme si on les avait vues. Ce que j’avais pris
-pour le bruit des battoirs c’étaient les appels du pied des tireurs. "<br>
+pour le bruit des battoirs c’étaient les <span
+style="font-style: italic;">appels du pied</span> des tireurs. "<br>
 <br>
 "On s’entendait mieux qu’on ne se voyait. Toutes ces bouches qui
 priaient à voix basse, dans ce grand vaisseau silencieux et sonore, et
@@ -5326,9 +5465,10 @@ href="https://fr.wikisource.org/wiki/%C5%92uvres_%28Rimbaud%29/Illuminations/Fai
 target="_blank">Les Illuminations - Fairy</a><br>
 1875<br>
 <br>
-"Après le moment de l’air des bûcheronnes à la rumeur du torrent sous
+"&nbsp;&nbsp;&nbsp; - Après le moment de l’air des bûcheronnes à la
+rumeur du torrent sous
 la ruine des bois, de la sonnerie des bestiaux à l’écho des vals, et
-des cris des steppes."
+des cris des steppes. -"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5339,7 +5479,8 @@ target="_blank">Иван Сергеевич Тургенев</a>)<br>
 <a
 href="https://ru.wikisource.org/wiki/%D0%9D%D0%BE%D0%B2%D1%8C_%28%D0%A2%D1%83%D1%80%D0%B3%D0%B5%D0%BD%D0%B5%D0%B2%29"
 target="_blank">Новь</a><br>
-<a href="https://fr.wikisource.org/wiki/Terres_vierges" target="_blank">Terres
+<a href="https://fr.wikisource.org/wiki/Terres_vierges/Texte_entier"
+target="_blank">Terres
 vierges - Traduction (1877) de Émile Durand-Gréville.</a><br>
 1877<br>
 <br>
@@ -5352,7 +5493,8 @@ derrière l’étang du moulin, venait un croassement de corbeaux, immense
 et continu, semblable au grincement d’une foule de roues aux essieux de
 bois."<br>
 <br>
-"La fabrique était visiblement en pleine prospérité et surchargée de
+"&nbsp;&nbsp;&nbsp; La fabrique était visiblement en pleine prospérité
+et surchargée de
 besogne ; de tous côtés s’élevait le vacarme strident, le brouhaha
 d’une activité incessante ; les machines soufflaient, tapaient ; les
 métiers geignaient, les roues ronronnaient, les courroies ronflaient ;
@@ -5364,8 +5506,7 @@ de sifflet se croisaient dans l’air."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
 Hugo</a><br>
-<a
-href="https://fr.wikisource.org/wiki/L%E2%80%99Art_d%E2%80%99%C3%AAtre_grand-p%C3%A8re"
+<a href="https://fr.wikisource.org/wiki/%C3%80_Guernesey"
 target="_blank"> L'art d'être grand-père - À Guernesey - Fenêtres
 ouvertes</a><br>
 1877<br>
@@ -5397,10 +5538,12 @@ Vallès</a><br>
 target="_blank">L'Enfant</a><br>
 1878<br>
 <br>
-"On ne distingue que la cloche du couvent de Sainte-Marie, et le bruit
+"&nbsp;&nbsp;&nbsp; On ne distingue que la cloche du couvent de
+Sainte-Marie, et le bruit
 que fait un attelage à grelots dans la route blanche, là-bas..."<br>
 <br>
-"Le bruit que font les étriers en se cognant au moment où l’on apporte
+"&nbsp;&nbsp;&nbsp; Le bruit que font les étriers en se cognant au
+moment où l’on apporte
 les selles, le clic-clac des cuirs, le rongement du mors, j’ai encore
 cela dans l’oreille, avec le nom de Baptiste, le garçon d’écurie."<br>
 <br>
@@ -5409,7 +5552,8 @@ cela dans l’oreille, avec le nom de Baptiste, le garçon d’écurie."<br>
 porte qui tombe, un fredon solitaire, un cri de marchand bien loin,
 bien loin&nbsp;!"<br>
 <br>
-"C’est un bruit de casseroles et d’assiettes, puis un bruit de
+"&nbsp;&nbsp;&nbsp; C’est un bruit de casseroles et d’assiettes, puis
+un bruit de
 mâchoires, puis un bruit de bouchons&nbsp;!" </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5426,7 +5570,8 @@ s’acharnait sur les tuiles, ravivait l’ocre pâli des murs, les tachant
 de plaques plus foncées, dégoulinant tantôt avec un fracas d’avalanche,
 tantôt avec un grésillement de friture au feu."<br>
 <br>
-"Un son de trompe courut, se répercuta, s’affaiblit et de nouveau
+"&nbsp;&nbsp;&nbsp; Un son de trompe courut, se répercuta, s’affaiblit
+et de nouveau
 brama, d’intervalles en intervalles. Les gardiens fermaient les
 barrières du passage à niveau, un train de grande ligne s’avançait au
 loin. Un renâclement farouche, un cri strident, trois fois répété,
@@ -5439,19 +5584,25 @@ de chaudières hurlantes, de pistons en branle ; il fila sous la
 fenêtre,
 son grondement de tonnerre s’éteignit, l’on n’aperçut bientôt plus que
 les trois lanternes rouges du dernier wagon, et alors retentit le bruit
-saccadé des voitures sautant sur les plaques tournantes."
+saccadé des voitures sautant sur les plaques tournantes."<br>
+<br>
+"... elles écoutaient le hoquet de la locomotive qui se met en marche,
+le sifflement saccadé de ses jets, ses cris stridulés, ses ahans
+rauques."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henry_C%C3%A9ard" target="_blank">Henri
 Céard</a><br>
-<a href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan"
+<a
+href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan/Texte_entier"
 target="_blank">Les Soirées de Médan</a> - <a
 href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan/La_Saign%C3%A9e"
 target="_blank">La saignée</a><br>
 1879<br>
 <br>
-"Tout à coup, sous ses pieds le sol trembla, secoué par des détonations
+"&nbsp;&nbsp;&nbsp; Tout à coup, sous ses pieds le sol trembla, secoué
+par des détonations
 successives : les oreilles lui tintèrent douloureusement. À sa droite,
 à sa gauche, une lueur immense courut, l’amphithéâtre des collines
 s’alluma des lueurs d’un immense incendie, un épouvantable fracas de
@@ -5468,7 +5619,8 @@ distinctement."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
 de Maupassant</a><br>
-<a href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan"
+<a
+href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan/Texte_entier"
 target="_blank">Les Soirées de Médan</a> - <a
 href="https://fr.wikisource.org/wiki/Les_Soir%C3%A9es_de_M%C3%A9dan/Boule_de_suif"
 target="_blank">Boule de Suif</a><br>
@@ -5481,7 +5633,8 @@ qu’on maniait les harnais ; ce murmure devint bientôt un frémissement
 clair et continu, rythmé par le mouvement de l’animal, s’arrêtant
 parfois, puis reprenant dans une brusque secousse qu’accompagnait le
 bruit mat d’un sabot ferré battant le sol.<br>
-La porte subitement se ferma. Tout bruit cessa. Les bourgeois gelés
+&nbsp;&nbsp;&nbsp; La porte subitement se ferma. Tout bruit cessa. Les
+bourgeois gelés
 s’étaient tus ; ils demeuraient immobiles et roidis.<br>
 ... et l’on n’entendait plus, dans le grand silence de la ville calme
 et ensevelie sous l’hiver, que ce froissement vague, innommable et
@@ -5517,7 +5670,8 @@ loin, grondait. Elle semblait parfois suspendre son battement&nbsp;; –
 et on
 n’entendait plus que le petit bruit des sources."<br>
 <br>
-"Un roastbeef parut – et durant quelques minutes on n’entendit que le
+"&nbsp;&nbsp;&nbsp; Un roastbeef parut – et durant quelques minutes on
+n’entendit que le
 bruit des fourchettes et des mâchoires, avec le pas des servants sur le
 parquet et ces deux mots répétés : Madère&nbsp;! Sauterne&nbsp;!" </div>
 <br>
@@ -5531,7 +5685,10 @@ target="_blank"> La Maison Tellier</a><br>
 <br>
 "Ce silence illimité des champs, qui semble presque religieux,
 enveloppait le petit village, un silence tranquille, pénétrant et large
-jusqu’aux astres." </div>
+jusqu’aux astres. Les filles, accoutumées aux soirées tumultueuses du
+logis public, se sentaient émues par ce muet repos de la campagne
+endormie."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
@@ -5540,14 +5697,17 @@ target="_blank">Joris-Karl Huysmans</a><br>
 ménage</a><br>
 1881<br>
 <br>
-"Il y eut un instant de silence. Ils marchaient lentement, côte à côte,
+"&nbsp;&nbsp;&nbsp; Il y eut un instant de silence. Ils marchaient
+lentement, côte à côte,
 quand minuit sonna. Deux horloges entremêlaient leurs coups ; l’une, au
 loin, vibrait doucement, en retard d’une seconde sur l’autre ; la plus
 proche découpait, nettement, presque gaiement son heure.<br>
-La rue que les deux jeunes gens suivaient était déserte et leurs pas
+&nbsp;&nbsp;&nbsp; La rue que les deux jeunes gens suivaient était
+déserte et leurs pas
 retentissaient avec un bruit clair sur le trottoir."<br>
 <br>
-"Dans cette rue silencieuse, malgré sa navette ininterrompue de monde,
+"&nbsp;&nbsp;&nbsp; Dans cette rue silencieuse, malgré sa navette
+ininterrompue de monde,
 dans cette chaussée où l’on entendait le roulement mou des fiacres sur
 l’asphalte, certains jours de la semaine, un homme se promenait, coiffé
 d’un melon de cuir noir, orné de ciseaux peints en blanc, une petite
@@ -5557,17 +5717,20 @@ ville ! – À d’autres moments, un « o vitrie » s’élevait prolongeant sa
 note stridulée ou bien un repasseur, roulant devant lui sa petite
 meule, remuait à chaque pas une sonnette, accompagnée, au loin, par
 l’aigre solo qu’un fontainier jouait sur une corne.<br>
-Le mardi, vers quatre heures, un bruit nouveau dominait les autres. Des
+&nbsp;&nbsp;&nbsp; Le mardi, vers quatre heures, un bruit nouveau
+dominait les autres. Des
 voitures particulières emportant dans leurs caisses des flots de
 toilettes claires, s’arrêtaient devant un petit hôtel à un étage,
 contigu à la maison où logeait André et un vigoureux coup de timbre
 retentissait, annonçant les visites, suivi de près par le choc lourd
 des vantaux qu’on referme.<br>
-André commençait à classer les rumeurs diverses qui montaient sous sa
+&nbsp;&nbsp;&nbsp; André commençait à classer les rumeurs diverses qui
+montaient sous sa
 terrasse. La vie singulière de la rue Cambacérès lui arrivait de moins
 en moins confuse..."<br>
 <br>
-"Un petit bruit sec de pas retentit bientôt au loin à des profondeurs
+"&nbsp;&nbsp;&nbsp; Un petit bruit sec de pas retentit bientôt au loin
+à des profondeurs
 de cave, sur le dallage du vestibule, puis le bruit devenu presque
 aussitôt plus sourd monta dans la cage de l’escalier, s’approchant,
 accompagné d’un petit vibrement de rampe remuant sur ses barreaux et
@@ -5606,13 +5769,19 @@ frôlement de jupe qui traversait, y mettaient seuls des bruits légers,
 étouffés dans la chaleur du calorifère. Pourtant, des voitures
 arrivaient&nbsp;: on entendait l’arrêt brusque des chevaux&nbsp;; puis,
 des portières se refermaient violemment.<br>
-Au-dehors, montait un lointain brouhaha, des curieux qui se
+&nbsp;&nbsp;&nbsp; Au-dehors, montait un lointain brouhaha, des curieux
+qui se
 bousculaient en face des vitrines, des fiacres qui stationnaient sur la
 place Gaillon, toute l’approche d’une foule."<br>
 <br>
 "Et il ne se trompait plus aux bruits qui lui arrivaient du dehors,
 roulements de fiacres, claquements de portières, brouhaha grandissant
-de foule."<br>
+de foule. Il sentait, à ses pieds, la machine se mettre en branle,
+s’échauffer et revivre, depuis les caisses où l’or sonnait, depuis les
+tables où les garçons de magasin se hâtaient d’empaqueter les
+marchandises, jusqu’aux profondeurs du sous-sol, au service du départ,
+qui s’emplissait de paquets descendus, et dont le grondement souterrain
+faisait vibrer la maison."<br>
 <br>
 "Maintenant, la trépidation intérieure étouffait les bruits du
 dehors&nbsp;; on n’entendait plus ni le roulement des fiacres, ni le
@@ -5656,9 +5825,12 @@ href="https://beq.ebooksgratuits.com/vents/Maupassant_Une_vie.pdf">Une
 vie</a><br>
 1883<br>
 <br>
-"On n’entendait plus aucun bruit que le murmure éloigné du flot contre
+"On n’entendait plus aucun bruit que le murmure éloigné du flot
+contre
 le galet et une vague rumeur de la terre glissant encore sur les
-ondulations des vagues, mais confuse, presque insaisissable."
+ondulations des vagues, mais confuse, presque insaisissable. Et puis,
+Jeanne se redressait et, dans un affolement de joie, poussait des cris
+aigus en battant l’eau de ses deux mains."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5728,7 +5900,8 @@ de Maupassant</a><br>
 target="_blank">Yvette</a><br>
 1884<br>
 <br>
-"C’était l’heure fraîche qui précède le jour, l’heure du grand sommeil,
+"&nbsp;&nbsp;&nbsp; C’était l’heure fraîche qui précède le jour,
+l’heure du grand sommeil,
 du grand repos, du calme profond. Les bruits légers de la nuit
 eux-mêmes s’étaient tus. Les rossignols ne chantaient plus&nbsp;; les
 grenouilles avaient fini leur vacarme&nbsp;; seule, une bête inconnue,
@@ -5764,7 +5937,8 @@ de Maupassant</a><br>
 target="_blank">Promenade</a><br>
 1884<br>
 <br>
-"Il entendait autour de lui, au-dessus de lui, partout, une rumeur
+"&nbsp;&nbsp;&nbsp; Il entendait autour de lui, au-dessus de lui,
+partout, une rumeur
 confuse, immense, continue, faite de bruits innombrables et différents,
 une rumeur sourde, proche, lointaine, une vague et énorme palpitation
 de vie : le souffle de Paris, respirant comme un être colossal."
@@ -5773,11 +5947,46 @@ de vie : le souffle de Paris, respirant comme un être colossal."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Joris-Karl_Huysmans"
 target="_blank">Joris-Karl Huysmans</a><br>
-<a href="https://fr.wikisource.org/wiki/%C3%80_rebours" target="_blank">A
+<a href="https://fr.wikisource.org/wiki/%C3%80_rebours/Texte_entier"
+target="_blank">A
 rebours</a><br>
 1884<br>
 <br>
-"Actuellement, il voulut vagabonder dans un surprenant et variable
+"&nbsp;&nbsp;&nbsp; Du reste, chaque liqueur correspondait, selon lui,
+comme goût, au son d’un instrument. Le curaçao sec, par exemple, à la
+clarinette dont le chant est aigrelet et velouté ; le kummel au
+hautbois dont le timbre sonore nasille ; la menthe et l’anisette, à la
+flûte, tout à la fois sucrée et poivrée, piaulante et douce ; tandis
+que, pour compléter l’orchestre, le kirsch sonne furieusement de la
+trompette ; le gin et le whisky emportent le palais avec leurs
+stridents éclats de pistons et de trombones, l’eau-de-vie de marc
+fulmine avec les assourdissants vacarmes des tubas, pendant que roulent
+les coups de tonnerre de la cymbale et de la caisse frappés à tour de
+bras, dans la peau de la bouche, par les rakis de Chio et les mastics !<br>
+&nbsp;&nbsp;&nbsp; Il pensait aussi que l’assimilation pouvait
+s’étendre, que des quatuors d’instruments à cordes pouvaient
+fonctionner sous la voûte palatine, avec le violon représentant la
+vieille eau-de-vie, fumeuse et fine, aiguë et frêle ; avec l’alto
+simulé par le rhum plus robuste, plus ronflant, plus sourd ; avec le
+vespétro déchirant et prolongé, mélancolique et caressant comme un
+violoncelle ; avec la contrebasse, corsée, solide et noire comme un pur
+et vieux bitter. On pouvait même, si l’on voulait former un quintette,
+adjoindre un cinquième instrument, la harpe, qu’imitait par une
+vraisemblable analogie, la saveur vibrante, la note argentine, détachée
+et grêle du cumin sec.<br>
+&nbsp;&nbsp;&nbsp; La similitude se prolongeait encore : des relations
+de tons existaient dans la musique des liqueurs ; ainsi pour ne citer
+qu’une note, la bénédictine figure, pour ainsi dire, le ton mineur de
+ce ton majeur des alcools que les partitions commerciales désignent
+sous le signe de chartreuse verte.<br>
+&nbsp;&nbsp;&nbsp; Ces principes une fois admis, il était parvenu,
+grâce à d’érudites expériences, à se jouer sur la langue de
+silencieuses mélodies, de muettes marches funèbres à grand spectacle, à
+entendre, dans sa bouche, des solis de menthe, des duos de vespétro et
+de rhum."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Actuellement, il voulut vagabonder dans un
+surprenant et variable
 paysage, et il débuta par une phrase, sonore, ample, ouvrant tout d’un
 coup une échappée de campagne immense."
 </div>
@@ -5830,7 +6039,8 @@ de Maupassant</a><br>
 target="_blank">Les prisonniers</a><br>
 1884<br>
 <br>
-"Aucun bruit dans la forêt que le frémissement léger de la neige
+"&nbsp;&nbsp;&nbsp; Aucun bruit dans la forêt que le frémissement léger
+de la neige
 tombant sur les arbres. Elle tombait depuis midi : une petite neige
 fine qui poudrait les branches d’une mousse glacée qui jetait sur les
 feuilles mortes des fourrés un léger toit d’argent, étendait par les
@@ -5839,7 +6049,8 @@ silence illimité de cet océan d’arbres."<br>
 <br>
 "On n’entendait rien autre chose que le ronflement léger du rouet et le
 crépitement du feu, et le murmure de l’eau qui s’échauffait.<br>
-Mais soudain un bruit étrange les fit tous tressaillir, quelque chose
+&nbsp;&nbsp;&nbsp; Mais soudain un bruit étrange les fit tous
+tressaillir, quelque chose
 comme un souffle rauque poussé sous la porte, un souffle de bête, fort
 et ronflant."
 </div>
@@ -5909,7 +6120,8 @@ href="https://beq.ebooksgratuits.com/vents/Maupassant_Le_colporteur.pdf"
 target="_blank">L’horrible</a><br>
 1884<br>
 <br>
-"On n’entendait rien autre chose dans la lueur terne du crépuscule
+"&nbsp;&nbsp;&nbsp; On n’entendait rien autre chose dans la lueur terne
+du crépuscule
 qu’un bruit confus, mou et cependant démesuré de troupeau marchant, un
 piétinement infini, mêlé d’un vague cliquetis de gamelles ou de
 sabres."
@@ -5922,7 +6134,8 @@ Zola</a><br>
 target="_blank"> Germinal</a><br>
 1885<br>
 <br>
-"Pas une parole n'était échangée. Ils tapaient tous, on n'entendait que
+"&nbsp;&nbsp;&nbsp; Pas une parole n'était échangée. Ils tapaient tous,
+on n'entendait que
 ces coups irréguliers, voilés et comme lointains. Les bruits prenaient
 une sonorité rauque, sans un écho dans l'air mort.<br>
 ...<br>
@@ -5966,9 +6179,19 @@ Traduction (1926) de Théo Varlet</a><br>
 devenait très déserte et, en dépit du sourd grondement de Londres
 qui s’élevait de tout à l’entour, très silencieuse. Les plus petits
 sons portaient au loin : les bruits domestiques provenant des maisons
-s’entendaient nettement d’un côté à l’autre de la chaussée&nbsp;; et
-le
-bruit de leur marche précédait de beaucoup les passants." </div>
+s’entendaient nettement d’un côté à l’autre de la chaussée ; et le
+bruit de leur marche précédait de beaucoup les passants. Il y avait
+quelques minutes que M. Utterson était à son poste, lorsqu’il perçut un
+pas insolite et léger qui se rapprochait. Au cours de ses
+reconnaissances nocturnes, il s’était habitué depuis longtemps à
+l’effet bizarre que produit le pas d’un promeneur solitaire qui est
+encore à une grande distance, lorsqu’il devient tout à coup distinct
+parmi la vaste rumeur et les voix de la ville.<br>
+...<br>
+&nbsp;&nbsp; &nbsp;Les pas se rapprochaient rapidement, et ils
+redoublèrent tout à coup de sonorité lorsqu’ils débouchèrent dans la
+rue."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guy_de_Maupassant" target="_blank">Guy
@@ -5989,17 +6212,19 @@ target="_blank">En rade</a><br>
 1887
 <br>
 <br>
-"Partout, en haut des collines, en bas du val, des gens fauchaient et,
+"&nbsp;&nbsp;&nbsp; Partout, en haut des collines, en bas du val, des
+gens fauchaient et,
 le son portant loin, il entendait distinctement le bruit de soie, suivi
 du tintement métallique de la sape coupant le blé. La vie du paysage
 changeait selon les côtes."<br>
 <br>
 "... plus bas le paysage était complètement désert, les paysans tapis,
-les bestiaux rentrés; dans l’étendue de la plaine, en écoutant, l’on
+les bestiaux rentrés ; dans l’étendue de la plaine, en écoutant, l’on
 n’entendait, au loin, sur des coteaux, que l’imperceptible aboiement
 d’un chien."<br>
 <br>
-"Ce silence inanimé, cet abandon qui lui avaient étreint le coeur, la
+"&nbsp;&nbsp;&nbsp; Ce silence inanimé, cet abandon qui lui avaient
+étreint le coeur, la
 nuit, n’existaient plus ; la vie terminée de ces lieux que dénonçaient
 des fenêtres sans rideaux ouvrant sur des corridors nus et des chambres
 vides semblait prête à renaître ; il allait certainement suffire
@@ -6041,7 +6266,8 @@ href="https://excerpts.numilog.com/books/9782081312586.pdf"
 target="_blank">Marcel Proust Une vie à s’écrire de Jérôme Picon</a><br>
 1888<br>
 <br>
-"Tout le monde est couché dans le grand appartement silencieux...
+"&nbsp;&nbsp;&nbsp; Tout le monde est couché dans le grand appartement
+silencieux...
 J’entrouvre la fenêtre pour revoir une dernière fois la douce face
 fauve, bien ronde de la lune amie. J’entends comme l’haleine très
 fraîche, froide, de toutes les choses qui dorment, l’arbre d’où suinte
@@ -6097,10 +6323,13 @@ vifs et courts des hirondelles qui passaient sur le châssis ouvert, et
 la longue rumeur confuse de Paris à peine entendue par-dessus les
 toits."<br>
 <br>
-"... on entendait dans cette paix nocturne un confus et continu murmure
-de vie, mille bruits frêles dont l’harmonie ressemblait d’abord à du
-silence.<br>
-Une caille, dans un pré voisin, jetait son double cri, ..." </div>
+"... on entendait dans cette paix nocturne un confus et continu
+murmure de vie, mille bruits frêles dont l’harmonie ressemblait d’abord
+à du silence.<br>
+&nbsp;&nbsp; &nbsp;Une caille, dans un pré voisin, jetait son double
+cri, et Julio, les oreilles dressées, s’en alla à pas furtifs vers les
+deux notes de flûte de l’oiseau."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Emile
@@ -6158,12 +6387,14 @@ target="_blank">Qui sait ?</a><br>
 de moi. J’avais dans les oreilles quelques ronflements ; mais cela
 m’arrive souvent. Il me semble parfois que j’entends passer des trains,
 que j’entends sonner des cloches, que j’entends marcher une foule.<br>
-Puis bientôt, ces ronflements devinrent plus distincts, plus précis,
+&nbsp;&nbsp;&nbsp; Puis bientôt, ces ronflements devinrent plus
+distincts, plus précis,
 plus reconnaissables. Je m’étais trompé. Ce n’était pas le
 bourdonnement ordinaire de mes artères qui mettait dans mes oreilles
 ces rumeurs, mais un bruit très particulier, très confus cependant, qui
 venait, à n’en point douter, de l’intérieur de ma maison.<br>
-Je le distinguais à travers le mur, ce bruit continu, plutôt une
+&nbsp;&nbsp;&nbsp; Je le distinguais à travers le mur, ce bruit
+continu, plutôt une
 agitation qu’un bruit, un remuement vague d’un tas de choses, comme si
 on eût secoué, déplacé, traîné doucement tous mes meubles.<br>
 ...<br>
@@ -6210,37 +6441,55 @@ href="https://beq.ebooksgratuits.com/vents/Renard_Histoires_naturelles.pdf"
 target="_blank">Les Histoires Naturelles</a><br>
 1894<br>
 <br>
-"Subitement, le lac de silence où les choses baignent et dorment déjà,
+L’âne<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Subitement, le lac de silence où les choses
+baignent et dorment déjà,
 se rompt, bouleversé.<br>
-Quelle ménagère tire, à cette heure, par un treuil rouillé et criard,
+&nbsp;&nbsp;&nbsp; Quelle ménagère tire, à cette heure, par un treuil
+rouillé et criard,
 des pleins seaux d’eau de son puits ?<br>
-C’est l’âne qui remonte et jette toute sa voix dehors et brait, jusqu’à
+&nbsp;&nbsp;&nbsp; C’est l’âne qui remonte et jette toute sa voix
+dehors et brait, jusqu’à
 extinction, qu’il s’en fiche, qu’il s’en fiche." <br>
 <br>
-"Au bout du toit de la grange, un pinson chante. Il répète, par
+Le pinson <br>
+<br>
+"&nbsp;&nbsp;&nbsp; Au bout du toit de la grange, un pinson chante. Il
+répète, par
 intervalles égaux, sa note héréditaire. À force de le regarder, l’oeil
 trouble ne le distingue plus de la grange massive. Toute la vie de ces
 pierres, de ce foin, de ces poutres et de ces tuiles s’échappe par un
 bec d’oiseau.<br>
-Ou plutôt la grange elle-même siffle un petit air."<br>
+&nbsp;&nbsp;&nbsp; Ou plutôt la grange elle-même siffle un petit air."<br>
 <br>
-"Mais écoutez comme j’écoute.<br>
-Entendez-vous quelque part, là-haut, piler dans une coupe d’or des
+L’alouette <br>
+<br>
+"&nbsp;&nbsp; Mais écoutez comme j’écoute.<br>
+&nbsp;&nbsp;&nbsp; Entendez-vous quelque part, là-haut, piler dans une
+coupe d’or des
 morceaux de cristal ?<br>
-Qui peut me dire où l’alouette chante ?<br>
-Si je regarde en l’air, le soleil brûle mes yeux.<br>
-Il me faut renoncer à la voir.<br>
-L’alouette vit au ciel, et c’est le seul oiseau du ciel qui chante
+&nbsp;&nbsp;&nbsp; Qui peut me dire où l’alouette chante ?<br>
+&nbsp;&nbsp;&nbsp; Si je regarde en l’air, le soleil brûle mes yeux.<br>
+&nbsp;&nbsp;&nbsp; Il me faut renoncer à la voir.<br>
+&nbsp;&nbsp;&nbsp; L’alouette vit au ciel, et c’est le seul oiseau du
+ciel qui chante
 jusqu’à nous"<br>
+<br>
+Les perdrix <br>
 <br>
 "La perdrix connaît la voix du laboureur, elle ne le redoute pas quand
 il crie ou qu’il jure.<br>
-Que la charrue grince, que le boeuf tousse et que l’âne se mette à
+&nbsp;&nbsp;&nbsp; Que la charrue grince, que le boeuf tousse et que
+l’âne se mette à
 braire, elle sait que ce n’est rien."<br>
+<br>
+Fermeture de la chasse <br>
 <br>
 "D’où partent ce bruit vague, ce bêlement, ce son de cloche, ce cri
 humain ?<br>
-Il faut rentrer. Par une route déjà effacée, je retourne au village.
+&nbsp;&nbsp;&nbsp; Il faut rentrer. Par une route déjà effacée, je
+retourne au village.
 Lui seul connaît son nom." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6261,18 +6510,20 @@ Tombant"
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/St%C3%A9phane_Mallarm%C3%A9"
 target="_blank">Stéphane Mallarmé</a><br>
-<a href="http://fdnet.perso.infonie.fr/oeuvres/conflit.htm"
+<a href="https://fr.wikisource.org/wiki/Divagations_%281897%29/Conflit"
 target="_blank">Conflit</a><br>
 1895<br>
 <br>
-"Même le calme, obligatoire dans une région d'échos, comme on y trempe,
+"&nbsp;&nbsp;&nbsp; Même le calme, obligatoire dans une région d'échos,
+comme on y trempe,
 je l'ai, particulièrement les soirs de dimanche, jusqu'au silence."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
-<a href="https://www.gutenberg.org/files/58698/58698-h/58698-h.htm"
+<a
+href="https://fr.wikisource.org/wiki/Les_Plaisirs_et_les_Jours/Texte_entier"
 target="_blank"> Les Plaisirs et les Jours</a><br>
 1896<br>
 <br>
@@ -6306,6 +6557,7 @@ target="_blank">Chair - Vers sans rimes</a><br>
 Sont le silence d’or dont on parla d’argent.<br>
 Ah ! cessons de nous plaindre, insensés que nous fûmes<br>
 Et travaillons tranquillement au nez des gens !<br>
+<br>
 Quant à souffrir, quant à mourir, c’est nos affaires<br>
 Ou plutôt celles des toc tocs et des tic tacs<br>
 De la pendule en garni dont la voix sévère<br>
@@ -6321,7 +6573,8 @@ target="_blank">Dracula</a><br>
 target="_blank">Traduction (1963) de Lucienne Molitor</a><br>
 1897<br>
 <br>
-"À l’abri sous les arbres et entouré du silence de la plaine
+"&nbsp;&nbsp;&nbsp; À l’abri sous les arbres et entouré du silence de
+la plaine
 environnante, je n’entendais rien d’autre que le vent siffler au-dessus
 de ma tête. L’obscurité qu’avait créée l’orage fut engloutie par
 l’obscurité définitive de la nuit... Puis la tempête parut s’éloigner :
@@ -6339,7 +6592,8 @@ nous parvinssent de plus en plus faibles à mesure que nous nous
 se rapprochaient sans cesse, qu’ils finiraient par nous entourer
 complètement."<br>
 <br>
-"Peu avant dix heures, ce temps lourd devint réellement oppressant, et
+"&nbsp;&nbsp;&nbsp; Peu avant dix heures, ce temps lourd devint
+réellement oppressant, et
 le silence si profond que l’on entendait très distinctement, dans le
 lointain, bêler un mouton ou aboyer un chien ; l’orchestre du port, qui
 jouait si joyeusement ses airs français, semblait seul troubler ce
@@ -6363,7 +6617,8 @@ silence ; sur la plus frêle chaloupe, déjà se heurtent-ils, et leur
 bruit nous fait croire que la tempête est bruyante. Les grandes vagues
 avancent et se succèdent sans aucun bruit."<br>
 <br>
-"Je te parlerai des fenêtres encore : à Naples, des causeries sur les
+"&nbsp;&nbsp;&nbsp; Je te parlerai des fenêtres encore : à Naples, des
+causeries sur les
 balcons, des rêveries, le soir, près des robes claires des femmes ; les
 rideaux à moitié retombés nous isolaient de la société bruyante du bal.
 Il y eut des paroles échangées, d’une si désolante délicatesse qu’après
@@ -6374,18 +6629,21 @@ alors on entendait très faiblement le bruit des vagues."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/August_Strindberg" target="_blank">Strindberg</a><br>
+href="https://fr.wikipedia.org/wiki/August_Strindberg" target="_blank">August
+Strindberg</a><br>
 <a href="https://www.gutenberg.org/ebooks/44108" target="_blank">The
 Inferno - Traduction anglaise (1912) de Claud Field</a><br>
 <a href="https://www.gallimard.fr/catalogue/inferno/9782070764563"
 target="_blank">Inferno</a><br>
 1897<br>
 <br>
-"J’allume la bougie pour passer le temps en lectures. Il règne un
+"&nbsp;&nbsp; J’allume la bougie pour passer le temps en lectures. Il
+règne un
 silence sinistre, et j’entends battre mon coeur. Alors un petit bruit
 sec me secoue comme une étincelle électrique.<br>
-Qu’est-ce que c’est ?<br>
-Un bloc énorme de stéarine de bougie vient de tomber à terre. Rien que
+&nbsp;&nbsp;&nbsp; Qu’est-ce que c’est ?<br>
+&nbsp;&nbsp;&nbsp; Un bloc énorme de stéarine de bougie vient de tomber
+à terre. Rien que
 cela, mais c’était une menace de mort, chez nous."<br>
 <br>
 Cité par Gaston Bachelard dans <a
@@ -6402,6 +6660,14 @@ target="_blank">Le secret de Wilhelm Storitz</a>&nbsp;&nbsp; (version
 d’origine)<br>
 1898<br>
 <br>
+"&nbsp;&nbsp; &nbsp;La nuit se passa dans le roulement des wagons, dans
+leur
+trépidation sur les rails, au milieu de cette monotonie bruyante, qui
+finit par vous endormir même pendant les temps d’arrêt. Parfois, à
+intervalles irréguliers, retentirent à mes oreilles les noms d’Oos, de
+Bade, de Carlsruhe et quelques autres, jetés par la voix glapissante
+des conducteurs."<br>
+<br>
 "... et on entendait le bruit des chaises déplacées, le frou-frou des
 robes, le piétinement de la foule tandis que les piécettes tombaient
 dans la bourse des jeunes filles."<br>
@@ -6410,10 +6676,6 @@ dans la bourse des jeunes filles."<br>
 persienne agitée par le vent, un gémissement de la girouette sur le
 toit, le bourdonnement d’un insecte aux oreilles, le sifflement de la
 brise par une porte ou une fenêtre mal fermée, tout paraissait suspect."<br>
-<br>
-"La nuit se passa dans le roulement des wagons, dans leur trépidation
-sur les rails, au milieu de cette monotonie bruyante, qui finit par
-vous endormir même pendant les temps d’arrêt."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6424,16 +6686,20 @@ href="https://classiques.uqam.ca/classiques/michel_louise/la_commune/michel_la_c
 target="_blank">La Commune</a><br>
 1898<br>
 <br>
-"On entendait incessamment sur le parc de Neuilly grêler les balles à
+"&nbsp;&nbsp;&nbsp; On entendait incessamment sur le parc de Neuilly
+grêler les balles à
 travers les branches avec ce bruit des orages d’été que nous
 connaissons si bien. L’illusion était telle qu’on croyait sentir
 l’humidité tout en sachant que c’était la mitraille."<br>
 <br>
-"Tous les trois ans dans les cyclones, les vents et la mer hurlent,
+"&nbsp;&nbsp;&nbsp; Tous les trois ans dans les cyclones, les vents et
+la mer hurlent,
 rauquent, mugissent les bardits de la tempête ; il semble alors que la
 pensée s’arrête, et qu’on soit porté par les vents et les flots entre
 la nuit du ciel et la nuit de l’océan.<br>
-... Le bruit formidable de l’eau qui se verse par torrents, les
+...<br>
+&nbsp;&nbsp;&nbsp; Le bruit formidable de l’eau qui se verse par
+torrents, les
 souffles énormes du vent et de la mer, tout cela se réunit en un chœur
 magnifique et terrible."
 </div>
@@ -6458,8 +6724,9 @@ du sable qui est comme un cri de désir, et comme un baiser, et où je
 distingue, nettement rythmé, ce nom qui est partout, qui était au
 craquement des potences, au râle des agonisants, et qui emplit
 maintenant, de son obsession exquise et funèbre, tout le crépuscule :<br>
-— Clara !... Clara !... Clara !...<br>
-Pour le mieux entendre, le gecko s’est tu... Tout s’est tu..."<br>
+&nbsp;&nbsp;&nbsp; — Clara !... Clara !... Clara !...<br>
+&nbsp;&nbsp;&nbsp; Pour le mieux entendre, le gecko s’est tu... Tout
+s’est tu..."<br>
 <br>
 "Nous croisâmes des sampangs pareils au nôtre et d’où partaient, sous
 les baldaquins aux rideaux fermés, des chants, des bruits de baisers,
@@ -6481,30 +6748,28 @@ Proust</a><br>
 Santeuil</a><br>
 1899<br>
 <br>
-"Dès septembre, il y avait des jours entiers où le soleil ne paraissait
-pas, où la forêt, les cultures, le village, sous le ciel doux et gris
-comme la plume qui est sous le&nbsp; ventre des oiseaux, semblaient
-clore tout le pays, comme à l’abri de tous les bruits du monde, dans le
-silence des choses qui sont séparées des autres, qui forment un tout,
-le silence d’un jardin vide. Aussi les heures vous arrivaient une à une
-comme dans une chambre, si grande qu’elle soit, où on entend tout ce
-qui y fait le plus léger bruit. Et les heures d’un village voisin
-arrivaient comme l’heure sonne dans la chambre à côté. Et le
-criaillement d’un oiseau, qui seul dans ce temps si triste se hasardait
-à gazouiller, le froissement des feuilles de marronnier quand par
-hasard un souffle d’air passait, le bruit d’un marteau dans le village
-de l’autre côté de la colline, les aboiements indistincts mais
-reconnaissables d’un chien qui chassait avec son maître dans le bois
-peut-être à deux lieues, tous vous arrivaient, rien n’était perdu, et
-comme dans une pièce d’eau où la moindre vibration éveille, dans le
-calme de cette eau bornée de toutes parts, des vibrations jusqu’à ce
-qu’elles aient gagné toute la surface, les faibles aboiements du chien
-qui chassait tout à l’autre bout de l’horizon, éveillaient les
-aboiements encore plus faibles à cette distance du chien de la ferme
-des Aigneaux, et le murmure des feuilles de marronnier se prolongeait
-du murmure plus faible des autres marronniers jusqu’à ceux plus
-éloignés qu’on écoutait des yeux, comme font les sourds, aux mouvements
-imperceptibles de leurs feuilles."<br>
+"La forêt, les cultures, le village sous le ciel doux et gris, comme la
+plume qui est sous le ventre des oiseaux, semblaient clore tout le
+pays, comme à l’abri de tous les bruits du monde, dans le silence des
+choses qui sont séparées des autres, qui forment un tout, le silence
+d’un jardin vide. Aussi les heures vous arrivaient une à une comme dans
+une chambre si grande qu’elle soit, où on entend tout ce qui y fait le
+plus léger bruit. Et les heures d’un village voisin arrivaient comme
+l’heure sonne dans la chambre à côté. Le criaillement d’un oiseau, qui
+seul dans ce temps si triste se hasardait à gazouiller, le froissement
+des feuilles de marronnier, quand par hasard un souffle d’air passait,
+le bruit d’un marteau dans le village de l’autre côté de la colline,
+les aboiements indistincts mais reconnaissables d’un chien qui chassait
+avec son maître dans le bois peut être à deux lieues, tout vous
+arrivait, rien n’était perdu. Comme dans une pièce d’eau où le moindre
+souffle éveille dans le calme de cette eau bornée de toutes parts des
+vibrations jusqu’à ce qu’elles aient gagné toute la surface, les
+faibles aboiements du chien qui chassait tout à l’autre bout de
+l’horizon, éveillaient les aboiements encore plus faibles à cette
+distance du chien de la ferme des Aigneaux, et le murmure des feuilles
+de marronnier se prolongeait du murmure plus faible des autres
+marronniers jusqu’à ceux plus éloignés qu’on écoutait des yeux, comme
+font les sourds, aux mouvements imperceptibles de leurs feuilles."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6518,13 +6783,15 @@ href="https://fr.wikisource.org/wiki/La_R%C3%A9surrection_de_Sherlock_Holmes/Pet
 target="_blank">Peter le Noir</a><br>
 1904<br>
 <br>
-"Nous nous étendîmes sous les arbres, attendant en silence. Tout
+"&nbsp;&nbsp;&nbsp; Nous nous étendîmes sous les arbres, attendant en
+silence. Tout
 d’abord les derniers pas des passants attardés et les bruits des voix
 dans le village égayèrent notre veille&nbsp;; peu à peu ces sons
 s’éteignirent et l’on n’entendit plus rien que, de temps en temps, les
 heures qui sonnaient à l’église lointaine et le grésillement d’une
 pluie fine qui tombait sur les arbres au-dessus de nos têtes.<br>
-La demie de deux heures se fit entendre&nbsp;; c’était l’heure la plus
+&nbsp;&nbsp;&nbsp; La demie de deux heures se fit entendre&nbsp;;
+c’était l’heure la plus
 sombre de la nuit avant l’aurore. Tout à coup nous sautâmes en
 entendant un cliquetis métallique près de la barrière. On était entré
 dans l’avenue&nbsp;; un silence se fit..."
@@ -6606,30 +6873,34 @@ L’odeur du silence est si vieille."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
 <a
-href="https://www.ebooksgratuits.com/html/colette_ingenue_libertine.html"
+href="https://fr.wikisource.org/wiki/L%E2%80%99Ing%C3%A9nue_libertine/Texte_entier"
 target="_blank"> L'Ingénue libertine</a><br>
 1909<br>
 <br>
-"Le feu parle tout bas, la lampe à huile compte goutte à goutte les
+"&nbsp;&nbsp;&nbsp; Le feu parle tout bas, la lampe à huile compte
+goutte à goutte les
 secondes, Maman soupire. Sur la toile cirée de sa broderie – un grand
 col pour Minne – l’aiguille, à chaque point, toque du bec. Dehors, les
 platanes du boulevard Berthier ruissellent de pluie, et les tramways du
 boulevard extérieur grincent musicalement sur leurs rails."<br>
 <br>
-"Au pas léger de Minne, le plancher gémit. Si elle reste immobile, les
+"&nbsp;&nbsp;&nbsp; Au pas léger de Minne, le plancher gémit. Si elle
+reste immobile, les
 fauteuils empire s’étirent, craquent, éclatent, le bois du lit leur
 répond. La maison desséchée et sonore pétille, comme travaillée d’un
 sourd incendie. Debout depuis deux siècles dans le soleil et le vent,
 sa charpente chaude gémit sans cesse, et on l’appelle, dans le pays, la
 Maison Sèche."<br>
 <br>
-"Pourtant, Minne s’est endormie, bercée par des roulements sourds et
+"&nbsp;&nbsp;&nbsp; Pourtant, Minne s’est endormie, bercée par des
+roulements sourds et
 doux... Un bref fracas l’éveille, suivi d’un coup de vent singulier,
 qui
 débute en brise chuchotante, s’enfle, assaille la maison qui craque
 tout entière... Puis, un grand calme mort."<br>
 <br>
-"Minne entend les arbres gémir... Un vacarme creux couvre leur plainte
+"&nbsp;&nbsp;&nbsp; Minne entend les arbres gémir... Un vacarme creux
+couvre leur plainte
 ;
 le tonnerre sonne vide et faux, rejeté par les échos des petites
 montagnes... « Ce n’est pas le même tonnerre qu’à Paris, songe Minne,
@@ -6646,7 +6917,8 @@ un
 train bout au loin, s’élance, rageur, crachant derrière lui une
 mitraille de charbons rouges..."<br>
 <br>
-"Cette nuit sans ombre, qui éveille, au cœur récalcitrant de Minne, une
+"&nbsp;&nbsp;&nbsp; Cette nuit sans ombre, qui éveille, au cœur
+récalcitrant de Minne, une
 sensibilité inconnue, résonne de tous les bruits du jour. Une musique
 lointaine monte par bouffées, et sur l’escarpement de la route,
 claquent des fouets, grincent des roues..."<br>
@@ -6694,16 +6966,16 @@ target="_blank">La Porte - Traduction (1927) de Raymond Martinie</a><br>
 <br>
 "Depuis la fin de l’après-midi, au dehors, le vent, qui soufflait avec
 vacarme, semblait être venu tout exprès de très loin pour assaillir la
-maison.<br>
-De temps en temps, tout bruit cessait, et ces intervalles de silence
+maison. De temps en temps, tout bruit cessait, et ces intervalles de
+silence
 produisaient une impression encore plus triste que lorsque le vent
 faisait rage. Sôsuke, les bras croisés, pensait qu’approchait doucement
 la saison où commencent à tinter les cloches qui annoncent les
 incendies."<br>
 <br>
 "... en deux ou trois endroits différents cliquetaient les ciseaux au
-travail. <br>
-Sôsuke venait d’assister, au-dehors, à cette animation fébrile de la
+travail.&nbsp; Sôsuke venait d’assister, au-dehors, à cette animation
+fébrile de la
 rue qui évoque comme un effort fait par la foule des citadins pour
 franchir cette froide époque et entrer le plus tôt possible dans la
 saison printanière ; ce bruit que faisaient les ciseaux retentissait à
@@ -6726,7 +6998,8 @@ target="_blank">Les Cahiers de Malte Laurids Brigge - Traduction
 (1926) de Maurice Betz</a><br>
 1910<br>
 <br>
-"Ô nuit sans objets. Ô fenêtre sourde au dehors, ô portes closes avec
+"&nbsp;&nbsp;&nbsp; Ô nuit sans objets. Ô fenêtre sourde au dehors, ô
+portes closes avec
 soin ; pratiques venues d’anciens temps, transmises, vérifiées, jamais
 entièrement comprises. Ô silence dans la cage de l’escalier, silence
 dans les chambres voisines, silence là-haut, au plafond. Ô mère : ô toi
@@ -6767,7 +7040,8 @@ href="https://classiques.uqam.ca/classiques/roupnel_gaston/Vieux_Garain_roman/Le
 target="_blank">Le vieux Garain</a><br>
 1913<br>
 <br>
-"Ils étaient tous là, les jeunes gars du pays, avec des fifres, des
+"&nbsp;&nbsp;&nbsp; Ils étaient tous là, les jeunes gars du pays, avec
+des fifres, des
 violons, des trompes, des cors, des grelots et des tambours. Sous notre
 petite fenêtre, tout cela sonnait, tambourinait, couaillait et raclait.
 Puis la bande s'éloignait. On se croyait délivré ; mais elle revenait
@@ -6791,7 +7065,8 @@ target="_blank">L’art des bruits. Manifeste futuriste. - Traduction
 (1913)</a><br>
 1913<br>
 <br>
-"Traversons ensemble une grande capitale moderne, les oreilles plus
+"&nbsp;&nbsp;&nbsp; Traversons ensemble une grande capitale moderne,
+les oreilles plus
 attentives que les yeux, et nous varierons les plaisirs de notre
 sensibilité en distinguant les borborygmes et les râles des moteurs qui
 respirent avec une animalité indiscutable, la palpitation des soupapes,
@@ -6910,7 +7185,8 @@ href="https://fr.wikisource.org/wiki/Du_c%C3%B4t%C3%A9_de_chez_Swann/Texte_entie
 target="_blank">Du côté de chez Swann</a><br>
 1913<br>
 <br>
-"Un petit coup au carreau, comme si quelque chose l'avait heurté, suivi
+"&nbsp;&nbsp;&nbsp; Un petit coup au carreau, comme si quelque chose
+l'avait heurté, suivi
 d'une ample chute légère comme de grains de sable qu'on eût laissés
 tomber d'une fenêtre au-dessus, puis la chute s'étendant, se réglant,
 adoptant un rythme, devenant fluide, sonore, musicale, innombrable,
@@ -6974,7 +7250,8 @@ leur imitation, reporter notre attention, notre défensive, en
 nous-même, leur donner comme objet à réduire, non pas l’être extérieur
 que nous aimons, mais notre capacité de souffrir par lui.<br>
 <br>
-Pour revenir au son, qu’on épaississe encore les boules qui ferment le
+&nbsp;&nbsp;&nbsp; Pour revenir au son, qu’on épaississe encore les
+boules qui ferment le
 conduit auditif, elles obligent au pianissimo la jeune fille qui jouait
 au-dessus de notre tête un air turbulent ; qu’on enduise une de ces
 boules d’une matière grasse, aussitôt son despotisme est obéi par toute
@@ -7037,7 +7314,8 @@ communication avec la rue qu'il semblait qu'on eût disjoint les murs de
 la maison, et chaque fois que passait le tramway, son timbre résonnait
 comme eût fait un couteau d'argent frappant une maison de verre."<br>
 <br>
-"J'écoutais cette murmurante émanation mystérieuse, douce comme un
+"&nbsp;&nbsp;&nbsp; J'écoutais cette murmurante émanation mystérieuse,
+douce comme un
 zéphir marin, féerique comme ce clair de lune, qu'était son sommeil.<br>
 ... son sommeil, au bord duquel je rêvais, avec une fraîche volupté
 dont je ne me fusse jamais lassé et que j'eusse pu goûter indéfiniment,
@@ -7167,7 +7445,9 @@ href="https://fr.wikisource.org/wiki/Le_Po%C3%A8te_assassin%C3%A9">Le
 Poète assassiné</a><br>
 1916<br>
 <br>
-Le Roi-Lune<br>
+<a
+href="https://fr.wikisource.org/wiki/Le_Po%C3%A8te_assassin%C3%A9/Le_Roi-Lune"
+target="_blank">Le Roi-Lune</a><br>
 <br>
 "Mais les rumeurs lointaines qui provenaient du triste royaume des
 ermitages me sollicitaient trop pour que je ne me laissasse point aller
@@ -9929,4 +10209,4 @@ s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
-page mise à jour 25 3 2026 
+page mise à jour 30 3 2026 
