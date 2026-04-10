@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 <br>
-657 descriptions de paysage sonore trouvées dans la littérature.<br>
+667 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2569,6 +2569,24 @@ target="_blank">Leçons de clavecin et principes d’harmonie</a><br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
+Diderot</a> <br>
+<a
+href="https://fr.wikisource.org/wiki/Suppl%C3%A9ment_au_voyage_de_Bougainville"
+target="_blank">Supplément au voyage de Bougainville</a><br>
+1772<br>
+<br>
+"« ... et que ces indignes étrangers n’entendent à leur départ que le
+flot qui mugit, et ne voient que l’écume dont sa fureur blanchit une
+rive déserte ! »<br>
+&nbsp;&nbsp;&nbsp; À peine eut-il achevé, que la foule des habitants
+disparut : un vaste silence régna dans toute l’étendue de l’île ; et
+l’on n’entendit que le sifflement aigu des vents et le bruit sourd des
+eaux sur toute la longueur de la côte : on eût dit que l’air et la mer,
+sensibles à la voix du vieillard, se disposaient à lui obéir."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
 Diderot</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/diderot-neveu.pdf"
 target="_blank"> Le neveu de Rameau</a><br>
@@ -4345,6 +4363,25 @@ A Louise Colet<br>
 ce sera là. <span style="font-style: italic;">Il faut que ça hurle par
 l’ensemble</span>, qu’on entende à la fois des beuglements de taureaux,
 des soupirs d’amour et des phrases d’administrateurs."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Henri_Lacordaire" target="_blank">Henri
+Lacordaire</a><br>
+<a href="https://books.google.gm/books?id=w-4lAQAAIAAJ&amp;hl=fr&amp;pg=PA46"
+target="_blank">Deuxième Conférence de Toulouse</a><br>
+1854<br>
+<br>
+Misère de l’homme dans les plaisirs<br>
+<br>
+"J’écoute donc le bruit du monde. Comme un pâtre errant dans une forêt
+profonde et silencieuse entend quelquefois, sous l’effort du vent qui
+se lève, un gémissement se produire, ainsi le monde a des voix qui
+sortent de ses générations, et chacun de nous, enfant perdu de la
+foule, peut écouter dans sa pensée le bruit de ses pères et de ses
+contemporains. Quel est-il ? Est-ce une plainte ? est-ce un cantique ?
+Dites-le-moi vous-mêmes, vous, partie de ce monde, dites-moi le son que
+rend la vie dans le secret de votre conscience."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6774,6 +6811,41 @@ feuilles."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Mary_Austin_%28%C3%A9crivaine%29"
+target="_blank">Mary Hunter Austin</a><br>
+<a href="https://www.gutenberg.org/files/365/365-h/365-h.htm"
+target="_blank">Land of Little Rain</a><br>
+<a target="_blank"
+href="https://lemotetlereste.com/litteratures/lepaysdespetitespluies/">Le
+pays des petites pluies - Traduction (2011) de François Specq</a><br>
+1903<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il y a toujours un petit vent sur la mesa, un
+courant d’air plus frais qui glisse de lui-même depuis le haut de la
+montagne, mais pas de nature à troubler le silence des vastes espaces.
+En traversant la large embouchure des canyons on ressent l’effet de ce
+qui s’y passe, ouvertement ou bien derrière un voile de nuages – le
+tonnerre des cascades, le vent dans les pins ou bien le grondement de
+la pluie qui dévale. La rumeur du tumulte va croissant puis décroissant
+à mesure qu’on avance, comme celle qui sort de portes grandes ouvertes
+sur la rue d’un village, mais elle n’entame en rien l’impression de
+solitude.<br>
+&nbsp;&nbsp;&nbsp; Par temps calme les mesas sont d’une tranquillité
+suprême le jour, mais le silence de la nuit est rompu par certaines
+notes douces ou poignantes. Dans les fins d’après-midi on aperçoit les
+chevêches des terriers aveuglées à l’entrée de leur repaire, avec
+peut-être une rangée de quatre ou cinq jeunes aux allures d’elfes, et
+au crépuscule commence à s’élever un doux <span
+style="font-style: italic;">hou-hou</span>, plus sonore et plus
+tendre, et plus incessant en période de reproduction. L’appel de la
+chevêche des terriers est indissociable de la lumière oblique des fins
+de journée sur la mesa. Si les délicates vibrations pourpre-doré qui
+flamboient dans les crépuscules de printemps devaient devenir celles du
+son, ce serait précisément cette double note mélodieuse qui naît à
+l’extrémité des fleurs."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Conan_Doyle" target="_blank">Arthur
 Conan Doyle</a><br>
 <a target="_blank"
@@ -7789,6 +7861,23 @@ particulière des dimanches de Paris dans les quartiers riches."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry" target="_blank">Paul
+Valéry</a><br>
+<a
+href="https://nimispauci.belfiore.eu/ValeryPaul/Valery-MonsieurTeste.pdf"
+target="_blank">Monsieur Teste</a><br>
+1926<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Nous écoutons, d’une oreille délicate, le mélange
+du bruit de la rue ample, la tête pleine des nuances abondantes du pas
+des chevaux touffus et de l’homme interminable, qui anime vaguement les
+profondeurs, leur faisant rouler comme en songe, une sorte de nombre
+confus dont la grandeur tremble et rassemble les marches, la mue
+opulente du monde, les transformations des indifférents les uns dans
+les autres, la presse générale de la foule."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Giraudoux" target="_blank">Jean
 Giraudoux</a><br>
 <a href="https://ebooks-bnr.com/ebooks/pdf4/giraudoux_bella.pdf"
@@ -8017,6 +8106,20 @@ voir. Il entendra la charrette, mais il ne saura pas. Il y aura donc
 quelqu'un qui sera dans ses oreilles avant d'être dans ses yeux. Et
 alors, il me verra, et il sera tout troublé. Et il en aura deux alors
 dans les yeux avant d'avoir pu même se rappeler."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
+Simenon</a><br>
+<a href="https://fr.wikipedia.org/wiki/Le_Port_des_brumes"
+target="_blank">Le port des brumes</a><br>
+1932<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Elle ne répondait pas. La conversation tomba
+d’elle-même. Ils marchèrent sans entendre rien d’autre que le
+crissement du sable qui se tassait sous leurs pas. Et des poux de mer
+crépitaient devant eux, dérangés dans leur festin d’algues apportées
+par la marée."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8467,6 +8570,52 @@ target="_blank">Maigret se fâche</a><br>
 bruits du dehors, le caquet des poules qui grattaient le fumier dans
 une cour, la chaîne d'un chien, les appels insistants des remorqueurs
 et ceux, plus sourds, des péniches à moteur." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
+Camus</a><br>
+<a href="https://resistir.info/livros/camus_la_peste.pdf"
+target="_blank">La peste</a><br>
+1947<br>
+<br>
+"Souvent, dans les rues désertes et surchauffées, on voyait avancer,
+annoncés d’abord par le bruit des sabots sur les pavés, des gardes à
+cheval qui passaient entre des rangées de fenêtres closes. La
+patrouille disparue, un lourd silence méfiant retombait sur la ville
+menacée. De loin en loin, claquaient les coups de feu des équipes
+spéciales chargées, par une récente ordonnance, de tuer les chiens et
+les chats qui auraient pu communiquer des puces. Ces détonations sèches
+contribuaient à mettre dans la ville une atmosphère d’alerte.<br>
+...<br>
+Le cri des martinets dans le ciel du soir devenait plus grêle au-dessus
+de la ville."<br>
+<br>
+"Car, étrangement, ce qui montait alors vers les terrasses encore
+ensoleillées, en l’absence des bruits de véhicules et de machines qui
+font d’ordinaire tout le langage des villes, ce n’était qu’une énorme
+rumeur de pas et de voix sourdes, le douloureux glissement de milliers
+de semelles rythmé par le sifflement du fléau dans le ciel alourdi, un
+piétinement interminable et étouffant enfin, qui remplissait peu à peu
+toute la ville et qui, soir après soir, donnait sa voix la plus fidèle
+et la plus morne à l’obstination aveugle qui, dans nos coeurs,
+remplaçait alors l’amour."<br>
+<br>
+"Les bruits familiers de la nuit s’étaient succédé dans la rue. Quoique
+l’autorisation ne fût pas encore accordée, bien des voitures
+circulaient à nouveau. Elles suçaient rapidement le pavé,
+disparaissaient et reparaissaient ensuite. Des voix, des appels, le
+silence revenu, le pas d’un cheval, deux tramways grinçant dans une
+courbe, des rumeurs imprécises, et à nouveau la respiration de la nuit."<br>
+<br>
+"La mer était plus bruyante qu’alors, au pied des falaises. L’air était
+immobile et léger, délesté des souffles salés qu’apportait le vent
+tiède de l’automne. La rumeur de la ville, cependant, battait toujours
+le pied des terrasses avec un bruit de vagues. Mais cette nuit était
+celle de la délivrance, et non de la révolte. Au loin, un noir
+rougeoiement indiquait l’emplacement des boulevards et des places
+illuminés. Dans la nuit maintenant libérée, le désir devenait sans
+entraves et c’était son grondement qui parvenait jusqu’à Rieux."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Char" target="_blank">René
@@ -10009,6 +10158,19 @@ de glaces, de pastèque, de thé."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
+Modiano</a><br>
+<a href="https://fr.wikipedia.org/wiki/Chien_de_printemps"
+target="_blank">Chien de printemps</a><br>
+1993<br>
+<br>
+"... on écrit avec des mots et lui, il recherchait le silence. Une
+photographie peut exprimer le silence. Mais les mots? Voilà ce qui
+aurait été intéressant à son avis : réussir à créer le silence avec des
+mots."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Corbin" target="_blank">Alain
 Corbin</a><br>
 <a
@@ -10331,5 +10493,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 5 4 2026 
+</div>
+<br>
+page mise à jour 10 4 2026 
