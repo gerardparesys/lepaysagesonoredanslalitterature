@@ -8460,7 +8460,7 @@ oisif. Mais son visage était pâle et meurtri par l'ennui.<br>
 &nbsp;&nbsp;&nbsp; Lorsqu'elle se retourna vers la chambre et qu'elle
 ferma la fenêtre le
 bruissement de la vallée cessa brusquement comme si elle avait fermé
-les vannes d'une rivière<br>
+les vannes d'une rivière."<br>
 <br>
 <div style="text-align: right; font-style: italic;">Ce texte est l'un
 des premiers en langue française qui contient l'expression "paysage
