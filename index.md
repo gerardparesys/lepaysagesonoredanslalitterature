@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 <br>
-667 descriptions de paysage sonore trouvées dans la littérature.<br>
+676 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -143,15 +143,15 @@ href="https://www.biblegateway.com/passage/?search=%C3%89sa%C3%AFe%2024&amp;vers
 target="_blank">Ésaïe 24 - Jugement universel - Nouvelle Edition de
 Genève (1979)</a><br>
 <br>
-"Le moût est triste, la vigne est flétrie;<br>
+"Le moût est triste, la vigne est flétrie ;<br>
 Tous ceux qui avaient le cœur joyeux soupirent.<br>
 La joie des tambourins a cessé, la gaité bruyante a pris fin,<br>
 La joie de la harpe a cessé.<br>
-On ne boit plus de vin en chantant;<br>
+On ne boit plus de vin en chantant ;<br>
 Les liqueurs fortes sont amères au buveur.<br>
-La ville déserte est en ruines;<br>
+La ville déserte est en ruines ;<br>
 Toutes les maisons sont fermées, on n’y entre plus.<br>
-On crie dans les rues, parce que le vin manque;<br>
+On crie dans les rues, parce que le vin manque ;<br>
 Toute réjouissance a disparu,<br>
 ..."<br>
 </div>
@@ -6441,6 +6441,33 @@ grondement d’impatience, de colère, d’émeute mystérieuse."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Thomas_Hardy_%28%C3%A9crivain%29"
+target="_blank">Thomas Hardy</a><br>
+<a href="https://www.gutenberg.org/ebooks/110" target="_blank">Tess of
+the D’Urbervilles</a><br>
+<a href="https://beq.ebooksgratuits.com/classiques/Hardy-Tess.pdf"
+target="_blank">Tess d’Urberville - traduction (1901) de Madeleine
+Rolland</a><br>
+1891<br>
+<br>
+"&nbsp;&nbsp;&nbsp; C’était un de ces soirs d’été du mois de juin où
+l’atmosphère est si légère et en si délicat équilibre que les objets
+inanimés semblent doués de plusieurs sens. Rien ne distinguait le
+proche et le lointain ; en prêtant l’oreille, on se sentait voisin de
+toutes choses enfermées dans les limites de l’horizon. Le silence
+absolu frappait comme un être réel plutôt que comme la négation du
+bruit. Il fut rompu soudain par la vibration des cordes sonores.<br>
+&nbsp;&nbsp;&nbsp; Tess avait déjà perçu des sons dans la mansarde
+au-dessus de sa tête. Faibles, amortis, retenus dans leur prison, ils
+ne s’étaient jamais adressés à son cœur comme en ce moment, s’égarant
+dans l’air tranquille, francs et purs comme la nudité. En réalité
+l’instrument et l’exécution étaient médiocres ; mais tout est relatif,
+et Tess, pareille à un oiseau fasciné, ne pouvait se décider à partir.
+Elle se rapprocha même du musicien, en restant derrière la haie pour
+qu’il ne pût deviner sa présence." <br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Maurice_Maeterlinck"
 target="_blank">Maurice Maeterlinck</a><br>
 <a target="_blank"
@@ -6836,13 +6863,13 @@ notes douces ou poignantes. Dans les fins d’après-midi on aperçoit les
 chevêches des terriers aveuglées à l’entrée de leur repaire, avec
 peut-être une rangée de quatre ou cinq jeunes aux allures d’elfes, et
 au crépuscule commence à s’élever un doux <span
-style="font-style: italic;">hou-hou</span>, plus sonore et plus
-tendre, et plus incessant en période de reproduction. L’appel de la
-chevêche des terriers est indissociable de la lumière oblique des fins
-de journée sur la mesa. Si les délicates vibrations pourpre-doré qui
-flamboient dans les crépuscules de printemps devaient devenir celles du
-son, ce serait précisément cette double note mélodieuse qui naît à
-l’extrémité des fleurs."<br>
+style="font-style: italic;">hou-hou</span>,
+plus sonore et plus tendre, et plus incessant en période de
+reproduction. L’appel de la chevêche des terriers est indissociable de
+la lumière oblique des fins de journée sur la mesa. Si les délicates
+vibrations pourpre-doré qui flamboient dans les crépuscules de
+printemps devaient devenir celles du son, ce serait précisément cette
+double note mélodieuse qui naît à l’extrémité des fleurs."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7090,13 +7117,43 @@ angoissé qui te sonde comme si tu étais dans le secret de chaque son
 étouffé, d’accord avec lui et de concert."<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">
+<a href="https://fr.wikipedia.org/wiki/Thomas_Mann" target="_blank">Thomas
+Mann</a>
+<br>
+<a href="https://www.gutenberg.org/ebooks/12108" target="_blank">Der
+Tod in Venedig</a>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/La_Mort_%C3%A0_Venise/Texte_entier"
+target="_blank">La Mort à Venise - Traduction (1929) de Félix Bertaux
+et Charles Sigwalt</a><br>
+1912<br>
+<br>
+"On
+entendait le glouglou de l’eau qui battait les madriers et les murs.
+L’appel du gondolier, à la fois avertissement et salut, provoquait, par
+une singulière convention, une réponse dans le lointain du labyrinthe
+silencieux."<br>
+<br>
+"La nuit régnait et ses sens étaient en éveil ; car
+venant du lointain on entendait s’approcher un tumulte, un fracas, un
+brouhaha fait d’un bruit de chaînes, de trompettes, de grondements
+sourds pareils au tonnerre, des cris aigus de la jubilation et d’un
+certain hurlement, de hululements avec des « ou » prolongés, le tout
+mêlé de chants de flûte, roucoulants et graves, voluptueux et éhontés,
+qui ne cessaient point, qui de leur horrible douceur dominaient le
+reste, et libidineusement prenait l’être aux entrailles."<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
-target="_blank">Guillaume
-Apollinaire</a><br>
+target="_blank">Guillaume Apollinaire</a><br>
 <a href="https://fr.wikisource.org/wiki/Alcools/Texte_entier"
-target="_blank">Alcools</a><br>
-1913<br>
+target="_blank">Alcools</a>
+<br>
+1913
+<br>
 <br>
 Le vent nocturne<br>
 <br>
@@ -7522,14 +7579,44 @@ Poète assassiné</a><br>
 href="https://fr.wikisource.org/wiki/Le_Po%C3%A8te_assassin%C3%A9/Le_Roi-Lune"
 target="_blank">Le Roi-Lune</a><br>
 <br>
-"Mais les rumeurs lointaines qui provenaient du triste royaume des
-ermitages me sollicitaient trop pour que je ne me laissasse point aller
-au charme qui m’arrivait de la terre des vêtements blancs et, écoutant
-attentivement les murmures de l’aube, il me sembla entendre le bruit
-des lavandières battant perpétuellement les linges et les costumes
-virginaux et les chocs incessants des bâtons remplaçant le fer à
-repasser, comme si c’était l’aube blanche elle-même qu’on lavait et
-qu’on repassait."
+"... je compris que les bruits qui provenaient jusqu’à nous évoquaient
+l’atmosphère heureuse du Japon au moment de l’aurore.<br>
+&nbsp;&nbsp; &nbsp;Les microphones perfectionnés que le roi avait à sa
+disposition, étaient réglés de façon à apporter dans ce souterrain les
+bruits les plus lointains de la vie terrestre. Chaque touche actionnait
+un microphone réglé pour telle ou telle distance. Maintenant c’étaient
+les rumeurs d’un paysage japonais. Le vent soufflait dans les arbres,
+un village devait être là, car j’entendais les rires des servantes, le
+rabot d’un menuisier et le jet glacial des cascades.<br>
+&nbsp;&nbsp; &nbsp;Puis, une autre touche abaissée, nous fûmes
+transportés en pleine matinée, le roi salua le labeur socialiste de la
+Nouvelle-Zélande, j’entendis le sifflement des geysers au jaillissement
+d’eaux chaudes.<br>
+&nbsp;&nbsp; &nbsp;Ensuite, ce beau matin se continua dans la molle
+Tahiti. Nous voilà au marché de Papeete, les lascives vahinés de la
+Nouvelle-Cythère y erraient, on entendait leur beau langage guttural et
+presque semblable au grec antique ; on entendait aussi la voix des
+Chinois qui vendent le thé, le café, le beurre et les gâteaux ; le son
+des accordéons et des guimbardes...<br>
+&nbsp;&nbsp; &nbsp;Nous voici en Amérique, la prairie est immense, une
+ville sans doute a surgi, autour de cette station d’où repart le
+pullman dont, de concert avec le roi, j’entends le sifflement.<br>
+&nbsp;&nbsp; &nbsp;Bruits terribles de la rue, tramways, usines, il
+paraît que nous sommes à Chicago, à l’heure de midi.<br>
+&nbsp;&nbsp; &nbsp;Nous voici à New-York, où chantent les vaisseaux sur
+l’Hudson.<br>
+&nbsp;&nbsp; &nbsp;Des prières violentes s’élèvent devant un christ à
+Mexico.<br>
+&nbsp;&nbsp; &nbsp;Il est quatre heures. À Rio-de-Janeiro passe une
+cavalcade carnavalesque. Les balles de caoutchouc, lancées par des
+mains sûres, s’aplatissent avec bruit sur les visages et répandent les
+eaux de senteur comme les alcancies moresques d’autrefois, plic, ploc,
+rires, ah ! ah !<br>
+...<br>
+&nbsp;&nbsp; &nbsp;Les doigts du roi coururent sur les touches, au
+hasard, faisant s’élever, simultanément en quelque sorte, toutes les
+rumeurs de ce monde dont nous venions, immobiles, de faire le tour
+auriculaire."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7917,6 +8004,38 @@ style="font-style: italic;">A ma
 connaissance c'est dans ce texte où apparait pour la première fois en
 langue française l'expression "paysage sonore".</span><br>
 </div>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Robert_Desnos" target="_blank">Robert
+Desnos</a><br>
+<a
+href="https://ebooks-bnr.com/?stdb_dl=ebooks%2Fpdf4%2Fdesnos_liberte_ou_amour.pdf"
+target="_blank">La liberté ou l'amour !</a><br>
+1927<br>
+<br>
+II. Les profondeurs de la nuit<br>
+<br>
+"Ma porte, alors, était grande ouverte sur le mystère, mais celui-ci
+est entré en la fermant derrière lui et désormais j’écoute, sans mot
+dire, un piétinement immense, celui d’une foule de femmes nues
+assiégeant le trou de ma serrure. La multitude de leurs talons Louis XV
+fait un bruit comparable au feu de bois dans l’âtre, aux champs de blés
+mûrs, aux horloges dans les chambres désertes la nuit, à une
+respiration étrangère à côté du visage sur le même oreiller."<br>
+<br>
+IV. La brigade des jeux<br>
+<br>
+"Quand il sortit, au crépuscule, la chanson des fontaines publiques
+peuplait les rues de sirènes imaginaires. Elles s’enlaçaient,
+tournaient et se traînaient jusqu’aux pieds du corsaire. Muettes, elles
+imploraient du conquérant la chanson qui les rendrait aux limbes
+maritimes, mais lui, le gosier sec, ne troubla pas de sa voix les rues
+et les murs sonores car ses yeux lucides, plus lucides que les yeux de
+la réalité, discernaient par-delà le désert et les régions habitées
+l’ombre de la robe de celle que j’aime et à laquelle je n’ai pas cessé
+de penser depuis que ma plume, animée quoique partie du mouvement
+propre à l’ensemble, vole dans le ciel blafard du papier."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8570,6 +8689,50 @@ target="_blank">Maigret se fâche</a><br>
 bruits du dehors, le caquet des poules qui grattaient le fumier dans
 une cour, la chaîne d'un chien, les appels insistants des remorqueurs
 et ceux, plus sourds, des péniches à moteur." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Boris_Pasternak" target="_blank">Boris
+Pasternak</a> (<a target="_blank"
+href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D0%BA,_%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9B%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4%D0%BE%D0%B2%D0%B8%D1%87">Пастернак
+Борис</a>)<br>
+<a
+href="https://vtoraya-literatura.com/pdf/pasternak_doktor_zhivago_1958__ocr.pdf"
+target="_blank">Доктор Живаго</a><br>
+<a
+href="https://www.librairie-gallimard.com/livre/9782070360796-le-docteur-jivago-boris-pasternak/"
+target="_blank">Le Docteur Jivago - Traduction (1958) de Michel
+Aucouturier, Louis Martinez, Jacqueline de Proyart et Hélène
+Peltier-Zamoyska</a><br>
+1945<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Les champs inondés par les rayons brûlants du
+soleil étaient parcourus par le crissement inlassable des grillons
+recouvrant le bruit du train en marche.<br>
+...<br>
+&nbsp;&nbsp;&nbsp; Partout on hurlait, on criait des chansons, on
+jurait, on jouait aux cartes avec passion. Aux arrêts, le vacarme de
+l’intérieur se grossissait du bruit de la foule qui assiégeait le
+train. Le tintamarre des voix était aussi assourdissant que celui d’une
+tempête. Et, comme sur la mer, au milieu de l’arrêt, il naissait un
+silence inexplicable. On entendait des pas pressés sur le quai, tout le
+long du train, des courses précipitées et des discussions près du wagon
+à bagages, des mots prononcés au loin par ceux qui venaient dire adieu,
+le paisible gloussement des poules et le chuchotement des arbres dans
+le jardinet de la gare."<br>
+<br>
+"Comme des flotteurs à la surface de l’eau, planaient, immobiles, de
+larges essaims de moustiques qui gémissaient à l’unisson, sur une note
+grêle. La main de Jivago en écrasait un grand nombre sur son front et
+son cou trempés de sueur&nbsp;; à ses claques sonores répondaient tous
+les bruits de la chevauchée&nbsp;: le crissement des courroies contre
+la selle, le choc pesant des sabots s’arrachant à la boue avec des
+claquements humides, et les salves de détonations sèches que laissaient
+échapper les entrailles du cheval. Tout à coup, au loin, où le couchant
+s’éternisait, s’éleva le chant du rossignol&nbsp;:
+«&nbsp;Otch-nis&nbsp;! Otch-nis&nbsp;». Cet appel persuasif ressemblait
+presque à celui de la liturgie pascale&nbsp;: «&nbsp;Mon âme, ô mon
+âme&nbsp;! Éveille-toi, pourquoi restes-tu endormie&nbsp;?&nbsp;»."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
@@ -10076,6 +10239,54 @@ de tuyaux, rumeurs extérieures..."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Serres" target="_blank">Michel
+Serres</a><br>
+<a
+href="https://media.electre-ng.com/extraits/extrait-id/9165bfb96f96bbbf924a1e11385d0debb5c7cf27a64f5511f62f859e228d284a.pdf"
+target="_blank">Hermes IV : La distribution - extrait</a><br>
+1977<br>
+<br>
+préface<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Enfin, le commencement.<br>
+&nbsp;&nbsp;&nbsp; Au commencement est le tohu-bohu. Nous disons
+aujourd’hui : le bruit, le bruit de fond. D’où voulez-vous qu’émerge le
+verbe, sinon du bruit. Nos aïeux disaient : le chaos. Ils étaient
+placés dans un monde et nous sommes plongés dans des flots de signaux.
+À chacun son désordre, au bord limite de tout ordre. Mais cela ne
+fait pas autant de différence qu’on croit. Pantagruel, tout comme nous
+et tant d’autres navigateurs, avait rangé les îles Tohu et Bohu avant
+de se noyer au tumulte et aux clameurs de l’ouragan. On ne fait pas
+naufrage tous les jours. Vient celui où le vaisseau passe, au milieu
+des voix insensées.<br>
+...<br>
+Et donc, aux commencements, le désordre. Cela est aussi vieux que l’on
+voudra. Cela peut dater de l’aurore noire où les premiers discours
+essayaient de nouer les haillons de l’espace, et cela peut venir de ces
+boîtes noires vertigineusement intégrées dans le complexe de mon
+corps, où hurle un bruit de fond inextinguible et d’où sort,
+exceptionnellement, le langage."<br>
+<br>
+1976, jour du printemps.<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/R._Murray_Schafer" target="_blank">Raymond
+Murray Schafer</a><br>
+<a
+href="https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf"
+target="_blank">The Tuning of the World (The Soundscape)</a><br>
+<a href="https://wildproject.org/livres/le-paysage-sonore"
+target="_blank">Le Paysage sonore Le monde comme musique Traduction
+(1979) de Sylvette Gleize</a><br>
+1977<br>
+<br>
+"Le talent de romanciers tels que Tolstoï, Thomas Hardy ou Thomas Mann,
+qui ont su saisir les paysages sonores de leur époque et de leur pays,
+nous a permis de reconstituer le passé."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
 <a href="https://fr.wikipedia.org/wiki/Rue_des_Boutiques_obscures"
@@ -10285,9 +10496,10 @@ href="https://fr.wikipedia.org/wiki/Michel_Butor" target="_blank">Michel
 Butor</a><br>
 <a href="https://www.gallimard.fr/catalogue/seize-lustres/9782070776832"
 target="_blank">Seize lustres</a> - Paysages planétaires - cité dans :
-<a href="https://www.barapoemes.net/archives/2020/08/12/38475537.html"
-target="_blank">Le bar à poèmes<br>
-1990 .. 2006</a><br>
+<a target="_blank"
+href="https://www.barapoemes.net/archives/2020/08/12/38475537.html">Le
+bar à poèmes<br>
+</a>1990 .. 2006<br>
 <br>
 (ETATS ZUNI)<br>
 <br>
@@ -10405,6 +10617,27 @@ craquements secs, les claquements, les chuintements, et, près de ses
 oreilles, le murmure aigu pareil au chant des abeilles." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://musique.uqam.ca/le-departement/charges-de-cours/luana-stan/"
+target="_blank">Luana Stan</a><br>
+<a
+href="https://www.academia.edu/1478122/2012_Le_Paysage_sonore_de_Murray_R_Schafer"
+target="_blank">Le Paysage sonore de Murray R. Schafer</a><br>
+2012<br>
+<br>
+"&nbsp;&nbsp;&nbsp; En voulant inventorier presque la totalité des sons
+(existants ou disparus), Schafer a dû rechercher des citations dans une
+multitude de sources (chants traditionnels ou sacrés des peuples,
+documents anciens, livres historiques, romans, poésies, actes
+juridiques). Parmi les dizaines d’auteurs cités on retrouve des
+penseurs de l’Antiquité comme Hésiode, Homère, Virgile, des philosophes
+comme Arthur Schopenhauer ou des écrivains comme Fenimore Cooper,
+Charles Dickens, William Faulkner, Johann Wolfgang von Goethe, Nicolas
+Gogol, Maxim Gorki, Thomas Hardy, Heinrich Heine, Victor Hugo, Thomas
+Mann, Boris Pasternak, Marcel Proust, Erich Maria Remarque, Robert
+Louis Stevenson, Léon Tolstoï, Virginia Woolf, Emil Zola, etc."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://fr.wikipedia.org/wiki/Jean-Bernard_Pouy">Jean-Bernard
 Pouy</a><br>
 <a href="https://www.editionsin8.com/auteurs/livre/757-calibre-16mm"
@@ -10495,4 +10728,4 @@ s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
-page mise à jour 10 4 2026 
+page mise à jour 15 4 2026 
