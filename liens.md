@@ -3,7 +3,7 @@ title: "Liens"
 order: 2
 in_menu: true
 ---
-Raymond Murray Schafer:
+[Raymond Murray Schafer](https://fr.wikipedia.org/wiki/R._Murray_Schafer){:target="_blank"} :
 - [The Tuning of the World (The Soundscape)](https://monoskop.org/images/d/d4/Schafer_R_Murray_The_Soundscape_Our_Sonic_Environment_and_the_Tuning_of_the_World_1994.pdf){:target="_blank"} (1977)
 - [Le Paysage sonore Le monde comme musique](https://wildproject.org/livres/le-paysage-sonore){:target="_blank"} Traduction (1979) de Sylvette Gleize
 
