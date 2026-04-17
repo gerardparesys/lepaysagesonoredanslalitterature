@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-676 descriptions de paysage sonore trouvées dans la littérature.<br>
+684 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -4317,6 +4317,70 @@ apportait, — les sons douloureux d’une cloche lointaine, qui sonnait
 pour les morts." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Arthur_Schopenhauer"
+target="_blank">Arthur Schopenhauer</a><br>
+<a target="_blank"
+href="https://www.schopenhauer.fr/oeuvres/parerga-et-paralipomena.html">Parerga
+et Paralipomena</a><br>
+1851<br>
+<br>
+<a
+href="https://www.schopenhauer.fr/oeuvres/fichier/ecrivains-et-style.pdf"
+target="_blank">Écrivains et style - Traduction (1905) de Auguste
+Dietrich</a><br>
+<br>
+"&nbsp;&nbsp;&nbsp; Si ce monde était peuplé d’êtres pensants
+véritables, il serait impossible qu’on tolérât les bruits illimités de
+toute espèce, même les plus horribles et dépourvus de toute raison
+d’être. Si, en effet, la nature avait destiné l’homme à penser, elle ne
+lui aurait pas donné d’oreilles, ou aurait du moins pourvu celles-ci de
+revêtements hermétiques, comme les chauves-souris, que j’envie pour la
+possession de cet attribut. Mais l’homme est en réalité un pauvre
+animal semblable aux autres, dont les forces sont calculées en vue du
+maintien de son existence. Aussi doit-il tenir constamment ouvertes ses
+oreilles, qui lui annoncent d’elles-mêmes, la nuit comme le jour,
+l’approche de l’ennemi."<br>
+<br>
+<a
+href="https://www.schopenhauer.fr/oeuvres/fichier/essai-sur-les-apparitions-et-opuscules-divers.pdf"
+target="_blank">Essai sur les apparitions et opuscules divers -
+Traduction (1912) de Auguste Dietrich</a><br>
+<br>
+<div style="margin-left: 40px;">Préface de Auguste Dietrich<br>
+<br>
+"A Scutari, ville turque de 80.000 âmes, défense absolue aux cochers de
+faire claquer leur fouet et d’échanger entre eux les aménités dont les
+nôtres sont si prodigues, aux camelots et marchands ambulants
+d’annoncer à grands cris leurs objets à vendre ; dans cette enceinte
+privilégiée, point de trompes d’autos beuglant aux carrefours, point de
+bruits de ferrailles tressautant sur le pavé, point de monologues ou de
+chansons d'ivrognes."<br>
+</div>
+<br>
+Sur le bruit et le vacarme<br>
+<br>
+"Les coups de marteau, les aboiements des chiens et les cris d’enfants
+sont épouvantables ; mais le véritable meurtrier de la pensée est le
+claquement du fouet. Son rôle est d’anéantir chaque bon moment de
+réflexion que tout être humain peut avoir par hasard çà et là. Si, pour
+exciter les bêtes de trait, il n’existait pas d’autre moyen que ce
+bruit, le plus abominable de tous, il serait excusable. Mais tout au
+contraire : ce maudit claquement de fouet, loin d’être nécessaire, ne
+sert à rien."<br>
+<br>
+<a
+href="https://www.schopenhauer.fr/oeuvres/fichier/philosophie-et-science-de-la-nature.pdf"
+target="_blank">Philosophie et science de la nature - Traduction
+(1911) de Auguste Dietrich</a><br>
+<br>
+"&nbsp;&nbsp;&nbsp; A l’égard de l’harmonie pythagoricienne des
+sphères, on devrait bien rechercher quel accord résulterait, si on
+assemblait une succession de sons en rapport avec les différentes
+vélocités des planètes, de sorte que Neptune serait la basse, Mercure
+le soprano, etc."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Herman_Melville" target="_blank">Herman
 Melville</a><br>
 <a
@@ -6626,6 +6690,75 @@ Quant à souffrir, quant à mourir, c’est nos affaires<br>
 Ou plutôt celles des toc tocs et des tic tacs<br>
 De la pendule en garni dont la voix sévère<br>
 Voudrait persévérer à nous donner le trac"
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Maxime_Gorki" target="_blank">Maxime
+Gorki</a>&nbsp; (<a
+href="https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9,_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC"
+target="_blank">Максим Горький</a>)<br>
+<a href="https://www.gutenberg.org/ebooks/75398" target="_blank">Les
+Vagabonds - Traduction (1901) de Ivan Strannik (Anna Mitrofanovna
+Anichkova)</a><br>
+<br>
+<a
+href="https://ru.wikisource.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BA%D0%B0%D1%88_%28%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9%29"
+target="_blank">Челкаш</a><br>
+Tchelkache<br>
+1894 <br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le bruit des chaînes, le roulement des wagons qui
+charrient la marchandise, le gémissement métallique des feuilles de fer
+tombant sur les pavés, le grincement des chariots, les sifflets des
+bateaux à vapeur, tantôt perçants, tantôt mugissants, les cris des
+haleurs, des matelots et des douaniers, — tous ces sons divers se
+fondent en une seule musique, celle du travail, et vibrent et
+s’attardent dans l’air, comme s’ils craignaient de monter et de
+disparaître. Et de la terre viennent toujours de nouveaux bruits, qui,
+sourds et roulants, secouent tout autour d’eux, ou bien, perçants,
+déchirent l’air ardent et poussiéreux."<br>
+<br>
+<a
+href="https://ru.wikisource.org/wiki/%D0%9C%D0%BE%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA_%28%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9%29"
+target="_blank">Мой спутник</a><br>
+Mon compagnon<br>
+1894<br>
+<br>
+"Au loin, le tonnerre grondait et ses roulements furieux se
+rapprochaient toujours. De grosses gouttes de pluie commencèrent à
+tomber et à frapper l’herbe. Et l’herbe rendait un son métallique.<br>
+&nbsp;&nbsp;&nbsp; Nous n’avions où nous cacher. Tout devint sombre, et
+le bruit de l’herbe, bien que plus fort, fut comme peureux. Un coup de
+tonnerre éclata, et les nuages tressaillirent, saisis par le feu bleu.
+Puis, de nouveau, tout devint sombre et la chaîne argentée de montagnes
+se perdit dans l’obscurité. Une lourde pluie tomba en torrents et, l’un
+après l’autre, les coups de tonnerre se mirent à rouler, terribles,
+dans la steppe déserte. L’herbe, courbée par le vent et la pluie, se
+couchait à terre et rendait un son pâle. Et tout tremblait et
+s’agitait. Les éclairs aveuglants déchiraient les nuages… Dans leur
+éclat bleu se levait au loin la chaîne de montagnes, étincelante de
+feux bleus, argentée et froide, et, quand les éclairs s’éteignaient,
+elle disparaissait comme si elle sombrait dans un gouffre noir. Tout
+grondait, frémissait, repoussait les sons et les faisait naître. On eût
+dit que le ciel, trouble et courroucé, purifiait par le feu la terre de
+toute souillure et que la terre tremblait d’effroi devant cette fureur."<br>
+<br>
+<a
+href="https://ru.wikisource.org/wiki/%D0%9C%D0%B0%D0%BB%D1%8C%D0%B2%D0%B0_%28%D0%93%D0%BE%D1%80%D1%8C%D0%BA%D0%B8%D0%B9%29"
+target="_blank">Мальва</a><br>
+Malva<br>
+1897<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Les nattes de la cabane frémissaient au vent, les
+écorces s’entre-choquaient, le chiffon rouge au bout du mât murmurait
+quelque chose. Tous ces bruits étaient timides et pareils au bégaiement
+sans suite et incertain d’une prière. Et les vagues mugissaient, libres
+et impassibles."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Un son de cloche, grêle et fêlé, retentit&nbsp;:
+l’appel au travail. Les sons se pressaient dans l’air, les uns après
+les autres, comme s’ils craignaient d’être en retard, de mourir dans le
+bruit des vagues."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -10726,6 +10859,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 15 4 2026 
+</div><br>
+page mise à jour 17 4 2026 
