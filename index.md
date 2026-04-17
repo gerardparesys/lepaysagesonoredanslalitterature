@@ -3,7 +3,7 @@ title: "Le paysage sonore dans la littérature"
 order: 0
 in_menu: true
 ---
-<img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
+<img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
 676 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
