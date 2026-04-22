@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-684 descriptions de paysage sonore trouvées dans la littérature.<br>
+690 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1897,9 +1897,7 @@ vers le mur, dessus une dure pierre d’ophite, bien torse et
 également polie, par son frottement faisait ce doux et harmonieux
 murmure."<br>
 <br>
-"... Bacbuc jeta je ne sais quoi dedans la fontaine, et soudain
-commença l’eau bouillir à force, comme fait la grande marmite de
-Bourgueil quand y est fête à bâtons. Panurge écoutait d’une
+"... Panurge écoutait d’une
 oreille en silence, Bacbuc se tenait près de lui agenouillée, quand
 de la sacrée bouteille issit un bruit tel que font les abeilles
 naissantes de la chair d’un jeune taureau occis et accoutré selon
@@ -1910,8 +1908,6 @@ tombant. Lors fut ouï ce mot : <span style="font-style: italic;">Trinc.</span>
 la vertu Dieu, rompue ou fêlée, que je ne mente : ainsi parlent les
 bouteilles cristallines de nos pays, quand elles près du feu
 éclatent. »"<br>
-&nbsp;&nbsp;&nbsp; fête à bâtons : fête où les chantres
-processionnent bâtons en mains <br>
 &nbsp;&nbsp;&nbsp; issit : sortit<br>
 &nbsp;&nbsp;&nbsp; garot : gros trait<br>
 </div>
@@ -2142,7 +2138,7 @@ J’écoute : c’est la nuit"<br>
 <br>
 <a
 href="https://www.librairie-gallimard.com/livre/9782070413065-haiku-anthologie-du-poeme-court-japonais-collectif/"
-target="_blank">Traduction de Corinne Atlan et Zéno Bianu - Haiku,
+target="_blank">Traduction de Corinne Atlan - Haiku,
 Anthologie du poème court japonais</a><br>
 1688<br>
 <br>
@@ -2946,6 +2942,35 @@ terre, se fendit, et éclata avec un bruit affreux et effrayant."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Heinrich_Heine" target="_blank">Heinrich
+Heine</a><br>
+<a
+href="https://de.wikisource.org/wiki/D%C3%A4mmernd_liegt_der_Sommerabend"
+target="_blank">Die Heimkehr - Dämmernd liegt der Sommerabendn</a><br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k165058r/f79.item"
+target="_blank">Le Retour - Un réseau d'ombres emprisonne - Traduction
+(1881) de Georges Clerc</a> pour une <a
+href="https://www.lieder.net/lieder/assemble_texts.html?SongCycleId=420"
+target="_blank">mélodie de André Messager</a><br>
+1824<br>
+<br>
+"Un réseau d'ombres emprisonne <br>
+Les prés, les champs et la forêt;<br>
+L'azur pâlit, le vent frissonne, <br>
+La lune à l'orient paraît.<br>
+<br>
+Un grillon de sa chanson vive<br>
+Lutine le ruisseau qui dort:<br>
+Un clapotement bat la rive,<br>
+Un bruit léger de l'onde sort.<br>
+<br>
+C'est un elfe errant à la brume,<br>
+Rasant du pied l'herbe et le jonc, <br>
+Qui prend son bain au clair de lune<br>
+Et vient de faire le plongeon."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alfred_de_Vigny" target="_blank">Alfred
 de Vigny</a><br>
 <a href="https://fr.wikipedia.org/wiki/Le_Cor" target="_blank">Le Cor</a><br>
@@ -3304,6 +3329,32 @@ s’entend dans le lointain comme la grande voix de la mer."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier"
+target="_blank">Théophile Gautier</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Premi%C3%A8res_Po%C3%A9sies_%28Gautier%29"
+target="_blank">Premières Poésies</a><br>
+1830 .. 1832<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Le_Coin_du_feu" target="_blank">Le
+coin du feu</a><br>
+<br>
+"Que la pluie à déluge au long des toits ruisselle !<br>
+Que l’orme du chemin penche, craque et chancelle<br>
+Au gré du tourbillon dont il reçoit le choc !<br>
+Que du haut des glaciers l’avalanche s’écroule !<br>
+Que le torrent aboie au fond du gouffre, et roule<br>
+Avec ses flots fangeux de lourds quartiers de roc !<br>
+<br>
+Qu’il gèle ! et qu’à grand bruit, sans relâche, la grêle<br>
+De grains rebondissants fouette la vitre frêle !<br>
+Que la bise d’hiver se fatigue à gémir !<br>
+Qu’importe ? n’ai-je pas un feu clair dans mon âtre,<br>
+Sur mes genoux un chat qui se joue et folâtre,<br>
+Un livre pour veiller, un fauteuil pour dormir ?"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alexandre_Pouchkine"
 target="_blank">Alexandre Pouchkine</a> (<a
 href="https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87"
@@ -3574,6 +3625,35 @@ jouir."<br>
 <br>
 "Le silence universel n’était troublé, à intervalles égaux, que par la
 petite lame du lac qui venait expirer sur la grève."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/James_Fenimore_Cooper"
+target="_blank">James Fenimore Cooper</a><br>
+<a href="https://en.wikisource.org/wiki/The_Pathfinder" target="_blank">The
+Pathfinder</a><br>
+<a href="https://fr.wikisource.org/wiki/Le_Lac_Ontario/Texte_entier"
+target="_blank">Le Lac Ontario - Traduction (1840) de
+Auguste-Jean-Baptiste Defauconpret</a><br>
+1840<br>
+<br>
+"... quoique le repos d’une solitude profonde régnât dans cette vaste
+forêt, la nature, avec ses mille langues, y parlait le langage éloquent
+de la nuit dans un désert. L’air soupirait à travers des milliers
+d’arbres, l’eau murmurait partout et mugissait en certains endroits, le
+long des rivages, et l’on entendait de temps en temps le bruit d’une
+branche qui, agitée par le vent, en touchait une autre. Aucun des sons
+appartenant à la vie ne se faisait plus entendre. Une fois, à la
+vérité, Pathfinder avait cru entendre le hurlement d’un loup dans le
+lointain, car il y en avait qui rôdaient dans cette forêt ; mais
+c’était un son douteux et momentané et qui pouvait n’être que l’effet
+de l’imagination. Cependant quand il recommanda le silence à ses
+compagnons, son oreille toujours vigilante venait d’entendre le bruit
+particulier d’une branche sèche qui se brise, et, si elle ne l’avait
+pas trompé, ce bruit venait de la rive occidentale. Tous ceux qui sont
+accoutumés à ce son particulier comprendront combien l’oreille l’entend
+aisément, et combien il est facile de distinguer le pas qui rompt une
+branche sèche de tous les autres bruits d’une forêt."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8276,6 +8356,25 @@ jaune et rouge, le quadruple jet d'une fontaine monumentale surmontée
 du perron liégeois qui tentait de dominer la rumeur du marché proche." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jorge_Luis_Borges" target="_blank">Jorge
+Luis Borges</a><br>
+<a target="_blank"
+href="https://www.la-pleiade.fr/catalogue/oeuvres-completes-1/9782070128150">Evaristo
+Carriego - Traduction (1969) de Françoise Rosset et Jean Pierre Bernès</a><br>
+1930<br>
+<br>
+IV. La Complainte du quartier<br>
+<br>
+"Les bruits n'étaient plus les mêmes : maintenant la sonnerie du
+cinématographe - avec déjà son bon avers américain de courage à dos de
+cheval et son revers européen érotico-sentimental - se mêlait aux
+retentissements fatigués des charrettes et au sifflet du rémouleur. À
+l'exception de quelques passages, toutes les rues étaient pavées.<br>
+...<br>
+Le tramway mécanique grinçait aux mornes carrefours."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
 <a
@@ -10359,6 +10458,42 @@ pressées, perçantes, dissonantes comme des bruits. Martyrisantes."<br>
 href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
 Barthes</a><br>
 <a
+href="https://www.placedeslibraires.fr/livre/9782757854136-essais-critiques-tome-4-le-bruissement-de-la-langue-roland-barthes/"
+target="_blank">Essais critiques IV Le bruissement de la langue</a><br>
+1975<br>
+<br>
+Le bruissement de la langue<br>
+<br>
+" ... le bruissement de la langue forme une utopie. Quelle utopie ?
+Celle d’une musique des sens ; j’entends par là que dans son état
+utopique, la langue serait élargie, je dirais même <span
+style="font-style: italic;">dénaturée</span>, jusqu’à former un
+immense tissu sonore dans lequel l’appareil sémantique se trouverait
+irréalisé ; le signifiant phonique, métrique, vocal, se déploierait
+dans toute sa somptuosité, sans que jamais un signe s’en détache
+(vienne <span style="font-style: italic;">naturaliser</span> cette
+pure nappe de jouissance), mais aussi – et c’est là le difficile – sans
+que le sens soit brutalement congédié, dogmatiquement forclos, bref
+châtré. Bruissante, confiée au signifiant par un mouvement inouï,
+inconnu de nos discours rationnels, la langue ne quitterait pas pour
+autant un horizon du sens : le sens, indivis, impénétrable, innommable,
+serait cependant posé au loin comme un mirage, faisant de l’exercice
+vocal un paysage double, muni d’un « fond » ; mais au lieu que la
+musique des phonèmes soit le « fond » de nos messages (comme il arrive
+dans notre Poésie), le sens serait ici le point de fuite de la
+jouissance. <br>
+...<br>
+... l'ancien Grec ... interrogeait ... avec passion, sans relâche, le
+bruissement des feuillages, des sources, des vents, bref le frisson de
+la nature pour y percevoir le dessein d'une intelligence. Et moi, c’est
+le frisson du sens que j’interroge en écoutant le bruissement du
+langage..." <br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
+Barthes</a><br>
+<a
 href="https://www.placedeslibraires.fr/livre/9782020146098-l-obvie-et-l-obtus-essais-critiques-iii-roland-barthes/"
 target="_blank">L'obvie et l'obtus Essais critiques III</a><br>
 1976<br>
@@ -10377,7 +10512,7 @@ Serres</a><br>
 <a
 href="https://media.electre-ng.com/extraits/extrait-id/9165bfb96f96bbbf924a1e11385d0debb5c7cf27a64f5511f62f859e228d284a.pdf"
 target="_blank">Hermes IV : La distribution - extrait</a><br>
-1977<br>
+1976<br>
 <br>
 préface<br>
 <br>
@@ -10399,8 +10534,6 @@ essayaient de nouer les haillons de l’espace, et cela peut venir de ces
 boîtes noires vertigineusement intégrées dans le complexe de mon
 corps, où hurle un bruit de fond inextinguible et d’où sort,
 exceptionnellement, le langage."<br>
-<br>
-1976, jour du printemps.<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -10453,6 +10586,27 @@ devant eux les petits qui ne savent pas se servir d’un bâton..."<br>
 porte cochère qui se referme, les pas qui montent... ils s’arrêtent sur
 le palier... la clef tâtonne dans la serrure, elle va tourner... Il
 faut que je m’arrache à la joie d’écouter, ..."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jorge_Luis_Borges" target="_blank">Jorge
+Luis Borges</a><br>
+<a
+href="https://www.la-pleiade.fr/catalogue/oeuvres-completes-2/9782070128167"
+target="_blank">Atlas -&nbsp; Traduction (1988) de Françoise Rosset</a><br>
+1984<br>
+<br>
+Staubbach<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Bien moins connue que les chutes du Niagara mais
+bien plus énorme et plus mémorable est la cascade de Staubbach, ... <br>
+de loin j'entendis la grande rumeur de l'eau verticale et pesante qui
+se précipite de très haut dans un puits de pierre qu'elle continue de
+creuser et d'approfondir presque depuis le commencement des temps. Nous
+passâmes là une nuit ; pour nous comme pour les gens du village, le
+bruit constant avait fini par être le silence. <br>
+&nbsp;&nbsp;&nbsp; Il y a tant de choses dans la multiple Suisse que le
+terrible y a aussi sa place." <br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -10859,5 +11013,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 17 4 2026 
+</div>
+<br>
+page mise à jour 22 4 2026 
