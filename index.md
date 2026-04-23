@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-690 descriptions de paysage sonore trouvées dans la littérature.<br>
+692 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -8137,27 +8137,41 @@ de ce silence entre les mots<br>
 qui, en rythmes, avancent." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
-target="_blank">Irène Némirovsky</a><br>
+href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke" target="_blank">Rainer
+Maria Rilke</a><br>
 <a
-href="https://www.ebooksgratuits.com/pdf/nemirovsky_le_malentendu.pdf"
-target="_blank">Le Malentendu</a><br>
-1926<br>
+href="https://monoskop.org/images/9/9a/Rilke_Rainer_Maria_Lettres_a_un_jeune_poete.pdf"
+target="_blank">Les quatrains valaisans</a><br>
+1924<br>
 <br>
-"... en même temps qu’il percevait ce bourdonnement léger des beaux
-jours d’été à la campagne, mêlé aux cris des joueurs de tennis dans les
-jardins voisins, et ce bruit particulier, gai – des coups de sonnette,
-des pas, des voix étrangères – qui, seul, suffit à révéler l’hôtel, une
-grande habitation pleine de désoeuvrés."<br>
+"Pays qui chante en travaillant,<br>
+pays heureux qui travaille ;<br>
+pendant que les eaux continuent leur chant,<br>
+la vigne fait maille pour maille.<br>
 <br>
-"Sans bruit, elle alla s’asseoir sur une chaise basse, entre la fenêtre
-et le feu. Quel silence !... Dans l’appartement vide, les moindres
-bruits s’entendaient, un craquement de meubles, le pas feutré du
-domestique dans la salle à manger ; en bas, la lourde porte cochère
-retomba avec un son sourd de cloche... Dehors, dans cette avenue d’Iéna
-que le dimanche faisait aussi paisible qu’une rue de province, une auto
-passa... puis, de nouveau, ce fut un silence écrasant, mort, la paix
-particulière des dimanches de Paris dans les quartiers riches."<br>
+Pays qui se tait, car le chant des eaux<br>
+n'est qu'un excès de silence,<br>
+de ce silence entre les mots<br>
+qui, en rythmes, avancent." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jorge_Luis_Borges" target="_blank">Jorge
+Luis Borges</a><br>
+<a
+href="https://literaturaargentina1unrn.wordpress.com/wp-content/uploads/2012/04/borges-jorge-luis-obras-completas.pdf"
+target="_blank">Luna de enfrente</a><br>
+<a
+href="https://www.la-pleiade.fr/catalogue/oeuvres-completes-1/9782070128150"
+target="_blank">Lune d'en face - Traduction (1965) de Jean Pierre
+Bernès et Nestor Ibarra</a><br>
+1925<br>
+<br>
+À l'horizon d'une banlieue<br>
+<br>
+"Pampa, <br>
+Je t'entends aux tenaces guitares sentencieuses, <br>
+et dans tes hauts oiseaux et dans la plainte lasse <br>
+des charrettes de foin qui viennent de l'été." <br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9653,6 +9667,16 @@ silence, lorsque tout y retomba."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Herg%C3%A9" target="_blank">Hergé</a><br>
+<a href="https://www.tintin.com/fr/albums/l-affaire-tournesol"
+target="_blank">L'Affaire Tournesol</a><br>
+1956<br>
+<br>
+<img style="width: 726px; height: 332px;" alt="L'Affaire Tournesol"
+src="images/LaffaireTournesol.jpg"><br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9o_Malet" target="_blank">Léo
 Malet</a><br>
 <a
@@ -10467,14 +10491,14 @@ Le bruissement de la langue<br>
 " ... le bruissement de la langue forme une utopie. Quelle utopie ?
 Celle d’une musique des sens ; j’entends par là que dans son état
 utopique, la langue serait élargie, je dirais même <span
-style="font-style: italic;">dénaturée</span>, jusqu’à former un
-immense tissu sonore dans lequel l’appareil sémantique se trouverait
-irréalisé ; le signifiant phonique, métrique, vocal, se déploierait
-dans toute sa somptuosité, sans que jamais un signe s’en détache
-(vienne <span style="font-style: italic;">naturaliser</span> cette
-pure nappe de jouissance), mais aussi – et c’est là le difficile – sans
-que le sens soit brutalement congédié, dogmatiquement forclos, bref
-châtré. Bruissante, confiée au signifiant par un mouvement inouï,
+style="font-style: italic;">dénaturée</span>,
+jusqu’à former un immense tissu sonore dans lequel l’appareil
+sémantique se trouverait irréalisé ; le signifiant phonique, métrique,
+vocal, se déploierait dans toute sa somptuosité, sans que jamais un
+signe s’en détache (vienne <span style="font-style: italic;">naturaliser</span>
+cette pure nappe de jouissance), mais aussi – et c’est là le difficile
+– sans que le sens soit brutalement congédié, dogmatiquement forclos,
+bref châtré. Bruissante, confiée au signifiant par un mouvement inouï,
 inconnu de nos discours rationnels, la langue ne quitterait pas pour
 autant un horizon du sens : le sens, indivis, impénétrable, innommable,
 serait cependant posé au loin comme un mirage, faisant de l’exercice
@@ -11013,6 +11037,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 22 4 2026 
+</div><br>
+page mise à jour 23 4 2026 
