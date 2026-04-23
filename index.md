@@ -9673,7 +9673,7 @@ target="_blank">L'Affaire Tournesol</a><br>
 1956<br>
 <br>
 <img style="width: 726px;" alt="L'Affaire Tournesol"
-src="images/LaffaireTournesol.jpg"><br>
+src="images/LaffaireTournesol.jpg">
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
