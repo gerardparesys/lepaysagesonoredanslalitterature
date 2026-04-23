@@ -9672,7 +9672,7 @@ href="https://fr.wikipedia.org/wiki/Herg%C3%A9" target="_blank">Hergé</a><br>
 target="_blank">L'Affaire Tournesol</a><br>
 1956<br>
 <br>
-<img style="width: 726px; height: 332px;" alt="L'Affaire Tournesol"
+<img style="width: 726px;" alt="L'Affaire Tournesol"
 src="images/LaffaireTournesol.jpg"><br>
 </div>
 <br>
