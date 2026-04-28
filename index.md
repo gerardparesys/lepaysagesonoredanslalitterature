@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-692 descriptions de paysage sonore trouvées dans la littérature.<br>
+696 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -8266,6 +8266,36 @@ propre à l’ensemble, vole dans le ciel blafard du papier."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Virginia_Woolf" target="_blank">Virginia
+Woolf</a><br>
+<a href="https://en.wikisource.org/wiki/Orlando:_A_Biography"
+target="_blank">Orlando</a><br>
+<a href="https://www.ebooksgratuits.com/pdf/woolf_orlando.pdf"
+target="_blank">Orlando - Traduction (1931) de Charles Mauron </a><br>
+1928<br>
+<br>
+"... Orlando entendit, de façon soudaine et inexplicable, très loin,
+battre les ailes de l’Amour. La palpitation assourdie de ce doux
+plumage réveilla en lui mille souvenirs d’eaux grondantes, de grâce
+adorable dans la neige, et d’exécrable perfidie dans le dégel ; le son
+grandit ; Orlando rougit et trembla ; et il se sentit ému comme il
+avait pensé ne plus l’être jamais ; il allait élever les mains,
+permettre à l’oiseau de beauté de se poser sur ses épaules lorsque –
+horreur ! – un craquement retentit et s’accrût, le fracas de corbeaux
+s’abattant sur un arbre ; l’air s’assombrit d’ailes rudes et noires ;
+des voix croassèrent ; des brins de paille churent, des branchettes,
+des plumes, et pesamment tomba sur ses épaules le plus lourd et le plus
+répugnant des oiseaux : le vautour. "<br>
+<br>
+" Il neigeait dru maintenant, et Orlando pouvait entendre, sur le toit,
+le bruissement de la neige qui glisse et le « floc » de sa chute molle."<br>
+<br>
+"Elle entendit aboyer un renard dans les bois, puis le bruit d’un
+faisan qui froissait des branches. Elle entendit bruisser, glisser la
+neige sur le toit et – floc ! – mollement tomber sur la terre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/William_Faulkner" target="_blank">William
 Faulkner</a><br>
 <a href="https://www.fadedpage.com/showbook.php?pid=201410L9"
@@ -10025,6 +10055,28 @@ de se tenir, glacé, raide sur son cheval lui aussi invisible dans le
 noir, ..." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/John_Cage" target="_blank">John
+Cage</a><br>
+<a
+href="https://monoskop.org/images/b/b5/Cage_John_Silence_Lectures_and_Writings.pdf"
+target="_blank">Silence : lectures and writings</a><br>
+<a
+href="https://www.abebooks.fr/Silence-discours-%C3%A9crits-Collection-dossiers-lettres/31942993999/bd"
+target="_blank">Silence discours et écrits - Traduction partielle
+(1970) de Monique Fong</a><br>
+1961<br>
+<br>
+Communication<br>
+<br>
+"Le silence existe t'il ?<br>
+Même si je m'éloigne du monde, faut-il que je continue d'écouter
+quelque chose ?<br>
+Disons que je suis dans les bois, faut-il que j'écoute le babil du
+ruisseau ?<br>
+Y a-t-il toujours quelque chose à écouter, jamais ni paix ni calme ?"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Francis_Ponge" target="_blank">Francis
 Ponge</a><br>
 <a href="https://www.gallimard.fr/catalogue/methodes/9782070324927"
@@ -11037,5 +11089,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 23 4 2026 
+</div>
+<br>
+page mise à jour 28 4 2026 
