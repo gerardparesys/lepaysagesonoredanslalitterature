@@ -5,7 +5,8 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-696 descriptions de paysage sonore trouvées dans la littérature.<br>
+702 descriptions de paysage sonore trouvées dans la littérature.
+<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2357,6 +2358,28 @@ Et le bruit de la hache."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Denis_Diderot" target="_blank">Denis
+Diderot</a><br>
+<a href="https://philo-labo.fr/fichiers/Diderot%20-%20Oeuvres%2007.pdf"
+target="_blank">Discours sur la Poésie dramatique</a><br>
+1758<br>
+<br>
+"Qu'est-ce qu'il faut au poète ? Est-ce une nature brute ou cultivée,
+paisible ou troublée ? Préférera-t-il la beauté d'un jour pur et serein
+à l'horreur d'une nuit obscure, où le sifflement interrompu des vents
+se mêle par intervalles au murmure sourd et continu d'un tonnerre
+éloigné, et où il voit l'éclair allumer le ciel sur sa tête ?
+Préférera-t-il le spectacle d'une mer tranquille à celui des flots
+agités ? Le muet et froid aspect d'un palais, à la promenade parmi des
+ruines ? Un édifice construit, un espace planté de la main des hommes,
+au touffu d'une antique forêt, au creux ignoré d'une roche déserte ?
+Des nappes d'eau, des bassins, des cascades, à la vue d'une cataracte
+qui se brise en tombant à travers des rochers, et dont le bruit se fait
+entendre au loin du berger qui a conduit son troupeau dans la montagne,
+et qui l'écoute avec effroi ?"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yuan_Mei" target="_blank">Yuan Mei</a>
 (1716 .. 1797)<br>
 <a href="https://www.albin-michel.fr/les-formes-du-vent-9782226178312"
@@ -2663,6 +2686,46 @@ la ville.</a><br>
 "C’est le rendez-vous de tous les enrhumés, de tous les cracheurs, de
 tous les moucheurs, de tous les rousseurs, de tous les polissons qui
 aiment à entendre et à faire du bruit !" </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean-Baptiste_Mercier_Dupaty"
+target="_blank">Jean-Baptiste Mercier Dupaty</a><br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k208285v/"
+target="_blank">Lettres sur l’Italie en 1785</a><br>
+1788<br>
+<br>
+Lettre LII. A Tivoli.<br>
+<br>
+"&nbsp;&nbsp;&nbsp; J'aime ce bruit, qui ébranle mon ame, comme cette
+montagne. J'aime à écouter l'Anio. Il mugit, il tombe, il tone, il
+tombe ! La nuit ici n'a point de silence.<br>
+&nbsp;&nbsp;&nbsp;&nbsp; Comme ce fleuve, en se précipitant, se brise
+tout entier en écume !"<br>
+<br>
+Lettre LIV. A Tivoli. <span style="font-style: italic;">La grande
+cascade</span>.<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Écoutons bien les tonnerres que roulent ces flots
+bondissans ; écoutons bien ce retentissement universel, et,
+tout-à-l'entour, ce silence. <br>
+&nbsp;&nbsp;&nbsp; Ces flots, cette hauteur, cet abîme, ce fracas, ces
+rocs pendans en précipice, les uns noircis par les siècles, d'autres
+verdis par de longues mousses, ceux-là hérissés de ronces et de plantes
+sauvages de toute espèce ; ces rayons égarés du soleil, qui se brisent,
+qui se jouent sur le roc, dans les eaux, parmi les fleurs ; ces oiseaux
+que le bruit et le vent des ondes effrayent et repoussent, dont on ne
+peut entendre la voix ; tout cela m'émeut, me trouble, m'enchante!"<br>
+<br>
+Lettre LVII. A Rome. <span style="font-style: italic;">Incendie</span>
+del borgo, <span style="font-style: italic;">par Raphaël</span>.<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Mais, dans toute cette scène effroyable, ce qui me
+causoit le plus d'horreur, c'étoit, dans les intervalles où le vent se
+taisoit, le silence. Alors, il en sortoit, de toutes parts, des soupirs
+étouffés, des gémissemens profonds, le bruissement de la flamme qui
+dévore, le fracas des édifices qui, de moment en moment, croulent : les
+cris des mères."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
@@ -3472,7 +3535,9 @@ funèbre."
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
 <a href="https://www.gutenberg.org/ebooks/2150" target="_blank">Metzengerstein</a><br>
-<a href="https://beq.ebooksgratuits.com/vents/poe-1.pdf" target="_blank">Histoires
+<a
+href="https://fr.wikisource.org/wiki/Histoires_extraordinaires/Metzengerstein"
+target="_blank">Histoires
 extraordinaires - Traduction (1856) de Charles Baudelaire</a><br>
 1832<br>
 <br>
@@ -3480,10 +3545,10 @@ extraordinaires - Traduction (1856) de Charles Baudelaire</a><br>
 lacérées, qu’il mordait d’outre en outre dans l’intensité de sa
 terreur. En un instant, le choc des sabots retentit avec un bruit aigu
 et perçant, plus haut que le mugissement des flammes et le glapissement
-du vent un instant encore, et, franchissant d’un seul bond la grande
-porte et le fossé, le coursier s’élança sur les escaliers branlants du
-palais et disparut avec son cavalier dans le tourbillon de ce feu
-chaotique."
+du vent ; — un instant encore, et, franchissant d’un seul bond la
+grande porte et le fossé, le coursier s’élança sur les escaliers
+branlants du palais et disparut avec son cavalier dans le tourbillon de
+ce feu chaotique."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3996,12 +4061,8 @@ montre enveloppée dans du coton.</span>"
 href="https://fr.wikipedia.org/wiki/Alexandre_Dumas" target="_blank">Alexandre
 Dumas</a><br>
 <a
-href="https://beq.ebooksgratuits.com/vents/Dumas_Les_trois_mousquetaires_1.pdf"
-target="_blank">Les Trois Mousquetaires I</a>&nbsp;&nbsp; <a
-href="https://beq.ebooksgratuits.com/vents/Dumas_Les_trois_mousquetaires_2.pdf"
-target="_blank">II</a>&nbsp;&nbsp; <a
-href="https://beq.ebooksgratuits.com/vents/Dumas_Les_trois_mousquetaires_3.pdf"
-target="_blank">III</a><br>
+href="https://ebooks-bnr.com/ebooks/pdf4/dumas_les_trois_mousquetaires_illustre.pdf"
+target="_blank">Les Trois Mousquetaires</a><br>
 1844<br>
 <br>
 "Là, immobile, et les yeux ardents et fixes dans son appartement
@@ -4011,11 +4072,13 @@ le bruit de la houle qui monte, gronde, mugit et vient se briser, comme
 un désespoir éternel et impuissant, contre les rochers sur lesquels est
 bâti ce château sombre et orgueilleux !"<br>
 <br>
-"Enfin elle entendit le grincement des grilles qu’on ouvrait, le bruit
+"&nbsp;&nbsp;&nbsp; Enfin elle entendit le grincement des grilles qu’on
+ouvrait, le bruit
 des bottes et des éperons retentit par les escaliers ; il se faisait un
 grand murmure de voix qui allaient se rapprochant, et au milieu
 desquelles il lui semblait entendre prononcer son nom.<br>
-Tout à coup elle jeta un grand cri de joie et s’élança vers la porte,
+&nbsp;&nbsp;&nbsp; Tout à coup elle jeta un grand cri de joie et
+s’élança vers la porte,
 elle avait reconnu la voix de d’Artagnan."
 </div>
 <br>
@@ -4044,16 +4107,14 @@ Allan Poe</a><br>
 href="https://en.wikisource.org/wiki/The_Works_of_the_Late_Edgar_Allan_Poe_%281859%29/Volume_2/The_Raven"
 target="_blank">The Raven</a><br>
 <a href="https://www.leboucher.com/pdf/poe/corbeau.pdf" target="_blank">Le
-corbeau</a><br>
+Corbeau</a><br>
 1845<br>
 <br>
-<table style="text-align: left; height: 125px; width: 100%;" border="0"
-cellpadding="2" cellspacing="2">
+<table border="0" cellpadding="2" cellspacing="2">
 <tbody>
 <tr>
-<td
-style="vertical-align: middle; width: 50%; text-align: left; height: 121px;">Traduction
-(1853) de Charles Baudelaire :<br>
+<td style="width: 50%; text-align: left; vertical-align: top;">Traduction
+(1853) de Charles Baudelaire : <br>
 <br>
 "&nbsp;&nbsp;&nbsp; Et
 le soyeux, triste et vague bruissement des rideaux pourprés me
@@ -4062,20 +4123,18 @@ jusqu’à ce jour ; si bien qu’enfin, pour apaiser le battement de mon
 cœur, je me dressai, répétant : « C’est quelque visiteur qui sollicite
 l’entrée à la porte de ma chambre, quelque visiteur attardé sollicitant
 l’entrée à la porte de ma chambre ; — c’est cela même, et rien de
-plus.&nbsp;»"<br>
-</td>
-<td
-style="vertical-align: middle; height: 121px; width: 50%; text-align: left;">Traduction
-(1875) de Stéphane Mallarmé :<br>
+plus.&nbsp;»" </td>
+<td style="width: 50%; text-align: left; vertical-align: top;">Traduction
+(1875) de Stéphane Mallarmé : <br>
 <br>
 "&nbsp;&nbsp;&nbsp; Et de la soie l’incertain et triste bruissement en
 chaque rideau
-purpural me traversait —&nbsp; m’emplissait de fantastiques terreurs
+purpural me traversait — m’emplissait de fantastiques terreurs
 pas senties encore : si bien que, pour calmer le battement de mon cœur,
 je demeurais maintenant à répéter « C’est quelque visiteur qui
 sollicite l’entrée, à la porte de ma chambre — quelque visiteur
-qui&nbsp; sollicite l’entrée, à la porte de ma chambre ; c’est cela et
-rien de plus.&nbsp;»"</td>
+qui sollicite l’entrée, à la porte de ma chambre ; c’est cela et
+rien de plus.&nbsp;»" </td>
 </tr>
 </tbody>
 </table>
@@ -6912,6 +6971,9 @@ Strindberg</a><br>
 Inferno - Traduction anglaise (1912) de Claud Field</a><br>
 <a href="https://www.gallimard.fr/catalogue/inferno/9782070764563"
 target="_blank">Inferno</a><br>
+cité par Gaston Bachelard dans <a
+href="https://classiques.uqam.ca/classiques/bachelard_gaston/flamme_de_la_chandelle/flamme_de_la_chandelle.pdf"
+target="_blank">La Flamme d'une chandelle</a><br>
 1897<br>
 <br>
 "&nbsp;&nbsp; J’allume la bougie pour passer le temps en lectures. Il
@@ -6922,10 +6984,6 @@ sec me secoue comme une étincelle électrique.<br>
 &nbsp;&nbsp;&nbsp; Un bloc énorme de stéarine de bougie vient de tomber
 à terre. Rien que
 cela, mais c’était une menace de mort, chez nous."<br>
-<br>
-Cité par Gaston Bachelard dans <a
-href="https://classiques.uqam.ca/classiques/bachelard_gaston/flamme_de_la_chandelle/flamme_de_la_chandelle.pdf"
-target="_blank">La Flamme d'une chandelle</a><br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7270,6 +7328,34 @@ est parti, maintenant commence un bruit plus fin, plus dispersé, plus
 désespérant encore et dirigé par la voix des deux canaris." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Selma_Lagerl%C3%B6f"
+target="_blank">Selma Lagerlöf</a><br>
+<a
+href="https://www.ebooksgratuits.com/pdf/lagerlof_le_livre_des_legendes.pdf"
+target="_blank">Le Livre des Légendes - Traduction (1910) de Fritiof
+Palmér</a><br>
+1910<br>
+<br>
+Le joueur de violon<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Ici, le ruisseau arrivait en torrent rapide,
+faisant un vacarme assourdissant. Comme il faisait nuit, on entendait
+sortir de l’eau des sons tout différents de ceux qu’on entend dans la
+journée, et le musicien en fut tout surpris.<br>
+&nbsp;&nbsp;&nbsp; Pas de gazouillis dans les arbres, pas le moindre
+bruissement de feuilles. Pas de grincement de roues sur la route, aucun
+tintement de clochettes dans la forêt. On n’entendait que la chute
+d’eau, et c’est pourquoi on l’entendait plus distinctement que dans la
+journée. On eût dit qu’au fond de l’eau s’agitaient les choses les plus
+invraisemblables. D’abord on aurait cru entendre moudre du blé entre
+des meules énormes, parfois un son cristallin montait qui faisait
+penser à l’entrechoquement des verres dans une fête, d’autres fois il y
+avait un bourdonnement tel qu’on se serait cru sur la place de
+l’église, à l’heure de la sortie, quand les gens s’interpellent entre
+eux et engagent des parlottes animées."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Natsume_S%C5%8Dseki"
 target="_blank">Natsume Sôseki</a><br>
 <a
@@ -7427,6 +7513,10 @@ Larbaud</a><br>
 Les Poésies de A.O. Barnabooth<br>
 1913<br>
 <br>
+cité par <a target="_blank"
+href="https://data.over-blog-kiwi.com/5/98/25/87/20200925/ob_8558d3_larbaud-thalassa.pdf">Daniel
+Lefèvre</a> :<br>
+<br>
 Thalassa<br>
 <br>
 "Bruits du navire : voix dans un corridor,<br>
@@ -7440,9 +7530,10 @@ Oh! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
 Sifflant dans les cordages, et faisant claquer comme un fouet<br>
 Le drapeau de bandes et d’étoiles aux trois couleurs…"<br>
 <br>
-cité par <a target="_blank"
-href="https://data.over-blog-kiwi.com/5/98/25/87/20200925/ob_8558d3_larbaud-thalassa.pdf">Daniel
-Lefèvre</a><br>
+cité dans : <a
+href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A209766/datastream/PDF_01/view"
+target="_blank">Sur les rails De Victor Hugo à Jacques Roubaud</a> de
+Anne Reverseau : <br>
 <br>
 "Prête-moi ton grand bruit, ta grande allure si douce,<br>
 Ton glissement nocturne à travers l’Europe illuminée,<br>
@@ -7466,11 +7557,6 @@ Dans les solitudes montagnardes de la Serbie,<br>
 Et, plus loin, à travers la Bulgarie pleine de roses…<br>
 Ah ! il faut que ces bruits et que ce mouvement<br>
 Entrent dans mes poèmes..."<br>
-<br>
-cité dans : <a
-href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A209766/datastream/PDF_01/view"
-target="_blank">Sur les rails De Victor Hugo à Jacques Roubaud</a> de
-Anne Reverseau <br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7760,6 +7846,10 @@ href="https://de.wikipedia.org/wiki/Die_drei_Spr%C3%BCnge_des_Wang-lun"
 target="_blank">Die drei Sprünge des Wang-lun, Chinesischer Roman</a><br>
 Les trois bonds de Wang Lun : roman chinois - Traduction (1932) de Eric
 Pierre Isler<br>
+cité dans : <a
+href="https://cerisy-colloques.fr/wp-content/uploads/2020/05/DixNeufCentTreize-PubCerisy2015.pdf"
+target="_blank">1913 : cent ans après - Enchantements et
+désenchantements</a> de Colette Camelin et Marie-Paule Berranger
 1915<br>
 <br>
 "Je vais fermer ma fenêtre.<br>
@@ -7773,11 +7863,6 @@ discordant, saccadé.<br>
 Je ne blâme pas ces vibrations déconcertantes. Mais je ne m’y retrouve
 pas. Je ne sais pas à qui sont ces voix. Quelle est donc cette âme qui
 a besoin d’une voûte de résonance aussi écrasante ?"<br>
-<br>
-cité dans : <a
-href="https://cerisy-colloques.fr/wp-content/uploads/2020/05/DixNeufCentTreize-PubCerisy2015.pdf"
-target="_blank">1913 : cent ans après - Enchantements et
-désenchantements</a> de Colette Camelin et Marie-Paule Berranger<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8730,7 +8815,7 @@ s’y méprendre le roulement étouffé et solennel des tambours, apporté
 d’assez loin par le vent. Roubachof, les yeux collés au judas, fit
 chorus en frappant des deux mains en cadence sur la porte de ciment. Il
 fut surpris d’entendre cette vague de sons voilés se continuer à sa
-droite par le No 406 et au-delà ; Rip Van Winlde devait avoir compris,
+droite par le N° 406 et au-delà ; Rip Van Winlde devait avoir compris,
 après tout ; lui aussi tambourinait. Au même instant, Roubachof
 entendit à sa gauche, encore à quelque distance des limites de son
 champ visuel, des portes de fer qui roulaient sur leurs glissières. À
@@ -8740,7 +8825,7 @@ cellules ordinaires venait de s’ouvrir. Les clefs s’entrechoquèrent, et
 maintenant la porte de fer était refermée ; il entendit des pas qui
 s’approchaient, accompagnés de bruit de glissade sur le carreau. Le
 roulement à sa gauche s’enfla comme une vague en un crescendo soutenu
-mais voilé. Le champ visuel de Roubachof, limité par les cellules No
+mais voilé. Le champ visuel de Roubachof, limité par les cellules N°
 401 et 407, restait vide. Les bruits d’objet qu’on traîne et qui glisse
 sur le carrelage se rapprochaient rapidement, et à présent il
 discernait aussi des gémissements et des pleurnichements, on aurait dit
@@ -10824,6 +10909,27 @@ sous terre. Les lits grinçaient au rythme du sommeil."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/David_Le_Breton" target="_blank">David
+Le Breton</a><br>
+<a
+href="https://www.erudit.org/fr/revues/theologi/1999-v7-n2-theologi227/005014ar.pdf"
+target="_blank">Anthropologie du silence</a><br>
+1999<br>
+<br>
+"Même si le bruissement du monde ne s’arrête jamais, connaissant
+seulement des variations différentes au gré des heures, certains lieux
+n’en donnent pas moins le sentiment d’une approche du silence : une
+source se frayant un chemin parmi les pierres, l’ululement d’une
+chouette au coeur de la nuit, la cloche d’une église égrenant les
+heures à la tombée du soir, le crissement de la neige sous les pas, le
+craquement d’une pomme de pin sous le soleil, donnent une épaisseur au
+silence. Ces manifestations légères accentuent le sentiment de paix qui
+émane du lieu. Ce sont des créations du silence, non par défaut mais
+parce que le spectacle du monde n’y est recouvert d’aucun parasite,
+d’aucun bruit."&nbsp;<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Cornelia_Funke" target="_blank">Cornelia
 Funke</a><br>
 <a href="https://de.wikipedia.org/wiki/Herr_der_Diebe" target="_blank">Herr
@@ -11091,4 +11197,4 @@ s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
-page mise à jour 28 4 2026 
+page mise à jour 6 5 2026 
