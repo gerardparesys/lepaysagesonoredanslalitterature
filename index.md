@@ -9844,14 +9844,8 @@ href="https://fr.wikipedia.org/wiki/Herg%C3%A9" target="_blank">Hergé</a><br>
 <a href="https://www.tintin.com/fr/albums/l-affaire-tournesol"
 target="_blank">L'Affaire Tournesol</a><br>
 1956<br>
-<img style="width: 726px;" alt="L'Affaire Tournesol"
-src="images/LaffaireTournesol.jpg">
-<br>
-<img style="width: 100%;" alt="L'Affaire Tournesol"
-src="images/LaffaireTournesol.jpg">
-<br>
 <img style="width: 100%; max-width: 726px;" alt="L'Affaire Tournesol"
-src="images/LaffaireTournesol.jpg">&nbsp;
+src="images/LaffaireTournesol.jpg">
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
