@@ -5,8 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-702 descriptions de paysage sonore trouvées dans la littérature.
-<br>
+709 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -206,7 +205,7 @@ target="_blank">&nbsp;Psaume
 "Les fleuves déchaînent, ô Yahvé, les fleuves déchaînent leur voix,
 les fleuves déchaînent leur fracas ; plus que la voix des eaux
 innombrables, plus superbe que le ressac de la mer ; superbe est Yahvé
-dans les hauteurs.
+dans les hauteurs."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -999,9 +998,9 @@ Wei</a> qui était connu également sous le nom de Wang Mo-khi doit sa
 notoriété à ses talents littéraires autant qu'à son génie de peintre ;
 on disait de lui que « ses poèmes étaient des tableaux et ses tableaux
 des poésies ». Voici ce qu'en dit le poète Sou Tong-pho&nbsp;:<br>
-<div style="margin-left: 40px;">«Écoutez les odes de Mo-khi, et vous
+<div style="margin-left: 40px;">« Écoutez les odes de Mo-khi, et vous
 verrez ses tableaux.<br>
-Regardez les tableaux de Mo-khi et vous entendrez ses odes.»"<br>
+Regardez les tableaux de Mo-khi et vous entendrez ses odes. »"<br>
 </div>
 </div>
 <br>
@@ -7079,7 +7078,8 @@ disparurent."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
-<a href="https://fr.wikisource.org/wiki/Jean_Santeuil" target="_blank">Jean
+<a href="https://fr.wikisource.org/wiki/Jean_Santeuil/VII/3"
+target="_blank">Jean
 Santeuil</a><br>
 1899<br>
 <br>
@@ -8133,58 +8133,6 @@ Coucou !"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Fernando_Pessoa" target="_blank">Fernando
-Pessoa</a><br>
-<a
-href="https://agrcanelas.edu.pt/blogs/biblioteca/files/2012/11/Livro-do-Desassossego-.pdf"
-target="_blank">Livro do Desassossego</a><br>
-<a
-href="https://fr.wikipedia.org/wiki/Le_Livre_de_l%27intranquillit%C3%A9"
-target="_blank">Le Livre de l'intranquillité - Traduction (1988) de
-Françoise Laye</a> <br>
-1913 .. 1935<br>
-<br>
-19<br>
-"Je m’aperçois brusquement que le bruit est beaucoup plus
-fort, que beaucoup plus de monde existe. Les pas des piétons, plus
-nombreux, sont moins pressés. <br>
-... Les laitiers entrechoquent, comme des clefs creuses et absurdes,
-les bidons inégaux de leur métier ambulant."<br>
-<br>
-42<br>
-"&nbsp;&nbsp;&nbsp; Les coups de marteau à la porte du menuisier
-résonnent avec une
-étrangeté proche. Ils résonnent, largement espacés, chacun d’eux
-éveillant un écho sans utilité. Le bruit des charrettes semble celui
-d’un jour chargé d’orage. Les voix sortent de l’air, et non des
-gosiers. Au loin, le fleuve se traîne fatigué."<br>
-<br>
-43<br>
-"Je ne rêve pas dans un intervalle précis, mais je perçois,
-attentif, et comme m’éveillant d’un sommeil où je n’aurais pas dormi,
-les premières rumeurs de la vie de la ville, qui montent, comme une
-inondation, de l’endroit vague, tout en bas, où se trouvent des rues
-menant Dieu sait où. Ce sont des sons allègres, filtrés par la
-tristesse de la pluie qui tombe, ou qui, peut-être, est déjà tombée —
-car je ne l’entends pas pour l’instant... <br>
-Ce sont des bruits allègres et dispersés et ils me font mal, au fond du
-coeur, comme s’ils m’appelaient pour un examen ou une exécution.<br>
-... <br>
-&nbsp;&nbsp;&nbsp; La rumeur du jour humain augmente soudain, comme le
-bruit d’une
-sonnerie. Au fond de la maison claque doucement la serrure de la
-première porte qu’on ouvre sur l’univers. J’entends des pantoufles dans
-un couloir absurde, qui mène à mon coeur. <br>
-... Je suis réveillé. Le bruit de la pluie s’estompe là-haut, dans
-l’extérieur indéfini."<br>
-<br>
-53<br>
-"Je peux à tout le moins me sentir triste, et être conscient du fait
-que cette tristesse vient d’avoir croisé le bruit soudain (vu avec
-l’ouïe) du tram qui passe, le brouhaha de voix des jeunes gens, la
-rumeur oubliée de la ville bien vivante." </div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir
 Nabokov</a><br>
 <a
@@ -8204,22 +8152,29 @@ négligée, qui sanglotait et se mouchait dans le couloir."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke" target="_blank">Rainer
-Maria Rilke</a><br>
+href="https://fr.wikipedia.org/wiki/Sigmund_Freud" target="_blank">Sigmund
+Freud</a><br>
+<a href="https://www.psychanalyse.lu/Freud/FreudDreiAbhandlungen.pdf"
+target="_blank">Drei Abhandlungen zur Sexualtheorie</a><br>
 <a
-href="https://monoskop.org/images/9/9a/Rilke_Rainer_Maria_Lettres_a_un_jeune_poete.pdf"
-target="_blank">Les quatrains valaisans</a><br>
+href="https://classiques.uqam.ca/classiques/freud_sigmund/Trois_essais_sexualite/Trois_essais_sexualite_IMAGE.pdf"
+target="_blank">Trois essais sur la théorie de la sexualité -
+Traduction (1924) de Blanche Reverchon-Jouve</a><br>
 1924<br>
 <br>
-"Pays qui chante en travaillant,<br>
-pays heureux qui travaille ;<br>
-pendant que les eaux continuent leur chant,<br>
-la vigne fait maille pour maille.<br>
+III Les transformations de la puberté<br>
 <br>
-Pays qui se tait, car le chant des eaux<br>
-n'est qu'un excès de silence,<br>
-de ce silence entre les mots<br>
-qui, en rythmes, avancent." </div>
+"&nbsp;&nbsp;&nbsp; C’est à un petit garçon de trois ans que je dois
+mes connaissances sur l’origine de l’angoisse infantile. Un jour qu’il
+se trouvait dans une chambre sans lumière, je l’entendis crier : «
+Tante, dis-moi quelque chose, j’ai peur, parce qu’il fait si noir. » La
+tante lui répondit : « A quoi cela te servira-t-il, puisque tu ne peux
+pas me voir. — Ça ne fait rien, répondit l’enfant, du moment que
+quelqu’un parle, il fait clair. » L’enfant n’avait donc pas peur de
+l’obscurité, mais il était angoissé par l’absence d’une personne aimée,
+et il pouvait promettre d’être tranquille dès le moment où cette
+personne faisait sentir sa présence."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Rainer_Maria_Rilke" target="_blank">Rainer
@@ -8274,6 +8229,30 @@ profondeurs, leur faisant rouler comme en songe, une sorte de nombre
 confus dont la grandeur tremble et rassemble les marches, la mue
 opulente du monde, les transformations des indifférents les uns dans
 les autres, la presse générale de la foule."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
+target="_blank">Irène Némirovsky</a><br>
+<a
+href="https://www.ebooksgratuits.com/pdf/nemirovsky_le_malentendu.pdf"
+target="_blank">Le Malentendu</a><br>
+1926<br>
+<br>
+"... en même temps qu’il percevait ce bourdonnement léger des beaux
+jours d’été à la campagne, mêlé aux cris des joueurs de tennis dans les
+jardins voisins, et ce bruit particulier, gai – des coups de sonnette,
+des pas, des voix étrangères – qui, seul, suffit à révéler l’hôtel, une
+grande habitation pleine de désoeuvrés."<br>
+<br>
+"Sans bruit, elle alla s’asseoir sur une chaise basse, entre la fenêtre
+et le feu. Quel silence !... Dans l’appartement vide, les moindres
+bruits s’entendaient, un craquement de meubles, le pas feutré du
+domestique dans la salle à manger ; en bas, la lourde porte cochère
+retomba avec un son sourd de cloche... Dehors, dans cette avenue d’Iéna
+que le dimanche faisait aussi paisible qu’une rue de province, une auto
+passa... puis, de nouveau, ce fut un silence écrasant, mort, la paix
+particulière des dimanches de Paris dans les quartiers riches."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8631,6 +8610,85 @@ fait conscience. J’ai toujours dormi ainsi dans le bruit atroce depuis
 décembre 14. J’ai attrapé la guerre dans ma tête. Elle est enfermée
 dans ma tête.”<br>
 </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_Ferdinand_Ramuz"
+target="_blank">Charles Ferdinand Ramuz</a><br>
+<a href="https://ebooks-bnr.com/ebooks/html/ramuz_derborence.htm"
+target="_blank">Derborence</a><br>
+1934<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Heureusement que le feu recommence à pétiller ou
+c’est une goutte d’eau qui tombe, ou c’est un peu de vent qui traîne
+sur le toit. Et le moindre petit bruit est comme un immense bruit. La
+goutte tombe en retentissant. La branche mordue par la flamme claque
+comme un coup de fusil ; le frottement du vent remplit à lui seul la
+capacité de l’espace. Toute espèce de petits bruits qui sont grands, et
+ils reviennent ; on redevient vivant soi-même parce qu’eux-mêmes sont
+vivants."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; On entendait s’écrouler les baquets à fromage, on
+entendait les bancs tomber à terre ; les portes étaient secouées comme
+si on les avait prises à deux mains. En même temps ça bouge et ça
+gronde ; en même temps ça craque, en même temps ça siffle ; ça se
+passait à la fois dans les airs, à la surface de la terre et sous la
+terre, dans une confusion de tous les éléments où on ne distinguait
+plus ce qui était bruit de ce qui était mouvement, ni ce que ces bruits
+signifiaient, ni d’où ils venaient, ni où ils allaient, comme si c’eût
+été la fin du monde."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Fernando_Pessoa" target="_blank">Fernando
+Pessoa</a><br>
+<a
+href="https://agrcanelas.edu.pt/blogs/biblioteca/files/2012/11/Livro-do-Desassossego-.pdf"
+target="_blank">Livro do Desassossego</a><br>
+<a
+href="https://fr.wikipedia.org/wiki/Le_Livre_de_l%27intranquillit%C3%A9"
+target="_blank">Le Livre de l'intranquillité - Traduction (1988) de
+Françoise Laye</a> <br>
+1913 .. 1935<br>
+<br>
+19<br>
+"Je m’aperçois brusquement que le bruit est beaucoup plus
+fort, que beaucoup plus de monde existe. Les pas des piétons, plus
+nombreux, sont moins pressés. <br>
+... Les laitiers entrechoquent, comme des clefs creuses et absurdes,
+les bidons inégaux de leur métier ambulant."<br>
+<br>
+42<br>
+"&nbsp;&nbsp;&nbsp; Les coups de marteau à la porte du menuisier
+résonnent avec une
+étrangeté proche. Ils résonnent, largement espacés, chacun d’eux
+éveillant un écho sans utilité. Le bruit des charrettes semble celui
+d’un jour chargé d’orage. Les voix sortent de l’air, et non des
+gosiers. Au loin, le fleuve se traîne fatigué."<br>
+<br>
+43<br>
+"Je ne rêve pas dans un intervalle précis, mais je perçois,
+attentif, et comme m’éveillant d’un sommeil où je n’aurais pas dormi,
+les premières rumeurs de la vie de la ville, qui montent, comme une
+inondation, de l’endroit vague, tout en bas, où se trouvent des rues
+menant Dieu sait où. Ce sont des sons allègres, filtrés par la
+tristesse de la pluie qui tombe, ou qui, peut-être, est déjà tombée —
+car je ne l’entends pas pour l’instant... <br>
+Ce sont des bruits allègres et dispersés et ils me font mal, au fond du
+coeur, comme s’ils m’appelaient pour un examen ou une exécution.<br>
+... <br>
+&nbsp;&nbsp;&nbsp; La rumeur du jour humain augmente soudain, comme le
+bruit d’une
+sonnerie. Au fond de la maison claque doucement la serrure de la
+première porte qu’on ouvre sur l’univers. J’entends des pantoufles dans
+un couloir absurde, qui mène à mon coeur. <br>
+... Je suis réveillé. Le bruit de la pluie s’estompe là-haut, dans
+l’extérieur indéfini."<br>
+<br>
+53<br>
+"Je peux à tout le moins me sentir triste, et être conscient du fait
+que cette tristesse vient d’avoir croisé le bruit soudain (vu avec
+l’ouïe) du tram qui passe, le brouhaha de voix des jeunes gens, la
+rumeur oubliée de la ville bien vivante." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
@@ -9786,9 +9844,14 @@ href="https://fr.wikipedia.org/wiki/Herg%C3%A9" target="_blank">Hergé</a><br>
 <a href="https://www.tintin.com/fr/albums/l-affaire-tournesol"
 target="_blank">L'Affaire Tournesol</a><br>
 1956<br>
-<br>
 <img style="width: 726px;" alt="L'Affaire Tournesol"
 src="images/LaffaireTournesol.jpg">
+<br>
+<img style="width: 100%;" alt="L'Affaire Tournesol"
+src="images/LaffaireTournesol.jpg">
+<br>
+<img style="width: 100%; max-width: 726px;" alt="L'Affaire Tournesol"
+src="images/LaffaireTournesol.jpg">&nbsp;
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9944,7 +10007,7 @@ tempête. Dors dans ton courage, heureux d'être un homme assailli par
 les flots.<br>
 &nbsp;&nbsp;&nbsp; Et je m'endors, bercé par les bruits de Paris.<br>
 <div style="margin-left: 80px;">J'avais écrit cette page quand je lus
-dans l'ouvrage de Balzac, Petites misères de la vie conjugale : «Quand
+dans l'ouvrage de Balzac, Petites misères de la vie conjugale : « Quand
 votre maison tremble dans ses membres et s'agite sur sa quille, vous
 vous croyez comme un marin bercé par le zéphyr. »"<br>
 </div>
@@ -10370,6 +10433,31 @@ peut-être."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Roger_Caillois" target="_blank">Roger
+Caillois</a><br>
+<a
+href="https://fr.wikipedia.org/wiki/Pierres_%28recueil_de_po%C3%A8mes%29"
+target="_blank">Pierres</a><br>
+1966<br>
+<br>
+Des pierres de la Chine.<br>
+<br>
+"... il existe une grotte appelée la caverne des dragons ou des
+poissons...<br>
+&nbsp;&nbsp;&nbsp; Ceux qui passent devant cette caverne évitent de
+parler. Ils entendent des bruits lointains de tonnerre et d’ouragan.
+Ils s’arrêtent, en proie à la terreur. Tout le monde n’entend pas ces
+bruits."<br>
+<br>
+"Lorsqu’il y a conflit, c’est la matière qui cède et au besoin
+s’anéantit pour que la forme et jusqu’aux formes incompatibles
+demeurent intactes, irréprochables, inscrites et proclamées, même par
+leur absence, comme ondes lumineuses ou sonores qui, interférant,
+s’annulent, produisant de leur redondance un noir plus visible que
+l’éclat, ou un silence, plus audible que le vacarme."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_Schaeffer" target="_blank">Pierre
 Schaeffer</a><br>
 <a href="https://fr.wikipedia.org/wiki/Trait%C3%A9_des_objets_musicaux"
@@ -10720,7 +10808,11 @@ Modiano</a><br>
 target="_blank">Rue des Boutiques Obscures</a><br>
 1978<br>
 <br>
-"Je crois qu’on entend encore dans les entrées d’immeubles l’écho des
+"&nbsp;&nbsp;&nbsp; Il prononçait à la russe. C’était très doux : le
+bruissement du vent dans les feuillages."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Je crois qu’on entend encore dans les entrées
+d’immeubles l’écho des
 pas de ceux qui avaient l’habitude de les traverser et qui, depuis, ont
 disparu. Quelque chose continue de vibrer après leur passage, des ondes
 de plus en plus faibles, mais que l’on capte si l'on est attentif. Au
@@ -10783,6 +10875,26 @@ l’artiste assurant, par accords continus, le bourdonnement grave des
 rumeurs pendant que la droite improvisait sur les motifs cliquetants et
 véloces, aigus et précis, fournis par les coups de parechoc ou de
 klaxon dans la rue de Rome, les bris de glace de la miroiterie."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
+Modiano</a><br>
+<a href="https://fr.wikipedia.org/wiki/Vestiaire_de_l%27enfance"
+target="_blank">Vestiaire de l'enfance</a><br>
+1989<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Devant moi l’esplanade du Fort, déserte. Pas une
+seule table à la terrasse du café Lusignan. Personne. Pas un bruit. Une
+ville morte sous le soleil. Et cette angoisse à l’idée de traverser la
+distance qui me séparait de l’arrêt du tram,<br>
+...<br>
+Les dimanches d'été, en fin d'après-midi, à l'heure où l'on entend le
+bruissement des arbres, il y avait une telle absence dans l'air...<br>
+...<br>
+J’avais beau répéter cela de plus en plus fort, ma voix, mes activités
+quotidiennes, ma vie se diluaient dans le silence et le soleil de cette
+ville morte."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11074,8 +11186,8 @@ target="_blank">Celui qui n’avait jamais vu la mer</a><br>
 2008<br>
 <br>
 "À mesure qu’il s’approchait, le bruit des vagues grandissait,
-emplissait tout comme un sifflement de vapeur.<br>
-&nbsp;&nbsp;&nbsp; C’était un bruit très doux et très lent, puis
+emplissait tout comme un sifflement de vapeur. C’était un bruit très
+doux et très lent, puis
 violent et inquiétant
 comme les trains sur les ponts de fer, ou bien qui fuyait en arrière
 comme l’eau des fleuves."<br>
@@ -11125,6 +11237,31 @@ incessant papillonnement d'images, souvent floues, mal cadrées, ces
 scènes et séquences qui se succèdent à toute vitesse, ces lumières
 toujours changeantes et différentes, ce manque absolu de sens, cette
 bande-son radicalement bordélique, ça c'était Paris."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
+Modiano</a><br>
+<a
+href="https://www.nobelprize.org/prizes/literature/2014/modiano/25249-conference-nobel/"
+target="_blank">Conférence Nobel</a><br>
+2014<br>
+<br>
+"Ville étrange que ce Paris de l’Occupation. En apparence, la vie
+continuait, « comme avant » : les théâtres, les cinémas, les salles de
+music-hall, les restaurants étaient ouverts. On entendait des chansons
+à la radio. Il y avait même dans les théâtres et les cinémas beaucoup
+plus de monde qu’avant-guerre, comme si ces lieux étaient des abris où
+les gens se rassemblaient et se serraient les uns contre les autres
+pour se rassurer. Mais des détails insolites indiquaient que Paris
+n’était plus le même qu’autrefois. À cause de l’absence des voitures,
+c’était une ville silencieuse – un silence où l’on entendait le
+bruissement des arbres, le claquement de sabots des chevaux, le bruit
+des pas de la foule sur les boulevards et le brouhaha des voix. Dans le
+silence des rues et du black-out qui tombait en hiver vers cinq heures
+du soir et pendant lequel la moindre lumière aux fenêtres était
+interdite, cette ville semblait absente à elle-même – la ville « sans
+regard », comme disaient les occupants nazis."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11195,6 +11332,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 6 5 2026 
+</div><br>
+page mise à jour 10 5 2026 
