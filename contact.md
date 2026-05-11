@@ -12,5 +12,5 @@ email : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 [GitHub](https://github.com/gerardparesys)  
 <br>
 <br>
-Site réalisé avec [Scribouilli](https://scribouilli.org/philosophie.html)
+Site réalisé par Gérard Parésys avec [Scribouilli](https://scribouilli.org/philosophie.html)
 et la police de caractères [Luciole](http://www.luciole-vision.com/fr/index.html). 
