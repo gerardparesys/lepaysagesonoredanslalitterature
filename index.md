@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-709 descriptions de paysage sonore trouvées dans la littérature.<br>
+712 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2655,6 +2655,7 @@ pleut, il pleut, bergère</a><br>
 L'eau qui tombe à grand bruit.<br>
 Voici, venir l'orage,<br>
 Voici l'éclair qui luit.<br>
+<br>
 Entends-tu le tonnerre ?<br>
 Il roule en approchant.<br>
 Prends un abri bergère,<br>
@@ -3572,6 +3573,26 @@ d’hépatiques ; les fontinales, les longues herbes appelées <span
 style="font-style: italic;">rubans d’eau</span>, les mousses
 aquatiques pendantes et chevelues, tremblent incessamment dans ses
 petits remous silencieux ; ..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Victor_Hugo" target="_blank">Victor
+Hugo</a><br>
+<a href="https://fr.wikisource.org/wiki/Les_Voix_int%C3%A9rieures"
+target="_blank">Les voix intérieures</a><br>
+<br>
+Une nuit qu'on entendait la mer sans la voir<br>
+1836<br>
+<br>
+"Quels sont ces bruits sourds ?<br>
+Ecoutez vers l'onde<br>
+Cette voix profonde<br>
+Qui pleure toujours<br>
+Et qui toujours gronde,<br>
+Quoiqu'un son plus clair<br>
+Parfois l'interrompe... -<br>
+Le vent de la mer<br>
+Souffle dans sa trompe."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5300,15 +5321,15 @@ paysage provençal ne vit que par la lumière."<br>
 Le phare des sanguinaires <br>
 1869<br>
 <br>
-"&nbsp;&nbsp;&nbsp; Au-dehors, le noir, l’abîme. Sur le petit balcon
-qui tourne autour du
-vitrage, le vent court comme un fou, en hurlant. Le phare craque, la
-mer ronfle. À la pointe de l’île, sur les brisants, les lames font
-comme des coups de canon... Par moments, un&nbsp; oiseau de nuit, que
-la lumière attire, et qui vient se casser la tête contre le cristal...
+"&nbsp;&nbsp;&nbsp; Au dehors, le noir, l’abîme. Sur le petit
+balcon qui tourne autour du vitrage, le vent court comme un fou, en
+hurlant. Le phare craque, la mer ronfle. À la pointe de l’île, sur les
+brisants, les lames font comme des coups de canon... Par moments un
+doigt invisible frappe aux carreaux : quelque oiseau de nuit, que la
+lumière attire, et qui vient se casser la tête contre le cristal...
 Dans la lanterne étincelante et chaude, rien que le crépitement de la
 flamme, le bruit de l’huile qui s’égoutte, de la chaîne qui se dévide ;
-et une voix monotone psalmodiant la vie de Démétrius de Phalère... "<br>
+et une voix monotone psalmodiant la vie de Démétrius de Phalère..."<br>
 <br>
 Les sauterelles<br>
 1873<br>
@@ -5327,17 +5348,17 @@ empêcher de descendre."<br>
 Les étoiles <br>
 1873<br>
 <br>
-"Si vous avez jamais passé la nuit à la belle étoile, vous savez qu’à
-l’heure où nous dormons, un monde mystérieux s’éveille dans la solitude
-et le silence. Alors les sources chantent bien plus clair, les étangs
-allument des petites flammes. Tous les esprits de la montagne vont et
-viennent librement, et il y a dans l’air des frôlements, des bruits
-imperceptibles, comme si l’on entendait les branches grandir, l’herbe
-pousser. Le jour, c’est la vie des êtres ; mais la nuit, c’est la vie
-des choses. Quand on n’en a pas l’habitude, ça fait peur... Aussi notre
-demoiselle était toute frissonnante et se serrait contre moi au moindre
-bruit. Une fois, un cri long, mélancolique, parti de l’étang qui
-luisait plus bas, monta vers nous en ondulant."<br>
+"Si vous avez jamais passé la nuit à la belle étoile, vous savez
+qu’à l’heure où nous dormons, un monde mystérieux s’éveille dans la
+solitude et le silence. Alors les sources chantent bien plus clair, les
+étangs allument des petites flammes. Tous les esprits de la montagne
+vont et viennent librement ; et il y a dans l’air des frôlements, des
+bruits imperceptibles, comme si l’on entendait les branches grandir,
+l’herbe pousser. Le jour, c’est la vie des êtres ; mais la nuit, c’est
+la vie des choses. Quand on n’en a pas l’habitude, ça fait peur...
+Aussi notre demoiselle était toute frissonnante et se serrait contre
+moi au moindre bruit. Une fois, un cri long, mélancolique, parti de
+l’étang qui luisait plus bas, monta vers nous en ondulant."<br>
 <br>
 En Camargue <br>
 1874<br>
@@ -8774,6 +8795,42 @@ mais quelque part il y a tant de bruit,<br>
 tant de hurlements, tant de bavardages, et qu’on n’entend pas." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_Trenet" target="_blank">Charles
+Trenet</a><br>
+<a target="_blank"
+href="https://www.ina.fr/ina-eclaire-actu/video/i05041976/charles-trenet-boum">Boum
+!</a><br>
+1938<br>
+<br>
+"La pendule fait tic-tac tic-tic<br>
+Les oiseaux du lac pic-pac pic-pic<br>
+Glou glou glou font tous les dindons<br>
+Et la jolie cloche dinng ding dong<br>
+<br>
+Mais boum<br>
+Quand notre cœur fait boum<br>
+Tout avec lui dit boum<br>
+Et c'est l'amour qui s'éveille<br>
+<br>
+...<br>
+<br>
+Le vent dans les bois fait Ffff-hou<br>
+La biche aux abois fait Bèè<br>
+La vaisselle cassée fait fric fric frac<br>
+Et les pieds mouillés font flic flic flac<br>
+<br>
+Mais boum<br>
+Quand notre cœur fait boum<br>
+Tout avec lui dit boum<br>
+L'oiseau dit boum, c'est l'orage<br>
+<br>
+Boum<br>
+L'éclair qui luit fait boum<br>
+Et le bon Dieu dit boum<br>
+Dans son fauteuil de nuages"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
 <a href="https://fr.wikipedia.org/wiki/Carnets_%28Albert_Camus%29"
@@ -11070,15 +11127,15 @@ quelques radios." </div>
 href="https://fr.wikipedia.org/wiki/Michel_Butor" target="_blank">Michel
 Butor</a><br>
 <a href="https://www.gallimard.fr/catalogue/seize-lustres/9782070776832"
-target="_blank">Seize lustres</a> - Paysages planétaires - cité dans :
+target="_blank">Seize lustres</a> - Paysages planétaires<br>
+1990 .. 2006<br>
+<br>
+(ETATS ZUNI) - cité dans :
 <a target="_blank"
 href="https://www.barapoemes.net/archives/2020/08/12/38475537.html">Le
-bar à poèmes<br>
-</a>1990 .. 2006<br>
+bar à poèmes</a><br>
 <br>
-(ETATS ZUNI)<br>
-<br>
-<span style="font-style: italic;">Vrombissement des avions</span><br
+"<span style="font-style: italic;">Vrombissement des avions</span><br
 style="font-style: italic;">
 <span style="font-style: italic;">le tumulte des machines</span><br
 style="font-style: italic;">
@@ -11097,9 +11154,9 @@ style="font-style: italic;">
   Entre l’avion et le métro le prédicateur rassemble ses ouailles.
 Vite. Entre le métro et les voitures les chœurs se font signe. Plus
 vite. Entre les voitures et le métro les couleurs se tressent. Encore
-plus vite. Entre le métro et l’avion la portière claque. Urgence.<br>
+plus vite. Entre le métro et l’avion la portière claque. Urgence."<br>
 <br>
-<span style="font-style: italic;">Les maisons de terre douce</span><br
+"<span style="font-style: italic;">Les maisons de terre douce</span><br
 style="font-style: italic;">
 <span style="font-style: italic;">les sirènes policières</span><br
 style="font-style: italic;">
@@ -11118,12 +11175,15 @@ style="font-style: italic;">
   Un incendie éclate sur l’aéroport. Angoisse. Les tambours
 transmettent l’alarme jusqu’aux grandes plaines, jusqu’aux rochers
 monumentaux dans le désert. Confusion. Les tambours battent le rappel
-des esprits. Soupirs.<br>
+des esprits. Soupirs."<br>
 <br>
-(MONGOLIE TROPICALE)<br>
+(MONGOLIE TROPICALE) - cité dans :
+<a target="_blank"
+href="https://www.barapoemes.net/archives/2021/08/12/39091904.html">Le
+bar à poèmes</a><br>
 <br>
-<span style="font-style: italic;">
-Sur les replis du terrain</span><br style="font-style: italic;">
+"<span style="font-style: italic;">Sur les replis du terrain</span><br
+style="font-style: italic;">
 <span style="font-style: italic;">
 le velours des hautes herbes</span><br style="font-style: italic;">
 <span style="font-style: italic;">
@@ -11139,8 +11199,9 @@ le démontage des yourtes</span><br style="font-style: italic;">
 <span style="font-style: italic;">
 départ au petit matin</span><br>
 <br>
-&nbsp; Les grands tétras pérorent comme des robots mal huilés dans les
-steppes de l’Asie centrale.<br>
+&nbsp;&nbsp;&nbsp; Les grands tétras pérorent comme des robots mal
+huilés dans les
+steppes de l’Asie centrale."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11213,6 +11274,45 @@ Louis Stevenson, Léon Tolstoï, Virginia Woolf, Emil Zola, etc."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Andr%C3%A9_Velter" target="_blank">André
+Velter</a><br>
+<a href="https://andre-velter.fr/poesie/la-vie-en-dansant-2/"
+target="_blank">Avec un peu plus de ciel</a><br>
+2012<br>
+<br>
+<a
+href="https://arbrealettres.wordpress.com/2016/10/14/poesie-funambule-andre-velter/"
+target="_blank">Poésie funambule</a><br>
+<br>
+"Je n’écris pas sur le motif en ce moment<br>
+Le paysage sort du bois<br>
+Au seul bruissement des branches et des feuilles<br>
+On dirait une vision sonore<br>
+Un raga de brume de poussière et de miel<br>
+Qui apparaît<br>
+Qui transparaît<br>
+Dans un réel plus vrai que nature<br>
+<br>
+La mélodie crée ses images<br>
+Sans relever la pointe du crayon<br>
+Sans suspendre le geste qui découvre<br>
+Un fil de funambule<br>
+Tout un envol de partitions<br>
+Et un requiem ajourné<br>
+Qui se veut chorus ou chanson<br>
+Avec un aveu à la clé<br>
+<br>
+Je vois comment il y a du noir du blanc du gris<br>
+Comment un corbeau étire un nuage<br>
+Comment c’est terriblement doux et sage<br>
+Terriblement là<br>
+Présent et enfui<br>
+Sous l’archet qui reprend ses errances<br>
+Qui égrène note à note une hanche un visage<br>
+Et tous les mots d’amour que j’aurai reconquis"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://fr.wikipedia.org/wiki/Jean-Bernard_Pouy">Jean-Bernard
 Pouy</a><br>
 <a href="https://www.editionsin8.com/auteurs/livre/757-calibre-16mm"
@@ -11265,7 +11365,7 @@ Quignard</a><br>
 target="_blank">Dans ce jardin qu'on aimait - Extrait</a><br>
 2017<br>
 <br>
-&nbsp;&nbsp;&nbsp; Un pasteur américain, en 1860, a noté les sons que
+"&nbsp;&nbsp;&nbsp; Un pasteur américain, en 1860, a noté les sons que
 les gouttes de la
 pluie faisaient retentir sur l’herbe et les petits sentiers de graviers
 du jardin de la cure.<br>
@@ -11290,7 +11390,7 @@ Deum ! »<br>
 </div>
 &nbsp;&nbsp;&nbsp; Je vais vous jouer le morceau de musique que fait le
 vent quand il
-s’engouffre dans le portemanteau du corridor de la cure..."<br>
+s’engouffre dans le portemanteau du corridor de la cure."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11327,4 +11427,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 10 5 2026 
+page mise à jour 16 5 2026 
