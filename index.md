@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-712 descriptions de paysage sonore trouvées dans la littérature.<br>
+719 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -121,6 +121,41 @@ ainsi les combattants autour du corps se pressent."<br>
 gronde. Le ciel vaste à l'entour claironne la bataille. Zeus, assis sur
 l'Olympe, entend, et son coeur rit, joyeux de voir les dieux entrer
 dans la mêlée."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/H%C3%A9siode" target="_blank">Hésiode</a><br>
+<a
+href="https://fr.wikipedia.org/wiki/Th%C3%A9ogonie_%28H%C3%A9siode%29"
+target="_blank">La Théogonie</a><br>
+8e siècle av. J.-C.<br>
+<br>
+<a href="https://www.laviedesclassiques.fr/anthologie-theogonique"
+target="_blank">La Théogonie - Traduction (1928) de Paul Mazon</a><br>
+<br>
+"Terriblement, à l’entour, grondait la mer infinie. La terre soudain
+mugit à grande voix, et le vaste ciel, ébranlé, lui répondait en
+gémissant. Le haut Olympe chancelait sur sa base à l’élan des
+immortels. Un lourd tremblement parvenait jusqu’au Tartare brumeux,
+mêlé à l’immense fracas de pas lancés dans une ruée indicible, ainsi
+que de puissants jets d’armes. Ils allaient ainsi se lançant des traits
+chargés de sanglots, et, des deux côtés, les voix en s’appelant
+montaient jusqu’au ciel étoilé, tandis que tous se heurtaient en un
+tumulte effrayant."<br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/La_Th%C3%A9ogonie_%28traduction_Leconte_de_Lisle%29"
+target="_blank">La Théogonie - Traduction (1869) de Leconte de Lisle</a><br>
+<br>
+"Et de ses épaules sortaient cinquante têtes d’un horrible Dragon,
+dardant des langues noires. Et des yeux de ces têtes monstrueuses, à
+travers les sourcils, flambait du feu, et de toutes ces têtes qui
+regardaient, jaillissait ce feu. Et des voix sortaient de toutes ces
+têtes affreuses, rendant des sons de toutes sortes, ineffables,
+semblables aux voix mêmes des Dieux, ou à la voix énorme d’un taureau
+mugissant et féroce, ou à celle d’un lion à l’âme farouche, ou, chose
+prodigieuse, à l’aboiement des petits chiens, ou au bruit strident des
+hautes montagnes."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2630,11 +2665,26 @@ href="https://ebooks-bnr.com/ebooks/pdf4/rousseau_reveries_promeneur_solitaire.p
 target="_blank"> Les Rêveries du promeneur solitaire</a><br>
 1778<br>
 <br>
+Cinquième promenade <br>
+<br>
 "... mais qu’il est intéressant pour des contemplatifs solitaires qui
 aiment à s’enivrer à loisir des charmes de la nature, et à se
 recueillir dans un silence que ne trouble aucun autre bruit que le cri
 des aigles, le ramage entrecoupé de quelques oiseaux, et le roulement
 des torrents qui tombent de la montagne."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Quand le soir approchait je descendais des cimes de
+l’île et j’allais volontiers m’asseoir au bord du lac, sur la grève,
+dans quelque asile caché ; là le bruit des vagues et l’agitation de
+l’eau fixant mes sens et chassant de mon âme toute autre agitation la
+plongeaient dans une rêverie délicieuse où la nuit me surprenait
+souvent sans que je m’en fusse aperçu. Le flux et reflux de cette eau,
+son bruit continu mais renflé par intervalles frappant sans relâche mon
+oreille et mes yeux, suppléaient aux mouvements internes que la rêverie
+éteignait en moi et suffisaient pour me faire sentir avec plaisir mon
+existence, sans prendre la peine de penser. "<br>
+<br>
+Septième promenade <br>
 <br>
 "... j’entendis peu loin de moi un certain cliquetis que je crus
 reconnaître&nbsp;; j’écoute : le même bruit se répète et se multiplie.
@@ -6519,6 +6569,35 @@ insensible et qu’on aspirait avec elle."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+target="_blank" href="https://fr.wikipedia.org/wiki/Anton_Tchekhov">Anton
+Tchekhov</a><br>
+<a
+href="https://ru.wikisource.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D1%8C_%28%D0%A7%D0%B5%D1%85%D0%BE%D0%B2%29"
+target="_blank">Степь. Исто́рия одно́й пое́здки</a><br>
+<a
+href="https://bibliotheque-russe-et-slave.com/Livres/Tchekhov_-_La_Steppe.pdf"
+target="_blank">La steppe - Traduction (2016) de Michel Tessier</a><br>
+1888<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Les soirs et les nuits de juillet, les cailles et
+les râles ne crient plus, les rossignols ne chantent plus dans les
+petits ravins boisés, les fleurs n’embaument plus, mais la steppe reste
+belle et pleine de vie. À peine le soleil couché et la terre enveloppée
+de brume que l’accablement du jour est déjà oublié, comme pardonné, et
+la vaste poitrine de la steppe pousse un léger soupir. Comme si l’herbe
+perdait, dans l’obscurité, le sentiment de sa propre décrépitude, une
+fraîche et joyeuse stridulation, non entendue dans la journée, monte
+dans l’air ; crépitements, sifflements, raclements, les basses de la
+steppe, les ténors, les sopranos —&nbsp; tout se fond en un
+bourdonnement monotone et ininterrompu, au sein duquel il est bon de
+s’abandonner à la triste douceur des souvenirs. Cette stridulation
+monotone est une vraie berceuse ; on avance et l’on croit s’endormir,
+mais voilà que vous parvient le cri d’alarme saccadé d’un oiseau encore
+éveillé, ou quelque son indéfinissable, rappelant une voix humaine, un
+« aha ! » étonné, puis, de somnolence, les paupières se referment."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 Pour la Revue Lilas - cité dans : <a
@@ -6633,6 +6712,23 @@ ne se tait. Je prêtai si longtemps l'oreille à ce murmure sans fin, ce
 murmure morbide, qu'il commença à me troubler. C'étaient certainement
 les symphonies des mondes tournant dans l'espace au-dessus de moi, les
 étoiles qui entonnaient un hymne..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Vincent_van_Gogh" target="_blank">Vincent
+Van Gogh</a><br>
+<a href="https://www.webexhibits.org/vangogh/letter/21/643-fr.htm"
+target="_blank">Lettre à Paul Gauguin</a><br>
+1890<br>
+<br>
+"... Je ne suis resté à Paris que trois jours et le bruit, etc.,
+Parisien me faisant une bien mauvaise impression, j'ai jugé prudent
+pour ma tête de ficher le camp pour la campagne...<br>
+&nbsp;&nbsp;&nbsp; Là-dessus sur un fond bien vivant et pourtant
+tranquille, je voudrais peindre des portraits. C'est des verts de
+différente qualité, de même valeur, de façon à former un tout vert, qui
+ferait par sa vibration, songer au bruit doux des épis se balançant à
+la brise. C'est pas commode du tout comme coloration."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6792,6 +6888,25 @@ Midi. Les cigales"<br>
 "La grosse cloche sonne<br>
 Dans la cour du temple, bruit des kakis murs<br>
 Tombant"
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
+Verlaine</a><br>
+<a href="https://fr.wikisource.org/wiki/Clochi-clocha_%28Verlaine%29"
+target="_blank">Clochi-Clocha</a><br>
+1895<br>
+<br>
+"L’église Saint-Nicolas<br>
+Du Chardonnet bat un glas,<br>
+Et l’église Saint-Étienne<br>
+Du Mont lance à perdre haleine<br>
+Des carillons variés<br>
+Pour de jeunes mariés,<br>
+Tandis que la cathédrale<br>
+Notre-Dame de Paris,<br>
+Nuptiale et sépulcrale,<br>
+Bourdonne dans le ciel gris."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8183,7 +8298,7 @@ target="_blank">Trois essais sur la théorie de la sexualité -
 Traduction (1924) de Blanche Reverchon-Jouve</a><br>
 1924<br>
 <br>
-III Les transformations de la puberté<br>
+III <span style="font-style: italic;">Les transformations de la puberté</span><br>
 <br>
 "&nbsp;&nbsp;&nbsp; C’est à un petit garçon de trois ans que je dois
 mes connaissances sur l’origine de l’angoisse infantile. Un jour qu’il
@@ -8516,6 +8631,53 @@ vivant, fait de chants d'oiseaux, du bruissement du feuillage, du
 bourdonnement des mouches et du caquet lointain de poules sur la route,
 le tout scandé par les coups espacés du marteau sur l'enclume de la
 forge." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Paul_Val%C3%A9ry" target="_blank">Paul
+Valéry</a><br>
+<a
+href="https://fr.wikisource.org/wiki/%C5%92uvres_de_Paul_Val%C3%A9ry/Regards_sur_le_monde_actuel"
+target="_blank">Regards sur le monde actuel</a><br>
+1931<br>
+<br>
+Présence de Paris<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Je rêvais d’être en mer... C’est <span
+style="font-style: italic;">PARIS</span> qui m’éveille. Une riche
+rumeur accueille mon retour. Elle environne et brode mon silence de
+tout ce qui se passe au delà de mes murs&nbsp;; et seul, me fait peuplé.<br>
+&nbsp;&nbsp;&nbsp; Si je prête l’oreille, mon sens tendu divise et mon
+esprit déchiffre ce murmure mêlé d’une diversité d’incidents inconnus
+et de faits invisibles, qui me sont présents et absents.<br>
+&nbsp;&nbsp;&nbsp; Sur le fond fluvial et grondeur qu’alimente
+éternellement le roulement de la roue innombrable, une sorte de
+perspective de bruits dont le tableau sonore se compose et se décompose
+à chaque instant, donne l’idée l’une action immense qu’entretient une
+multitude d’événements indépendants, mais qui ne manquent jamais de se
+produire, l’un ou l’autre.<br>
+&nbsp;&nbsp;&nbsp; Je discerne à toute distance, et je puis nommer <span
+style="font-style: italic;">ceci</span> ou <span
+style="font-style: italic;">cela&nbsp;</span>: l’aboi d’un
+chien&nbsp;; la trompe qui corne&nbsp;; le fer froissé qui
+grince&nbsp;; le cri aigu du tourment d’un câble sur sa poulie&nbsp;;
+la pierre qui se plaint de la râpe&nbsp;; l’affreux gémissement de
+l’excavateur quand il arrache sa charge de sable à la terre&nbsp;; le
+sifflement perdu d’un train en détresse lointaine&nbsp;; une voix
+nette&nbsp;; et de vagues vociférations frustes.<br>
+&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Au premier plan</span>,
+le chant d’un mendiant longuement lamentable se traîne.<br>
+&nbsp;&nbsp;&nbsp; Tout ce que le choc et le frottement peuvent
+engendrer à l’ouïe appelle à moi de toutes parts ce désordre de noms et
+d’images, venus de l’horizon de ma mémoire et de mon attente. J’entends
+mugir, bramer, cogner ou geindre la foule des forces mécaniques qui
+agissent et malmènent la matière dans <span style="font-style: italic;">PARIS</span>.<br>
+&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">PARIS</span>
+caché, <span style="font-style: italic;">PARIS</span> moteur dans
+l’étendue, et cause multiforme, Être puissant fait de pierre et de vie,
+que suppose cette présence inépuisable d’un flux de rumeur sourde aux
+éclats de vacarme, <span style="font-style: italic;">veut</span> alors
+se produire à ma pensée."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ir%C3%A8ne_N%C3%A9mirovsky"
@@ -10491,7 +10653,7 @@ href="https://fr.wikipedia.org/wiki/Pierres_%28recueil_de_po%C3%A8mes%29"
 target="_blank">Pierres</a><br>
 1966<br>
 <br>
-Des pierres de la Chine.<br>
+<span style="font-style: italic;">Des pierres de la Chine</span><br>
 <br>
 "... il existe une grotte appelée la caverne des dragons ou des
 poissons...<br>
@@ -10499,6 +10661,8 @@ poissons...<br>
 parler. Ils entendent des bruits lointains de tonnerre et d’ouragan.
 Ils s’arrêtent, en proie à la terreur. Tout le monde n’entend pas ces
 bruits."<br>
+<br>
+<span style="font-style: italic;">Pyrites</span><br>
 <br>
 "Lorsqu’il y a conflit, c’est la matière qui cède et au besoin
 s’anéantit pour que la forme et jusqu’aux formes incompatibles
@@ -11256,7 +11420,7 @@ oreilles, le murmure aigu pareil au chant des abeilles." </div>
 href="https://musique.uqam.ca/le-departement/charges-de-cours/luana-stan/"
 target="_blank">Luana Stan</a><br>
 <a
-href="https://www.academia.edu/1478122/2012_Le_Paysage_sonore_de_Murray_R_Schafer"
+href="https://www.researchgate.net/publication/402275937_LE_PAYSAGE_SONORE_DE_MURRAY_R_SCHAFER"
 target="_blank">Le Paysage sonore de Murray R. Schafer</a><br>
 2012<br>
 <br>
@@ -11268,9 +11432,9 @@ juridiques). Parmi les dizaines d’auteurs cités on retrouve des
 penseurs de l’Antiquité comme Hésiode, Homère, Virgile, des philosophes
 comme Arthur Schopenhauer ou des écrivains comme Fenimore Cooper,
 Charles Dickens, William Faulkner, Johann Wolfgang von Goethe, Nicolas
-Gogol, Maxim Gorki, Thomas Hardy, Heinrich Heine, Victor Hugo, Thomas
+Gogol, Maxime Gorki, Thomas Hardy, Heinrich Heine, Victor Hugo, Thomas
 Mann, Boris Pasternak, Marcel Proust, Erich Maria Remarque, Robert
-Louis Stevenson, Léon Tolstoï, Virginia Woolf, Emil Zola, etc."<br>
+Louis Stevenson, Léon Tolstoï, Virginia Woolf, Emile Zola, etc."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11284,32 +11448,56 @@ target="_blank">Avec un peu plus de ciel</a><br>
 href="https://arbrealettres.wordpress.com/2016/10/14/poesie-funambule-andre-velter/"
 target="_blank">Poésie funambule</a><br>
 <br>
-"Je n’écris pas sur le motif en ce moment<br>
-Le paysage sort du bois<br>
-Au seul bruissement des branches et des feuilles<br>
-On dirait une vision sonore<br>
-Un raga de brume de poussière et de miel<br>
-Qui apparaît<br>
-Qui transparaît<br>
-Dans un réel plus vrai que nature<br>
-<br>
-La mélodie crée ses images<br>
-Sans relever la pointe du crayon<br>
-Sans suspendre le geste qui découvre<br>
-Un fil de funambule<br>
-Tout un envol de partitions<br>
-Et un requiem ajourné<br>
-Qui se veut chorus ou chanson<br>
-Avec un aveu à la clé<br>
-<br>
-Je vois comment il y a du noir du blanc du gris<br>
-Comment un corbeau étire un nuage<br>
-Comment c’est terriblement doux et sage<br>
-Terriblement là<br>
-Présent et enfui<br>
-Sous l’archet qui reprend ses errances<br>
-Qui égrène note à note une hanche un visage<br>
-Et tous les mots d’amour que j’aurai reconquis"<br>
+"<span style="font-style: italic;">Je n’écris pas sur le motif en ce
+moment</span><br style="font-style: italic;">
+<span style="font-style: italic;">Le paysage sort du bois</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Au seul bruissement des branches et
+des feuilles</span><br style="font-style: italic;">
+<span style="font-style: italic;">On dirait une vision sonore</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Un raga de brume de poussière et de
+miel</span><br style="font-style: italic;">
+<span style="font-style: italic;">Qui apparaît</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Qui transparaît</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Dans un réel plus vrai que nature</span><br
+style="font-style: italic;">
+<br style="font-style: italic;">
+<span style="font-style: italic;">La mélodie crée ses images</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Sans relever la pointe du crayon</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Sans suspendre le geste qui découvre</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Un fil de funambule</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Tout un envol de partitions</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Et un requiem ajourné</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Qui se veut chorus ou chanson</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Avec un aveu à la clé</span><br
+style="font-style: italic;">
+<br style="font-style: italic;">
+<span style="font-style: italic;">Je vois comment il y a du noir du
+blanc du gris</span><br style="font-style: italic;">
+<span style="font-style: italic;">Comment un corbeau étire un nuage</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Comment c’est terriblement doux et
+sage</span><br style="font-style: italic;">
+<span style="font-style: italic;">Terriblement là</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Présent et enfui</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Sous l’archet qui reprend ses errances</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">Qui égrène note à note une hanche un
+visage</span><br style="font-style: italic;">
+<span style="font-style: italic;">Et tous les mots d’amour que j’aurai
+reconquis</span>"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11427,4 +11615,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 16 5 2026 
+page mise à jour 25 5 2026 
