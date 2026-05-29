@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-719 descriptions de paysage sonore trouvées dans la littérature.<br>
+725 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1691,14 +1691,10 @@ je m’endormis si rapidement..."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci"
 target="_blank">Léonard de Vinci</a> (1452 .. 1519)<br>
-<br>
 <a
 href="https://fr.wikisource.org/wiki/Textes_choisis_%28L%C3%A9onard_de_Vinci,_1907%29/Descriptions_et_paysages"
-target="_blank">Représentation du déluge</a><br>
-<a
-href="https://fr.wikisource.org/wiki/Textes_choisis_:_pens%C3%A9es,_th%C3%A9ories,_pr%C3%A9ceptes,_fables_et_fac%C3%A9ties"
-target="_blank">Textes choisis Pensées, théories, préceptes, fables et
-facéties - Traduction (1907) de Joséphin Péladan</a><br>
+target="_blank">Représentation du déluge - Traduction (1907) de
+Joséphin Péladan</a><br>
 <br>
 "&nbsp;&nbsp;&nbsp; Oh ! quelles rumeurs effrayantes on entend dans
 l’air obscur, déchiré
@@ -6716,7 +6712,7 @@ les symphonies des mondes tournant dans l'espace au-dessus de moi, les
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Vincent_van_Gogh" target="_blank">Vincent
-Van Gogh</a><br>
+van Gogh</a><br>
 <a href="https://www.webexhibits.org/vangogh/letter/21/643-fr.htm"
 target="_blank">Lettre à Paul Gauguin</a><br>
 1890<br>
@@ -7585,10 +7581,21 @@ reste, et libidineusement prenait l’être aux entrailles."<br>
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume Apollinaire</a><br>
 <a href="https://fr.wikisource.org/wiki/Alcools/Texte_entier"
-target="_blank">Alcools</a>
+target="_blank">Alcools</a><br>
+1913<br>
 <br>
-1913
+Zone<br>
 <br>
+"J'ai vu ce matin une jolie rue dont j'ai oublié le nom<br>
+Neuve et propre du soleil elle était le clairon<br>
+Les directeurs les ouvriers et les belles sténo-dactylo-graphes<br>
+Du lundi matin au samedi soir quatre fois par jour y passent<br>
+Le matin par trois fois la sirène y gémit<br>
+Une cloche rageuse y aboie vers midi<br>
+Les inscriptions des enseignes et des murailles<br>
+Les plaques les avis à la façon des perroquets criaillent<br>
+J'aime la grâce de cette rue industrielle<br>
+Située à Paris entre la rue Aumont-Thieville et l'avenue des Ternes"<br>
 <br>
 Le vent nocturne<br>
 <br>
@@ -7666,8 +7673,7 @@ Oh! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
 Sifflant dans les cordages, et faisant claquer comme un fouet<br>
 Le drapeau de bandes et d’étoiles aux trois couleurs…"<br>
 <br>
-cité dans : <a
-href="https://dial.uclouvain.be/pr/boreal/object/boreal%3A209766/datastream/PDF_01/view"
+cité dans : <a href="https://hdl.handle.net/2078.5/52036"
 target="_blank">Sur les rails De Victor Hugo à Jacques Roubaud</a> de
 Anne Reverseau : <br>
 <br>
@@ -8643,9 +8649,10 @@ target="_blank">Regards sur le monde actuel</a><br>
 Présence de Paris<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Je rêvais d’être en mer... C’est <span
-style="font-style: italic;">PARIS</span> qui m’éveille. Une riche
-rumeur accueille mon retour. Elle environne et brode mon silence de
-tout ce qui se passe au delà de mes murs&nbsp;; et seul, me fait peuplé.<br>
+style="font-style: italic;">PARIS</span>
+qui m’éveille. Une riche rumeur accueille mon retour. Elle environne et
+brode mon silence de tout ce qui se passe au delà de mes murs&nbsp;; et
+seul, me fait peuplé.<br>
 &nbsp;&nbsp;&nbsp; Si je prête l’oreille, mon sens tendu divise et mon
 esprit déchiffre ce murmure mêlé d’une diversité d’incidents inconnus
 et de faits invisibles, qui me sont présents et absents.<br>
@@ -8657,8 +8664,8 @@ multitude d’événements indépendants, mais qui ne manquent jamais de se
 produire, l’un ou l’autre.<br>
 &nbsp;&nbsp;&nbsp; Je discerne à toute distance, et je puis nommer <span
 style="font-style: italic;">ceci</span> ou <span
-style="font-style: italic;">cela&nbsp;</span>: l’aboi d’un
-chien&nbsp;; la trompe qui corne&nbsp;; le fer froissé qui
+style="font-style: italic;">cela&nbsp;</span>:
+l’aboi d’un chien&nbsp;; la trompe qui corne&nbsp;; le fer froissé qui
 grince&nbsp;; le cri aigu du tourment d’un câble sur sa poulie&nbsp;;
 la pierre qui se plaint de la râpe&nbsp;; l’affreux gémissement de
 l’excavateur quand il arrache sa charge de sable à la terre&nbsp;; le
@@ -8672,11 +8679,11 @@ d’images, venus de l’horizon de ma mémoire et de mon attente. J’entends
 mugir, bramer, cogner ou geindre la foule des forces mécaniques qui
 agissent et malmènent la matière dans <span style="font-style: italic;">PARIS</span>.<br>
 &nbsp;&nbsp;&nbsp; <span style="font-style: italic;">PARIS</span>
-caché, <span style="font-style: italic;">PARIS</span> moteur dans
-l’étendue, et cause multiforme, Être puissant fait de pierre et de vie,
-que suppose cette présence inépuisable d’un flux de rumeur sourde aux
-éclats de vacarme, <span style="font-style: italic;">veut</span> alors
-se produire à ma pensée."<br>
+caché, <span style="font-style: italic;">PARIS</span>
+moteur dans l’étendue, et cause multiforme, Être puissant fait de
+pierre et de vie, que suppose cette présence inépuisable d’un flux de
+rumeur sourde aux éclats de vacarme, <span style="font-style: italic;">veut</span>
+alors se produire à ma pensée."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8711,6 +8718,23 @@ les heures et les
 demies. Les piétinements et les conciliabules cessèrent sur le
 trottoir, et il n'y eut plus que la plainte monotone du vent, la pluie
 qui battait les vitres." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Robert_Musil" target="_blank">Robert
+Musil</a><br>
+<a href="https://fr.wikipedia.org/wiki/L%27Homme_sans_qualit%C3%A9s"
+target="_blank">L'Homme sans qualités - Traduction (1958) de Philippe
+Jaccottet</a><br>
+1932<br>
+<br>
+"L'enchevêtrement d'innombrables sons créait un grand vacarme barbelé
+aux arêtes tantôt tranchantes, tantôt émoussées, confuse masse d'où
+saillait une pointe ici ou là et d'où se détachaient comme des éclats,
+puis se perdaient, des notes plus claires. À ce seul bruit, sans qu'on
+put en définir pourtant la singularité, un voyageur eût reconnu les
+yeux fermés qu'il se trouvait à Vienne, capitale et résidence de
+l'Empire."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
@@ -8894,14 +8918,11 @@ href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
 Bosco</a><br>
 <a href="https://fr.wikipedia.org/wiki/L%27%C3%82ne_Culotte"
 target="_blank">L'Âne Culotte</a><br>
-cité dans : <a
-href="https://shs.cairn.info/revue-litterature-2015-3-page-98"
-target="_blank">Airs de flûte, sons de cloche (Henri Bosco)</a> de
-Bruno Tritsmans<br>
 1937<br>
 <br>
-"Pur soupir de roseau magique, à peine distinct du silence, et doux
-comme un appel de crapaud à la lune..."<br>
+"&nbsp;&nbsp;&nbsp; C’est alors que monta de la prairie le premier
+appel, ce souffle... Pur soupir du roseau magique, à peine distinct du
+silence, et doux comme un appel de crapaud à la lune..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11038,6 +11059,45 @@ c’était moi."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jacques_Roubaud" target="_blank">Jacques
+Roubaud</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/dors-precede-de-dire-la-poesie/9782070256709"
+target="_blank">Dors</a><br>
+1981<br>
+<br>
+"un silence :<br>
+<br>
+<br>
+les bruits<br>
+<br>
+dont la nuit<br>
+<br>
+sèche"<br>
+<br>
+<hr style="width: 100%; height: 2px;">"chaque bruit<br>
+<br>
+une<br>
+<br>
+fin<br>
+<br>
+c’est cela, silence"<br>
+<br>
+<hr style="width: 100%; height: 2px;">"Un silence<br>
+<br>
+Chaque bruit<br>
+Une fois.<br>
+<br>
+L’eau, cent."<br>
+<br>
+<hr style="width: 100%; height: 2px;">"Ah merle comme l’air est bon<br>
+Pour toi dans ce buisson où est ton nid<br>
+,ermite qui ne sonne aucune cloche<br>
+Mélodieux&nbsp;&nbsp;&nbsp;&nbsp; doux&nbsp;&nbsp;&nbsp;&nbsp; paisible
+ton appel"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Nathalie_Sarraute" target="_blank">Nathalie
 Sarraute</a><br>
 <a
@@ -11614,5 +11674,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 25 5 2026 
+</div>
+<br>
+page mise à jour 29 5 2026 
