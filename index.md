@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-725 descriptions de paysage sonore trouvées dans la littérature.<br>
+735 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1264,32 +1264,57 @@ Riote du monde (Le Tumulte du monde) - Traduction de Jean-Marie Fritz</a>
 <br>
 13e siècle<br>
 <br>
-"Concile de pape<br>
-Parlement de roi<br>
-Accord de mariage<br>
-Assemblée de chevaliers<br>
-Compagnies de clercs<br>
-Beuverie de bourgeois<br>
-Foule de vilains<br>
-Cohue de garçons<br>
-Caquetages de femmes<br>
-Aboiements de chiens<br>
-Gloussements de poules<br>
-Sonneries de cloches<br>
-Martèlements de forgerons<br>
-Cris de moulins<br>
-Bêlements de brebis<br>
-Braiements d’ânes<br>
-Ecoulements d’eau dans les gouttières<br>
-Renversements de charrettes<br>
-Coups de massues<br>
-Coups de bâtons<br>
-Crépitements de braises<br>
-Miaulements de chats<br>
-Hurlements de loups<br>
-Pépiements d’oiseaux<br>
-Coups de tonnerre<br>
-..." </div>
+"1 Concile de pape<br>
+&nbsp;2 Parlement de roi<br>
+&nbsp;3 Accord de mariage<br>
+&nbsp;4 Assemblée de chevaliers<br>
+&nbsp;5 Compagnies de clercs<br>
+&nbsp;6 Beuverie de bourgeois<br>
+&nbsp;7 Foule de vilains<br>
+&nbsp;8 Cohue de garçons<br>
+&nbsp;9 Caquetages de femmes<br>
+10 Aboiements de chiens<br>
+11 Gloussements de poules<br>
+12 Sonneries de cloches<br>
+13 Martèlements de forgerons<br>
+14 Cris de moulins<br>
+15 Bêlements de brebis<br>
+16 Braiements d’ânes<br>
+17 Ecoulements d’eau dans les gouttières<br>
+18 Renversements de charrettes<br>
+19 Coups de massues<br>
+20 Coups de bâtons<br>
+21 Crépitements de braises<br>
+22 Miaulements de chats<br>
+23 Hurlements de loups<br>
+24 Pépiements d’oiseaux<br>
+25 Coups de tonnerre<br>
+..."<br>
+<br>
+<a href="https://www.champ-vallon.com/leonard-dauphant-geographies/"
+target="_blank">Traduction de Léonard Dauphant</a><br>
+<br>
+"1 Concile de pape<br>
+&nbsp;2 Parlement de roi<br>
+&nbsp;3 Assemblée de chevaliers<br>
+&nbsp;4 Compagnie de clercs<br>
+&nbsp;5 Beuverie de citadins<br>
+&nbsp;6 Foule de paysans<br>
+&nbsp;7 Bande de gars<br>
+&nbsp;8 Bruit de femmes<br>
+&nbsp;9 Aboiement de chiens<br>
+10 Grattement de poule<br>
+11 Tintement de cloche<br>
+12 Martellement de forgeron<br>
+13 Renversement de charrettes<br>
+14 Pipi de gouttières<br>
+16 Braiement d’ânes<br>
+17 Hurlement de loups<br>
+18 Miaulement de chats<br>
+19 Pépiement d’oiseaux<br>
+20 Eclat du tonnerre<br>
+..."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques_de_Voragine"
@@ -1309,6 +1334,33 @@ aux pieds les adversités du monde, le monde étant comparé à la mer ;
 car, comme dit saint Chrysostome sur saint Mathieu : « Sur la mer, il y
 a un bruit confus, une crainte continuelle, l’image de la mort, une
 véhémence infatigable des eaux, et une agitation constante »." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Guillaume_de_Villeneuve"
+target="_blank">Guillaume de La Villeneuve</a><br>
+<a
+href="https://sites.uwm.edu/carlin/guillaume-de-la-villeneuve-les-crieries-de-paris/"
+target="_blank">Les Crieries de Paris - Traduction de Madeleine Jeay</a><br>
+1265<br>
+<br>
+" ...<br>
+138. L’autre crie : “Du chaume ! J’ai du chaume !<br>
+139. J’ai du jonc préparé pour mettre dans les lampes,<br>
+140. De bonnes échalotes d’Etampes.<br>
+141. J’ai du savon d’au-delà la mer, du savon.<br>
+142. Nous avons des poires de Saint-Rieul.”<br>
+143. L’autre crie sans attendre :<br>
+144. ”J’offre des peignes pour faire des filets !”<br>
+145. Quand il y a mort d’homme ou de femme,<br>
+146. Vous entendrez crier : “Priez pour son âme”,<br>
+147. A coups de sonnette par les rues.<br>
+148. Vous entendrez d’autres petites gens<br>
+149. Crier fort les poires d’angoisse.<br>
+150. L’autre : “Des pommes rouges pour qui en a besoin !”<br>
+151. On crie : “De l’églantier pour du pain,<br>
+152. Du verjus de grain pour la sauce à l’ail !”<br>
+... "<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gautier_d%27%C3%89pinal"
@@ -1678,7 +1730,7 @@ cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
 paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
-(avant 1440)<br>
+avant 1440<br>
 <br>
 "Au claquement d’un battoir<br>
 d’une très belle chambrière<br>
@@ -2136,7 +2188,7 @@ Pour honorer les morts font mourir les vivans."
 href="https://fr.wikipedia.org/wiki/Blaise_Pascal" target="_blank">Blaise
 Pascal</a><br>
 <a href="http://ldm.phm.free.fr/Oeuvres/Pensees.html" target="_blank">Pensées</a><br>
-1670 (posthume)<br>
+avant 1662<br>
 <br>
 "&nbsp;&nbsp;&nbsp; L'esprit de ce souverain juge du monde n'est pas si
 indépendant qu'il
@@ -3699,6 +3751,22 @@ répercuté d’un bout à l’autre de la forêt."<br>
 mille cataractes, – et l’étang profond et croupi placé à mes pieds se
 referma tristement et silencieusement sur les ruines de la <span
 style="font-style: italic;">Maison Usher</span>."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
+Flaubert</a><br>
+<a
+href="https://fr.wikisource.org/wiki/%C5%92uvres_de_jeunesse_%28Flaubert%29/Tome_2/Texte_entier"
+target="_blank">Œuvres de jeunesse</a><br>
+1839<br>
+<br>
+Smarh<br>
+<br>
+"... j'écoutais avec ravissement le bruit des feuilles des arbres que
+le vent agitait, l'eau qui coulait dans les vallées ... <br>
+et je me disais que l'éternité devait être aussi quelque chose de
+suave, de doux, de silencieux et d'immense..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5573,6 +5641,27 @@ On entendait en bas un grondement immense, qui était la mer."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
+Baudelaire</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Petits_Po%C3%A8mes_en_prose/Texte_entier"
+target="_blank">Le Spleen de Paris ou Petits poèmes en prose</a><br>
+1869<br>
+<br>
+Le Fou et la Vénus<br>
+<br>
+"L'extase universelle des choses ne s'exprime par aucun bruit ; les
+eaux elles-mêmes sont comme endormies. Bien différente des fêtes
+humaines, c'est ici une orgie silencieuse."<br>
+<br>
+À une heure du matin<br>
+<br>
+"Enfin ! seul ! On n'entend plus que le roulement de quelques fiacres
+attardés et éreintés. Pendant quelques heures, nous posséderons le
+silence, sinon le repos."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Arthur_Rimbaud" target="_blank">Arthur
 Rimbaud</a><br>
 <a
@@ -5836,6 +5925,22 @@ Que vient tout près de moi chanter mon rouge-gorge.<br>
 Vacarme de marteaux lointains dans une forge.<br>
 L'eau clapote. On entend haleter un steamer.<br>
 Une mouche entre. Souffle immense de la mer." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Gustave_Flaubert" target="_blank">Gustave
+Flaubert</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Trois_Contes_%28Flaubert%29/Texte_entier"
+target="_blank">Trois Contes</a><br>
+1877<br>
+<br>
+Un cœur simple<br>
+<br>
+"Aucun bruit dans le village. En bas, sur le trottoir, personne. Ce
+silence épandu augmentait la tranquillité des choses. Au loin, les
+marteaux des calfats tamponnaient des carènes, et une brise lourde
+apportait la senteur du goudron."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Vall%C3%A8s" target="_blank">Jules
@@ -7005,7 +7110,7 @@ se perdit dans l’obscurité. Une lourde pluie tomba en torrents et, l’un
 après l’autre, les coups de tonnerre se mirent à rouler, terribles,
 dans la steppe déserte. L’herbe, courbée par le vent et la pluie, se
 couchait à terre et rendait un son pâle. Et tout tremblait et
-s’agitait. Les éclairs aveuglants déchiraient les nuages… Dans leur
+s’agitait. Les éclairs aveuglants déchiraient les nuages... Dans leur
 éclat bleu se levait au loin la chaîne de montagnes, étincelante de
 feux bleus, argentée et froide, et, quand les éclairs s’éteignaient,
 elle disparaissait comme si elle sombrait dans un gouffre noir. Tout
@@ -7671,7 +7776,7 @@ Et le bruit coutumier qui finit par être silence.<br>
 &nbsp;<br>
 Oh! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
 Sifflant dans les cordages, et faisant claquer comme un fouet<br>
-Le drapeau de bandes et d’étoiles aux trois couleurs…"<br>
+Le drapeau de bandes et d’étoiles aux trois couleurs..."<br>
 <br>
 cité dans : <a href="https://hdl.handle.net/2078.5/52036"
 target="_blank">Sur les rails De Victor Hugo à Jacques Roubaud</a> de
@@ -7696,7 +7801,7 @@ Des locomotives hautes et minces, aux mouvements<br>
 Si aisés, les locomotives des rapides,<br>
 Précédant sans effort quatre wagons jaunes à lettres d’or<br>
 Dans les solitudes montagnardes de la Serbie,<br>
-Et, plus loin, à travers la Bulgarie pleine de roses…<br>
+Et, plus loin, à travers la Bulgarie pleine de roses...<br>
 Ah ! il faut que ces bruits et que ce mouvement<br>
 Entrent dans mes poèmes..."<br>
 </div>
@@ -8005,6 +8110,24 @@ discordant, saccadé.<br>
 Je ne blâme pas ces vibrations déconcertantes. Mais je ne m’y retrouve
 pas. Je ne sais pas à qui sont ces voix. Quelle est donc cette âme qui
 a besoin d’une voûte de résonance aussi écrasante ?"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marc_Bloch" target="_blank">Marc
+Bloch</a><br>
+<a
+href="https://www.dunod.com/histoire-geographie-et-sciences-politiques/ecrits-guerre-1914-1918-0"
+target="_blank">Souvenirs de guerre 1914-1915</a><br>
+1915<br>
+<br>
+« Les nuits étaient très sombres. Les yeux ne servaient de rien. Pour
+prévenir les surprises, nous ne pouvions compter que sur nos oreilles.
+J’appris à discerner les sons qui composent le grand murmure nocturne :
+le « tap-tap » des gouttes de pluie sur le feuillage, si semblable au
+rythme de pas lointains, le froissement un peu métallique des feuilles
+très sèches tombant sur un sol déjà jonché, que les hommes prirent tant
+de fois pour le choc d’un chargeur introduit dans une culasse
+allemande. »<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -10857,7 +10980,21 @@ target="_blank">La disparition</a><br>
 "Un bruit indistinct montait du faubourg. Un carillon, plus lourd qu'un
 glas, plus sourd qu'un tocsin, plus profond qu'un bourdon, non loin,
 sonna trois coups. Du canal Saint-Martin, un clapotis plaintif
-signalait un chaland qui passait." </div>
+signalait un chaland qui passait."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Tout à coup d'un salon voisin, fusa un boucan
+assourdissant, suivi d'un brouhaha confus : fracas d'un miroir, combat
+corps-à-corps, bruits assourdis."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il s'assit un long instant sur un banc moussu, non
+loin du grand acacia dont la frondaison balançait, produisant un bruit
+sourd mais continu, un chuchotis murmurant, un soupir bourdonnant qu'on
+aurait cru parfois sibyllin, dodonial."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; L'on ouït un bruit concis, fugitif, un « plof » ou
+plutôt un « ploc », un brin crissant, un brin agaçant, mais si fin
+qu'on l'oublia aussitôt."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
@@ -11074,7 +11211,6 @@ les bruits<br>
 dont la nuit<br>
 <br>
 sèche"<br>
-<br>
 <hr style="width: 100%; height: 2px;">"chaque bruit<br>
 <br>
 une<br>
@@ -11082,14 +11218,12 @@ une<br>
 fin<br>
 <br>
 c’est cela, silence"<br>
-<br>
 <hr style="width: 100%; height: 2px;">"Un silence<br>
 <br>
 Chaque bruit<br>
 Une fois.<br>
 <br>
 L’eau, cent."<br>
-<br>
 <hr style="width: 100%; height: 2px;">"Ah merle comme l’air est bon<br>
 Pour toi dans ce buisson où est ton nid<br>
 ,ermite qui ne sonne aucune cloche<br>
@@ -11676,4 +11810,4 @@ s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
-page mise à jour 29 5 2026 
+page mise à jour 5 6 2026 
