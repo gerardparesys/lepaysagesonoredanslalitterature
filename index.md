@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-735 descriptions de paysage sonore trouvées dans la littérature.<br>
+742 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2062,7 +2062,7 @@ target="_blank">Tome 2</a><br>
 "Écoute donc, et prête une oreille attentive, non pas au son
 harmonieux, mais au bruit confus qui, pour ma satisfaction et pour ton
 dépit, s’exhale du fond de ma poitrine amère :<br>
-&nbsp;&nbsp;&nbsp; « Que le rugissement du lion, le féroce hurlement du
+&nbsp;&nbsp;&nbsp; "Que le rugissement du lion, le féroce hurlement du
 loup, le
 sifflement horrible du serpent écailleux, l’effroyable cri de quelque
 monstre, le croassement augural de la corneille, le vacarme du vent qui
@@ -2956,10 +2956,30 @@ cadence." </div>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
 target="_blank">Bernardin de Saint-Pierre</a><br>
-<a href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f267.item"
+<a
+href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f267.image/f1n426.pdf"
 target="_blank">Études et harmonies de la nature (mises en ordre par
-l'abbé Dauphin) - 12e étude<br>
+l'abbé Dauphin)<br>
 </a>1796<br>
+<br>
+8e étude - De quelques lois générales de la nature<br>
+<br>
+"Les bruits mêmes des plantes ne sont pas à dédaigner ; car
+lorsqu'elles sont agitées par les vents, la plupart rendent des sons
+qui leur sont propres, et qui produisent des Convenances ou Contrastes
+fort agréables, avec les sites où elles ont coutume de naître. Aux
+Indes, les cannes creuses de Bambou, qui ombragent les rivages des
+fleuves, imitent, en se froissant les unes contre les autres, le
+gémissement des manoeuvres d'un vaisseau ; et les siliques du
+Caneficier
+agitées par le vent sur le haut d'une montagne, le tic-tac d'un moulin.
+Les feuilles mobiles des Peupliers font entendre, au milieu de nos
+bois, les bouillonnements d'un ruisseau. Les vertes prairies et les
+tranquilles forêts agitées par les zéphirs, représentent, au fond des
+vallées et sur les pentes des coteaux, les ondulations et les murmures
+des flots de la mer qui se brisent sur le rivage."<br>
+<br>
+12e étude - Harmonies générales<br>
 <br>
 "Quelquefois un vieux Chêne élève au milieu d'eux ses larges bras
 dépouillés de feuilles, et immobiles. Comme un vieillard, il ne prend
@@ -8096,7 +8116,7 @@ Pierre Isler<br>
 cité dans : <a
 href="https://cerisy-colloques.fr/wp-content/uploads/2020/05/DixNeufCentTreize-PubCerisy2015.pdf"
 target="_blank">1913 : cent ans après - Enchantements et
-désenchantements</a> de Colette Camelin et Marie-Paule Berranger
+désenchantements</a> de Colette Camelin et Marie-Paule Berranger<br>
 1915<br>
 <br>
 "Je vais fermer ma fenêtre.<br>
@@ -8120,14 +8140,31 @@ href="https://www.dunod.com/histoire-geographie-et-sciences-politiques/ecrits-gu
 target="_blank">Souvenirs de guerre 1914-1915</a><br>
 1915<br>
 <br>
-« Les nuits étaient très sombres. Les yeux ne servaient de rien. Pour
+"Les nuits étaient très sombres. Les yeux ne servaient de rien. Pour
 prévenir les surprises, nous ne pouvions compter que sur nos oreilles.
 J’appris à discerner les sons qui composent le grand murmure nocturne :
 le « tap-tap » des gouttes de pluie sur le feuillage, si semblable au
 rythme de pas lointains, le froissement un peu métallique des feuilles
 très sèches tombant sur un sol déjà jonché, que les hommes prirent tant
 de fois pour le choc d’un chargeur introduit dans une culasse
-allemande. »<br>
+allemande."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Henri_Barbusse" target="_blank">Henri
+Barbusse</a><br>
+<a href="https://fr.wikisource.org/wiki/Le_Feu/24#" target="_blank">Le
+feu</a><br>
+1916<br>
+<br>
+L’Aube<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Et puis, quel est ce silence ? Il est prodigieux.
+Pas un bruit, sinon, de temps en temps, la chute d’une motte de terre
+dans l’eau, au milieu de cette paralysie fantastique du monde. On ne
+tire pas... Pas d’obus, parce qu’ils n’éclateraient pas. Pas de balles,
+parce que les hommes...<br>
+&nbsp;&nbsp;&nbsp; Les hommes, où sont les hommes ? "<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8912,6 +8949,29 @@ par la marée."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jun%27ichir%C5%8D_Tanizaki"
+target="_blank">Jun'ichirō Tanizaki</a><br>
+<a href="https://editions-verdier.fr/livre/eloge-de-lombre/"
+target="_blank">Éloge de l'ombre - Traduction (1977) de René Sieffert</a><br>
+1933<br>
+<br>
+"... des lieux d’aisance de style japonais...<br>
+Au risque de me répéter, j’ajouterai d’ailleurs qu’une certaine qualité
+de pénombre, une absolue propreté et un silence tel que le chant d’un
+moustique offusquerait l’oreille, sont des conditions indispensables.
+Lorsque je me trouve en pareil endroit, il me plaît d’entendre tomber
+une pluie douce et régulière. <br>
+... on peut entendre, tout proche, le bruit apaisant des gouttes qui,
+tombant du bord de l’auvent ou des feuilles d’arbre, éclaboussent le
+pied des lanternes de pierre, imprègnent la mousse des dalles avant que
+ne les éponge le sol. En vérité ces lieux conviennent au cri des
+insectes, au chant des oiseaux, aux nuits de lune aussi ; c’est
+l’endroit le mieux fait pour goûter la poignante mélancolie des choses
+en chacune des quatre saisons, et les anciens poètes de haïkaï ont dû
+trouver là des thèmes innombrables."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
 <a href="https://fr.wikipedia.org/wiki/L%27%C3%89cluse_num%C3%A9ro_1"
@@ -9070,6 +9130,29 @@ chantait autour de moi dans toutes les directions, au-dessus et
 au-dessous de moi, alors c'était bien la pluie. C'était comme de
 retrouver la mer après en avoir été longtemps privé, comme l'étreinte
 d'un amant."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_Ferdinand_Ramuz"
+target="_blank">Charles Ferdinand Ramuz</a><br>
+<a
+href="https://ebooks-bnr.com/ebooks/pdf4/ramuz_si_le_soleil_ne_revenait_pas.pdf"
+target="_blank">Si le soleil ne revenait pas</a><br>
+1937<br>
+<br>
+"... à présent que cette télégraphie sans fil existe, de temps en
+temps, ils se taisent pour écouter les nouvelles.<br>
+&nbsp;&nbsp;&nbsp; C’est une voix qui vient on ne sait pas d’où, née de
+nulle part ou de partout, née de rien, fille du néant. C’est de la
+musique, des violons, des trompettes, des tambours ; c’est une femme,
+une foule, des canons qui tonnent, des fusils qui partent, dix mille
+hommes ou un seul, le bruit du vent, le bruit des vagues. Et ce bruit a
+été d’abord des choses, mais elles ne sont plus pour nous que du bruit.
+L’oreille n’en distingue même pas le point d’origine. Son plus ou moins
+d’intensité est sans signification quant à la distance qu’il a
+parcourue, les lieues ne le fatiguent pas, il est insoucieux des
+myriamètres ; de sorte qu’il est faible et on vous dit : « C’est Genève
+», il a toute sa force, mais il vient de New-York."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9390,6 +9473,22 @@ grand de l'univers parlant."<br>
 "Le vent s’excite et se décourage. Il crie et il se plaint. Il passe de
 la violence à la détresse. Le caractère même des souffles heurtés et
 inutiles peut donner une image d’une mélancolie anxieuse..." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Barjavel" target="_blank">René
+Barjavel</a><br>
+<a href="https://fr.wikipedia.org/wiki/Le_Voyageur_imprudent"
+target="_blank">Le voyageur imprudent</a><br>
+1944<br>
+<br>
+"... la T.S.F. ... Le premier bouton tourné, le poste gronda sourdement.<br>
+&nbsp;&nbsp;&nbsp; Essaillon chercha la longueur d'onde. Un fil de
+lumière bleue se déplaçait sur les chiffres d'un cadran. Au passage,
+les échos du monde giclaient dans la pièce, un éclat de cuivres, trois
+roucoulades d'un soprano, les trilles du morse, et le bruit de boîte à
+musique des trains de brouillage, par-dessus les voix déformées des
+speakers."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Louis_Aragon" target="_blank">Louis
@@ -11205,7 +11304,6 @@ target="_blank">Dors</a><br>
 <br>
 "un silence :<br>
 <br>
-<br>
 les bruits<br>
 <br>
 dont la nuit<br>
@@ -11229,6 +11327,36 @@ Pour toi dans ce buisson où est ton nid<br>
 ,ermite qui ne sonne aucune cloche<br>
 Mélodieux&nbsp;&nbsp;&nbsp;&nbsp; doux&nbsp;&nbsp;&nbsp;&nbsp; paisible
 ton appel"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Ingmar_Bergman" target="_blank">Ingmar
+Bergman</a><br>
+<a href="https://sv.wikipedia.org/wiki/Fanny_och_Alexander"
+target="_blank">Fanny och Alexander - Film</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/fanny-et-alexandre/9782070249190"
+target="_blank">Fanny et Alexandre - Scénario - Traduction (1998) de
+Carl Gustaf Bjurström et Lucie Albertini</a><br>
+1982<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Si on se tient sous le lustre en cristal du salon,
+les pieds enfoncés dans l'immense feuillage du tapis, si on reste
+absolument immobile et si on retient sa respiration, on peut entendre
+le silence, il se compose de plusieurs choses : d'abord le bruissement
+du sang derrière le tympan, mais aussi les pendules qui font partout
+tic tac, toutes à la fois. Puis le ronflement du feu dans le poêle, les
+volets noirs tremblent et cliquètent faiblement. On entend au loin un
+piano, c'est la fille du voisin qui fait des gammes, c'est à peine
+perceptible, mais ça vous enfonce quand même une pointe de chagrin dans
+le cœur, impossible de savoir pourquoi. Dans la bibliothèque,
+grand-mère est penchée sur ses comptes. Sa plume d'acier grince sur le
+papier. De la cuisine arrivent le bruit de la vaisselle et la voix de
+Mademoiselle Vega, puis c'est le silence mais la porcelaine et
+l'argenterie remuent encore dans la bassine.<br>
+&nbsp;&nbsp;&nbsp; Le jour d'hiver s'obscurcit, un traîneau passe, un
+grelot sonne ; bruit des sabots du cheval sur la neige glacée, les
+patins du traîneau chuintent..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11269,6 +11397,36 @@ passâmes là une nuit ; pour nous comme pour les gens du village, le
 bruit constant avait fini par être le silence. <br>
 &nbsp;&nbsp;&nbsp; Il y a tant de choses dans la multiple Suisse que le
 terrible y a aussi sa place." <br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Italo_Calvino" target="_blank">Italo
+Calvino</a><br>
+<a href="https://it.wikipedia.org/wiki/Sotto_il_sole_giaguaro"
+target="_blank">Sotto il sole giaguaro</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/sous-le-soleil-jaguar/9782070449415"
+target="_blank">Sous le soleil jaguar - Traduction (2013) de Jean-Paul
+Manganaro</a><br>
+1986<br>
+<br>
+Un roi à l'écoute<br>
+<br>
+"C’est le souffle de la ville que tu dois écouter, un souffle qui peut
+être aussi bien entrecoupé et haletant que serein et profond.<br>
+&nbsp;&nbsp;&nbsp; La ville, au fond de l’oreille, est un vrombissement
+lointain, un chuchotement de voix, un bourdonnement de roues. Quand
+tout est arrêté dans le palais, la ville bouge, les roues parcourent
+les rues, les rues courent comme des rayons de roues, les disques
+tournent sur les phonographes, la pointe gratte un vieux disque, la
+musique va et vient, par à-coups, elle oscille, se glisse dans le
+sillon vrombissant des rues, ou grimpe, tout en haut, avec le vent qui
+fait tourner les rotors des cheminées. La ville est une roue dont le
+pivot est le lieu où tu demeures immobile, à l’écoute.<br>
+&nbsp;&nbsp;&nbsp; La ville, en été, entre par les fenêtres ouvertes du
+palais, elle vole jusque-là avec toutes ses propres fenêtres ouvertes,
+ses voix, ses éclats de rires et de pleurs, le fracas des marteaux
+pneumatiques, le coassement des radios."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11810,4 +11968,4 @@ s’immobilise dans un
 dernier éternuement."
 </div>
 <br>
-page mise à jour 5 6 2026 
+page mise à jour 12 6 2026 
