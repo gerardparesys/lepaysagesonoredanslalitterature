@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-742 descriptions de paysage sonore trouvées dans la littérature.<br>
+751 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1157,6 +1157,20 @@ les Sarrasins se divertir et s’égayer."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
+<a href="https://fr.wikipedia.org/wiki/Renaud_de_Montauban"
+target="_blank">Renaud de Montauban</a><br>
+cité dans : <a
+href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
+target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
+paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+12e siècle<br>
+<br>
+"Les chevaux parcourent la plaine fort rapidement,<br>
+dans un tel fracas que l’on n’y entendrait pas Dieu tonner ;<br>
+le monde en résonne et la vallée retentit."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Charroi_de_N%C3%AEmes"
 target="_blank">Charroi de Nîmes</a><br>
 cité dans : <a
@@ -2128,6 +2142,41 @@ tambours, l’artillerie, les coups d’arquebuse, et par-dessus tout
 l’épouvantable cliquetis des charrettes, tout cela formait à la fois un
 bruit si confus, si horrible, que don Quichotte eut besoin de
 rassembler tout son courage pour l’entendre sans effroi." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marin_Mersenne" target="_blank">Marin
+Mersenne</a><br>
+<a target="_blank"
+href="https://fr.wikipedia.org/wiki/Harmonie_universelle">Harmonie
+Universelle</a><br>
+1636<br>
+<br>
+<a href="https://cnum.cnam.fr/pgi/fpage.php?PTFOLN3.1RES/101/40/1653"
+target="_blank">Livre Premier, Proposition VIII.</a><br>
+<br>
+<span style="font-style: italic;">Le Son ne se communique pas dans un
+moment, comme fait la lumière, selon toute son étendue, mais dans un
+espace de temps.</span><br>
+<br>
+"... le Son ne peut remplir la sphère de son activité que dans un
+espace de temps qui est d'autant plus long que le lieu où se fait le
+Son est plus éloigné de l'oreille ; comme on l’expérimente de plusieurs
+manières, et particulièrement lorsque l'on voit que la hache ou le
+maillet du bûcheron et des autres qui frappent sur quelque corps, a
+déjà frappé deux coups lorsque l'on ouï le premier coup : ce qui arrive
+quand on est éloigné de cinq ou six cent pas ou davantage.<br>
+... un fauconneau fut aussitôt ouï de 1000 pas que la fumée en fut
+aperçue.<br>
+&nbsp;&nbsp;&nbsp; Le son d'une pièce portant le boulet de douze
+livres, tirant de mil cinq cents pas à trois heures après midi par un
+temps clair aidé du vent, et placé sur une courtine sur l'eau, fut ouï
+à deux battements de pouls. Le son d'une mousquetade tirée à cinquante
+pas sur l'eau, le vent étant à demi contraire, et le temps couvert,
+s'entendit au quatrième battement, quoiqu'une autre mousquetade tirée
+de 1000 pas au-dessous du vent, par un temps sombre et couvert, une
+heure devant le jour, près de la mer, n'ait point été entendue..."<br>
+(Texte modernisé)<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georg_Philipp_Harsd%C3%B6rffer"
@@ -5670,13 +5719,15 @@ target="_blank">Le Spleen de Paris ou Petits poèmes en prose</a><br>
 <br>
 Le Fou et la Vénus<br>
 <br>
-"L'extase universelle des choses ne s'exprime par aucun bruit ; les
+"&nbsp;&nbsp;&nbsp; L'extase universelle des choses ne s'exprime par
+aucun bruit ; les
 eaux elles-mêmes sont comme endormies. Bien différente des fêtes
 humaines, c'est ici une orgie silencieuse."<br>
 <br>
 À une heure du matin<br>
 <br>
-"Enfin ! seul ! On n'entend plus que le roulement de quelques fiacres
+"&nbsp;&nbsp;&nbsp; Enfin ! seul ! On n'entend plus que le roulement de
+quelques fiacres
 attardés et éreintés. Pendant quelques heures, nous posséderons le
 silence, sinon le repos."<br>
 </div>
@@ -7776,6 +7827,34 @@ imprimeries, des usines électriques et des chemins de fer souterrains."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Carlo_Carr%C3%A0" target="_blank">Carlo
+Carrà</a><br>
+La Peinture des sons, bruits et odeurs – Manifeste futuriste<br>
+<a href="https://www.champ-vallon.com/giovanni-lista-le-futurisme/"
+target="_blank">Giovanni Lista - Le Futurisme, textes et manifestes
+(1909-1944)</a><br>
+cité dans : <a
+href="http://ntemusique.free.fr/agregation/Futurisme.pdf"
+target="_blank">Musique et Arts plastiques</a> de <a
+href="http://jeanyvesbosseur.fr/" target="_blank">Jean-Yves Bosseur</a><br>
+1913<br>
+<br>
+"&nbsp;&nbsp; <span style="font-style: italic;">Au point de vue de la
+forme</span> : il y a des sons, des bruits et des odeurs concaves ou
+convexes, triangulaires, ellipsoïdaux, oblongs, coniques, sphériques,
+spiraliques, etc.<br>
+&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Au point de vue
+de la couleur</span> : il y a des sons, des bruits et des odeurs
+jaunes, rouges, verts, indigo, bleu-ciel et violets.<br>
+&nbsp;&nbsp;&nbsp; Dans les gares, dans les usines, garages et hangars,
+dans le monde mécanique et sportif les sons, bruits et odeurs sont
+presque toujours rouges ; dans les restaurants, cafés et salons ils
+sont argentés, jaunes et violets. Tandis que les sons, bruits et odeurs
+des animaux sont jaunes et bleus, les sons, bruits et odeurs de la
+femme sont verts, bleu-ciel et violets."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Valery_Larbaud" target="_blank">Valery
 Larbaud</a><br>
 Les Poésies de A.O. Barnabooth<br>
@@ -7834,6 +7913,20 @@ href="https://monoskop.org/images/4/4c/Cendrars_Blaise_Delaunay-Terk_Sonia_La_pr
 target="_blank">La Prose du Transsibérien et de la petite Jehanne de
 France</a><br>
 1913<br>
+<br>
+"Les rythmes du train<br>
+La “<span style="font-style: italic;">moëlle chemin-de-fer</span>” des
+psychiatres américains<br>
+Le bruit des portes des voix des essieux grinçant sur les rails congelés<br>
+Le ferlin d’or de mon avenir<br>
+Mon browning le piano et les jurons des joueurs de cartes dans le
+compartiment d’à côté<br>
+L’épatante présence de Jeanne<br>
+L’homme aux lunettes bleues qui se promenait nerveusement dans le
+couloir et qui me regardait en passant<br>
+Froissis de femmes<br>
+Et le sifflement de la vapeur<br>
+Et le bruit éternel des roues en folie dans les ornières du ciel"<br>
 <br>
 "Rien n'y fait, j'entends les cloches sonores<br>
 Le gros bourdon de Notre-Dame<br>
@@ -8413,6 +8506,22 @@ agrémentait son roulement métallique de sifflements enroués et
 sinistres."<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Fernand_Divoire" target="_blank">Fernand
+Divoire</a><br>
+L’art poétique orchestral<br>
+cité dans : <a href="https://doi.org/10.4000/12i36" target="_blank">De
+la symphonie du monde à la symphonie de bruits</a> de <a
+href="https://en.wikipedia.org/wiki/Marc_Battier" target="_blank">Marc
+Battier</a><br>
+1923<br>
+<br>
+"Le plus beau poème simultané serait : entendre la vie ; bruit des
+paroles ici, du grillon chez le boulanger, du train sur la voie des
+Indes, des étoiles, des musiciens chinois et nègres, des machines à
+Liverpool, des tambours polynésiens. Tout !"<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Ashin'an
 Setsujin (1872 .. 1958)<br>
 <a href="https://www.editionslibretto.fr/catalogue/fourmis-sans-ombre/"
@@ -8969,6 +9078,14 @@ insectes, au chant des oiseaux, aux nuits de lune aussi ; c’est
 l’endroit le mieux fait pour goûter la poignante mélancolie des choses
 en chacune des quatre saisons, et les anciens poètes de haïkaï ont dû
 trouver là des thèmes innombrables."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Lorsque j'écoute le bruit pareil à un cri d'insecte
+lointain, ce sifflement léger qui vrille l'oreille, qu'émet le bol de
+bouillon posé devant moi, et que je savoure à l'avance et en secret le
+parfum du breuvage, chaque fois je me sens entraîné dans le domaine de
+l'extase. Les amateurs de thé, dit-on, au bruit de l'eau qui bout, et
+qui pour eux évoque le vent dans les pins, connaissent un ravissement
+voisin peut-être de la sensation que j'éprouve."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9182,6 +9299,38 @@ Personne ne crie personne ne parle et rien ne chante,<br>
 ni souffle, ni murmure, ni fracas,<br>
 mais quelque part il y a tant de bruit,<br>
 tant de hurlements, tant de bavardages, et qu’on n’entend pas." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul
+Sartre</a><br>
+<a href="https://archive.org/details/dli.ernet.53819/" target="_blank">La
+Nausée</a><br>
+1938<br>
+<br>
+"Le vent m’apporte par intermittence une petite sonnerie solitaire, qui
+vient de loin. Les bruits domestiques, le ronflement des autos, les
+cris, les aboiements ne s’éloignent guère des rues éclairées, ils
+restent au chaud. Mais cette sonnerie perce les ténèbres et parvient
+jusqu’ici&nbsp;: elle est plus dure, moins humaine que les autres
+bruits."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; La petite rue Joséphine-Soulary est morte, elle
+sent la cave. Mais, comme tous les dimanches, un bruit somptueux
+l’emplit, un bruit de marée. Je tourne dans la rue du
+Président-Chamart, dont les maisons ont trois étages, avec de longues
+persiennes blanches. Cette rue de notaires est toute possédée par la
+volumineuse rumeur du dimanche. Dans le passage Gillet, le bruit croît
+encore et je le reconnais&nbsp;: c’est un bruit que font des hommes.
+Puis soudain, sur la gauche, il se produit comme un éclatement de
+lumière et de sons. Je suis arrivé&nbsp;: voici la rue Tournebride, je
+n’ai qu’à prendre rang parmi mes semblables et je vais voir les
+messieurs bien échanger des coups de chapeau."<br>
+<br>
+"Par temps clair, les bruits entrent par un bout de la ville et sortent
+par l’autre bout, après avoir traversé tous les murs&nbsp;; d’autres
+fois, entre ces pierres que le soleil cuit, que le gel fend, ils
+tournent en rond."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Trenet" target="_blank">Charles
@@ -11966,6 +12115,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 12 6 2026 
+</div><br>
+page mise à jour 18 6 2026 
