@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-751 descriptions de paysage sonore trouvées dans la littérature.<br>
+756 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -3238,6 +3238,27 @@ interrompu que par la voix basse des deux individus dont nous venons de
 parler, et par le bruit sourd que faisait le pivert en frappant les
 arbres de son bec, le cri discordant du geai, et le son éloigné d’une
 chute d’eau." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Heinrich_Heine" target="_blank">Heinrich
+Heine</a><br>
+<a href="https://fr.wikisource.org/wiki/La_Mer_du_Nord_%28Heine%29"
+target="_blank">La Mer du Nord - Traduction (1847) de Gérard de Nerval</a><br>
+1826<br>
+<br>
+Salut à la mer<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Les flots s’agitaient et mugissaient ; le soleil
+versait sur la mer ses clartés roses ; des volées de mouettes
+s’enfuyaient effarouchées en poussant des cris aigus ; les chevaux
+piaffaient ; les boucliers résonnaient d’un cliquetis joyeux. Comme un
+chant de victoire, retentissait alors le cri des fils de Hellas, la
+reine des flots : Thalatta ! Thalatta !<br>
+... et j’entends le tendre soupir des arbres chargés d’une neige
+parfumée, et les jeunes fleurs me regardent avec leurs yeux odorants et
+bariolés, et l’atmosphère pleure et bruit, et respire et sourit, et
+dans l’azur du ciel les oiseaux chantent : Thalatta ! Thalatta !"<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Stendhal" target="_blank">Stendhal</a><br>
@@ -7550,6 +7571,49 @@ L’odeur du silence est si vieille."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jules_Romains" target="_blank">Jules
+Romains</a><br>
+<a href="https://archive.org/details/lavieunanimep00roma/"
+target="_blank">La vie unanime</a><br>
+cité dans : <a href="https://journals.openedition.org/filigrane/228"
+target="_blank">De la symphonie du monde à la symphonie de bruits</a>
+de <a href="https://en.wikipedia.org/wiki/Marc_Battier" target="_blank">Marc
+Battier</a><br>
+1908<br>
+<br>
+"L'entonnoir de la rue est mousseux de bruits acres."<br>
+<br>
+"Des strapontins grincent. On entre. Un enfant tousse.<br>
+Puis les bruits isolés s'accordent, se pénètrent ;<br>
+Une même tiédeur résume tous les souffles ;<br>
+Les parfums ne sont plus séparés des relents ;<br>
+Et les bruits, les odeurs, les moiteurs, les haleines<br>
+S'unissent pour remplir l'espace illuminé."<br>
+<br>
+"Mais le rythme de leur machine est doux ;<br>
+Elle ne fait qu'un bruit enseveli :<br>
+Ronron de rouet et tic-tac d'horloge.<br>
+Comme dans un lit ou dans un hamac<br>
+La foule en bateau se berce et somnole."<br>
+<br>
+"&nbsp;&nbsp; Quelqu'un descend un escalier ;<br>
+&nbsp;&nbsp;&nbsp; Un enfant derrière le mur<br>
+&nbsp;&nbsp;&nbsp; Pleure ; un piano recommence<br>
+&nbsp;&nbsp;&nbsp; Sans fin la même mélodie,<br>
+&nbsp;&nbsp;&nbsp; Qu'on voit paraître et disparaître<br>
+&nbsp;&nbsp;&nbsp; Comme à travers une forêt.<br>
+<br>
+Là-bas, est-ce un grelot, ou le pas d'un cheval ?<br>
+Une voix éblouit le silence, et s'y noie.<br>
+A gauche, un cordonnier tape le cuir durci.<br>
+<br>
+Les bruits de la maison pénètrent dans ma chambre<br>
+Par les fentes du bois, les pores des cloisons,<br>
+&nbsp;&nbsp;&nbsp; Et par les vitres naïves.<br>
+Ils s'agitent pareils à de petites mouches."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
 <a
 href="https://fr.wikisource.org/wiki/L%E2%80%99Ing%C3%A9nue_libertine/Texte_entier"
@@ -9303,7 +9367,7 @@ tant de hurlements, tant de bavardages, et qu’on n’entend pas." </div>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul
 Sartre</a><br>
-<a href="https://archive.org/details/dli.ernet.53819/" target="_blank">La
+<a href="https://archive.org/details/SartreLaNause1974/" target="_blank">La
 Nausée</a><br>
 1938<br>
 <br>
@@ -12116,4 +12180,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 18 6 2026 
+page mise à jour 20 6 2026 
