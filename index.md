@@ -5,7 +5,29 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-756 descriptions de paysage sonore trouvées dans la littérature.<br>
+769 descriptions de paysage sonore trouvées dans la littérature.<br>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
+target="_blank">Mythologie mésopotamienne</a><br>
+<a
+href="https://fr.wikipedia.org/wiki/%C3%89pop%C3%A9e_de_Gilgamesh#Cinqui%C3%A8me_tablette_:_le_combat_contre_Humbaba"
+target="_blank">Épopée de Gilgamesh - Tablette V</a> - Traduction à
+partir de <a href="https://fr.wikipedia.org/wiki/Andrew_R._George"
+target="_blank">Andrew R. George</a><br>
+2003 .. 1595 av. J.-C.<br>
+<br>
+"À travers toute la forêt, un oiseau commence à chanter :<br>
+... se répondent les uns aux autres, le bruit était un vacarme
+incessant,<br>
+Un grillon solitaire entame un chœur bruyant,<br>
+... chantent une chanson, faisant la ... flûte fort.<br>
+Une palombe gazouille, une tourterelle lui répond.<br>
+À l'appel de la cigogne, la forêt jubile,<br>
+Au cri du francolin, la forêt jubile pleinement.<br>
+Les mères singes chantent à haute voix, un jeune singe crie :<br>
+Tel un orchestre de musiciens et de percussionnistes,<br>
+Chaque jour ils font retentir cette symphonie devant Humbaba." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -34,6 +56,48 @@ de soleil !"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
+target="_blank">Mythologie mésopotamienne</a><br>
+<a href="https://fr.wikipedia.org/wiki/Enuma_Anu_Enlil" target="_blank">Enuma
+Anu Enlil</a> - <a
+href="https://revues.droz.org/RR/article/view/RR_31_197-209/html"
+target="_blank">Traduction (2011) de Anne-Caroline Rendu Loisel</a><br>
+1600 .. 1200 av. J.-C.<br>
+<br>
+Adad, le tonnerre<br>
+<br>
+"Si Adad tonne comme un dragon...<br>
+Si Adad tonne comme un scorpion...<br>
+Si Adad tonne comme un serpent de chemin ? ...<br>
+Si Adad tonne comme un francolin, Adad détruira la récolte.<br>
+Si Adad tonne comme un chien, Adad détruira l’armée.<br>
+Si Adad tonne comme un chiot, la débilité / mollesse...<br>
+Si Adad tonne comme une souris, le roi, une rébellion l'a capturé.<br>
+Si Adad tonne comme une martre, le roi son fils l’assassinera.<br>
+Si Adad tonne comme un lion, levée de la troupe d’Ummān-manda qui n’a
+pas de rival.<br>
+Si Adad tonne comme un tambour-<span style="font-style: italic;">halhallatu</span>,
+Adad frappera.<br>
+Si Adad tonne comme un lion, le roi disparaîtra.<br>
+Si Adad tonne comme un loup, le fils du roi sera assassiné.<br>
+Si Adad tonne comme le beuglement d’un bœuf, le roi ses biens
+disparaîtront.<br>
+Si Adad tonne comme un bouc, sceptre de Nissaba, la descendance sera
+détruite.<br>
+Si Adad tonne comme un taureau / tambour-<span
+style="font-style: italic;">alû</span>, un roi absolu, son pays sera
+conquis.<br>
+Si Adad tonne comme une timbale-<span style="font-style: italic;">lilissu</span>,
+le fils du roi se révoltera contre son père.<br>
+Si Adad tonne comme un cheval, ce pays ira droit devant lui.<br>
+Si Adad tonne comme un âne, la mesure du gur sera divisée dans la ville
+et les champs cultivés diminueront.<br>
+Si Adad tonne comme une oie, le pays connaîtra la famine.<br>
+Si Adad tonne comme un ramier, le pays vendra ses (ressources de) base
+pour de l’argent."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Litt%C3%A9rature_de_l%27%C3%89gypte_antique"
 target="_blank">Égypte antique</a><br>
 Anonyme - <a href="https://fr.wikipedia.org/wiki/Papyrus_Westcar"
@@ -54,26 +118,6 @@ mit donc la huche dans un coffre en bois, elle apposa un autre sceau,
 elle l’entoura de cuir, elle plaça le tout dans la chambre où étaient
 ses vases et elle ferma celle-ci de son sceau."<br>
 </div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
-target="_blank">Mythologie mésopotamienne</a><br>
-<a
-href="https://fr.wikipedia.org/wiki/%C3%89pop%C3%A9e_de_Gilgamesh#Cinqui%C3%A8me_tablette_:_le_combat_contre_Humbaba"
-target="_blank">Épopée de Gilgamesh - Tablette V</a><br>
-1200 av. J.-C.<br>
-<br>
-"À travers toute la forêt, un oiseau commence à chanter :<br>
-... se répondent les uns aux autres, le bruit était un vacarme
-incessant,<br>
-Un grillon solitaire entame un chœur bruyant,<br>
-... chantent une chanson, faisant la ... flûte fort.<br>
-Une palombe gazouille, une tourterelle lui répond.<br>
-À l'appel de la cigogne, la forêt jubile,<br>
-Au cri du francolin, la forêt jubile pleinement.<br>
-Les mères singes chantent à haute voix, un jeune singe crie :<br>
-Tel un orchestre de musiciens et de percussionnistes,<br>
-Chaque jour ils font retentir cette symphonie devant Humbaba." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
@@ -2057,6 +2101,40 @@ de mon esprit.”<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+target="_blank"
+href="https://fr.wikipedia.org/wiki/William_Shakespeare">William
+Shakespeare</a><br>
+<a
+href="https://en.wikisource.org/wiki/Hamlet,_First_Quarto,_1603_%28Huntington_Shelfmark_69304%29"
+target="_blank">The Tragicall Historie of Hamlet Prince of Denmarke
+(1603)</a><br>
+<a href="https://fr.wikipedia.org/wiki/Hamlet" target="_blank">Hamlet</a>
+- <a href="https://www.gallimard.fr/catalogue/hamlet/9782070468508"
+target="_blank">Traduction (1957) de Yves Bonnefoy</a><br>
+1603<br>
+<br>
+Acte II Scene II<br>
+<br>
+&nbsp;&nbsp;&nbsp; LE PREMIER COMEDIEN<br>
+<br>
+"Mais comme avant l'orage le silence<br>
+Emplit le ciel, comme les nues s’apaisent,<br>
+Comme les vents impétueux restent sans voix<br>
+Au-dessus de la terre comme morte — et le tonnerre<br>
+Déchire alors affreusement le ciel, ainsi Pyrrhus<br>
+S'éveille après sa pause a la vengeance."<br>
+<br>
+Acte V Scene II <br>
+<br>
+&nbsp;&nbsp;&nbsp; HAMLET<br>
+<br>
+"... Mais le reste est silence.<br>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; <span
+style="font-style: italic;">Il meurt.</span>"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Miguel_de_Cervantes"
 target="_blank">Miguel de Cervantes</a><br>
 <a
@@ -2142,6 +2220,55 @@ tambours, l’artillerie, les coups d’arquebuse, et par-dessus tout
 l’épouvantable cliquetis des charrettes, tout cela formait à la fois un
 bruit si confus, si horrible, que don Quichotte eut besoin de
 rassembler tout son courage pour l’entendre sans effroi." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean_Vauquelin_de_La_Fresnaye"
+target="_blank">Jean Vauquelin de La Fresnaye</a><br>
+Satyres françoises - cité dans <a
+href="https://obtic.huma-num.fr/obvil-web/corpus/ecole/marcou_morceaux-classes-superieures-poetes_1881"
+target="_blank">Morceaux choisis des classiques français de
+François-Léopold Marcou</a><br>
+1605 ?<br>
+<br>
+La vie champêtre<br>
+<br>
+"Il oit dans les forests des vents le doux murmure,<br>
+Qui semble caqueter avecques la verdure ;<br>
+Il oit le gazouillis de ces mille ruisseaux<br>
+Dont les Naïades font parler les claires eaux ;<br>
+Il oit mille oisillons qui sans cesse jargonnent,<br>
+Et les gais rossignols qui par dessus fredonnent ;<br>
+Il oit un escadron, un essaim bourdonnant<br>
+D’abeilles qui là vont un grand bruit demenant ;<br>
+Il oit sourdre à bouillons les sources fontainieres ;<br>
+Il contemple le cours des bruyantes rivieres :<br>
+Ce qui lui fait alors un tel desir venir<br>
+De sommeiller un peu, qu’il ne s’en peut, tenir..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/William_Shakespeare"
+target="_blank">William Shakespeare</a><br>
+<a href="https://en.wikisource.org/wiki/Macbeth_%281918%29_Yale"
+target="_blank">The Tragedy of Macbeth</a><br>
+<a href="https://fr.wikipedia.org/wiki/Macbeth_%28Shakespeare%29"
+target="_blank">Macbeth</a> - <a
+href="https://editions.flammarion.com/macbeth/9782080712950"
+target="_blank">Traduction de Pierre Jean Jouve</a><br>
+1606<br>
+<br>
+Acte II Scene II<br>
+<br>
+"&nbsp;&nbsp;&nbsp; MACBETH<br>
+<br>
+J'ai fait l’action... Pas entendu de bruit ?<br>
+<br>
+&nbsp;&nbsp;&nbsp; LADY MACBETH<br>
+<br>
+J'ai entendu<br>
+La chouette ululer et les criquets crier.<br>
+N’avez-vous pas parlé ?"<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marin_Mersenne" target="_blank">Marin
@@ -5489,6 +5616,27 @@ parlaient haut, et les minces cloisons donnaient une sonorité vibrante
 l’escalier." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier"
+target="_blank">Théophile Gautier</a><br>
+Lettre à Carlotta Grisi - novembre 1867 - depuis Ambert<br>
+<a
+href="https://books.google.co.zm/books?id=QHd3nF0cAbEC&amp;lpg=PA6&amp;hl=fr&amp;pg=PA1#v=onepage&amp;q&amp;f=false"
+target="_blank">Correspondance générale, Volume IX</a>&nbsp; p487<br>
+1867<br>
+<br>
+"Une chose m’a frappé. C’est le profond silence qui règne dans la ville
+; on n’entend absolument rien, pas un bruit de voiture, pas un
+claquement de fouet, pas un caquet de poule, pas un aboyement de chien,
+pas un bruit d’eau courante ; aucun frémissement de quoi que ce soit de
+vivant. C’est une sensation bizarre pour moi qui ai l’habitude du
+tumulte Parisien. Toto, le soir, pourra traduire Jean-Paul sans
+distraction. Cependant cette absence de sonorité occupe. Malgré soi on
+écoute le silence. J’arrête ma lettre..."<br>
+<br>
+(Toto: Théophile, le fils de Théophile Gautier)<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alphonse_Daudet" target="_blank">Alphonse
 Daudet</a><br>
 <a
@@ -7904,8 +8052,9 @@ href="http://jeanyvesbosseur.fr/" target="_blank">Jean-Yves Bosseur</a><br>
 1913<br>
 <br>
 "&nbsp;&nbsp; <span style="font-style: italic;">Au point de vue de la
-forme</span> : il y a des sons, des bruits et des odeurs concaves ou
-convexes, triangulaires, ellipsoïdaux, oblongs, coniques, sphériques,
+forme</span>
+: il y a des sons, des bruits et des odeurs concaves ou convexes,
+triangulaires, ellipsoïdaux, oblongs, coniques, sphériques,
 spiraliques, etc.<br>
 &nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Au point de vue
 de la couleur</span> : il y a des sons, des bruits et des odeurs
@@ -10281,7 +10430,7 @@ et la maçonnerie du quai, et les klaxons des autos mêlés à la rumeur de
 la ville."<br>
 <br>
 "Deux étages plus bas, un crieur de journaux passa, rauquant sa
-camelote&nbsp;: “&nbsp;<span style="font-style: italic;">Crépuscule</span>,
+camelote&nbsp;: « <span style="font-style: italic;">Crépuscule</span>,
 dernière... La der du <span style="font-style: italic;">Crépu</span>...&nbsp;»
 Il s’éloigna ou il entra se gargariser au tabac qui fait le coin. De
 nouveau, le silence, seulement troublé par le tic-tac de la pendule et
@@ -10879,7 +11028,7 @@ href="https://monoskop.org/images/b/b5/Cage_John_Silence_Lectures_and_Writings.p
 target="_blank">Silence : lectures and writings</a><br>
 <a
 href="https://www.abebooks.fr/Silence-discours-%C3%A9crits-Collection-dossiers-lettres/31942993999/bd"
-target="_blank">Silence discours et écrits - Traduction partielle
+target="_blank">Silence discours et écrits - Traduction
 (1970) de Monique Fong</a><br>
 1961<br>
 <br>
@@ -10891,6 +11040,14 @@ quelque chose ?<br>
 Disons que je suis dans les bois, faut-il que j'écoute le babil du
 ruisseau ?<br>
 Y a-t-il toujours quelque chose à écouter, jamais ni paix ni calme ?"<br>
+<br>
+Discours sur quelque chose<br>
+<br>
+"Je me rappelle maintenant que Feldman parlait d'ombres.<br>
+Il disait que les sons n'étaient pas des sons mais des ombres.<br>
+Qu'ils soient des sons est évident ; c'est pourquoi ils sont des ombres.<br>
+Toute chose est un écho de rien.<br>
+La vie continue à peu près comme un morceau de Feldman."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11014,6 +11171,30 @@ toute. (<span style="font-style: italic;">Un temps.</span>) Il m’en
 reste. (<span style="font-style: italic;">Un temps.</span>) Des bruits.
 (<span style="font-style: italic;">Un temps.</span>)
 Comme des petits...effritements, des petits...éboulements." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Butor" target="_blank">Michel
+Butor</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/description-de-san-marco/9782070210992"
+target="_blank">Description de San Marco</a><br>
+1963<br>
+<br>
+"Ces phrases, ces mots, ces slogans, roulant les uns contre les autres,
+s'usant les uns les autres comme des galets, avec des violences
+soudaines, tels des rocs, avec des plages de sable où tout est
+pulvérisé, avec des moments de tumulte - on est recouvert par la vague
+- et puis des accalmies, une grande nappe de silence qui passe."<br>
+<br>
+"Et tous les cris, toutes les conversations emportées dans ce
+mouvement, dans cette houle de foule, dans ce lent tourbillonnement,
+ces fragments de dialogues que l’on saisit, qui vont, viennent,
+s’approchent, tournent et disparaissent, montent, s’engloutissent,
+transparaissent les uns dans les autres, s’interrompent les uns les
+autres, glissent, dans toutes les langues, éclats, relents, avec des
+thèmes qui émergent, s’organisent en cascades, canons, agglomérats,
+cycles."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
@@ -11245,6 +11426,39 @@ plus près ! »<br>
 dortoir sur la pointe des
 pieds, ouvrit la porte. Les bruits lui parvinrent plus distinctement.
 Selon toute apparence, on se battait à l'étage supérieur."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Albert_Cohen" target="_blank">Albert
+Cohen</a><br>
+<a href="https://fr.wikipedia.org/wiki/Belle_du_Seigneur"
+target="_blank">Belle du Seigneur</a><br>
+1968<br>
+<br>
+"... sa main dans la main de son seigneur, elle allait à longue allure,
+belle de son seigneur, robe secouée et s’envolant en deux ailes
+battantes. Le bruit de sa robe secouée par la marche était le
+claquement d’un voilier cinglant vers une île extraordinaire, et
+l’amour était le vent qui gonflait les voiles. Le bruit de sa robe
+était exaltant, le vent sur son visage était exaltant, le vent sur son
+visage haut tenu.&nbsp;"<br>
+<br>
+" La locomotive lança sa plainte de folle et les roues gémirent puis se
+décidèrent après des saccades, des reculs et des bruits de fers
+entrechoqués, et le train repartit. "<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il y eut des sons de cloche, et le train gémit,
+protesta, s’ébroua avec des souffles de vapeur et des bruits de fers,
+puis recula, puis se secoua, puis avança suavement, puis se décida et
+fonça, se niant gros avec ses wagons enchaînés et torturés, scandant
+les cadences de ses roues obsédées. "<br>
+<br>
+"Ô les pluies d’été dans le jardin, le rythme de la gouttière lorsqu’il
+pleuvait, l’eau qui tombait du chéneau sur la tente de toile, la large
+tache qui s’était formée là, ô ce bruit large et bien rythmé qui se
+détachait sur le long bruissement de la pluie d’été ainsi que le solo
+d’un grand orchestre, et elle restait longtemps à l’écouter, à écouter
+la pluie, heureuse."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12180,4 +12394,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 20 6 2026 
+page mise à jour 25 6 2026 
