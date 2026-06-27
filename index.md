@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-769 descriptions de paysage sonore trouvées dans la littérature.<br>
+771 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -7232,6 +7232,167 @@ Tombant"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://nicolas.demassieux.fr/2022/02/02/lalmanach-hachette-wikipedia-de-poche-pendant-80-ans/"
+target="_blank">Almanach Hachette de 1895</a><br>
+<a href="https://gallica.bnf.fr/ark:/12148/btv1b52511568z/f300.item"
+target="_blank">Les voix de la nature<br>
+</a>1895<br>
+<br>
+"&nbsp;&nbsp;&nbsp; De tous temps les poètes ont comparé la Nature à
+une lyre frémissant à tous les souffles. Depuis le bourdonnement de
+l'insecte jusqu'aux hurlements de la tourmente, notre oreille vibre à
+tous ces bruits. Souvent l'expression fait défaut au moment de traduire
+et de noter cette musique infinie. Nous avons pensé que nos lecteurs
+prendraient intérêt à une liste à peu près complète des principaux
+termes qui expriment tout ce que l'homme entend.<br>
+<br>
+Les Êtres<br>
+<br>
+L'ABEILLE Bourdonne.<br>
+L'AGONISANT Râle, hoquète.<br>
+L'AIGLE Trompette ou glatit.<br>
+L'ALOUETTE Grisolle, tirelire, turlute.<br>
+L'ANE Brait, renâcle, rudit.<br>
+LE BOEUF Beugle, meugle.<br>
+LA BREBIS Bêle.<br>
+LE BUFFLE Souffle, beugle.<br>
+LA BUSE Piaule.<br>
+LE BUTOR Butit.<br>
+LA CAILLE Margotte, margaude, carcaille, courcaille.<br>
+LE CANARD Nasille, canquette, couincouine.<br>
+LE CERF Brame, rait, ralle, rée.<br>
+LE CHACAL Aboie.<br>
+LE CHAT Miaule, ronronne, file au rouet, gronde, jure.<br>
+LE CHAT-HUANT Hulule.<br>
+LE CHEVAL Pétarade, hennit, casse la noisette, s'ébroue, piaffe,
+ronfle, souffle, corne, renâcle.<br>
+LA CHÈVRE Bêle.<br>
+LE CHIEN Aboie, jappe, appelle, hurle, gronde. A la chasse: clabaude,
+clatit, gorge.<br>
+LA CHOUETTE Hue, chuinte, froue.<br>
+LA CIGALE Crécelle, criquette.<br>
+LA CIGOGNE Craque, craquette, glotore ou claquette.<br>
+LE COCHON Grogne, grouine.<br>
+LA COLOMBE Roucoule.<br>
+LE Coo Coquerique, coqueline.<br>
+LE COQ DE BRUYÈRE Dodeldit.<br>
+LE CORBEAU Croasse, coraille, graille.<br>
+LA CORNEILLE Craille, babille.<br>
+LE COUCOU Coucoue, coucoule.<br>
+LE CRIQUET Stridule.<br>
+LE CROCODILE Se lamente, pleure.<br>
+LE DAIM Brame, rait, etc. (comme le Cerf).<br>
+LE DINDON Glousse, Glougloute.<br>
+LE DORMEUR Ronfle.<br>
+L'ÉLÉPHANT Barète, barrit.<br>
+LES ENFANTS Vagissent, jasent, balbutient, rient aux anges.<br>
+L'EPERVIER Piale, glapit.<br>
+L'ÉTOURNEAU Pisote.<br>
+LE FAON Râle.<br>
+LA FOULE Gronde, mugit, clame, hurle, conspue, hue, acclame.<br>
+LE GEAI Cajacle, cajole, frigulote.<br>
+LA GELINOTTE Glousse.<br>
+LA GRENOUILLE Coasse.<br>
+LE GRILLET Grillotte.<br>
+LE GRILLON Grésillonne, craque, craquette.<br>
+LA GRUE Glapit, trompette.<br>
+LE HIBOU Bouboule ou bubule, hulule.<br>
+L'HIRONDELLE Gazouille, trinsotte, trisse.<br>
+LA HUPPE Pupule.<br>
+L'HYENE Rit, pleure.<br>
+LE LAPIN Glapit.<br>
+LE LION Rugit.<br>
+LE LOUP Hurle.<br>
+LE MALADE Se plaint, gémit, geint.<br>
+LA MARMOTTE Siffle.<br>
+LE MERLE Siffle, appelle, babille.<br>
+LA MÉSANGE Tintine.<br>
+LE MILAN Huit.<br>
+LE MOINEAU Pépie, chuchote.<br>
+LA MOUCHE Bourdonne.<br>
+L'OIE Criaille, grattonne, cacarde.<br>
+LES OISEAUX Gazouillent, dégoisent, sifflent, fredonnent, frouent,
+gringottent, chantent, ramagent.<br>
+L'OURS Grogne.<br>
+LA PANTHERE Rugit.<br>
+LE PAON Braille, paonne.<br>
+LA PERDRIX Cacabe, rappelle, pirouitte, bourrit.<br>
+LE PERROQUET Parle, cause, siffle.<br>
+LA PIE Jacasse, jase.<br>
+LE PIGEON Roucoule, caracoule.<br>
+LE PINSON Siffle, ramage, fringotte.<br>
+LA PINTADE Cacabe.<br>
+LE PIVERT Picane, peupleute.<br>
+LA POULE Glousse, cocodaste, caquette, closse, crételle.<br>
+LE POUSSIN Piaille.<br>
+LE RENARD Glapit.<br>
+LE RHINOCEROS Barète ou barrit (comme l'Éléphant).<br>
+LE ROSSIGNOL Chante, quirritte, trille.<br>
+LE SANGLIER Grommelle, roume.<br>
+LE SERIN Ramage, trille.<br>
+LE SERPENT Siffle.<br>
+LE SINGE Crie, hurle.<br>
+LA SOURIS Chicote.<br>
+LE TIGRE Rongnonne, miaule, rauque.<br>
+LE TRAVAILLEUR FATIGUÉ Ahane, halette.<br>
+LA VOIX HUMAINE Bégaye, bredouille, zézaie, chuchote, parle, imite,
+pleure, sanglote, rit, chante, elle vibre à l'enthousiasme, à la
+terreur, à l'amour, elle est le merveilleux écho de la nature entière.<br>
+<br>
+Les Choses<br>
+<br>
+L'AIRAIN Résonne, vibre, tonne.<br>
+LA BOUTEILLE Fait glouglou.<br>
+LE CANON Gronde, tonne, retentit, résonne.<br>
+LA CASCADE Bruit.<br>
+LE CHAMPAGNE Mousse, pétille.<br>
+LE CLAIRON Sonne.<br>
+LES CLOCHES Tintent, bourdonnent, carillonnent, sonnent le tocsin, en
+branle, en volée.<br>
+LES CLOCHETTES Tintinnabulent.<br>
+LE CŒUR Bat, palpite.<br>
+LE COR Sonne.<br>
+LES DENTS Grincent, claquent, crissent.<br>
+L'EAU Fait entendre un frisselis, clapote, bouillonne, frémit.<br>
+LES ÉPÉES Se heurtent, du tic au tac, se choquent, cliquettent.<br>
+LE FEU Éclate, pétille, crépite.<br>
+LES FEUILLES bruissent, susurrent.<br>
+LA FLÈCHE Siffle.<br>
+LE FLOT Bruit, gémit, gronde, hurle, déferle, tonne.<br>
+LA FOUDRE Gronde, éclate.<br>
+LE FOUET Claque.<br>
+LA FUSILLADE Crépite, crache.<br>
+LA GIROUETTE Grince.<br>
+LE GLAS Tinte, s'égrène, meurt.<br>
+LA GRÊLE Grésille.<br>
+L'INCENDIE Crépite.<br>
+LE JET D'EAU Gicle.<br>
+LA LANGUE Claque, clappe, bafouille.<br>
+LA LOCOMOTIVE Siffle.<br>
+LA MER Clapote, gronde, mugit, se déchaîne.<br>
+L'OR Sonne, tinte.<br>
+LES OS Craquent.<br>
+LA PLUIE Cingle.<br>
+LE POT-AU-FEU Mijote.<br>
+LA POUDRE Parle, fuse, détone, décrépite.<br>
+LE RUISSEAU Susurre, murmure, gazouille.<br>
+LA SCIE Grince.<br>
+LA SIRÈNE (trompe à vapeur) Meugle, mugit.<br>
+LA SOIE Froufroute.<br>
+LA SOURCE Murmure, chante, babille, chuchote.<br>
+LE TAMBOUR Roule, bat.<br>
+LE TÉLÉPHONE Friture, crépite.<br>
+LA TEMPÊTE Gémit, se lamente, mugit, siffle, gronde, hurle, éclate.<br>
+LE TONNERRE Gronde, roule, tombe, éclate.<br>
+LA TOUPIE Ronfle.<br>
+LA TROMPETTE Sonne.<br>
+LES VAGUES Clapotent, déferlent, se brisent.<br>
+LA VAPEUR Souffle, siffle, crache.<br>
+LE VENT Souffle, gémit, susurre, siffle, pleure, se plaint, se lamente,
+mugit."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Paul_Verlaine" target="_blank">Paul
 Verlaine</a><br>
 <a href="https://fr.wikisource.org/wiki/Clochi-clocha_%28Verlaine%29"
@@ -9582,6 +9743,25 @@ Dans son fauteuil de nuages"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Antonin_Artaud" target="_blank">Antonin
+Artaud</a>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/Le_th%C3%A9%C3%A2tre_et_son_double/Texte_entier"
+target="_blank">Le théâtre et son double</a><br>
+1938 <br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il arrive que ce maniérisme, ce hiératisme
+excessif, avec son alphabet roulant, avec ses cris de pierres qui se
+fendent, avec ses bruits de branches, ses bruits de coupe et de
+roulements de bois composent dans l’air, dans l’espace, aussi bien
+visuel que sonore, une sorte de susurrement matériel et animé. Et au
+bout d’un instant l’identification magique est faite : <small>NOUS
+SAVIONS QUE C'EST NOUS QUI PARLIONS.</small>"
+<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
 <a href="https://fr.wikipedia.org/wiki/Carnets_%28Albert_Camus%29"
@@ -11450,7 +11630,7 @@ entrechoqués, et le train repartit. "<br>
 "&nbsp;&nbsp;&nbsp; Il y eut des sons de cloche, et le train gémit,
 protesta, s’ébroua avec des souffles de vapeur et des bruits de fers,
 puis recula, puis se secoua, puis avança suavement, puis se décida et
-fonça, se niant gros avec ses wagons enchaînés et torturés, scandant
+fonça, se ruant gros avec ses wagons enchaînés et torturés, scandant
 les cadences de ses roues obsédées. "<br>
 <br>
 "Ô les pluies d’été dans le jardin, le rythme de la gouttière lorsqu’il
@@ -12394,4 +12574,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 25 6 2026 
+page mise à jour 27 6 2026 
