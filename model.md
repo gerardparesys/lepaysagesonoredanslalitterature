@@ -1,7 +1,7 @@
 ---
 title: "Model"
 order: 4
-in_menu: false
+in_menu: true
 ---
 Code Markdown  
 # Titre 1  
@@ -94,6 +94,33 @@ Anne-Caroline Rendu Loisel<br>
 
 Image Largeur 100%:   
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
+
+---
+
+<select>
+  <option value="dog">Le roi de la pampa retourne sa chemise</option>
+  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
+  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
+  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
+  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
+  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+</select>
+<select>
+  <option value="dog">Le roi de la pampa retourne sa chemise</option>
+  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
+  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
+  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
+  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
+  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+</select>
+<select>
+  <option value="dog">Le roi de la pampa retourne sa chemise</option>
+  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
+  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
+  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
+  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
+  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+</select>
 
 ---
 Player Audio mp3:
