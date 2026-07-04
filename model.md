@@ -105,6 +105,7 @@ Image Largeur 100%:
   <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
   <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
 </select>
+<br>
 <select>
   <option value="dog">Le roi de la pampa retourne sa chemise</option>
   <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
@@ -113,6 +114,16 @@ Image Largeur 100%:
   <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
   <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
 </select>
+<br>
+<select>
+  <option value="dog">Le roi de la pampa retourne sa chemise</option>
+  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
+  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
+  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
+  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
+  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+</select>
+<br>
 <select>
   <option value="dog">Le roi de la pampa retourne sa chemise</option>
   <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
