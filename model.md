@@ -97,6 +97,7 @@ Image Largeur 100%:
 
 ---
 
+<font face="Luciole">
 <select>
 <option value="Le roi de la pampa retourne sa chemise">Le roi de la pampa retourne sa chemise</option>
 <option value="Lorsque tout est fini lorsque l'on agonise">Lorsque tout est fini lorsque l'on agonise</option>
@@ -109,6 +110,7 @@ Image Largeur 100%:
 <option selected value="Lorsqu'un jour exalté l'aède prosaïse">Lorsqu'un jour exalté l'aède prosaïse</option>
 <option value="Le marbre pour l'acide est une friandise">Le marbre pour l'acide est une friandise</option>
 </select>
+</font>
 <br>
 <select class="deroulant" name="line2" >
 <option value="Pour la mettre à sécher aux cornes des taureaux">Pour la mettre à sécher aux cornes des taureaux</option>  
