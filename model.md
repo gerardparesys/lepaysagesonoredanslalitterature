@@ -109,9 +109,7 @@ Image Largeur 100%:
 <option selected value="Lorsqu'un jour exalté l'aède prosaïse">Lorsqu'un jour exalté l'aède prosaïse</option>
 <option value="Le marbre pour l'acide est une friandise">Le marbre pour l'acide est une friandise</option>
 </select>
-
 <br>
-
 <select class="deroulant" name="line2" >
 <option value="Pour la mettre à sécher aux cornes des taureaux">Pour la mettre à sécher aux cornes des taureaux</option>  
 <option value="Lorsque le marbrier astique nos tombeaux">Lorsque le marbrier astique nos tombeaux</option>   
@@ -124,9 +122,7 @@ Image Largeur 100%:
 <option value="Pour déplaire au profane aussi bien qu'aux idiots">Pour déplaire au profane aussi bien qu'aux idiots</option>
 <option value="D'aucuns par dessus tout prisent les escargots">D'aucuns par dessus tout prisent les escargots</option>  
 </select>
-
 <br>
-
 <select>
   <option value="dog">Le roi de la pampa retourne sa chemise</option>
   <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
@@ -135,9 +131,7 @@ Image Largeur 100%:
   <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
   <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
 </select>
-
 <br>
-
 <select>
   <option value="dog">Le roi de la pampa retourne sa chemise</option>
   <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
