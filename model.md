@@ -99,7 +99,7 @@ Image Largeur 100%:
 
 <select>
 <option value="Le roi de la pampa retourne sa chemise">Le roi de la pampa retourne sa chemise</option>
-<option  value="Lorsque tout est fini lorsque l'on agonise">Lorsque tout est fini lorsque l'on agonise</option>
+<option value="Lorsque tout est fini lorsque l'on agonise">Lorsque tout est fini lorsque l'on agonise</option>
 <option value="Le cheval Parthénon s'énerve sur sa frise">Le cheval Parthénon s'énerve sur sa frise</option>
 <option value="Le vieux marin breton de tabac prit sa prise">Le vieux marin breton de tabac prit sa prise</option>
 <option value="C'était à cinq o'clock que sortait la marquise">C'était à cinq o'clock que sortait la marquise</option>            
@@ -112,13 +112,17 @@ Image Largeur 100%:
 
 <br>
 
-<select>
-  <option value="dog">Le roi de la pampa retourne sa chemise</option>
-  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
-  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
-  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
-  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
-  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+<select class="deroulant" name="line2" >
+<option value="Pour la mettre à sécher aux cornes des taureaux">Pour la mettre à sécher aux cornes des taureaux</option>  
+<option value="Lorsque le marbrier astique nos tombeaux">Lorsque le marbrier astique nos tombeaux</option>   
+<option value="Depuis que lord Elgin négligea ses naseaux">Depuis que lord Elgin négligea ses naseaux</option>  
+<option selected value="Pour de fin fond du nez exciter les arceaux">Pour de fin fond du nez exciter les arceaux</option>  
+<option value="Pour consommer un thé puis des petits gâteaux">Pour consommer un thé puis des petits gâteaux</option>
+<option value="Snob un peu sur les bords des bords fondamentaux">Snob un peu sur les bords des bords fondamentaux</option> 
+<option value="Que convoitait c'est sûr une horde d'escrocs">Que convoitait c'est sûr une horde d'escrocs</option> 
+<option value="Se faire il pourrait bien que ce soit des jumeaux">Se faire il pourrait bien que ce soit des jumeaux</option>
+<option value="Pour déplaire au profane aussi bien qu'aux idiots">Pour déplaire au profane aussi bien qu'aux idiots</option>
+<option value="D'aucuns par dessus tout prisent les escargots">D'aucuns par dessus tout prisent les escargots</option>  
 </select>
 
 <br>
