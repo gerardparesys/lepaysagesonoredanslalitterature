@@ -1,3 +1,11 @@
 :root {
     --couleur-primaire : #993B1F;
 }
+
+select {
+  font-family: "Luciole", sans-serif;
+  font-size: 1rem;
+  border: 1px solid #000000;
+  background: #ffffff;
+  padding: 0px;
+}
