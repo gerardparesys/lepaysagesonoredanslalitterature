@@ -110,7 +110,7 @@ Image Largeur 100%:
 <option value="Le marbre pour l'acide est une friandise">Le marbre pour l'acide est une friandise</option>
 </select>
 <br>
-<select class="deroulant" name="line2" >
+<select>
 <option value="Pour la mettre à sécher aux cornes des taureaux">Pour la mettre à sécher aux cornes des taureaux</option>  
 <option value="Lorsque le marbrier astique nos tombeaux">Lorsque le marbrier astique nos tombeaux</option>   
 <option value="Depuis que lord Elgin négligea ses naseaux">Depuis que lord Elgin négligea ses naseaux</option>  
@@ -124,21 +124,59 @@ Image Largeur 100%:
 </select>
 <br>
 <select>
-  <option value="dog">Le roi de la pampa retourne sa chemise</option>
-  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
-  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
-  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
-  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
-  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+<option selected value="Le cornedbeef en boîte empeste la remise">Le cornedbeef en boîte empeste la remise</option> 
+<option value="Des êtres indécis vous parlent sans franchise">Des êtres indécis vous parlent sans franchise</option> 
+<option value="Le Turc de ce temps-là pataugeait dans sa crise">Le Turc de ce temps-là pataugeait dans sa crise</option>  
+<option value="Sur l'antique bahut il choisit sa cerise">Sur l'antique bahut il choisit sa cerise</option>   
+<option value="Le chauffeur indigène attendait dans la brise">Le chauffeur indigène attendait dans la brise</option> 
+<option value="Une toge il portait qui n'était pas de mise">Une toge il portait qui n'était pas de mise</option>  
+<option value="Il se penche et alors à sa grande surprise">Il se penche et alors à sa grande surprise</option>  
+<option value="La découverte alors voilà qui traumatise">La découverte alors voilà qui traumatise</option> 
+<option value="La critique lucide aperçoit ce qu'il vise">La critique lucide aperçoit ce qu'il vise</option> 
+<option value="Sur la place un forain de feu se gargarise">Sur la place un forain de feu se gargarise</option> 
 </select>
 <br>
 <select>
-  <option value="dog">Le roi de la pampa retourne sa chemise</option>
-  <option value="cat">Lorsque tout est fini lorsque l'on agonise</option>
-  <option value="hamster"> Le cheval Parthénon s'énerve sur sa frise </option>
-  <option value="parrot">Le vieux marin breton de tabac prit sa prise</option>
-  <option value="spider">C'était à cinq o'clock que sortait la marquise</option>
-  <option value="goldfish">Du jeune avantageux la nymphe était éprise</option>
+<option selected value="Et fermentent de même et les cuirs et les peaux">Et fermentent de même et les cuirs et les peaux</option>
+<option value="Et tout vient signifier la fin des haricots">Et tout vient signifier la fin des haricots</option>
+<option value="Il chantait tout de même oui mais il chantait faux">Il chantait tout de même oui mais il chantait faux</option>
+<option value="Il n'avait droit qu'à une et le jour des Rameaux">Il n'avait droit qu'à une et le jour des Rameaux</option>
+<option value="Elle soufflait bien fort par dessus les côteaux">Elle soufflait bien fort par dessus les côteaux</option>
+<option value="Des narcisses on cueille ou bien on est des veaux">Des narcisses on cueille ou bien on est des veaux</option>
+<option value="Il ne trouve aussi sec qu'un sac de vieux fayots">Il ne trouve aussi sec qu'un sac de vieux fayots</option>
+<option value="On espère toujours être de vrais normaux">On espère toujours être de vrais normaux</option>
+<option value="Il donne à la tribu des cris aux sens nouveaux">Il donne à la tribu des cris aux sens nouveaux</option>
+<option value="Qui sait si le requin boulotte les turbots ?">Qui sait si le requin boulotte les turbots ?</option>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
+</select>
+<br>
+<select>
 </select>
 
 ---
