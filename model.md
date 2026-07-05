@@ -149,8 +149,59 @@ Image Largeur 100%:
 <option value="Qui sait si le requin boulotte les turbots ?">Qui sait si le requin boulotte les turbots ?</option>
 </select>
 <br>
+<br>
 <select>
+<option selected value="Je me souviens encor de cette heure exquise">Je me souviens encor de cette heure exquise</option>
+<option value="On vous fait devenir une orde marchandise">On vous fait devenir une orde marchandise</option> 
+<option value="Le cheval Parthénon frissonait sous la bise">Le cheval Parthénon frissonait sous la bise</option>
+<option value="Souvenez-vous amis de ces îles de Frise">Souvenez-vous amis de ces îles de Frise</option> 
+<option value="On était bien surpris par cette plaine grise">On était bien surpris par cette plaine grise</option> 
+<option value="Quand on prend des photos de cette tour de Pise">Quand on prend des photos de cette tour de Pise</option> 
+<option value="Il déplore il déplore une telle mainmise">Il déplore il déplore une telle mainmise</option>
+<option value="Et pourtant c'était lui le frère de feintise">Et pourtant c'était lui le frère de feintise</option> 
+<option value="L'un et l'autre a raison non la foule insoumise">L'un et l'autre a raison non la foule insoumise</option> 
+<option value="Du voisin le Papou suçe l'apophyse">Du voisin le Papou suçe l'apophyse</option> 
 </select>
+<br>
+<select>
+<option selected value="Les gauchos dans la plaine agitaient leurs drapeaux">Les gauchos dans la plaine agitaient leurs drapeaux</option> 
+<option value="On prépare la route aux pensers sépulcraux">On prépare la route aux pensers sépulcraux</option> 
+<option value="Du client londonien où s'ébattent les beaux">Du client londonien où s'ébattent les beaux</option>
+<option value="Où venaient par milliers s'échouer les harenceaux">Où venaient par milliers s'échouer les harenceaux</option>
+<option value="Quand se carbonisait la fureur des châteaux">Quand se carbonisait la fureur des châteaux</option> 
+<option value="D'où Galilée jadis jeta ses petits pots">D'où Galilée jadis jeta ses petits pots</option>
+<option value="Qui se plaît à flouer de pauvres provinciaux">Qui se plaît à flouer de pauvres provinciaux</option>
+<option value="Qui clochard devenant jetait ses oripeaux">Qui clochard devenant jetait ses oripeaux</option> 
+<option value="Le vulgaire s'entête à vouloir des vers beaux">Le vulgaire s'entête à vouloir des vers beaux</option>
+<option value="Que n'a pas dévoré la horde des mulots ?">Que n'a pas dévoré la horde des mulots ?</option> 
+</select>
+<br>
+<select>
+<option selected value="Nous avions aussi froids que nus sur la banquise">Nous avions aussi froids que nus sur la banquise</option> 
+<option value="De la mort on vous greffe une orde b&acirc;tardise">De la mort on vous greffe une orde bâtardise</option> 
+<option value="Il grelottait le pauvre aux bords de la Tamise">Il grelottait le pauvre aux bords de la Tamise</option> 
+<option value="Nous regrettions un peu ce tas de marchandise">Nous regrettions un peu ce tas de marchandise</option> 
+<option value="Un audacieux baron empoche toute accise">Un audacieux baron empoche toute accise</option>
+<option value="D'une &eacute;trusque inscription la pierre &eacute;tait incise"> D'une étrusque inscription la pierre était incise</option> 
+<option value="Aller &agrave; la grande ville est bien une entreprise">Aller à la grande ville est bien une entreprise</option>
+<option value="Un fr&egrave;re m&ecirc;me bas est la part ind&eacute;cise">Un frère même bas est la part indécise</option>
+<option value="L'un et l'autre ont raison non la foule impr&eacute;cise">L'un et l'autre ont raison non la foule imprécise</option>   
+<option value="Le gourmet en salade avale la cytise">Le gourmet en salade avale la cytise</option>   
+</select>
+<br>
+<select>
+<option selected value="Lorsque pour nous distraire y plantions nos tr&eacute;teaux">Lorsque pour nous distraire y plantions nos tréteaux</option>  
+<option value="La mite a grignot&eacute; tissus os et rideaux">La mite a grignoté tissus os et rideaux</option>  
+<option value="Quand les gr&eacute;lons gin mars mitraillent les bateaux">Quand les grélons gin mars mitraillent les bateaux</option> 
+<option value="Lorsqu'on voyait au loin flamber les arbrisseaux">Lorsqu'on voyait au loin flamber les arbrisseaux</option> 
+<option value="Lorsque vient le pompier avec ces grandes eaux">Lorsque vient le pompier avec ces grandes eaux</option> 
+<option value="Les Grecs et les Romains en vain cherchent leurs mots">Les Grecs et les Romains en vain cherchent leurs mots</option> 
+<option value="Elle effraie le Berry comme les Morvandiaux">Elle effraie le Berry comme les Morvandiaux</option>
+<option value="Que les parents f&eacute;conds offrent aux purs berceaux">Que les parents féconds offrent aux purs berceaux</option> 
+<option value="&Agrave; tous n'est pas donn&eacute; d'aimer les chocs verbaux">À tous n'est pas donné d'aimer les chocs verbaux</option> 
+<option value="L'enfant put aux yeux bleus aime les berlingots">L'enfant put aux yeux bleus aime les berlingots</option> 
+</select>
+<br>
 <br>
 <select>
 </select>
@@ -161,8 +212,6 @@ Image Largeur 100%:
 <select>
 </select>
 <br>
-<select>
-</select>
 <br>
 <select>
 </select>
@@ -173,11 +222,6 @@ Image Largeur 100%:
 <select>
 </select>
 <br>
-<select>
-</select>
-<br>
-<select>
-</select>
 
 ---
 Player Audio mp3:
