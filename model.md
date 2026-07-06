@@ -124,7 +124,7 @@ Image Largeur 100%:
 </select>
 <br>
 <select>
-<option value="Le cornedbeef en boîte empeste la remise">Le cornedbeef en boîte empeste la remise</option> 
+<option value="Le cornédbif en boîte empeste la remise">Le cornédbif en boîte empeste la remise</option> 
 <option selected value="Des êtres indécis vous parlent sans franchise">Des êtres indécis vous parlent sans franchise</option> 
 <option value="Le Turc de ce temps-là pataugeait dans sa crise">Le Turc de ce temps-là pataugeait dans sa crise</option>  
 <option value="Sur l'antique bahut il choisit sa cerise">Sur l'antique bahut il choisit sa cerise</option>   
