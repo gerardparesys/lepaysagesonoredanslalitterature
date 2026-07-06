@@ -204,22 +204,82 @@ Image Largeur 100%:
 <br>
 <br>
 <select>
+<option selected value="Du p&ocirc;le &agrave; Rosario fait une belle trotte">Du p&ocirc;le &agrave; Rosario fait une belle trotte</option> 
+<option value="Le brave a beau crier ah cr&eacute; non saperlotte">Le brave a beau crier ah cr&eacute; non saperlotte</option> 
+<option value="La Gr&egrave;ce de Platon &agrave; coup s&ucirc;r n'est point sotte">La Gr&egrave;ce de Platon &agrave; coup s&ucirc;r n'est point sotte</option>
+<option value="On s&egrave;che le poisson dorade ou molve lotte">On s&egrave;che le poisson dorade ou molve lotte</option>   
+<option value="Du Gange au Malabar le lord anglais zozotte">Du Gange au Malabar le lord anglais zozotte</option>
+<option value="L'esprit souffle et resouffle au-dessous de la botte">L'esprit souffle et resouffle au-dessous de la botte</option> 
+<option value="Devant la boue urbaine on retrousse sa cotte">Devant la boue urbaine on retrousse sa cotte</option>
+<option value="Le g&eacute;n&eacute;alogiste observe leur bouillotte">Le g&eacute;n&eacute;alogiste observe leur bouillotte</option>  
+<option value="Le po&egrave;te inspir&eacute; n'est point une polyglotte">Le po&egrave;te inspir&eacute; n'est point une polyglotte</option>
+<option value="Le loup est amateur de coq et de cocotte">Le loup est amateur de coq et de cocotte</option>
 </select>
 <br>
 <select>
+<option selected value="Aventures on eut qui s'y pique s'y frotte">Aventures on eut qui s'y pique s'y frotte</option>  
+<option value="Le l&acirc;che peut arguer de sa mine p&acirc;lotte">Le l&acirc;che peut arguer de sa mine p&acirc;lotte</option> 
+<option value="On comptait les esprits ac&eacute;r&eacute;s &agrave; la hotte">On comptait les esprits ac&eacute;r&eacute;s &agrave; la hotte</option> 
+<option value="On sale le requin on fume &agrave; l'&eacute;chalotte">On sale le requin on fume &agrave; l'&eacute;chalotte</option>  
+<option value="Comme &agrave; Chandernagor le manant sent la crotte">Comme &agrave; Chandernagor le manant sent la crotte</option> 
+<option value="Le touriste &agrave; Florence ignoble charibotte">Le touriste &agrave; Florence ignoble charibotte</option>   
+<option value="On gifle le marmot qui plonge sa menotte">On gifle le marmot qui plonge sa menotte</option>  
+<option value="Gratter le parchemin deviendra sa marotte">Gratter le parchemin deviendra sa marotte</option>      
+<option value="Une langue suffit pour emplir sa cagnotte">Une langue suffit pour emplir sa cagnotte</option> 
+<option value="Le chat fait un festin de t&ecirc;tes de linotte">Le chat fait un festin de t&ecirc;tes de linotte</option> 
 </select>
 <br>
 <select>
+<option selected value="Lorsqu'on boit du mat&eacute; l'on devient argentin">Lorsqu'on boit du mat&eacute; l'on devient argentin</option>
+<option value="Les croque-morts sont l&agrave; pour se mettre au turbin">Les croque-morts sont l&agrave; pour se mettre au turbin</option>
+<option value="Lorsque Socrate mort passait pour un lutin">Lorsque Socrate mort passait pour un lutin</option> 
+<option value="Lorsqu'on revient au port en essuyant un grain">Lorsqu'on revient au port en essuyant un grain</option> 
+<option value="Le colonel s'&eacute;ponge un blason dans la main">Le colonel s'&eacute;ponge un blason dans la main</option>
+<option value="L'autocar &eacute;crabuoille un peu l'esprit latin">L'autocar &eacute;crabuoille un peu l'esprit latin</option> 
+<option value="Lorsqu'il voit la gadoue il cherche le purin">Lorsqu'il voit la gadoue il cherche le purin</option> 
+<option value="Il voudra retrouver le germe adult&eacute;rin">Il voudra retrouver le germe adult&eacute;rin</option> 
+<option value="M&ecirc;me s'il prend son sel au celte c'est son bien">M&ecirc;me s'il prend son sel au celte c'est son bien</option>
+<option value="Le chemin vicinal se nourrit de crottin">Le chemin vicinal se nourrit de crottin</option> 
 </select>
 <br>
 <br>
 <select>
+<option selected value="L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques">L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques</option>
+<option value="Cela consid&eacute;rant &ocirc; lecteur tu suffoques">Cela consid&eacute;rant &ocirc; lecteur tu suffoques</option>
+<option value="Sa sculpture est illustre et dans le fond des coques">Sa sculpture est illustre et dans le fond des coques</option> 
+<option value="Enfin on vend le tout homards et salicoques">Enfin on vend le tout homards et salicoques</option> 
+<option value="Ne fallait pas si loin agiter les breloques">Ne fallait pas si loin agiter les breloques</option>
+<option value="Les rapports transalpins sont-ils biunivoques ?">Les rapports transalpins sont-ils biunivoques ?</option>  
+<option value="On regrette &agrave; la fin les agrestes bicoques">On regrette &agrave; la fin les agrestes bicoques</option> 
+<option value="Fr&egrave;re je te comprends si parfois tu d&eacute;bloques">Fr&egrave;re je te comprends si parfois tu d&eacute;bloques</option> 
+<option value="Barde que tu me plais toujours tu soliloques">Barde que tu me plais toujours tu soliloques</option>
+<option value="On a bu du pinard &agrave; toutes les &eacute;poques">On a bu du pinard &agrave; toutes les &eacute;poques</option>
 </select>
 <br>
 <select>
+<option selected value="Exaltent l'espagnol les oreilles baroques">Exaltent l'espagnol les oreilles baroques</option> 
+<option value="Comptant tes abattis lecteur tu te disloques">Comptant tes abattis lecteur tu te disloques</option> 
+<option value="On transporte et le marbre et d&eacute;bris et d&eacute;froques">On transporte et le marbre et d&eacute;bris et d&eacute;froques</option>
+<option value="On s'excuse il n'y a ni baleines ni phoques">On s'excuse il n'y a ni baleines ni phoques</option>
+<option value="Les Indes ont assez sans &ccedil;a de pendeloques">Les Indes ont assez sans &ccedil;a de pendeloques</option> 
+<option value="Les banquiers d'Avignon changent-ils les ba&iuml;ques ?">Les banquiers d'Avignon changent-ils les ba&iuml;ques ?</option> 
+<option value="On mettait sans fa&ccedil;on ses plus infectes loques">On mettait sans fa&ccedil;on ses plus infectes loques</option> 
+<option value="Fr&egrave;re je t'absoudrai si tu m'emberlucoques">Fr&egrave;re je t'absoudrai si tu m'emberlucoques</option> 
+<option value="Tu me stup&eacute;fies plus que tous les ventriloques">Tu me stup&eacute;fies plus que tous les ventriloques</option>
+<option value="Grignoter des bretzels distrait bien des colloques">Grignoter des bretzels distrait bien des colloques</option>  
 </select>
 <br>
 <select>
+<option selected value="Si la cloche se tait et son terlintintin">Si la cloche se tait et son terlintintin</option>
+<option value="Toute chose pourtant doit avoir une fin">Toute chose pourtant doit avoir une fin</option>
+<option value="Si l'Europe le veut l'Europe ou son destin">Si l'Europe le veut l'Europe ou son destin</option>
+<option value="Le mammif&egrave;re est roi nous sommes son cousin">Le mammif&egrave;re est roi nous sommes son cousin</option>
+<option value="L'&eacute;cu de vair ou d'or ne dure qu'un matin">L'&eacute;cu de vair ou d'or ne dure qu'un matin</option>
+<option value="Le Beaune et le Chianti sont-ils le m&ecirc;me vin ?">Le Beaune et le Chianti sont-ils le m&ecirc;me vin ?</option>
+<option value="Mais on n'aurait pas vu le m&eacute;tropolitain">Mais on n'aurait pas vu le m&eacute;tropolitain</option>
+<option value="La g&eacute;mellit&eacute; accuse son destin">La g&eacute;mellit&eacute; accuse son destin</option>
+<option value="Le m&eacute;tromane &agrave; force incarne le devin">Le m&eacute;tromane &agrave; force incarne le devin</option>
+<option value="Mais rien de vaut grill&eacute; le morceau de boudin">Mais rien de vaut grill&eacute; le morceau de boudin</option>
 </select>
 <br>
 
