@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-771 descriptions de paysage sonore trouvées dans la littérature.<br>
+778 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -512,10 +512,10 @@ cavernes et celui des taureaux semblent se compléter l'un l'autre."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/S%C3%A9n%C3%A8que" target="_blank">Sénèque</a><br>
-Lettres A Lucilius<br>
 <a
 href="https://fr.wikisource.org/wiki/Lettres_%C3%A0_Lucilius/Lettre_56"
-target="_blank">Lettre 56 - Bruits divers d'un bain public -
+target="_blank">Lettre 56 à Lucilius - Bruits divers d'un bain public
+-
 Traduction (1861) de Joseph Baillard</a><br>
 64 ap. J.-C.<br>
 <br>
@@ -546,6 +546,34 @@ Parmi les bruits qui retentissent autour de moi sans me distraire, je
 mets celui des chariots qui passent, du forgeron logé sous mon toit, du
 serrurier voisin, ou de cet autre qui, près de la Meta sudans, essaye
 ses trompettes et ses flûtes, et beugle plutôt qu'il ne joue."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/H%C3%A9raclite_%28commentateur%29"
+target="_blank">Héraclite</a> (ne pas confondre avec <a
+href="https://fr.wikipedia.org/wiki/H%C3%A9raclite" target="_blank">Héraclite</a>)<br>
+<a
+href="https://www.academia.edu/80210986/F%C3%A9lix_Buffi%C3%A8re_%C3%A9d_H%C3%A9raclite_All%C3%A9gories_d_Hom%C3%A8re_1962_"
+target="_blank">Allégories d'Homère - Traduction (1962) de Félix
+Buffière</a><br>
+1er siècle<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il est, en effet, il est dans le ciel des sons
+mélodieux et pleins d'harmonie, produits par le mouvement éternel des
+sphères, et surtout quand la course du soleil est « tendue ».<br>
+&nbsp;&nbsp;&nbsp; Alors qu'un coup de baguette flexible, frappant
+l'air au hasard, ou une pierre lancée à la fronde produisent un
+bruissement et des sifflements qui résonnent si fort, comment imaginer
+que de si grandes masses, dans l'élan de leurs révolutions du levant au
+couchant, puissent faire rouler leur char dans le silence, pour
+parcourir la route formidable qui leur est assignée ?<br>
+&nbsp;&nbsp;&nbsp; Ces sons qui sans arrêt retentissent dans le ciel,
+nous ne les percevons pas : soit que nous y soyons habitués depuis
+notre plus tendre enfance, soit que la distance incommensurable qui
+nous en sépare fasse évanouir tout bruit dans l'espace.<br>
+&nbsp;&nbsp;&nbsp; Pythagore, pourtant, au dire de ses biographes... ,
+eut l'ineffable privilège d'entendre cette harmonie. Ulysse aussi la
+perçut, lorsqu'il prêta l'oreille au chant des Sirènes."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -639,7 +667,7 @@ target="_blank">Roman d’Alexandre</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 3e siècle<br>
 <br>
 "Les jongleurs jouent de la vièle et font un tel tapage<br>
@@ -789,10 +817,10 @@ Shui Jing Zhu (<a
 href="https://en.wikipedia.org/wiki/Commentary_on_the_Water_Classic"
 target="_blank">anglais</a>)<br>
 Commentaire du Livre des rivières<br>
-cité dans la thèse "<a
+cité dans : <a
 href="https://theses.hal.science/tel-03480904v1/file/2015EPHE4082.pdf"
 target="_blank">Représenter l’espace dans les textes du haut Moyen Âge
-chinois</a>" d'Alexis Lycas<br>
+chinois</a> d'Alexis Lycas<br>
 <br>
 "Aux premières éclaircies comme aux aubes givrées, la forêt se mure
 dans un froid silence et les torrents restent cois. Souvent les gibbons
@@ -1138,7 +1166,7 @@ Jacques Fontaine</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 <br>
 "Nous faisons notre joie du babil divers des oiseaux,<br>
 nous connaissons le cri des brebis et des bœufs,<br>
@@ -1190,7 +1218,7 @@ Prise d’Orange</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 12e siècle<br>
 <br>
 "Si vous y aviez été le premier jour d’été<br>
@@ -1206,7 +1234,7 @@ target="_blank">Renaud de Montauban</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 12e siècle<br>
 <br>
 "Les chevaux parcourent la plaine fort rapidement,<br>
@@ -1220,7 +1248,7 @@ target="_blank">Charroi de Nîmes</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 12e siècle<br>
 <br>
 "Ils entendent la rumeur de la bonne cité<br>
@@ -1237,7 +1265,7 @@ target="_blank">Galeran de Bretagne - Traduction de Jean Dufournet</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 vers 1205 .. 1220<br>
 <br>
 "Ici vous entendriez cors et trompettes,<br>
@@ -1305,7 +1333,7 @@ l’amphore qui s’écoule fait glouglou"<br>
 Traduction de Wolff - cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-3-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap VII</a> de Jean-Marie Fritz<br>
+paysage sonore</a>&nbsp; de Jean-Marie Fritz<br>
 <br>
 "Le hibou hulule,<br>
 le coucou coucoule,<br>
@@ -1366,11 +1394,11 @@ target="_blank">Traduction de Léonard Dauphant</a><br>
 12 Martellement de forgeron<br>
 13 Renversement de charrettes<br>
 14 Pipi de gouttières<br>
-16 Braiement d’ânes<br>
-17 Hurlement de loups<br>
-18 Miaulement de chats<br>
-19 Pépiement d’oiseaux<br>
-20 Eclat du tonnerre<br>
+15 Braiement d’ânes<br>
+16 Hurlement de loups<br>
+17 Miaulement de chats<br>
+18 Pépiement d’oiseaux<br>
+19 Eclat du tonnerre<br>
 ..."<br>
 </div>
 <br>
@@ -1426,7 +1454,7 @@ target="_blank">Gautier d'Épinal</a> (? .. 1272)<br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap I</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 <br>
 "Le commencement de la douce et belle saison<br>
 dont je vois le retour,<br>
@@ -1753,7 +1781,7 @@ Dialogue de son voyage de Saint-Claude<br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 vers 1430<br>
 <br>
 "Parle-moi donc, au nom de Dieu,<br>
@@ -1787,7 +1815,7 @@ L'amant rendu cordelier à l’observance d’Amour<br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore - Chap II</a> de Jean-Marie Fritz<br>
+paysage sonore</a> de Jean-Marie Fritz<br>
 avant 1440<br>
 <br>
 "Au claquement d’un battoir<br>
@@ -2226,8 +2254,8 @@ href="https://fr.wikipedia.org/wiki/Jean_Vauquelin_de_La_Fresnaye"
 target="_blank">Jean Vauquelin de La Fresnaye</a><br>
 Satyres françoises - cité dans <a
 href="https://obtic.huma-num.fr/obvil-web/corpus/ecole/marcou_morceaux-classes-superieures-poetes_1881"
-target="_blank">Morceaux choisis des classiques français de
-François-Léopold Marcou</a><br>
+target="_blank">Morceaux choisis des classiques français</a> de
+François-Léopold Marcou<br>
 1605 ?<br>
 <br>
 La vie champêtre<br>
@@ -3742,7 +3770,7 @@ href="https://ru.wikisource.org/wiki/%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9_
 target="_blank">Евгений Онегин</a><br>
 <a href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne_On%C3%A9guine"
 target="_blank">Eugène Onéguine</a><br>
-cité dans : "Montage 1938" dans : <a
+cité dans : Montage 1938 dans : <a
 href="https://pdfcoffee.com/qdownload/eisenstein-le-film-sa-forme-son-sens-pdf-free.html"
 target="_blank">Le Film, sa forme, son sens </a>de Sergueï Eisenstein<br>
 1831<br>
@@ -5624,14 +5652,15 @@ href="https://books.google.co.zm/books?id=QHd3nF0cAbEC&amp;lpg=PA6&amp;hl=fr&amp
 target="_blank">Correspondance générale, Volume IX</a>&nbsp; p487<br>
 1867<br>
 <br>
-"Une chose m’a frappé. C’est le profond silence qui règne dans la ville
-; on n’entend absolument rien, pas un bruit de voiture, pas un
-claquement de fouet, pas un caquet de poule, pas un aboyement de chien,
-pas un bruit d’eau courante ; aucun frémissement de quoi que ce soit de
-vivant. C’est une sensation bizarre pour moi qui ai l’habitude du
-tumulte Parisien. Toto, le soir, pourra traduire Jean-Paul sans
-distraction. Cependant cette absence de sonorité occupe. Malgré soi on
-écoute le silence. J’arrête ma lettre..."<br>
+"Une
+chose m’a frappé. C’est le profond silence qui règne dans la ville ; on
+n’entend absolument rien, pas un bruit de voiture, pas un claquement de
+fouet, pas un caquet de poule, pas un aboyement de chien, pas un bruit
+d’eau courante ; aucun frémissement de quoi que ce soit de vivant.
+C’est une sensation bizarre pour moi qui ai l’habitude du tumulte
+Parisien. Toto, le soir, pourra traduire Jean-Paul sans distraction.
+Cependant cette absence de sonorité occupe. Malgré soi on écoute le
+silence. J’arrête ma lettre..."<br>
 <br>
 (Toto: Théophile, le fils de Théophile Gautier)<br>
 </div>
@@ -6943,7 +6972,7 @@ href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 Pour la Revue Lilas - cité dans : <a
 href="https://excerpts.numilog.com/books/9782081312586.pdf"
-target="_blank">Marcel Proust Une vie à s’écrire de Jérôme Picon</a><br>
+target="_blank">Marcel Proust Une vie à s’écrire</a> de Jérôme Picon<br>
 1888<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Tout le monde est couché dans le grand appartement
@@ -7233,7 +7262,7 @@ Tombant"
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://nicolas.demassieux.fr/2022/02/02/lalmanach-hachette-wikipedia-de-poche-pendant-80-ans/"
-target="_blank">Almanach Hachette de 1895</a><br>
+target="_blank">Almanach Hachette</a><br>
 <a href="https://gallica.bnf.fr/ark:/12148/btv1b52511568z/f300.item"
 target="_blank">Les voix de la nature<br>
 </a>1895<br>
@@ -7246,7 +7275,7 @@ et de noter cette musique infinie. Nous avons pensé que nos lecteurs
 prendraient intérêt à une liste à peu près complète des principaux
 termes qui expriment tout ce que l'homme entend.<br>
 <br>
-Les Êtres<br>
+<span style="font-weight: bold;">Les Êtres</span><br>
 <br>
 L'ABEILLE Bourdonne.<br>
 L'AGONISANT Râle, hoquète.<br>
@@ -7274,7 +7303,7 @@ LA CIGALE Crécelle, criquette.<br>
 LA CIGOGNE Craque, craquette, glotore ou claquette.<br>
 LE COCHON Grogne, grouine.<br>
 LA COLOMBE Roucoule.<br>
-LE Coo Coquerique, coqueline.<br>
+LE COQ Coquerique, coqueline.<br>
 LE COQ DE BRUYÈRE Dodeldit.<br>
 LE CORBEAU Croasse, coraille, graille.<br>
 LA CORNEILLE Craille, babille.<br>
@@ -7339,7 +7368,7 @@ LA VOIX HUMAINE Bégaye, bredouille, zézaie, chuchote, parle, imite,
 pleure, sanglote, rit, chante, elle vibre à l'enthousiasme, à la
 terreur, à l'amour, elle est le merveilleux écho de la nature entière.<br>
 <br>
-Les Choses<br>
+<span style="font-weight: bold;">Les Choses</span><br>
 <br>
 L'AIRAIN Résonne, vibre, tonne.<br>
 LA BOUTEILLE Fait glouglou.<br>
@@ -7356,7 +7385,7 @@ LES DENTS Grincent, claquent, crissent.<br>
 L'EAU Fait entendre un frisselis, clapote, bouillonne, frémit.<br>
 LES ÉPÉES Se heurtent, du tic au tac, se choquent, cliquettent.<br>
 LE FEU Éclate, pétille, crépite.<br>
-LES FEUILLES bruissent, susurrent.<br>
+LES FEUILLES Bruissent, susurrent.<br>
 LA FLÈCHE Siffle.<br>
 LE FLOT Bruit, gémit, gronde, hurle, déferle, tonne.<br>
 LA FOUDRE Gronde, éclate.<br>
@@ -7608,9 +7637,9 @@ Strindberg</a><br>
 Inferno - Traduction anglaise (1912) de Claud Field</a><br>
 <a href="https://www.gallimard.fr/catalogue/inferno/9782070764563"
 target="_blank">Inferno</a><br>
-cité par Gaston Bachelard dans <a
+cité par dans : <a
 href="https://classiques.uqam.ca/classiques/bachelard_gaston/flamme_de_la_chandelle/flamme_de_la_chandelle.pdf"
-target="_blank">La Flamme d'une chandelle</a><br>
+target="_blank">La Flamme d'une chandelle</a> de Gaston Bachelard<br>
 1897<br>
 <br>
 "&nbsp;&nbsp; J’allume la bougie pour passer le temps en lectures. Il
@@ -7779,6 +7808,32 @@ la lumière oblique des fins de journée sur la mesa. Si les délicates
 vibrations pourpre-doré qui flamboient dans les crépuscules de
 printemps devaient devenir celles du son, ce serait précisément cette
 double note mélodieuse qui naît à l’extrémité des fleurs."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Claude_Debussy" target="_blank">Claude
+Debussy</a><br>
+<a href="https://fr.wikisource.org/wiki/Monsieur_Croche/Texte_entier"
+target="_blank">Monsieur Croche, antidilettante</a><br>
+Musique de plein air<br>
+1903<br>
+<br>
+"...&nbsp;la possibilité d’une musique construite spécialement pour
+«&nbsp;le plein air&nbsp;», toute en grandes lignes, en hardiesses
+vocales et instrumentales qui joueraient et planeraient sur la cime des
+arbres dans la lumière de l’air libre.<br>
+... La collaboration mystérieuse des courbes de l’air, du mouvement des
+feuilles et du parfum des fleurs s’accomplirait, la musique pouvant
+réunir tous ces éléments dans une entente si parfaitement naturelle
+qu’elle semblerait participer de chacun d’eux... Et les bons arbres
+tranquilles ne manqueraient pas à figurer les tuyaux d’un orgue
+universel, ni à prêter l’appui de leurs branches à des grappes
+d’enfants auxquels on apprendrait les jolies rondes de jadis, si mal
+remplacées depuis par les ineptes refrains qui déshonorent les jardins
+et les villes d’aujourd’hui. On y retrouverait du même coup ce
+«&nbsp;contrepoint&nbsp;» dont nous avons fait un travail de mandarins
+et que pourtant les vieux maîtres de la Renaissance française savaient
+faire sourire."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -10204,6 +10259,23 @@ entraves et c’était son grondement qui parvenait jusqu’à Rieux."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Boris_Vian" target="_blank">Boris
+Vian</a><br>
+<a href="https://fr.wikipedia.org/wiki/L%27%C3%89cume_des_jours"
+target="_blank">L'Écume des jours</a><br>
+1947<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il montait de la piste une rumeur ovale que la
+musique des haut-parleurs, disséminés tout autour, rendait complexe. Le
+piétinement des patineurs n’atteignait pas encore le niveau sonore des
+moments d’affluence où il présente une analogie avec le bruit des pas
+d’un régiment dans la boue giclant sur du pavé."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il se fit un abondant silence à l’entour, et la
+majeure partie du reste du monde se mit à compter pour du beurre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Char" target="_blank">René
 Char</a><br>
 <a
@@ -11052,6 +11124,52 @@ un tas d’autres choses, si l’on en croit le poète."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Max_Frisch" target="_blank">Max
+Frisch</a><br>
+<a href="https://fr.wikipedia.org/wiki/Homo_faber_%28roman%29"
+target="_blank">Homo Faber - Traduction (1961) de Philippe Pilliod</a><br>
+1957<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le matin à chaque fois, un bruit bizarre me
+réveillait, mi-industriel mi-musical, rumeur que je ne pouvais pas
+m'expliquer, non pas forte, mais frénétique comme des grillons,
+métallique, monotone, cela devait être une mécanique, mais je ne
+devinais pas laquelle, et après, quand nous allions prendre notre petit
+déjeuner au village, cela avait cessé, on ne voyait rien.<br>
+...<br>
+quand l’incompréhensible bruit reprend, mi-piano, mi-fusil mitrailleur,
+avec cela des chants, chaque fois entre 6 et 7 heures, chaque fois je
+veux tirer cette chose au clair, mais je l'oublie au cours de la
+journée.<br>
+...<br>
+Bourdonnement et raffut comme au zoo, quand on ne sait pas ce qui peut
+bien siffler et piailler et tire-lirer, bruit semblable à de la musique
+moderne, ce peuvent être des singes, des oiseaux, peut-être une espèce
+de chat, on ne sait pas, rut ou transes mortelles, on ne sait pas.<br>
+...<br>
+&nbsp;&nbsp;&nbsp; Nous fîmes nos bagages le dimanche, une nuit chaude
+avec une lune visqueuse, et l'étrange bruit qui m'avait réveillé chaque
+matin se révéla être de la musique, tintamarre d'un antique marimba,
+martèlement sans timbre, une effroyable musique, absolument
+épileptique. Il s'agissait de quelque fête, en rapport avec la pleine
+lune. Chaque matin, avant les travaux des champs, ils s'étaient
+entraînés pour accompagner la danse, cinq Indiens qui, avec de petits
+marteaux, tapaient furieusement sur leur instrument une sorte de
+xylophone long comme une table."<br>
+<br>
+"... midi, comme d'habitude, à peine un déferlement, rien qu'un faible
+clapotis de vagues qui se développent sur le gravier, parfois un faible
+roulement de gravier, un bruit de grelots, sinon le silence, de temps à
+autre une abeille."<br>
+<br>
+cité dans : <a
+href="https://fr.wikipedia.org/wiki/Trait%C3%A9_des_objets_musicaux"
+target="_blank">Traité des objets musicaux</a> de <a
+href="https://fr.wikipedia.org/wiki/Pierre_Schaeffer" target="_blank">Pierre
+Schaeffer</a><br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alain_Robbe-Grillet"
 target="_blank">Alain Robbe-Grillet</a><br>
 <a href="https://excerpts.numilog.com/books/9782707321879.pdf"
@@ -11154,7 +11272,7 @@ interminable. Mais elle cessa cependant, comme les autres soirs." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
-Queneau</a><br>
+</a><br>
 <a
 href="https://www.tousvoslivres.com/doc2015/TousVosLivres%20-%20Zazie%20metro.pdf"
 target="_blank">Zazie dans le métro</a><br>
@@ -11228,6 +11346,32 @@ Il disait que les sons n'étaient pas des sons mais des ombres.<br>
 Qu'ils soient des sons est évident ; c'est pourquoi ils sont des ombres.<br>
 Toute chose est un écho de rien.<br>
 La vie continue à peu près comme un morceau de Feldman."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
+Queneau</a><br>
+<a href="http://www.bludog.fr/overblog/Divers/Queneau/index.html"
+target="_blank">Cent mille milliards de poèmes</a><br>
+1961<br>
+<br>
+"Lorsqu'un jour exalté l'aède prosaïse<br>
+pour du fin fond du nez exciter les arceaux<br>
+des êtres indécis vous parlent sans franchise<br>
+il donne à la tribu des cris aux sens nouveaux<br>
+<br>
+Il déplore il déplore une telle mainmise<br>
+le vulgaire s'entête à vouloir des vers beaux<br>
+il grelottait le pauvre aux bords de la Tamise<br>
+les Grecs et les Romains en vain cherchent leurs mots<br>
+<br>
+Le brave a beau crier ah cré non saperlotte<br>
+une langue suffit pour emplir sa cagnotte<br>
+l'autocar écrabouille un peu d'esprit latin<br>
+<br>
+Ne fallait pas si loin agiter ses breloques<br>
+exaltent l'espagnol les oreilles baroques<br>
+si la cloche se tait et son terlintintin"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12079,11 +12223,11 @@ href="https://www.grasset.fr/livre/les-dix-mille-marches-9782246446910/"
 target="_blank">Les dix mille marches</a><br>
 1991<br>
 <br>
-"Une nuit noire est tombée, ouatant les rares lumières. La ville a
-disparu et Pomme Bleue somnole bercée par un long chuintement
-qu’interrompent parfois d’étranges bruits de succion, glissement éperdu
-des roues sur la chaussée trempée, pieds du tireur de pousse-pousse
-claquant dans les flaques."
+"Une nuit très&nbsp;noire&nbsp;est tombée,&nbsp;ouatant les rares
+lumières.&nbsp;La ville a disparu et&nbsp;Pomme Bleue somnole bercée
+par un long chuintement qu’interrompent parfois d’étranges bruits de
+succion,&nbsp;glissement éperdu des roues sur la chaussée
+trempée,&nbsp;pieds du tireur de pousse claquant dans les flaques..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12573,5 +12717,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 27 6 2026 
+</div>
+<br>
+page mise à jour 6 7 2026 
