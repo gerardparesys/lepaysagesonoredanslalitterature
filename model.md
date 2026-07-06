@@ -277,7 +277,7 @@ Image Largeur 100%:
 <option value="L'&eacute;cu de vair ou d'or ne dure qu'un matin">L'&eacute;cu de vair ou d'or ne dure qu'un matin</option>
 <option value="Le Beaune et le Chianti sont-ils le m&ecirc;me vin ?">Le Beaune et le Chianti sont-ils le m&ecirc;me vin ?</option>
 <option value="Mais on n'aurait pas vu le m&eacute;tropolitain">Mais on n'aurait pas vu le m&eacute;tropolitain</option>
-<option value="La g&eacute;mellit&eacute; accuse son destin">La g&eacute;mellit&eacute; accuse son destin</option>
+<option value="La g&eacute;mellit&eacute; vraie accuse son destin">La g&eacute;mellit&eacute; vraie accuse son destin</option>
 <option value="Le m&eacute;tromane &agrave; force incarne le devin">Le m&eacute;tromane &agrave; force incarne le devin</option>
 <option value="Mais rien de vaut grill&eacute; le morceau de boudin">Mais rien de vaut grill&eacute; le morceau de boudin</option>
 </select>
