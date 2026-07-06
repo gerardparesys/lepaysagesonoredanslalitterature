@@ -235,7 +235,7 @@ Image Largeur 100%:
 <option value="lorsque Socrate mort passait pour un lutin">lorsque Socrate mort passait pour un lutin</option> 
 <option value="lorsqu'on revient au port en essuyant un grain">lorsqu'on revient au port en essuyant un grain</option> 
 <option value="le colonel s'&eacute;ponge un blason dans la main">le colonel s'&eacute;ponge un blason dans la main</option>
-<option selected value="l'autocar &eacute;crabouille un peu l'esprit latin">l'autocar &eacute;crabouille un peu l'esprit latin</option> 
+<option selected value="l'autocar &eacute;crabouille un peu d'esprit latin">l'autocar &eacute;crabouille un peu d'esprit latin</option> 
 <option value="lorsqu'il voit la gadoue il cherche le purin">lorsqu'il voit la gadoue il cherche le purin</option> 
 <option value="il voudra retrouver le germe adult&eacute;rin">il voudra retrouver le germe adult&eacute;rin</option> 
 <option value="m&ecirc;me s'il prend son sel au celte c'est son bien">m&ecirc;me s'il prend son sel au celte c'est son bien</option>
@@ -244,11 +244,11 @@ Image Largeur 100%:
 <br>
 <br>
 <select>
-<option  value="L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques">L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques</option>
+<option value="L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques">L'Am&eacute;rique du Sud s&eacute;duit les &eacute;quivoques</option>
 <option value="Cela consid&eacute;rant &ocirc; lecteur tu suffoques">Cela consid&eacute;rant &ocirc; lecteur tu suffoques</option>
 <option value="Sa sculpture est illustre et dans le fond des coques">Sa sculpture est illustre et dans le fond des coques</option> 
 <option value="Enfin on vend le tout homards et salicoques">Enfin on vend le tout homards et salicoques</option> 
-<option selected value="Ne fallait pas si loin agiter les breloques">Ne fallait pas si loin agiter les breloques</option>
+<option selected value="Ne fallait pas si loin agiter ses breloques">Ne fallait pas si loin agiter ses breloques</option>
 <option value="Les rapports transalpins sont-ils biunivoques ?">Les rapports transalpins sont-ils biunivoques ?</option>  
 <option value="On regrette &agrave; la fin les agrestes bicoques">On regrette &agrave; la fin les agrestes bicoques</option> 
 <option value="Fr&egrave;re je te comprends si parfois tu d&eacute;bloques">Fr&egrave;re je te comprends si parfois tu d&eacute;bloques</option> 
@@ -262,7 +262,7 @@ Image Largeur 100%:
 <option value="on transporte et le marbre et d&eacute;bris et d&eacute;froques">on transporte et le marbre et d&eacute;bris et d&eacute;froques</option>
 <option value="on s'excuse il n'y a ni baleines ni phoques">on s'excuse il n'y a ni baleines ni phoques</option>
 <option value="les Indes ont assez sans &ccedil;a de pendeloques">les Indes ont assez sans &ccedil;a de pendeloques</option> 
-<option value="les banquiers d'Avignon changent-ils les ba&iuml;ques ?">les banquiers d'Avignon changent-ils les ba&iuml;ques ?</option> 
+<option value="les banquiers d'Avignon changent-ils les ba&iuml;oques ?">les banquiers d'Avignon changent-ils les ba&iuml;oques ?</option> 
 <option value="on mettait sans fa&ccedil;on ses plus infectes loques">on mettait sans fa&ccedil;on ses plus infectes loques</option> 
 <option value="fr&egrave;re je t'absoudrai si tu m'emberlucoques">fr&egrave;re je t'absoudrai si tu m'emberlucoques</option> 
 <option value="tu me stup&eacute;fies plus que tous les ventriloques">tu me stup&eacute;fies plus que tous les ventriloques</option>
