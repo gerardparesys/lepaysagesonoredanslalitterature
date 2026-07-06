@@ -105,35 +105,35 @@ Image Largeur 100%:
 <option value="C'était à cinq o'clock que sortait la marquise">C'était à cinq o'clock que sortait la marquise</option>            
 <option value="Du jeune avantageux la nymphe était éprise">Du jeune avantageux la nymphe était éprise</option>
 <option value="Il se penche il voudrait attraper sa valise">Il se penche il voudrait attraper sa valise</option>
-<option value="Quand l'un avec l'autre aussitôt sympathise">Quand l'un avec l'autre aussitôt sympathise</option>
+<option value="Quand l'un avecque l'autre aussitôt sympathise">Quand l'un avecque l'autre aussitôt sympathise</option>
 <option selected value="Lorsqu'un jour exalté l'aède prosaïse">Lorsqu'un jour exalté l'aède prosaïse</option>
 <option value="Le marbre pour l'acide est une friandise">Le marbre pour l'acide est une friandise</option>
 </select>
 <br>
 <select>
-<option value="Pour la mettre à sécher aux cornes des taureaux">Pour la mettre à sécher aux cornes des taureaux</option>  
-<option value="Lorsque le marbrier astique nos tombeaux">Lorsque le marbrier astique nos tombeaux</option>   
-<option value="Depuis que lord Elgin négligea ses naseaux">Depuis que lord Elgin négligea ses naseaux</option>  
-<option selected value="Pour de fin fond du nez exciter les arceaux">Pour de fin fond du nez exciter les arceaux</option>  
-<option value="Pour consommer un thé puis des petits gâteaux">Pour consommer un thé puis des petits gâteaux</option>
-<option value="Snob un peu sur les bords des bords fondamentaux">Snob un peu sur les bords des bords fondamentaux</option> 
-<option value="Que convoitait c'est sûr une horde d'escrocs">Que convoitait c'est sûr une horde d'escrocs</option> 
-<option value="Se faire il pourrait bien que ce soit des jumeaux">Se faire il pourrait bien que ce soit des jumeaux</option>
-<option value="Pour déplaire au profane aussi bien qu'aux idiots">Pour déplaire au profane aussi bien qu'aux idiots</option>
-<option value="D'aucuns par dessus tout prisent les escargots">D'aucuns par dessus tout prisent les escargots</option>  
+<option value="pour la mettre à sécher aux cornes des taureaux">pour la mettre à sécher aux cornes des taureaux</option>  
+<option value="lorsque le marbrier astique nos tombeaux">lorsque le marbrier astique nos tombeaux</option>   
+<option value="depuis que lord Elgin négligea ses naseaux">depuis que lord Elgin négligea ses naseaux</option>  
+<option selected value="pour du fin fond du nez exciter les arceaux">pour du fin fond du nez exciter les arceaux</option>  
+<option value="pour consommer un thé puis des petits gâteaux">pour consommer un thé puis des petits gâteaux</option>
+<option value="snob un peu sur les bords des bords fondamentaux">snob un peu sur les bords des bords fondamentaux</option> 
+<option value="que convoitait c'est sûr une horde d'escrocs">que convoitait c'est sûr une horde d'escrocs</option> 
+<option value="se faire il pourrait bien que ce soit des jumeaux">se faire il pourrait bien que ce soit des jumeaux</option>
+<option value="pour déplaire au profane aussi bien qu'aux idiots">pour déplaire au profane aussi bien qu'aux idiots</option>
+<option value="d'aucuns par dessus tout prisent les escargots">d'aucuns par dessus tout prisent les escargots</option>  
 </select>
 <br>
 <select>
-<option value="Le cornédbif en boîte empeste la remise">Le cornédbif en boîte empeste la remise</option> 
-<option selected value="Des êtres indécis vous parlent sans franchise">Des êtres indécis vous parlent sans franchise</option> 
-<option value="Le Turc de ce temps-là pataugeait dans sa crise">Le Turc de ce temps-là pataugeait dans sa crise</option>  
-<option value="Sur l'antique bahut il choisit sa cerise">Sur l'antique bahut il choisit sa cerise</option>   
-<option value="Le chauffeur indigène attendait dans la brise">Le chauffeur indigène attendait dans la brise</option> 
-<option value="Une toge il portait qui n'était pas de mise">Une toge il portait qui n'était pas de mise</option>  
-<option value="Il se penche et alors à sa grande surprise">Il se penche et alors à sa grande surprise</option>  
-<option value="La découverte alors voilà qui traumatise">La découverte alors voilà qui traumatise</option> 
-<option value="La critique lucide aperçoit ce qu'il vise">La critique lucide aperçoit ce qu'il vise</option> 
-<option value="Sur la place un forain de feu se gargarise">Sur la place un forain de feu se gargarise</option> 
+<option value="le cornédbif en boîte empeste la remise">le cornédbif en boîte empeste la remise</option> 
+<option selected value="des êtres indécis vous parlent sans franchise">des êtres indécis vous parlent sans franchise</option> 
+<option value="le Turc de ce temps-là pataugeait dans sa crise">le Turc de ce temps-là pataugeait dans sa crise</option>  
+<option value="sur l'antique bahut il choisit sa cerise">sur l'antique bahut il choisit sa cerise</option>   
+<option value="le chauffeur indigène attendait dans la brise">le chauffeur indigène attendait dans la brise</option> 
+<option value="une toge il portait qui n'était pas de mise">une toge il portait qui n'était pas de mise</option>  
+<option value="il se penche et alors à sa grande surprise">il se penche et alors à sa grande surprise</option>  
+<option value="la découverte alors voilà qui traumatise">la découverte alors voilà qui traumatise</option> 
+<option value="la critique lucide aperçoit ce qu'il vise">la critique lucide aperçoit ce qu'il vise</option> 
+<option value="sur la place un forain de feu se gargarise">sur la place un forain de feu se gargarise</option> 
 </select>
 <br>
 <select>
