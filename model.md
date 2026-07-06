@@ -141,7 +141,7 @@ Image Largeur 100%:
 <option value="et tout vient signifier la fin des haricots">et tout vient signifier la fin des haricots</option>
 <option value="il chantait tout de même oui mais il chantait faux">il chantait tout de même oui mais il chantait faux</option>
 <option value="il n'avait droit qu'à une et le jour des Rameaux">il n'avait droit qu'à une et le jour des Rameaux</option>
-<option value="elle soufflait bien fort par dessus les côteaux">elle soufflait bien fort par dessus les côteaux</option>
+<option value="elle soufflait bien fort par-dessus les côteaux">elle soufflait bien fort par-dessus les côteaux</option>
 <option value="des narcisses on cueille ou bien on est des veaux">des narcisses on cueille ou bien on est des veaux</option>
 <option value="il ne trouve aussi sec qu'un sac de vieux fayots">il ne trouve aussi sec qu'un sac de vieux fayots</option>
 <option value="on espère toujours être de vrais normaux">on espère toujours être de vrais normaux</option>
@@ -177,7 +177,7 @@ Image Largeur 100%:
 </select>
 <br>
 <select>
-<option value="nous avions aussi froids que nus sur la banquise">nous avions aussi froids que nus sur la banquise</option> 
+<option value="nous avions aussi froid que nus sur la banquise">nous avions aussi froid que nus sur la banquise</option> 
 <option value="de la mort on vous greffe une orde b&acirc;tardise">de la mort on vous greffe une orde bâtardise</option> 
 <option selected value="il grelottait le pauvre aux bords de la Tamise">il grelottait le pauvre aux bords de la Tamise</option> 
 <option value="nous regrettions un peu ce tas de marchandise">nous regrettions un peu ce tas de marchandise</option> 
@@ -192,12 +192,12 @@ Image Largeur 100%:
 <select>
 <option value="lorsque pour nous distraire y plantions nos tr&eacute;teaux">lorsque pour nous distraire y plantions nos tréteaux</option>  
 <option value="la mite a grignot&eacute; tissus os et rideaux">la mite a grignoté tissus os et rideaux</option>  
-<option value="quand les gr&eacute;lons gin mars mitraillent les bateaux">quand les grélons gin mars mitraillent les bateaux</option> 
+<option value="quand les gr&eacute;lons fin mars mitraillent les bateaux">quand les grélons fin mars mitraillent les bateaux</option> 
 <option value="lorsqu'on voyait au loin flamber les arbrisseaux">lorsqu'on voyait au loin flamber les arbrisseaux</option> 
-<option value="lorsque vient le pompier avec ces grandes eaux">lorsque vient le pompier avec ces grandes eaux</option> 
+<option value="lorsque vient le pompier avec ses grandes eaux">lorsque vient le pompier avec ses grandes eaux</option> 
 <option selected value="les Grecs et les Romains en vain cherchent leurs mots">les Grecs et les Romains en vain cherchent leurs mots</option> 
 <option value="elle effraie le Berry comme les Morvandiaux">elle effraie le Berry comme les Morvandiaux</option>
-<option value="que les parents f&eacute;conds offrent aux purs berceaux">Qque les parents féconds offrent aux purs berceaux</option> 
+<option value="que les parents f&eacute;conds offrent aux purs berceaux">que les parents féconds offrent aux purs berceaux</option> 
 <option value="à tous n'est pas donn&eacute; d'aimer les chocs verbaux">à tous n'est pas donné d'aimer les chocs verbaux</option> 
 <option value="l'enfant pur aux yeux bleus aime les berlingots">l'enfant pur aux yeux bleus aime les berlingots</option> 
 </select>
@@ -205,11 +205,11 @@ Image Largeur 100%:
 <br>
 <select>
 <option value="Du p&ocirc;le &agrave; Rosario fait une belle trotte">Du p&ocirc;le &agrave; Rosario fait une belle trotte</option> 
-<option selected value="Le brave a beau crier ah cr&eacute; non saperlotte">Le brave a beau crier ah cr&eacute; non saperlotte</option> 
+<option selected value="Le brave a beau crier ah cr&eacute; nom saperlotte">Le brave a beau crier ah cr&eacute; nom saperlotte</option> 
 <option value="La Gr&egrave;ce de Platon &agrave; coup s&ucirc;r n'est point sotte">La Gr&egrave;ce de Platon &agrave; coup s&ucirc;r n'est point sotte</option>
 <option value="On s&egrave;che le poisson dorade ou molve lotte">On s&egrave;che le poisson dorade ou molve lotte</option>   
 <option value="Du Gange au Malabar le lord anglais zozotte">Du Gange au Malabar le lord anglais zozotte</option>
-<option value="L'esprit souffle et resouffle au-dessous de la botte">L'esprit souffle et resouffle au-dessous de la botte</option> 
+<option value="L'esprit souffle et resouffle au-dessus de la botte">L'esprit souffle et resouffle au-dessus de la botte</option> 
 <option value="Devant la boue urbaine on retrousse sa cotte">Devant la boue urbaine on retrousse sa cotte</option>
 <option value="Le g&eacute;n&eacute;alogiste observe leur bouillotte">Le g&eacute;n&eacute;alogiste observe leur bouillotte</option>  
 <option value="Le po&egrave;te inspir&eacute; n'est point une polyglotte">Le po&egrave;te inspir&eacute; n'est point une polyglotte</option>
