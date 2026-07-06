@@ -124,8 +124,8 @@ Image Largeur 100%:
 </select>
 <br>
 <select>
-<option selected value="Le cornedbeef en boîte empeste la remise">Le cornedbeef en boîte empeste la remise</option> 
-<option value="Des êtres indécis vous parlent sans franchise">Des êtres indécis vous parlent sans franchise</option> 
+<option value="Le cornedbeef en boîte empeste la remise">Le cornedbeef en boîte empeste la remise</option> 
+<option selected value="Des êtres indécis vous parlent sans franchise">Des êtres indécis vous parlent sans franchise</option> 
 <option value="Le Turc de ce temps-là pataugeait dans sa crise">Le Turc de ce temps-là pataugeait dans sa crise</option>  
 <option value="Sur l'antique bahut il choisit sa cerise">Sur l'antique bahut il choisit sa cerise</option>   
 <option value="Le chauffeur indigène attendait dans la brise">Le chauffeur indigène attendait dans la brise</option> 
@@ -137,7 +137,7 @@ Image Largeur 100%:
 </select>
 <br>
 <select>
-<option selected value="Et fermentent de même et les cuirs et les peaux">Et fermentent de même et les cuirs et les peaux</option>
+<option value="Et fermentent de même et les cuirs et les peaux">Et fermentent de même et les cuirs et les peaux</option>
 <option value="Et tout vient signifier la fin des haricots">Et tout vient signifier la fin des haricots</option>
 <option value="Il chantait tout de même oui mais il chantait faux">Il chantait tout de même oui mais il chantait faux</option>
 <option value="Il n'avait droit qu'à une et le jour des Rameaux">Il n'avait droit qu'à une et le jour des Rameaux</option>
@@ -145,22 +145,22 @@ Image Largeur 100%:
 <option value="Des narcisses on cueille ou bien on est des veaux">Des narcisses on cueille ou bien on est des veaux</option>
 <option value="Il ne trouve aussi sec qu'un sac de vieux fayots">Il ne trouve aussi sec qu'un sac de vieux fayots</option>
 <option value="On espère toujours être de vrais normaux">On espère toujours être de vrais normaux</option>
-<option value="Il donne à la tribu des cris aux sens nouveaux">Il donne à la tribu des cris aux sens nouveaux</option>
+<option selected value="Il donne à la tribu des cris aux sens nouveaux">Il donne à la tribu des cris aux sens nouveaux</option>
 <option value="Qui sait si le requin boulotte les turbots ?">Qui sait si le requin boulotte les turbots ?</option>
 </select>
 <br>
 <br>
 <select>
-<option selected value="Je me souviens encor de cette heure exquise">Je me souviens encor de cette heure exquise</option>
+<option value="Je me souviens encor de cette heure exeuquise">Je me souviens encor de cette heure exeuquise</option>
 <option value="On vous fait devenir une orde marchandise">On vous fait devenir une orde marchandise</option> 
 <option value="Le cheval Parthénon frissonait sous la bise">Le cheval Parthénon frissonait sous la bise</option>
 <option value="Souvenez-vous amis de ces îles de Frise">Souvenez-vous amis de ces îles de Frise</option> 
 <option value="On était bien surpris par cette plaine grise">On était bien surpris par cette plaine grise</option> 
 <option value="Quand on prend des photos de cette tour de Pise">Quand on prend des photos de cette tour de Pise</option> 
-<option value="Il déplore il déplore une telle mainmise">Il déplore il déplore une telle mainmise</option>
+<option selected value="Il déplore il déplore une telle mainmise">Il déplore il déplore une telle mainmise</option>
 <option value="Et pourtant c'était lui le frère de feintise">Et pourtant c'était lui le frère de feintise</option> 
 <option value="L'un et l'autre a raison non la foule insoumise">L'un et l'autre a raison non la foule insoumise</option> 
-<option value="Du voisin le Papou suçe l'apophyse">Du voisin le Papou suçe l'apophyse</option> 
+<option value="Du voisin le Papou suçote l'apophyse">Du voisin le Papou suçote l'apophyse</option> 
 </select>
 <br>
 <select>
