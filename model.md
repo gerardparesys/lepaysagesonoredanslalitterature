@@ -96,7 +96,9 @@ Image Largeur 100%:
 <img style="width: 100%;" alt="Photo de paysage" src="images/imm005_4A-300x200.jpg" align="middle">
 
 ---
-
+#### Cent mille milliards de poèmes  
+  
+<br>
 <select>
 <option value="Le roi de la pampa retourne sa chemise">Le roi de la pampa retourne sa chemise</option>
 <option value="Lorsque tout est fini lorsque l'on agonise">Lorsque tout est fini lorsque l'on agonise</option>
