@@ -153,11 +153,11 @@ Image Largeur 100%:
 <select>
 <option value="Je me souviens encor de cette heure exeuquise">Je me souviens encor de cette heure exeuquise</option>
 <option value="On vous fait devenir une orde marchandise">On vous fait devenir une orde marchandise</option> 
-<option value="Le cheval Parthénon frissonait sous la bise">Le cheval Parthénon frissonait sous la bise</option>
+<option selected value="Le cheval Parthénon frissonait sous la bise">Le cheval Parthénon frissonait sous la bise</option>
 <option value="Souvenez-vous amis de ces îles de Frise">Souvenez-vous amis de ces îles de Frise</option> 
 <option value="On était bien surpris par cette plaine grise">On était bien surpris par cette plaine grise</option> 
 <option value="Quand on prend des photos de cette tour de Pise">Quand on prend des photos de cette tour de Pise</option> 
-<option selected value="Il déplore il déplore une telle mainmise">Il déplore il déplore une telle mainmise</option>
+<option value="Il déplore il déplore une telle mainmise">Il déplore il déplore une telle mainmise</option>
 <option value="Et pourtant c'était lui le frère de feintise">Et pourtant c'était lui le frère de feintise</option> 
 <option value="L'un et l'autre a raison non la foule insoumise">L'un et l'autre a raison non la foule insoumise</option> 
 <option value="Du voisin le Papou suçote l'apophyse">Du voisin le Papou suçote l'apophyse</option> 
@@ -172,8 +172,8 @@ Image Largeur 100%:
 <option value="d'où Galilée jadis jeta ses petits pots">d'où Galilée jadis jeta ses petits pots</option>
 <option value="qui se plaît à flouer de pauvres provinciaux">qui se plaît à flouer de pauvres provinciaux</option>
 <option value="qui clochard devenant jetait ses oripeaux">qui clochard devenant jetait ses oripeaux</option> 
-<option selected value="le vulgaire s'entête à vouloir des vers beaux">le vulgaire s'entête à vouloir des vers beaux</option>
-<option value="que n'a pas dévoré la horde des mulots ?">que n'a pas dévoré la horde des mulots ?</option> 
+<option value="le vulgaire s'entête à vouloir des vers beaux">le vulgaire s'entête à vouloir des vers beaux</option>
+<option selected value="que n'a pas dévoré la horde des mulots ?">que n'a pas dévoré la horde des mulots ?</option> 
 </select>
 <br>
 <select>
@@ -192,10 +192,10 @@ Image Largeur 100%:
 <select>
 <option value="lorsque pour nous distraire y plantions nos tr&eacute;teaux">lorsque pour nous distraire y plantions nos tréteaux</option>  
 <option value="la mite a grignot&eacute; tissus os et rideaux">la mite a grignoté tissus os et rideaux</option>  
-<option value="quand les gr&eacute;lons fin mars mitraillent les bateaux">quand les grêlons fin mars mitraillent les bateaux</option> 
+<option selected value="quand les gr&eacute;lons fin mars mitraillent les bateaux">quand les grêlons fin mars mitraillent les bateaux</option> 
 <option value="lorsqu'on voyait au loin flamber les arbrisseaux">lorsqu'on voyait au loin flamber les arbrisseaux</option> 
 <option value="lorsque vient le pompier avec ses grandes eaux">lorsque vient le pompier avec ses grandes eaux</option> 
-<option selected value="les Grecs et les Romains en vain cherchent leurs mots">les Grecs et les Romains en vain cherchent leurs mots</option> 
+<option value="les Grecs et les Romains en vain cherchent leurs mots">les Grecs et les Romains en vain cherchent leurs mots</option> 
 <option value="elle effraie le Berry comme les Morvandiaux">elle effraie le Berry comme les Morvandiaux</option>
 <option value="que les parents f&eacute;conds offrent aux purs berceaux">que les parents féconds offrent aux purs berceaux</option> 
 <option value="à tous n'est pas donn&eacute; d'aimer les chocs verbaux">à tous n'est pas donné d'aimer les chocs verbaux</option> 
