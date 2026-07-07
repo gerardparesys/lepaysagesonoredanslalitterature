@@ -192,7 +192,7 @@ Image Largeur 100%:
 <select>
 <option value="lorsque pour nous distraire y plantions nos tr&eacute;teaux">lorsque pour nous distraire y plantions nos tréteaux</option>  
 <option value="la mite a grignot&eacute; tissus os et rideaux">la mite a grignoté tissus os et rideaux</option>  
-<option value="quand les gr&eacute;lons fin mars mitraillent les bateaux">quand les grélons fin mars mitraillent les bateaux</option> 
+<option value="quand les gr&eacute;lons fin mars mitraillent les bateaux">quand les grêlons fin mars mitraillent les bateaux</option> 
 <option value="lorsqu'on voyait au loin flamber les arbrisseaux">lorsqu'on voyait au loin flamber les arbrisseaux</option> 
 <option value="lorsque vient le pompier avec ses grandes eaux">lorsque vient le pompier avec ses grandes eaux</option> 
 <option selected value="les Grecs et les Romains en vain cherchent leurs mots">les Grecs et les Romains en vain cherchent leurs mots</option> 
@@ -279,7 +279,7 @@ Image Largeur 100%:
 <option value="mais on n'aurait pas vu le m&eacute;tropolitain">mais on n'aurait pas vu le m&eacute;tropolitain</option>
 <option value="la g&eacute;mellit&eacute; vraie accuse son destin">la g&eacute;mellit&eacute; vraie accuse son destin</option>
 <option value="le m&eacute;tromane &agrave; force incarne le devin">le m&eacute;tromane &agrave; force incarne le devin</option>
-<option value="mais rien de vaut grill&eacute; le morceau de boudin">mais rien de vaut grill&eacute; le morceau de boudin</option>
+<option value="mais rien ne vaut grill&eacute; le morceau de boudin">mais rien ne vaut grill&eacute; le morceau de boudin</option>
 </select>
 <br>
 
