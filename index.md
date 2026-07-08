@@ -11272,7 +11272,7 @@ interminable. Mais elle cessa cependant, comme les autres soirs." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
-</a><br>
+Queneau </a><br>
 <a
 href="https://www.tousvoslivres.com/doc2015/TousVosLivres%20-%20Zazie%20metro.pdf"
 target="_blank">Zazie dans le métro</a><br>
@@ -11360,12 +11360,12 @@ pour du fin fond du nez exciter les arceaux<br>
 des êtres indécis vous parlent sans franchise<br>
 il donne à la tribu des cris aux sens nouveaux<br>
 <br>
-Il déplore il déplore une telle mainmise<br>
-le vulgaire s'entête à vouloir des vers beaux<br>
+Le cheval Parthénon frissonnait sous la bise<br>
+que n'a pas dévoré la horde des mulots ?<br>
 il grelottait le pauvre aux bords de la Tamise<br>
-les Grecs et les Romains en vain cherchent leurs mots<br>
+quand les grêlons fin mars mitraillent les bateaux<br>
 <br>
-Le brave a beau crier ah cré non saperlotte<br>
+Le brave a beau crier ah cré nom saperlotte<br>
 une langue suffit pour emplir sa cagnotte<br>
 l'autocar écrabouille un peu d'esprit latin<br>
 <br>
