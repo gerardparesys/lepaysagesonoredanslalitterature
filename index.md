@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-778 descriptions de paysage sonore trouvées dans la littérature.<br>
+782 descriptions de paysage sonore trouvées dans la littérature.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -168,6 +168,26 @@ dans la mêlée."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
+<a
+href="https://fr.wikisource.org/wiki/L%E2%80%99Odyss%C3%A9e/Traduction_Bareste"
+target="_blank">L'Odyssée Traduction (1842) de Eugène Bareste</a><br>
+VIIIe siècle av. J.-C.<br>
+<br>
+Livre XII<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Enfin nous entrons en gémissant dans le détroit.
+D'un côté se trouve Scylla, et de l'autre la redoutable Charybde qui
+dévore avec fracas l'onde amère. Quand celle-ci vomit les vagues
+qu'elle vient d'engloutir, la mer murmure en bouillonnant comme l'eau
+d'un bassin placé sur un ardent foyer, et l'écume jaillit dans les airs
+jusque sur les sommets élevés des deux écueils. Mais lorsque Charybde
+absorbe l'onde, la mer se creuse avec bruit ; les flots se brisent en
+mugissant autour du rocher, et dans le fond de l'abîme la terre laisse
+apparaître une arène bleuâtre : mes compagnons sont saisis d'épouvante."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/H%C3%A9siode" target="_blank">Hésiode</a><br>
 <a
 href="https://fr.wikipedia.org/wiki/Th%C3%A9ogonie_%28H%C3%A9siode%29"
@@ -180,7 +200,7 @@ target="_blank">La Théogonie - Traduction (1928) de Paul Mazon</a><br>
 "Terriblement, à l’entour, grondait la mer infinie. La terre soudain
 mugit à grande voix, et le vaste ciel, ébranlé, lui répondait en
 gémissant. Le haut Olympe chancelait sur sa base à l’élan des
-immortels. Un lourd tremblement parvenait jusqu’au Tartare brumeux,
+Immortels. Un lourd tremblement parvenait jusqu’au Tartare brumeux,
 mêlé à l’immense fracas de pas lancés dans une ruée indicible, ainsi
 que de puissants jets d’armes. Ils allaient ainsi se lançant des traits
 chargés de sanglots, et, des deux côtés, les voix en s’appelant
@@ -915,7 +935,10 @@ souches de palmiers évidées.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Meng_Haoran" target="_blank">Meng
-Haoran</a> (689 .. 740)<br>
+Haoran</a><br>
+<a href="https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%B5%A9%E7%84%B6"
+target="_blank">孟浩然</a><br>
+689 .. 740<br>
 <a
 href="https://www.albin-michel.fr/entre-source-et-nuage-voix-de-poetes-dans-la-chine-dhier-et-daujourdhui-9782226131607"
 target="_blank">Aube de Printemps - Traduction (1990) de François
@@ -929,7 +952,10 @@ Que de pétales, déjà, ont du tomber..."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://en.wikipedia.org/wiki/Li_Qi_%28poet%29" target="_blank">Li
-Qi</a> (690 .. 751)<br>
+Qi</a><br>
+<a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A2%80"
+target="_blank">李颀</a><br>
+690 .. 751<br>
 “Écoutant Dong jouer de la flûte jia des Hu...” - Traduction (1997) de
 Maurice Coyaud<br>
 cité dans : <a target="_blank"
@@ -947,7 +973,8 @@ Les cerfs farouches se lamentent, errant au pied du temple.”
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Chang_Jian" target="_blank">Chang
-Jian</a>&nbsp; (708 .. 765)<br>
+Jian</a>&nbsp; <br>
+708 .. 765<br>
 <a
 href="https://zh.wikisource.org/zh-hans/%E9%A1%8C%E7%A0%B4%E5%B1%B1%E5%AF%BA%E5%BE%8C%E7%A6%AA%E9%99%A2"
 target="_blank">题破山寺后禅院</a><br>
@@ -960,6 +987,32 @@ Clarté des monts où s'égaient les oiseaux<br>
 Reflets des eaux où s'épurent les coeurs,<br>
 Toute rumeur du monde ici s'est tue,<br>
 Rien que le son de la cloche et du gong."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Du_Fu" target="_blank">Du Fu (ou
+Tou Fou ou Thou-Fou)</a><br>
+<a href="https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB"
+target="_blank">杜甫</a><br>
+712 .. 770<br>
+<a
+href="https://www.chineancienne.fr/traductions/po%C3%A9sies-de-l-%C3%A9poque-des-thang/"
+target="_blank">Devant les ruines d'un vieux palais - Traduction
+(1862) de Léon d'Hervey de Saint-Denys</a><br>
+<br>
+"Le ruisseau s'éloigne en bouillonnant, le vent mugit avec violence à
+travers les pins ;<br>
+Les rats gris s'enfuient à mon approche et vont se cacher sous les
+vieilles tuiles.<br>
+Aujourd'hui sait-on quel prince éleva jadis ce palais ?<br>
+Sait-on qui nous légua ces ruines, au pied d'une montagne abrupte ?<br>
+<br>
+Sous forme de flammes bleuâtres, on y voit des esprits dans les
+profondeurs sombres ;<br>
+Et, sur la route défoncée, on entend des bruits qui ressemblent à des
+gémissements.<br>
+Ces dix mille voix de la nature ont un ensemble plein d'harmonie,<br>
+Et le spectacle de l'automne s'harmonise aussi avec ce triste tableau."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Thao-han
@@ -1017,8 +1070,10 @@ Vers mon amant pour l'en parer."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Jiaoran" target="_blank">Jiaoran</a>
-(730 .. 799)<br>
+href="https://fr.wikipedia.org/wiki/Jiaoran" target="_blank">Jiaoran</a><br>
+<a href="https://zh.wikipedia.org/wiki/%E7%9A%8E%E7%84%B6"
+target="_blank">皎然</a><br>
+730 .. 799<br>
 Le son de la cloche - Traduction de Jean-Pierre Diény<br>
 cité dans : <a href="https://shs.hal.science/halshs-01251599/document"
 target="_blank">De vent et d’eau. Quelques paysages à écouter dans la
@@ -9581,50 +9636,68 @@ Pessoa</a><br>
 href="https://agrcanelas.edu.pt/blogs/biblioteca/files/2012/11/Livro-do-Desassossego-.pdf"
 target="_blank">Livro do Desassossego</a><br>
 <a
-href="https://fr.wikipedia.org/wiki/Le_Livre_de_l%27intranquillit%C3%A9"
-target="_blank">Le Livre de l'intranquillité - Traduction (1988) de
+href="https://bourgoisediteur.fr/catalogue/le-livre-de-lintranquillite-copie/"
+target="_blank">Le Livre de l'intranquillité - Traduction (1999) de
 Françoise Laye</a> <br>
 1913 .. 1935<br>
 <br>
-19<br>
-"Je m’aperçois brusquement que le bruit est beaucoup plus
-fort, que beaucoup plus de monde existe. Les pas des piétons, plus
-nombreux, sont moins pressés. <br>
-... Les laitiers entrechoquent, comme des clefs creuses et absurdes,
-les bidons inégaux de leur métier ambulant."<br>
-<br>
-42<br>
+78<br>
 "&nbsp;&nbsp;&nbsp; Les coups de marteau à la porte du menuisier
-résonnent avec une
-étrangeté proche. Ils résonnent, largement espacés, chacun d’eux
-éveillant un écho sans utilité. Le bruit des charrettes semble celui
-d’un jour chargé d’orage. Les voix sortent de l’air, et non des
-gosiers. Au loin, le fleuve se traîne fatigué."<br>
+résonnent avec une étrangeté proche. Ils résonnent, largement espacés,
+chacun d’eux éveillant un écho sans utilité. Le bruit des charrettes
+semble celui d’un jour chargé d’orage. Les voix sortent de l’air, et
+non des gosiers. Au loin, le fleuve se traîne, d’un jaune cendreux."<br>
 <br>
-43<br>
-"Je ne rêve pas dans un intervalle précis, mais je perçois,
-attentif, et comme m’éveillant d’un sommeil où je n’aurais pas dormi,
-les premières rumeurs de la vie de la ville, qui montent, comme une
-inondation, de l’endroit vague, tout en bas, où se trouvent des rues
-menant Dieu sait où. Ce sont des sons allègres, filtrés par la
-tristesse de la pluie qui tombe, ou qui, peut-être, est déjà tombée —
-car je ne l’entends pas pour l’instant... <br>
-Ce sont des bruits allègres et dispersés et ils me font mal, au fond du
-coeur, comme s’ils m’appelaient pour un examen ou une exécution.<br>
-... <br>
-&nbsp;&nbsp;&nbsp; La rumeur du jour humain augmente soudain, comme le
-bruit d’une
-sonnerie. Au fond de la maison claque doucement la serrure de la
-première porte qu’on ouvre sur l’univers. J’entends des pantoufles dans
-un couloir absurde, qui mène à mon coeur. <br>
+139<br>
+"Je peux à tout le moins me sentir triste, et être conscient du fait
+que cette tristesse vient juste de croiser le bruit soudain (vu avec
+l’ouïe) du tram qui passe, le brouhaha de voix des jeunes gens, la
+rumeur oubliée de la ville bien vivante."<br>
+<br>
+222<br>
+"Puis, à travers la vaste salle, un coin de lumière métallique ouvrit
+une brèche dans la quiétude des corps humains, et avec ce sursaut
+glacé, un caillou de son roula en se heurtant un peu partout et
+s’émietta en silences durcis. Le son de la pluie diminue comme une voix
+plus légère. Le bruit de la rue diminue aussi de façon angoissante. De
+nouveau, un rai d’un jaune bref a voilé l’obscurité sourde, mais on a
+eu cette fois la possibilité d’une respiration avant que ne résonne
+brusquement, d’un autre endroit, le coup de poing de ce son
+saccadé&nbsp;; tel un adieu irrité, l’orage commençait à ne plus être
+là."<br>
+<br>
+436<br>
+"Je ne rêve pas dans un intervalle précis, mais je perçois, attentif,
+et comme m’éveillant d’un sommeil où je n’aurais pas dormi, les
+premières rumeurs de la vie de la ville, qui montent, comme une
+inondation, de l’endroit vague, tout en bas, où se trouvent toutes les
+rues de la Création. Ce sont des sons joyeux, filtrés par la tristesse
+de la pluie qui tombe, ou qui, peut-être, est déjà tombée – car je ne
+l’entends pas pour l’instant...<br>
+Ce sont des bruits joyeux et dispersés et ils me font mal, au fond du
+cœur, comme s’ils m’appelaient pour un examen ou une exécution.<br>
+...&nbsp;&nbsp;&nbsp; La rumeur du jour humain augmente soudain, comme
+le bruit d’une sonnerie. Au fond de la maison claque doucement la
+serrure de la première porte qu’on ouvre pour aller vivre. J’entends
+des pantoufles dans un couloir absurde, qui mène à mon cœur.<br>
 ... Je suis réveillé. Le bruit de la pluie s’estompe là-haut, dans
 l’extérieur indéfini."<br>
 <br>
-53<br>
-"Je peux à tout le moins me sentir triste, et être conscient du fait
-que cette tristesse vient d’avoir croisé le bruit soudain (vu avec
-l’ouïe) du tram qui passe, le brouhaha de voix des jeunes gens, la
-rumeur oubliée de la ville bien vivante." </div>
+450<br>
+"Une carriole lancée à fond de train bouscula bien haut les bruits de
+la rue. Involontairement, le téléphone se mit à grelotter. Au lieu de
+retourner dans son bureau, le patron Vasquès marcha vers l’appareil
+situé dans la grande salle. Il y eut un répit, un silence, et la pluie
+tombait comme en cauchemar."<br>
+<br>
+458<br>
+"Je m’aperçois brusquement que le bruit est beaucoup plus intense, que
+beaucoup plus de gens existent. Les pas des piétons, plus nombreux,
+sont moins pressés. Soudain, rompant cette absence, cette hâte moindre
+des autres, surgit le pas rapide et agile des varinas... Les laitiers
+entrechoquent, comme des clefs creuses et absurdes, les bidons inégaux
+de leur métier ambulant."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
@@ -12717,6 +12790,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 6 7 2026 
+</div><br>
+page mise à jour 14 7 2026 
