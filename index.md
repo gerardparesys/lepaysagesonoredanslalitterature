@@ -5,7 +5,8 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-782 descriptions de paysage sonore trouvées dans la littérature.<br>
+787 descriptions de paysage sonore trouvées dans la littérature.
+<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -287,7 +288,7 @@ tête..."<br>
 <a href="http://www.sefarim.fr/Proph%E8tes_Ez%E9chiel_3_12.aspx"
 target="_blank">Ezéchiel 3 - Traduction du Rabbinat</a><br>
 "Et l'esprit m'emporta et j'entendis derrière moi le bruit d'un grand
-tumulte : "Bénie soit la gloire de l'Eternel en son lieu !" <br>
+tumulte : « Bénie soit la gloire de l'Eternel en son lieu ! »<br>
 Et le bruit des ailes des Haïot qui se joignaient l'une l'autre et le
 bruit des roues vis-à-vis d'elles et le bruit d'un grand tumulte."
 </div>
@@ -2237,7 +2238,7 @@ target="_blank">Tome 2</a><br>
 "Écoute donc, et prête une oreille attentive, non pas au son
 harmonieux, mais au bruit confus qui, pour ma satisfaction et pour ton
 dépit, s’exhale du fond de ma poitrine amère :<br>
-&nbsp;&nbsp;&nbsp; "Que le rugissement du lion, le féroce hurlement du
+&nbsp;&nbsp;&nbsp; « Que le rugissement du lion, le féroce hurlement du
 loup, le
 sifflement horrible du serpent écailleux, l’effroyable cri de quelque
 monstre, le croassement augural de la corneille, le vacarme du vent qui
@@ -2246,7 +2247,7 @@ roucoulement de la tourterelle veuve, le chant sinistre du hibou, et
 les gémissements de toute la noire troupe de l’enfer accompagnent la
 plainte de mon âme, et se mêlent en un son qui trouble tous les sens ;
 car la peine qui me déchire a besoin, pour être contée, de moyens
-nouveaux."<br>
+nouveaux. »"<br>
 <br>
 "Ils n’eurent pas fait deux cents pas que leurs oreilles furent
 frappées par un grand bruit d’eau, comme serait celui d’une cascade qui
@@ -3267,7 +3268,7 @@ Majestueuses forêts, paisibles solitudes, qui plus d'une fois avez
 calmé mes passions, puissent les cris de la guerre ne troubler jamais
 vos résonnantes clairières ! N'accompagnez de vos religieux murmures
 que les chants des oiseaux, ou les doux entretiens des amis, qui
-viennent se reposer sous vos ombrages !<br>
+viennent se reposer sous vos ombrages !"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5291,7 +5292,7 @@ caché ses foudres, n'est-ce pas ?"<br>
 "&nbsp;&nbsp;&nbsp; Je suis triste, et j'entends sur le marbre d'une
 cheminée tomber une à une avec un bruit sourd, - une chute à voix
 basse, - les feuilles d'un gros bouquet de pivoines ; - et au-dessus et
-au-dessous de ma chambre des éclats de rire de femmes.<br>
+au-dessous de ma chambre des éclats de rire de femmes."<br>
 <br>
 "Dans le silence qui bourdonne, un bruit tombe goutte à goutte : c'est
 le ruisseau qui coule le long des chanlattes ; ou bien un glouglou
@@ -7217,6 +7218,8 @@ target="_blank">Maurice Maeterlinck</a><br>
 <a target="_blank"
 href="https://bruges-la-morte.net/wp-content/uploads/Pell%C3%A9as-et-M%C3%A9lisande.pdf">Pelléas
 et Mélisande</a><br>
+<a href="http://operacritiques.free.fr/sylvie_maet.pdf" target="_blank">Livret
+de l'opéra de Claude Debussy</a><br>
 1892<br>
 <br>
 "Mélisande<br>
@@ -10040,7 +10043,7 @@ restitué que par la seule musique."<br>
 m’intéresse, ce n’est pas seulement le côté <span
 style="font-style: italic;">émotionnel</span> du paysage, mais en
 premier lieu sa <span style="font-style: italic;">musicalité</span>,
-c’est-à-dire cette variété de la “non-indifférente nature” où l’effet
+c’est-à-dire cette variété de la « non-indifférente nature » où l’effet
 émotionnel est obtenu non seulement par <span
 style="font-style: italic;">le choix des éléments représentés</span>,
 mais surtout et avant tout par <span style="font-style: italic;">l’élaboration
@@ -11715,17 +11718,17 @@ target="_blank">Traité des objets musicaux</a><br>
 <br>
 "&nbsp;&nbsp;&nbsp; A proprement parler, je ne cesse jamais d'ouïr. Je
 vis dans un monde qui ne cesse pas d'être là pour moi, et ce monde est
-sonore aussi bien que tactile et visuel. Je me déplace dans une "
-ambiance " comme dans un paysage. Le silence le plus profond est encore
+sonore aussi bien que tactile et visuel. Je me déplace dans une «
+ambiance » comme dans un paysage. Le silence le plus profond est encore
 un fond sonore comme un autre, sur lequel se détachent alors, avec une
 solennité inhabituelle, le bruit de mon souffle et celui de mon coeur.
 Quelle serait pour nous l'étrangeté d'un monde subitement privé de
 cette dimension, nous pouvons l'entrevoir à la faveur d'un incident
 technique, lorsque la bande sonore d'un film est brutalement
 interrompue, ou dans certains rêves. On se souvient de celui de
-Baudelaire, et de ses " mouvantes merveilles " sur lesquelles " planait
+Baudelaire, et de ses « mouvantes merveilles » sur lesquelles « planait
 - terrible nouveauté - tout pour l'oeil, rien pour l'oreille - un
-silence d'éternité ". Comme si la rumeur continuelle qui imprègne
+silence d'éternité ». Comme si la rumeur continuelle qui imprègne
 jusqu'à notre sommeil se confondait avec le sentiment de notre propre
 durée." &nbsp;<br>
 </div>
@@ -11966,6 +11969,55 @@ d’air comprimé) –
 peut-être freinage&nbsp;?<br>
 &nbsp;&nbsp;&nbsp; faibles cris de pigeons (genre de crouic)<br>
 &nbsp;&nbsp;&nbsp; voix (allemand&nbsp;?)" </div>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Tournier" target="_blank">Michel
+Tournier</a><br>
+<a
+href="https://www.folio-lesite.fr/catalogue/le-roi-des-aulnes/9782070366569"
+target="_blank">Le Roi des Aulnes</a><br>
+1970<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le soir au réfectoire, nous avions la liberté de
+parole. Bien que nous ne fussions que cent cinquante, le bruit
+croissait régulièrement proprio motu, selon une loi constante puisque
+chacun était obligé d’élever la voix de plus en plus pour se faire
+entendre. Lorsque le vacarme ayant atteint son plein épanouissement
+formait comme un édifice sonore qui remplissait exactement la vaste
+pièce, un surveillant le détruisait d’un seul coup de sifflet à
+roulette. Le silence qui succédait avait quelque chose de vertigineux.
+Puis un murmure courait de table en table, une fourchette tintait sur
+une assiette, un rire fusait, le réseau des sons et des bruits
+retissait sa toile, et le cycle recommençait."<br>
+<br>
+"... Elle est là, lovée sur la bobine de l’appareil d’enregistrement.
+Je l’ai écoutée vingt fois peut-être, et je ne crois pas que je me
+lasserai de l’entendre.<br>
+&nbsp;&nbsp;&nbsp; Cela prélude par une gerbe sonore triomphale qui
+fait le silence autour d’elle, absorbant tout autre son. Puis cette
+masse apparemment homogène se fissure de mille petits cris qui la
+diversifient et l’affaiblissent en même temps.<br>
+...<br>
+Mais tout se résout à nouveau dans une grande fulmination sonore pleine
+d’éclats et de gémissements, buée argentée où tremblent des visages
+souriants ou pathétiques. Jusqu’au moment où la cloche attaque à coups
+précipités le dôme sonore, le sape de toutes parts, le réduit,
+l’anéantit, et l’on n’entend plus qu’un piétinement de galoches sur la
+terre battue.<br>
+&nbsp;&nbsp;&nbsp; En enroulant ma bande magnétique pour la vingtième
+fois autour de sa bobine, j’admire que le détail si clair, si évident
+de ces quinze minutes m’ait totalement échappé au cours de
+l’enregistrement&nbsp;– je ne percevais alors qu’un tumulte émouvant
+mais désordonné&nbsp;– et ne se soit révélé que lentement au fur et à
+mesure des auditions successives."<br>
+<br>
+"Régulièrement désormais, il s’offrait une nuit de
+«&nbsp;Canada&nbsp;», et c’était chaque fois une fête de solitude et de
+rêveries qu’alimentaient tous les bruits secrets de la forêt, frouement
+d’une dame blanche en chasse, chevrotement d’une hase en rut, tapements
+de pattes d’un lapin donnant l’alerte au goupil, et même parfois le
+brame lointain et triste d’une harde."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12433,6 +12485,26 @@ d’aucun bruit."&nbsp;<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean_Echenoz" target="_blank">Jean
+Echenoz</a><br>
+<a
+href="https://www.leseditionsdeminuit.fr/livre-Je_m_en_vais-1637-1-1-0-1.html"
+target="_blank">Je m'en vais</a><br>
+1999<br>
+<br>
+"&nbsp;&nbsp; &nbsp;Le reste du temps c’est dimanche, un perpétuel
+dimanche dont le silence de feutre ménage une distance entre les sons,
+les choses, les instants mêmes&nbsp;: la blancheur contracte l’espace
+et le froid ralentit le temps."<br>
+<br>
+"... des espèces de HLM améliorées par les fenêtres desquelles, dans le
+silence du cimetière, divers lambeaux sonores tombent en voltigeant
+comme des écharpes, bruits de cuisine ou de salle de bains, de chasse
+d’eau, exclamations de jeux radiophoniques, disputes et cris
+d’enfants."&nbsp;<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Cornelia_Funke" target="_blank">Cornelia
 Funke</a><br>
 <a href="https://de.wikipedia.org/wiki/Herr_der_Diebe" target="_blank">Herr
@@ -12791,4 +12863,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 14 7 2026 
+page mise à jour 17 7 2026 
