@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-787 descriptions de paysage sonore trouvées dans la littérature.
+794 descriptions de paysage sonore trouvées dans la littérature.
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -170,10 +170,27 @@ dans la mêlée."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
+<a href="https://fr.wikipedia.org/wiki/Odyss%C3%A9e" target="_blank">L'Odyssée</a><br>
+VIIIe siècle av. J.-C.<br>
+<br>
+<a
+href="https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955"
+target="_blank">Traduction (1955) de Victor Bérard</a><br>
+<br>
+Chant IX<br>
+<br>
+"... C'est ainsi qu'en son oeil, nous tenions et tournions notre pointe
+de feu, et le sang bouillonnait autour du pieu brûlant : paupière et
+sourcils n'étaient plus que vapeurs de la prunelle en flammes, tandis
+qu'en grésillant, les racines flambaient... [Dans l'eau froide du bain
+qui trempe le métal, quand le maître bronzier plonge une grosse hache
+ou bien une doloire, le fer crie et gémit. C'est ainsi qu'en son oeil,
+notre olivier sifflait...] Il eut un cri de fauve. La roche retentit.
+Mais nous, épouvantés, nous étions déjà loin."<br>
+<br>
 <a
 href="https://fr.wikisource.org/wiki/L%E2%80%99Odyss%C3%A9e/Traduction_Bareste"
-target="_blank">L'Odyssée Traduction (1842) de Eugène Bareste</a><br>
-VIIIe siècle av. J.-C.<br>
+target="_blank">Traduction (1842) de Eugène Bareste</a><br>
 <br>
 Livre XII<br>
 <br>
@@ -2355,6 +2372,40 @@ N’avez-vous pas parlé ?"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Francis_Bacon_%28philosophe%29"
+target="_blank">Francis Bacon</a><br>
+<a href="https://www.gutenberg.org/files/2434/2434-h/2434-h.htm"
+target="_blank">The New Atlantis</a><br>
+<a
+href="https://fr.wikisource.org/wiki/La_Nouvelle_Atlantide_%28trad._Raguet%29"
+target="_blank">La Nouvelle Atlantide - Traduction (1702) de Gilles
+Bernard Raguet</a><br>
+1624<br>
+<br>
+"Nous avons aussi des maisons destinées aux expériences, et aux
+démonstrations qui se peuvent faire sur les sons et leur production.
+Nous composons des harmonies dont l’usage est inconnu parmi vous, dans
+lesquelles nous joignons à votre bécarre, à votre bémol, quelques
+tremblements fort doux, et certains quarts de tons. Nous avons des
+instruments de musique que vous ne connaissez pas encore, dont
+quelques-uns sont meilleurs que les vôtres pour la symphonie ; nous
+avons aussi des cloches et des clochettes d’un son très agréable ; nous
+donnons aux sons aigus le même corps que s’ils étaient graves ; et aux
+graves, le même éclat que s’ils étaient aigus. Nous formons des
+tremblements avec des sons qui dans leur première origine sont pleins
+et entiers ; nous imitons tous les sons articulés, la puissance des
+lettres, les voix des animaux, et le chant des oiseaux. Nous faisons
+des instruments qui approchés de l’oreille, fortifient l’ouïe et
+ramassent les sons d’une manière merveilleuse. Nous avons de ces
+réflexions à qui vous donnez le nom d’écho, d’un artifice surprenant ;
+car non seulement elles multiplient la voix en la renvoyant ; mais
+aussi il y en a qui l’augmentent : d’autres la rendent toute différente
+de ce qu’elle était en elle-même pour l’articulation. Nous avons, en
+dernier lieu, des trompettes et d’autres instruments creux qui portent
+les sons à une grande distance, suivant des lignes tordues."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marin_Mersenne" target="_blank">Marin
 Mersenne</a><br>
 <a target="_blank"
@@ -3223,6 +3274,31 @@ l'abbé Dauphin)<br>
 </a>1796<br>
 <br>
 8e étude - De quelques lois générales de la nature<br>
+<br>
+"Il est très remarquable que partout les oiseaux chanteurs ont
+l'instinct de se rapprocher de l'habitation de l'homme. S'il y a une
+cabane dans une forêt, tous les oiseaux chantants du voisinage viennent
+s'établir aux environs. On n'en trouve même qu'auprès des lieux
+habités. J'ai fait plus de 600 lieues dans les forêts de la Russie, et
+je n'y ai jamais vu de petits oiseaux qu'aux environs des villages.<br>
+&nbsp;&nbsp;&nbsp; Nous observerons que la Nature n'a donné aucun chant
+agréable aux oiseaux de marine et de rivière, parce qu'il eût été
+étouffé par les bruits des eaux, et que l'oreille humaine n'eût pu en
+jouir à la distance où ils vivent de la terre. Les oiseaux aquatiques
+ont des cris perçants propres à se faire entendre dans les régions des
+vents et des tempêtes qu'ils habitent, et qui ont des convenances
+parfaites avec leurs sites bruyants, et leurs solitudes mélancoliques.<br>
+&nbsp;&nbsp;&nbsp; Les mélodies des oiseaux de chant ont de pareilles
+relations avec les sites qu'ils occupent, et même avec les distances où
+ils vivent de nos habitations. L'Alouette qui fait son nid dans nos
+blés, et qui aime à s'élever à perte de vue, se fait entendre en l'air,
+lors même qu'on ne l'aperçoit plus. L'Hirondelle qui frise, en volant,
+les parois de nos maisons, et qui se repose sur nos cheminées, a un
+petit gazouillement doux, qui n'est point étourdissant, comme serait
+celui des oiseaux de bocages ; mais le Rossignol solitaire se fait ouïr
+à plus d'une demi-lieue. L'homme seul, de son côté, est attentif aux
+accents des oiseaux. Jamais le Cerf, qui verse des larmes sur ses
+propres malheurs, ne soupire à ceux de la plaintive Philomèle."<br>
 <br>
 "Les bruits mêmes des plantes ne sont pas à dédaigner ; car
 lorsqu'elles sont agitées par les vents, la plupart rendent des sons
@@ -10725,6 +10801,36 @@ ce qui l’a précédé et lui survivra."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jacques_Brel" target="_blank">Jacques
+Brel</a><br>
+<a href="https://www.youtube.com/watch?v=yd0IcyUDSeM" target="_blank">Il
+Nous Faut Regarder</a><br>
+1954<br>
+<br>
+"Par-delà le concert <br>
+Des sanglots et des pleurs <br>
+Et des cris de colère <br>
+Des hommes qui ont peur <br>
+Par-delà le vacarme <br>
+Des rues et des chantiers <br>
+Des sirènes d’alarme <br>
+Des jurons de charretier <br>
+Plus fort que les enfants<br>
+Qui racontent les guerres <br>
+Et plus fort que les grands <br>
+Qui nous les ont fait faire<br>
+<br>
+Il nous faut écouter <br>
+L’oiseau au fond des bois <br>
+Le murmure de l’été <br>
+Le sang qui monte en soi <br>
+Les berceuses des mères <br>
+Les prières des enfants <br>
+Et le bruit de la terre <br>
+Qui s’endort doucement."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
 <a
@@ -12171,12 +12277,73 @@ c’était moi."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Gilles_Deleuze" target="_blank">Gilles
+Deleuze</a> et <a
+href="https://fr.wikipedia.org/wiki/F%C3%A9lix_Guattari"
+target="_blank">Félix Guattari</a><br>
+<a href="http://palimpsestes.fr/textes_philo/deleuze/Mille-Plateaux.pdf"
+target="_blank">Mille Plateaux</a><br>
+1980<br>
+<br>
+Devenir-intense, devenir-animal, devenir-imperceptible...<br>
+<br>
+"Messiaen met en présence des durées chromatiques multiples, en
+coalescence, « alternant les plus grandes et les plus petites, afin de
+suggérer l'idée des rapports entre les temps infiniment longs des
+étoiles et des montagnes, et infiniment courts des insectes et des
+atomes : pouvoir élémentaire, cosmique, qui ... vient avant tout du
+travail rythmique »." (Gisèle Bre1et - Histoire de la musique - Pléiade)<br>
+<br>
+De la ritournelle <br>
+<br>
+"Les chants d'oiseaux : l'oiseau qui chante marque ainsi son
+territoire... Les modes grecs, les rythmes hindous, sont eux-mêmes
+territoriaux, provinciaux, régionaux.<br>
+...<br>
+&nbsp;&nbsp;&nbsp; Il faudrait dire plutôt que les motifs territoriaux
+forment des <span style="font-style: italic;">visages ou personnages
+rythmiques</span>, et les contre-points territoriaux des <span
+style="font-style: italic;">paysages mélodiques</span>.
+Il y a personnage rythmique lorsque nous ne nous trouvons plus dans la
+situation simple d'un rythme qui serait lui-même associé à un
+personnage, à un sujet ou à une impulsion : maintenant, c'est le rythme
+lui-même qui est tout le personnage, et qui, à ce titre, peut rester
+constant, mais aussi bien augmenter ou diminuer, par ajout ou retrait
+de sons, de durées toujours croissantes et décroissantes, par
+amplification ou élimination qui font mourir et ressusciter, apparaître
+et disparaître. De même, le paysage mélodique n'est plus une mélodie
+associée à un paysage, c'est la mélodie qui fait elle-même un paysage
+sonore, et prend en contre-point tous les rapports avec un paysage
+virtuel."<br>
+<br>
+"Et ce n'est pas par hasard si l'apprentissage de <span
+style="font-style: italic;">La recherche</span>
+poursuit une découverte analogue à propos des petites phrases de
+Vinteuil : elles ne renvoient pas à un paysage, mais emportent et
+développent en elles des paysages qui n'existent plus en dehors (la
+blanche sonate et le rouge septuor... ). La découverte du paysage
+proprement mélodique et du personnage proprement rythmique marque ce
+moment de l'art en tant qu'il cesse d'être une peinture muette sur un
+panonceau. Peut-être n'est-ce pas le dernier mot de l'art, mais l'art
+est passé par là, tout comme l'oiseau, motifs et contre-points qui
+forment un auto-développement, c'est-à-dire un style. L'intériorisation
+du paysage sonore ou mélodique peut trouver sa forme exemplaire chez
+Liszt non moins que celle du personnage rythmique chez Wagner. Plus
+généralement, le lied est l'art musical du paysage, la forme la plus
+picturale de la musique, la plus impressionniste. Mais les deux pôles
+sont tellement liés que, dans le lied aussi, la Nature apparaît comme
+personnage rythmique aux transformations infinies."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques_Roubaud" target="_blank">Jacques
 Roubaud</a><br>
 <a
 href="https://www.gallimard.fr/catalogue/dors-precede-de-dire-la-poesie/9782070256709"
 target="_blank">Dors</a><br>
 1981<br>
+<br>
+<span style="font-style: italic;">un silence</span><br>
 <br>
 "un silence :<br>
 <br>
@@ -12862,5 +13029,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-page mise à jour 17 7 2026 
+</div>
+<br>
+page mise à jour 27 7 2026 
