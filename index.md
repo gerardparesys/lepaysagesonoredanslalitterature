@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-794 descriptions de paysage sonore trouvées dans la littérature.
+797 descriptions de paysage sonore trouvées dans la littérature.
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -741,6 +741,42 @@ Les plantes verdoyantes et le concert des oiseaux l’affligent."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean_Chrysostome" target="_blank">Jean
+Chrysostome</a> (entre 344 et 349 .. 407)<br>
+<a
+href="https://fr.wikisource.org/wiki/Trait%C3%A9_de_la_componction/Livre_deuxi%C3%A8me."
+target="_blank">Traité de la componction - Traduction (1864) de M.
+Jeannin.</a><br>
+<br>
+Livre deuxième. — Au moine Stéléchius.<br>
+<br>
+"&nbsp;&nbsp;&nbsp; C’est qu’en effet il y a ici-bas tant de choses qui
+obscurcissent la vue, tant d’objets qui assourdissent les oreilles et
+qui embarrassent la langue, qu’il faut nécessairement nous soustraire à
+ce tumulte, nous dérober à cette fumée ; puis ensuite, nous réfugier
+dans ce lieu solitaire où règne un calme profond, et une sérénité
+parfaite ; où l’on n’entend aucun bruit ; où les yeux demeurent fixés
+sur le grand Dieu, seul objet de leurs regards ; où les oreilles, que
+rien ne trouble, ne sont attentives qu’à une seule chose, écouter les
+divins oracles, s’enivrer de la ravissante harmonie des célestes
+concerts, harmonie spirituelle qui exerce un tel empire sur l’âme que,
+quiconque en a une fois goûté les charmes, trouve désormais insipide et
+le manger, et le boire, et le dormir ; tant sont invincibles les
+attraits de cette divine mélodie ! Ni le fracas des affaires
+séculières, ni la multitude innombrable des choses corporelles ne
+saurait faire cesser cette sorte de ravissement. Le bruit des tempêtes
+qui règnent dans ce bas-monde, ne monte pas jusqu’à la hauteur où cette
+âme réside. De même que ceux qui se sont retirés sur les sommets des
+montagnes, ne voient et n’entendent plus rien de ce qui se passe ni de
+ce qui se dit dans la cité, excepté peut-être un bruit confus, et aussi
+peu agréable que des bourdonnements d’insectes : de même, ceux qui se
+sont dégagés des choses de cette vie, et qui, prenant un essor sublime,
+ont pu parvenir au sommet de la vraie philosophie, sont entièrement
+étrangers à tout, ce qui se passe parmi nous ; nul objet terrestre ne
+les touche plus."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Augustin_d%27Hippone"
 target="_blank">Augustin d'Hippone (Saint Augustin)</a><br>
 <a href="http://www.augustinus.it/latino/" target="_blank">S. Aurelii
@@ -953,10 +989,9 @@ souches de palmiers évidées.<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Meng_Haoran" target="_blank">Meng
-Haoran</a><br>
+Haoran</a> (689 .. 740)<br>
 <a href="https://zh.wikipedia.org/wiki/%E5%AD%9F%E6%B5%A9%E7%84%B6"
 target="_blank">孟浩然</a><br>
-689 .. 740<br>
 <a
 href="https://www.albin-michel.fr/entre-source-et-nuage-voix-de-poetes-dans-la-chine-dhier-et-daujourdhui-9782226131607"
 target="_blank">Aube de Printemps - Traduction (1990) de François
@@ -970,10 +1005,9 @@ Que de pétales, déjà, ont du tomber..."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://en.wikipedia.org/wiki/Li_Qi_%28poet%29" target="_blank">Li
-Qi</a><br>
+Qi</a> (690 .. 751)<br>
 <a href="https://zh.wikipedia.org/wiki/%E6%9D%8E%E9%A2%80"
 target="_blank">李颀</a><br>
-690 .. 751<br>
 “Écoutant Dong jouer de la flûte jia des Hu...” - Traduction (1997) de
 Maurice Coyaud<br>
 cité dans : <a target="_blank"
@@ -991,8 +1025,7 @@ Les cerfs farouches se lamentent, errant au pied du temple.”
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Chang_Jian" target="_blank">Chang
-Jian</a>&nbsp; <br>
-708 .. 765<br>
+Jian</a> (708 .. 765)<br>
 <a
 href="https://zh.wikisource.org/zh-hans/%E9%A1%8C%E7%A0%B4%E5%B1%B1%E5%AF%BA%E5%BE%8C%E7%A6%AA%E9%99%A2"
 target="_blank">题破山寺后禅院</a><br>
@@ -1009,10 +1042,9 @@ Rien que le son de la cloche et du gong."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Du_Fu" target="_blank">Du Fu (ou
-Tou Fou ou Thou-Fou)</a><br>
+Tou Fou ou Thou-Fou)</a> (712 .. 770)<br>
 <a href="https://zh.wikipedia.org/wiki/%E6%9D%9C%E7%94%AB"
 target="_blank">杜甫</a><br>
-712 .. 770<br>
 <a
 href="https://www.chineancienne.fr/traductions/po%C3%A9sies-de-l-%C3%A9poque-des-thang/"
 target="_blank">Devant les ruines d'un vieux palais - Traduction
@@ -1088,10 +1120,10 @@ Vers mon amant pour l'en parer."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Jiaoran" target="_blank">Jiaoran</a><br>
+href="https://fr.wikipedia.org/wiki/Jiaoran" target="_blank">Jiaoran</a>
+(730 .. 799)<br>
 <a href="https://zh.wikipedia.org/wiki/%E7%9A%8E%E7%84%B6"
 target="_blank">皎然</a><br>
-730 .. 799<br>
 Le son de la cloche - Traduction de Jean-Pierre Diény<br>
 cité dans : <a href="https://shs.hal.science/halshs-01251599/document"
 target="_blank">De vent et d’eau. Quelques paysages à écouter dans la
@@ -1553,7 +1585,7 @@ cité dans : <a
 href="https://shs.cairn.info/revue-societes-et-representations-2020-1-page-27"
 target="_blank">Crieurs, cloches, chants et voix d’outre-tombe : les
 sons au Moyen Âge</a> de Jean-Claude Schmitt<br>
-1283..1285<br>
+1283 .. 1285<br>
 <br>
 "(le frère Hugues de Digne était) un prédicateur exceptionnel qui
 parlait d’abondance, d’une voix semblable à une trompette
@@ -1827,7 +1859,7 @@ justes pour les décrire. À l’écouter, l’oreille se fait plus subtile.”<
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Ier_d%27Orl%C3%A9ans"
-target="_blank">Charles d’Orléans</a> (1394..1465)<br>
+target="_blank">Charles d’Orléans</a> (1394 .. 1465)<br>
 <a target="_blank"
 href="https://fr.wikisource.org/wiki/Po%C3%A8me_de_la_prison">Poème de
 la prison</a><br>
@@ -2382,7 +2414,8 @@ target="_blank">La Nouvelle Atlantide - Traduction (1702) de Gilles
 Bernard Raguet</a><br>
 1624<br>
 <br>
-"Nous avons aussi des maisons destinées aux expériences, et aux
+"&nbsp;&nbsp;&nbsp; Nous avons aussi des maisons destinées aux
+expériences, et aux
 démonstrations qui se peuvent faire sur les sons et leur production.
 Nous composons des harmonies dont l’usage est inconnu parmi vous, dans
 lesquelles nous joignons à votre bécarre, à votre bémol, quelques
@@ -8286,6 +8319,30 @@ angoissé qui te sonde comme si tu étais dans le secret de chaque son
 étouffé, d’accord avec lui et de concert."<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Vassily_Kandinsky" target="_blank">Vassily
+Kandinsky</a><br>
+<a href="https://www.gutenberg.org/ebooks/46203" target="_blank">Über
+das Geistige in der Kunst, Insbesondere in der Malerei</a><br>
+<a
+href="https://journal.alinareyes.net/2016/03/30/kandinsky-du-spirituel-dans-lart-et-dans-la-peinture-en-particulier/"
+target="_blank">Du spirituel dans l'art, et dans la peinture en
+particulier - Traduction (1954) de Pierre Volboudt</a><br>
+1911<br>
+<br>
+" Un mot qu’on répète, jeu auquel la jeunesse aime à se livrer et
+qu’elle oublie ensuite, finit par perdre toute référence à son sens
+extérieur. La valeur devenue abstraite de l’objet désigné disparaît ;
+seul, le « son » du mot demeure. Ce « son pur », nous le percevons
+peut-être inconsciemment en même temps que l’objet – réel ou qui a fini
+par devenir abstrait. Mais alors ce son apparaît au premier plan pour
+exercer une impression directe sur l’âme. L’âme subit une vibration
+pure encore plus complexe, je dirais presque plus « surnaturelle » que
+l’émotion que peut lui donner le bruit d’une cloche, le son d’une corde
+tendue, la chute d’une planche, etc. La littérature de l’avenir a là de
+belles perspectives."<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">
 <a href="https://fr.wikipedia.org/wiki/Thomas_Mann" target="_blank">Thomas
 Mann</a>
@@ -12937,6 +12994,28 @@ bande-son radicalement bordélique, ça c'était Paris."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Pierre_Lemaitre" target="_blank">Pierre
+Lemaitre</a><br>
+<a href="https://fr.wikipedia.org/wiki/Au_revoir_l%C3%A0-haut"
+target="_blank">Au revoir là-haut</a><br>
+2013<br>
+<br>
+"... l’obus se fait entendre quelques dizaines de mètres au-dessus de
+lui. <br>
+... il s’annonce par un bruit étrange, comme nouveau, à la fois plus
+sourd et plus feutré que les autres, un ronflement amorti, qui se
+termine en une vrille surpuissante. Le cerveau d’Albert a juste le
+temps de s’interroger. La détonation est incommensurable. Prise d’une
+convulsion foudroyante, la terre s’ébranle et pousse un&nbsp;grondement
+massif et lugubre avant de se soulever. Un volcan.<br>
+... Dans un formidable craquement, la nappe s’abat sur lui.<br>
+... Progressivement, à mesure que la terre s’entasse au-dessus de lui,
+il est immobilisé, compressé, comprimé.<br>
+... La première chose qui le frappe, juste avant la panique, c’est la
+cessation du bruit de la guerre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
 <a
@@ -13029,6 +13108,5 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
-page mise à jour 27 7 2026 
+</div><br>
+page mise à jour 28 7 2026 
