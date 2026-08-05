@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-797 descriptions de paysage sonore trouvées dans la littérature.
+<h1><small><small>801 descriptions de paysage sonore trouvées dans la littérature.</small></small></h1>
 <br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -1085,7 +1085,7 @@ Errante et captive, tout à la fois, dans un merveilleux ravissement."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
-target="_blank">Man'yōshū (le recueil des dix mille feuilles)</a><br>
+target="_blank">Man'yōshū</a><br>
 Chōka 3223 - Traduction de Claude Péronny<br>
 cité dans : <a
 href="http://www.dominiquechipot.fr/haikus/historique/Manyoshu.html"
@@ -1116,7 +1116,34 @@ Par le bout en les ployant<br>
 Pour les rompre,<br>
 Et, les portant, suis allée<br>
 Vers mon amant pour l'en parer."<br>
+<br>
 &nbsp;&nbsp;&nbsp; zelkovas : sorte d'orme<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
+<a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
+target="_blank">Man'yōshū</a><br>
+Poème VI-1062 - Traduction de Jacqueline Pigeot<br>
+cité dans : <a
+href="https://www.editions-hermann.fr/livre/la-mer-dans-la-litterature-japonaise-ancienne-viiie-xvie-siecles-jacqueline-pigeot"
+target="_blank">La mer dans la littérature japonaise ancienne (VIIIe –
+XVIe siècles)</a><br>
+744<br>
+<br>
+"Le palais de Naniwa où notre Prince au règne pacifique se plaît à
+résider<br>
+voisine la mer – la mer où l’on chasse la baleine –<br>
+Il est proche du rivage – le rivage où l’on ramasse de jolis galets.<br>
+Au matin souffle le vent : rumeur des vagues.<br>
+Accalmie du soir : on entend le bruit des rames.<br>
+Au réveil, à l’aurore, quand on prête l’oreille<br>
+sur la grève, avec la marée basse qui découvre les récifs,<br>
+les pluviers appellent leurs compagnons ;<br>
+dans les roselières, tapage que fait le craquètement des grues.<br>
+Les gens qui regardent vont le racontant ;<br>
+ceux qui les écoutent le voudraient voir.<br>
+Ce palais d’Adjifu où l’on porte redevance<br>
+on ne se lasse pas de le contempler !"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -1963,7 +1990,7 @@ pierres multicolores, avec l’idée d’imaginer quelque scène, tu y
 trouveras l’analogie de paysages au décor de montagnes, rivières,
 rochers, arbres, plaines, larges vallées et collines de toutes sortes.
 Tu pourras y voir aussi des batailles et des figures aux gestes vifs et
-d’étranges visages et costumes et une infinité de choses, que tu
+d’étranges visages et costumes et une infinité de choses que tu
 pourras ramener à une forme nette et compléter. Et il en va de ces murs
 et couleurs comme du son des cloches ; dans leurs battements tu
 trouveras tous les sons et les mots que tu voudras imaginer."<br>
@@ -3156,7 +3183,7 @@ verdis par de longues mousses, ceux-là hérissés de ronces et de plantes
 sauvages de toute espèce ; ces rayons égarés du soleil, qui se brisent,
 qui se jouent sur le roc, dans les eaux, parmi les fleurs ; ces oiseaux
 que le bruit et le vent des ondes effrayent et repoussent, dont on ne
-peut entendre la voix ; tout cela m'émeut, me trouble, m'enchante!"<br>
+peut entendre la voix ; tout cela m'émeut, me trouble, m'enchante !"<br>
 <br>
 Lettre LVII. A Rome. <span style="font-style: italic;">Incendie</span>
 del borgo, <span style="font-style: italic;">par Raphaël</span>.<br>
@@ -8493,7 +8520,7 @@ Cris mangés de vent, qui brouillent la musique<br>
 D’une mandoline égrenant : ‘Sobre las olas del mar...’<br>
 Et le bruit coutumier qui finit par être silence.<br>
 &nbsp;<br>
-Oh! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
+Oh ! sur le pont, là-haut, le vent long et féroce, le vent pirate<br>
 Sifflant dans les cordages, et faisant claquer comme un fouet<br>
 Le drapeau de bandes et d’étoiles aux trois couleurs..."<br>
 <br>
@@ -11241,6 +11268,24 @@ meubles, j’attends."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Vladimir_Jank%C3%A9l%C3%A9vitch"
+target="_blank">Vladimir Jankélévitch</a><br>
+<a
+href="https://www.editionspoints.com/ouvrage/la-musique-et-les-heures-vladimir-jankelevitch/9782757899076"
+target="_blank">La Musique et les Heures</a><br>
+1957<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Cette nature, qui est le laboratoire de toutes les
+disjonctions civilisées, elle commence à parler aux hommes quand les
+ombres du soir s'allongent dans les vallées, quand les jardins du jour
+s'emplissent de mystère, de fraîcheur et de musique. La rumeur magique
+de chaque nuit s’est éveillée. Ceux qui ne dorment pas savent retrouver
+dans la nuit un témoin de l’origine des temps et comme la revanche de
+ces forces élémentaires que chassera de nouveau, au grand jour revenu,
+le vent du nord de la raison."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
 Bosco</a><br>
 <a href="https://www.gallimard.fr/catalogue/barboche/9782072437335"
@@ -11614,6 +11659,354 @@ si la cloche se tait et son terlintintin"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
+Queneau</a><br>
+<a href="http://www.bludog.fr/overblog/Divers/Queneau/index.html"
+target="_blank">Cent mille milliards de poèmes</a><br>
+1961<br>
+<br>
+<select>
+<option value="Le roi de la pampa retourne sa chemise">Le roi de la
+pampa retourne sa chemise</option>
+<option value="Lorsque tout est fini lorsque l'on agonise">Lorsque tout
+est fini lorsque l'on agonise</option>
+<option value="Le cheval Parthénon s'énerve sur sa frise">Le cheval
+Parthénon s'énerve sur sa frise</option>
+<option value="Le vieux marin breton de tabac prit sa prise">Le vieux
+marin breton de tabac prit sa prise</option>
+<option value="C'était à cinq o'clock que sortait la marquise">C'était
+à cinq o'clock que sortait la marquise</option>
+<option value="Du jeune avantageux la nymphe était éprise">Du jeune
+avantageux la nymphe était éprise</option>
+<option value="Il se penche il voudrait attraper sa valise">Il se
+penche il voudrait attraper sa valise</option>
+<option value="Quand l'un avecque l'autre aussitôt sympathise">Quand
+l'un avecque l'autre aussitôt sympathise</option>
+<option selected="selected"
+value="Lorsqu'un jour exalté l'aède prosaïse">Lorsqu'un jour exalté
+l'aède prosaïse</option>
+<option value="Le marbre pour l'acide est une friandise">Le marbre pour
+l'acide est une friandise</option>
+</select>
+<br>
+<select>
+<option value="pour la mettre à sécher aux cornes des taureaux">pour la
+mettre à sécher aux cornes des taureaux</option>
+<option value="lorsque le marbrier astique nos tombeaux">lorsque le
+marbrier astique nos tombeaux</option>
+<option value="depuis que lord Elgin négligea ses naseaux">depuis que
+lord Elgin négligea ses naseaux</option>
+<option selected="selected"
+value="pour du fin fond du nez exciter les arceaux">pour du fin fond
+du nez exciter les arceaux</option>
+<option value="pour consommer un thé puis des petits gâteaux">pour
+consommer un thé puis des petits gâteaux</option>
+<option value="snob un peu sur les bords des bords fondamentaux">snob
+un peu sur les bords des bords fondamentaux</option>
+<option value="que convoitait c'est sûr une horde d'escrocs">que
+convoitait c'est sûr une horde d'escrocs</option>
+<option value="se faire il pourrait bien que ce soit des jumeaux">se
+faire il pourrait bien que ce soit des jumeaux</option>
+<option value="pour déplaire au profane aussi bien qu'aux idiots">pour
+déplaire au profane aussi bien qu'aux idiots</option>
+<option value="d'aucuns par dessus tout prisent les escargots">d'aucuns
+par dessus tout prisent les escargots</option>
+</select>
+<br>
+<select>
+<option value="le cornédbif en boîte empeste la remise">le cornédbif en
+boîte empeste la remise</option>
+<option selected="selected"
+value="des êtres indécis vous parlent sans franchise">des êtres
+indécis vous parlent sans franchise</option>
+<option value="le Turc de ce temps-là pataugeait dans sa crise">le Turc
+de ce temps-là pataugeait dans sa crise</option>
+<option value="sur l'antique bahut il choisit sa cerise">sur l'antique
+bahut il choisit sa cerise</option>
+<option value="le chauffeur indigène attendait dans la brise">le
+chauffeur indigène attendait dans la brise</option>
+<option value="une toge il portait qui n'était pas de mise">une toge il
+portait qui n'était pas de mise</option>
+<option value="il se penche et alors à sa grande surprise">il se penche
+et alors à sa grande surprise</option>
+<option value="la découverte alors voilà qui traumatise">la découverte
+alors voilà qui traumatise</option>
+<option value="la critique lucide aperçoit ce qu'il vise">la critique
+lucide aperçoit ce qu'il vise</option>
+<option value="sur la place un forain de feu se gargarise">sur la place
+un forain de feu se gargarise</option>
+</select>
+<br>
+<select>
+<option value="et fermentent de même et les cuirs et les peaux">et
+fermentent de même et les cuirs et les peaux</option>
+<option value="et tout vient signifier la fin des haricots">et tout
+vient signifier la fin des haricots</option>
+<option value="il chantait tout de même oui mais il chantait faux">il
+chantait tout de même oui mais il chantait faux</option>
+<option value="il n'avait droit qu'à une et le jour des Rameaux">il
+n'avait droit qu'à une et le jour des Rameaux</option>
+<option value="elle soufflait bien fort par-dessus les côteaux">elle
+soufflait bien fort par-dessus les côteaux</option>
+<option value="des narcisses on cueille ou bien on est des veaux">des
+narcisses on cueille ou bien on est des veaux</option>
+<option value="il ne trouve aussi sec qu'un sac de vieux fayots">il ne
+trouve aussi sec qu'un sac de vieux fayots</option>
+<option value="on espère toujours être de vrais normaux">on espère
+toujours être de vrais normaux</option>
+<option selected="selected"
+value="il donne à la tribu des cris aux sens nouveaux">il donne à la
+tribu des cris aux sens nouveaux</option>
+<option value="qui sait si le requin boulotte les turbots ?">qui sait
+si le requin boulotte les turbots ?</option>
+</select>
+<br>
+<br>
+<select>
+<option value="Je me souviens encor de cette heure exeuquise">Je me
+souviens encor de cette heure exeuquise</option>
+<option value="On vous fait devenir une orde marchandise">On vous fait
+devenir une orde marchandise</option>
+<option selected="selected"
+value="Le cheval Parthénon frissonait sous la bise">Le cheval
+Parthénon frissonait sous la bise</option>
+<option value="Souvenez-vous amis de ces îles de Frise">Souvenez-vous
+amis de ces îles de Frise</option>
+<option value="On était bien surpris par cette plaine grise">On était
+bien surpris par cette plaine grise</option>
+<option value="Quand on prend des photos de cette tour de Pise">Quand
+on prend des photos de cette tour de Pise</option>
+<option value="Il déplore il déplore une telle mainmise">Il déplore il
+déplore une telle mainmise</option>
+<option value="Et pourtant c'était lui le frère de feintise">Et
+pourtant c'était lui le frère de feintise</option>
+<option value="L'un et l'autre a raison non la foule insoumise">L'un et
+l'autre a raison non la foule insoumise</option>
+<option value="Du voisin le Papou suçote l'apophyse">Du voisin le Papou
+suçote l'apophyse</option>
+</select>
+<br>
+<select>
+<option value="les gauchos dans la plaine agitaient leurs drapeaux">les
+gauchos dans la plaine agitaient leurs drapeaux</option>
+<option value="on prépare la route aux pensers sépulcraux">on prépare
+la route aux pensers sépulcraux</option>
+<option value="du client londonien où s'ébattent les beaux">du client
+londonien où s'ébattent les beaux</option>
+<option value="où venaient par milliers s'échouer les harenceaux">où
+venaient par milliers s'échouer les harenceaux</option>
+<option value="quand se carbonisait la fureur des châteaux">quand se
+carbonisait la fureur des châteaux</option>
+<option value="d'où Galilée jadis jeta ses petits pots">d'où Galilée
+jadis jeta ses petits pots</option>
+<option value="qui se plaît à flouer de pauvres provinciaux">qui se
+plaît à flouer de pauvres provinciaux</option>
+<option value="qui clochard devenant jetait ses oripeaux">qui clochard
+devenant jetait ses oripeaux</option>
+<option value="le vulgaire s'entête à vouloir des vers beaux">le
+vulgaire s'entête à vouloir des vers beaux</option>
+<option selected="selected"
+value="que n'a pas dévoré la horde des mulots ?">que n'a pas dévoré la
+horde des mulots ?</option>
+</select>
+<br>
+<select>
+<option value="nous avions aussi froid que nus sur la banquise">nous
+avions aussi froid que nus sur la banquise</option>
+<option value="de la mort on vous greffe une orde bâtardise">de la mort
+on vous greffe une orde bâtardise</option>
+<option selected="selected"
+value="il grelottait le pauvre aux bords de la Tamise">il grelottait
+le pauvre aux bords de la Tamise</option>
+<option value="nous regrettions un peu ce tas de marchandise">nous
+regrettions un peu ce tas de marchandise</option>
+<option value="un audacieux baron empoche toute accise">un audacieux
+baron empoche toute accise</option>
+<option value="d'une étrusque inscription la pierre était incise">
+d'une étrusque inscription la pierre était incise</option>
+<option value="aller à la grande ville est bien une entreprise">aller à
+la grande ville est bien une entreprise</option>
+<option value="un frère même bas est la part indécise">un frère même
+bas est la part indécise</option>
+<option value="l'un et l'autre ont raison non la foule imprécise">l'un
+et l'autre ont raison non la foule imprécise</option>
+<option value="le gourmet en salade avale la cytise">le gourmet en
+salade avale la cytise</option>
+</select>
+<br>
+<select>
+<option value="lorsque pour nous distraire y plantions nos tréteaux">lorsque
+pour nous distraire y plantions nos tréteaux</option>
+<option value="la mite a grignoté tissus os et rideaux">la mite a
+grignoté tissus os et rideaux</option>
+<option selected="selected"
+value="quand les grélons fin mars mitraillent les bateaux">quand les
+grêlons fin mars mitraillent les bateaux</option>
+<option value="lorsqu'on voyait au loin flamber les arbrisseaux">lorsqu'on
+voyait au loin flamber les arbrisseaux</option>
+<option value="lorsque vient le pompier avec ses grandes eaux">lorsque
+vient le pompier avec ses grandes eaux</option>
+<option value="les Grecs et les Romains en vain cherchent leurs mots">les
+Grecs et les Romains en vain cherchent leurs mots</option>
+<option value="elle effraie le Berry comme les Morvandiaux">elle
+effraie le Berry comme les Morvandiaux</option>
+<option value="que les parents féconds offrent aux purs berceaux">que
+les parents féconds offrent aux purs berceaux</option>
+<option value="à tous n'est pas donné d'aimer les chocs verbaux">à tous
+n'est pas donné d'aimer les chocs verbaux</option>
+<option value="l'enfant pur aux yeux bleus aime les berlingots">l'enfant
+pur aux yeux bleus aime les berlingots</option>
+</select>
+<br>
+<br>
+<select>
+<option value="Du pôle à Rosario fait une belle trotte">Du pôle à
+Rosario fait une belle trotte</option>
+<option selected="selected"
+value="Le brave a beau crier ah cré nom saperlotte">Le brave a beau
+crier ah cré nom saperlotte</option>
+<option value="La Grèce de Platon à coup sûr n'est point sotte">La
+Grèce de Platon à coup sûr n'est point sotte</option>
+<option value="On sèche le poisson dorade ou molve lotte">On sèche le
+poisson dorade ou molve lotte</option>
+<option value="Du Gange au Malabar le lord anglais zozotte">Du Gange au
+Malabar le lord anglais zozotte</option>
+<option value="L'esprit souffle et resouffle au-dessus de la botte">L'esprit
+souffle et resouffle au-dessus de la botte</option>
+<option value="Devant la boue urbaine on retrousse sa cotte">Devant la
+boue urbaine on retrousse sa cotte</option>
+<option value="Le généalogiste observe leur bouillotte">Le généalogiste
+observe leur bouillotte</option>
+<option value="Le poète inspiré n'est point une polyglotte">Le poète
+inspiré n'est point une polyglotte</option>
+<option value="Le loup est amateur de coq et de cocotte">Le loup est
+amateur de coq et de cocotte</option>
+</select>
+<br>
+<select>
+<option value="aventures on eut qui s'y pique s'y frotte">aventures on
+eut qui s'y pique s'y frotte</option>
+<option value="le lâche peut arguer de sa mine pâlotte">le lâche peut
+arguer de sa mine pâlotte</option>
+<option value="on comptait les esprits acérés à la hotte">on comptait
+les esprits acérés à la hotte</option>
+<option value="on sale le requin on fume à l'échalotte">on sale le
+requin on fume à l'échalotte</option>
+<option value="comme à Chandernagor le manant sent la crotte">comme à
+Chandernagor le manant sent la crotte</option>
+<option value="le touriste à Florence ignoble charibotte">le touriste à
+Florence ignoble charibotte</option>
+<option value="on gifle le marmot qui plonge sa menotte">on gifle le
+marmot qui plonge sa menotte</option>
+<option value="gratter le parchemin deviendra sa marotte">gratter le
+parchemin deviendra sa marotte</option>
+<option selected="selected"
+value="une langue suffit pour emplir sa cagnotte">une langue suffit
+pour emplir sa cagnotte</option>
+<option value="le chat fait un festin de têtes de linotte">le chat fait
+un festin de têtes de linotte</option>
+</select>
+<br>
+<select>
+<option value="lorsqu'on boit du maté l'on devient argentin">lorsqu'on
+boit du maté l'on devient argentin</option>
+<option value="les croque-morts sont là pour se mettre au turbin">les
+croque-morts sont là pour se mettre au turbin</option>
+<option value="lorsque Socrate mort passait pour un lutin">lorsque
+Socrate mort passait pour un lutin</option>
+<option value="lorsqu'on revient au port en essuyant un grain">lorsqu'on
+revient au port en essuyant un grain</option>
+<option value="le colonel s'éponge un blason dans la main">le colonel
+s'éponge un blason dans la main</option>
+<option selected="selected"
+value="l'autocar écrabouille un peu d'esprit latin">l'autocar
+écrabouille un peu d'esprit latin</option>
+<option value="lorsqu'il voit la gadoue il cherche le purin">lorsqu'il
+voit la gadoue il cherche le purin</option>
+<option value="il voudra retrouver le germe adultérin">il voudra
+retrouver le germe adultérin</option>
+<option value="même s'il prend son sel au celte c'est son bien">même
+s'il prend son sel au celte c'est son bien</option>
+<option value="le chemin vicinal se nourrit de crottin">le chemin
+vicinal se nourrit de crottin</option>
+</select>
+<br>
+<br>
+<select>
+<option value="L'Amérique du Sud séduit les équivoques">L'Amérique du
+Sud séduit les équivoques</option>
+<option value="Cela considérant ô lecteur tu suffoques">Cela
+considérant ô lecteur tu suffoques</option>
+<option value="Sa sculpture est illustre et dans le fond des coques">Sa
+sculpture est illustre et dans le fond des coques</option>
+<option value="Enfin on vend le tout homards et salicoques">Enfin on
+vend le tout homards et salicoques</option>
+<option selected="selected"
+value="Ne fallait pas si loin agiter ses breloques">Ne fallait pas si
+loin agiter ses breloques</option>
+<option value="Les rapports transalpins sont-ils biunivoques ?">Les
+rapports transalpins sont-ils biunivoques ?</option>
+<option value="On regrette à la fin les agrestes bicoques">On regrette
+à la fin les agrestes bicoques</option>
+<option value="Frère je te comprends si parfois tu débloques">Frère je
+te comprends si parfois tu débloques</option>
+<option value="Barde que tu me plais toujours tu soliloques">Barde que
+tu me plais toujours tu soliloques</option>
+<option value="On a bu du pinard à toutes les époques">On a bu du
+pinard à toutes les époques</option>
+</select>
+<br>
+<select>
+<option selected="selected"
+value="exaltent l'espagnol les oreilles baroques">exaltent l'espagnol
+les oreilles baroques</option>
+<option value="comptant tes abattis lecteur tu te disloques">comptant
+tes abattis lecteur tu te disloques</option>
+<option value="on transporte et le marbre et débris et défroques">on
+transporte et le marbre et débris et défroques</option>
+<option value="on s'excuse il n'y a ni baleines ni phoques">on s'excuse
+il n'y a ni baleines ni phoques</option>
+<option value="les Indes ont assez sans ça de pendeloques">les Indes
+ont assez sans ça de pendeloques</option>
+<option value="les banquiers d'Avignon changent-ils les baïoques ?">les
+banquiers d'Avignon changent-ils les baïoques ?</option>
+<option value="on mettait sans façon ses plus infectes loques">on
+mettait sans façon ses plus infectes loques</option>
+<option value="frère je t'absoudrai si tu m'emberlucoques">frère je
+t'absoudrai si tu m'emberlucoques</option>
+<option value="tu me stupéfies plus que tous les ventriloques">tu me
+stupéfies plus que tous les ventriloques</option>
+<option value="grignoter des bretzels distrait bien des colloques">grignoter
+des bretzels distrait bien des colloques</option>
+</select>
+<br>
+<select>
+<option selected="selected"
+value="si la cloche se tait et son terlintintin">si la cloche se tait
+et son terlintintin</option>
+<option value="toute chose pourtant doit avoir une fin">toute chose
+pourtant doit avoir une fin</option>
+<option value="si l'Europe le veut l'Europe ou son destin">si l'Europe
+le veut l'Europe ou son destin</option>
+<option value="le mammifère est roi nous sommes son cousin">le
+mammifère est roi nous sommes son cousin</option>
+<option value="l'écu de vair ou d'or ne dure qu'un matin">l'écu de vair
+ou d'or ne dure qu'un matin</option>
+<option value="le Beaune et le Chianti sont-ils le même vin ?">le
+Beaune et le Chianti sont-ils le même vin ?</option>
+<option value="mais on n'aurait pas vu le métropolitain">mais on
+n'aurait pas vu le métropolitain</option>
+<option value="la gémellité vraie accuse son destin">la gémellité vraie
+accuse son destin</option>
+<option value="le métromane à force incarne le devin">le métromane à
+force incarne le devin</option>
+<option value="mais rien ne vaut grillé le morceau de boudin">mais rien
+ne vaut grillé le morceau de boudin</option>
+</select>
+<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Francis_Ponge" target="_blank">Francis
 Ponge</a><br>
 <a href="https://www.gallimard.fr/catalogue/methodes/9782070324927"
@@ -11635,6 +12028,39 @@ cailloux. Nous jugeons qu’ils ne disent <span
 style="font-style: italic;">rien</span>, qu’ils ne disent que <span
 style="font-style: italic;">riens</span>, quand ils parlent — qu’ils
 n’expriment rien de leur nature muette."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Louis_Poterat" target="_blank">Louis
+Poterat</a><br>
+<a
+href="https://www.le-parolier.net/paroles-piaf-le-bruit-des-villes.html"
+target="_blank">Le bruit des villes</a> - <a
+href="https://youtu.be/MjfbG8HRv58?si=aF_e293BgnG2jXc" target="_blank">chanté
+par Édith Piaf</a> - Musique de <a
+href="https://fr.wikipedia.org/wiki/Charles_Dumont_%28chanteur%29"
+target="_blank">Charles Dumont</a><br>
+1961<br>
+<br>
+"Bam! Bam! V'là la vie,<br>
+Bam! Bam! En batterie,<br>
+Bam! Bam! En furie.<br>
+V'là la vie qui m'fait peur!<br>
+Bam! Bam! Le tapage<br>
+Bam! Bam! De l'orage<br>
+Bam! Bam! Qui soulage<br>
+Le grand ciel en chaleur…<br>
+Bam! Bam! De l'usine<br>
+Bam! Bam! De la mine<br>
+Bam! Bam! Tambourinent<br>
+Les marteaux du labeur.<br>
+Bam! Bam! Dans les soutes<br>
+Bam! Bam! Sur les routes<br>
+Bam! Bam! Je l'écoute,<br>
+Ce Bam-Bam de malheur!<br>
+<br>
+Entre tes bras, dans le calme des nuits,<br>
+J'ai tant besoin d'oublier tout ce bruit!"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12057,6 +12483,24 @@ effraction, avec violence, sans aucune subtilité, incapable, à
 l’évidence, de la moindre patience. Le silence du monde ne pouvait plus
 retenir sa soif de tout engloutir. Plus maintenant. Maintenant qu’il
 avait presque partie gagnée."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jaime_Montestrela" target="_blank">Jaime
+Montestrela</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/contes-liquides-de-jaime-montestrela/9782073036896"
+target="_blank">Contes liquides - Traduction de Hervé Le Tellier</a><br>
+1968 .. 1973<br>
+<br>
+Conte n°&nbsp;95<br>
+<br>
+"Au marché si typique de Nahahuta (Pérou), la cacophonie est telle
+qu’espérer comprendre ce que crient les marchands est tout à fait vain.
+Aussi ceux-ci imitent-ils le cri de l’animal dont ils vendent la
+viande. Les charcutiers grouinent, les volaillers caquettent, les
+bouchers beuglent. Seuls les poissonniers ont du mal à se faire
+entendre."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -13109,4 +13553,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 28 7 2026 
+page mise à jour 5 8 2026 
