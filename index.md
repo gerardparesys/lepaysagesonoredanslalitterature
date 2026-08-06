@@ -5,11 +5,11 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1><small><small>801 descriptions de paysage sonore trouvées dans la littérature.</small></small></h1>
-<br>
-<h1><small><small><small>801 descriptions de paysage sonore trouvées dans la littérature.</small></small></small></h1>
+<h1 style="font-size: 1rem;">801 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <h1 style="font-size: 0.5rem;">801 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<br>
+<h1><small><small><small>801 descriptions de paysage sonore trouvées dans la littérature.</small></small></small></h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -11633,32 +11633,6 @@ Il disait que les sons n'étaient pas des sons mais des ombres.<br>
 Qu'ils soient des sons est évident ; c'est pourquoi ils sont des ombres.<br>
 Toute chose est un écho de rien.<br>
 La vie continue à peu près comme un morceau de Feldman."<br>
-</div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
-Queneau</a><br>
-<a href="http://www.bludog.fr/overblog/Divers/Queneau/index.html"
-target="_blank">Cent mille milliards de poèmes</a><br>
-1961<br>
-<br>
-"Lorsqu'un jour exalté l'aède prosaïse<br>
-pour du fin fond du nez exciter les arceaux<br>
-des êtres indécis vous parlent sans franchise<br>
-il donne à la tribu des cris aux sens nouveaux<br>
-<br>
-Le cheval Parthénon frissonnait sous la bise<br>
-que n'a pas dévoré la horde des mulots ?<br>
-il grelottait le pauvre aux bords de la Tamise<br>
-quand les grêlons fin mars mitraillent les bateaux<br>
-<br>
-Le brave a beau crier ah cré nom saperlotte<br>
-une langue suffit pour emplir sa cagnotte<br>
-l'autocar écrabouille un peu d'esprit latin<br>
-<br>
-Ne fallait pas si loin agiter ses breloques<br>
-exaltent l'espagnol les oreilles baroques<br>
-si la cloche se tait et son terlintintin"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
