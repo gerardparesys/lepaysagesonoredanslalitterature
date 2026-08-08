@@ -5,7 +5,8 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">801 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">805 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
@@ -321,6 +322,45 @@ target="_blank">&nbsp;Psaume
 les fleuves déchaînent leur fracas ; plus que la voix des eaux
 innombrables, plus superbe que le ressac de la mer ; superbe est Yahvé
 dans les hauteurs."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Aristophane" target="_blank">Aristophane</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Les_Grenouilles_%28trad._Eug%C3%A8ne_Talbot%29"
+target="_blank">Les Grenouilles - Traduction (1897) de Eugène Talbot</a><br>
+405 av. J.-C.<br>
+<br>
+<div style="text-align: center;">"LES GRENOUILLES.<br>
+</div>
+&nbsp;&nbsp;&nbsp; Brekekekex coax coax, brekekekex coax coax ! Filles
+marécageuses des eaux, unissons les accents de nos hymnes aux sons de
+la flûte, le chant harmonieux coax coax, que nous entonnons dans le
+marais, en l’honneur de Dionysos Nysèïen, fils de Zeus, lorsque la
+foule enivrée, le jour de la fête des Marmites, se porte vers notre
+temple. Brekekekex coax coax !<br>
+<br>
+<div style="text-align: center;">DIONYSOS.<br>
+</div>
+&nbsp;&nbsp;&nbsp; Moi, je commence à avoir mal aux fesses. Oh ! coax
+coax ! Mais vous n’en avez sans doute nul souci.<br>
+<br>
+<div style="text-align: center;">LES GRENOUILLES.<br>
+</div>
+&nbsp;&nbsp;&nbsp; Brekekekex coax coax !<br>
+<br>
+<div style="text-align: center;">DIONYSOS.<br>
+</div>
+&nbsp;&nbsp;&nbsp; Foin de vous avec votre coax ! Vous n’avez pas autre
+chose que coax ?<br>
+<br>
+<div style="text-align: center;">LES GRENOUILLES.<br>
+</div>
+&nbsp;&nbsp;&nbsp; Et c’est tout naturel, faiseur d’embarras ! car je
+suis aimée des Muses à la lyre mélodieuse, de Pan aux pieds de corne,
+qui se plaît aux sons du chalumeau. Je suis chérie du Dieu de la
+kithare, Apollôn, à cause des roseaux que je nourris dans les marais,
+pour être les chevalets de la lyre. Brekekekex coax coax !"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -739,6 +779,24 @@ Les plantes verdoyantes et le concert des oiseaux l’affligent."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Ausone" target="_blank">Ausone</a>
+(310 .. 395)<br>
+<a href="https://remacle.org/bloodwolf/historiens/ausone/epigrammes.htm"
+target="_blank">Epigrammes - Traduction (1843) de Étienne-François
+Corpet</a><br>
+<br>
+XI. L'Écho à un peintre<br>
+<br>
+"Pourquoi, peintre insensé, essayer de fixer mes traits, et tenter
+l'image d'une déesse inconnue aux yeux ? Je suis fille de l'air et de
+la voix, et mère d'un langage vain, car j'ai la parole sans
+l'intelligence. Ranimant les derniers bruits d'une phrase mourante, mon
+mot suit l'autre mot qu'il répète en jouant. J'habite en vos oreilles
+où pénètre l'écho ; et, si tu veux peindre ma ressemblance, peins un
+son."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Chrysostome" target="_blank">Jean
 Chrysostome</a> (entre 344 et 349 .. 407)<br>
 <a
@@ -1118,7 +1176,8 @@ Vers mon amant pour l'en parer."<br>
 &nbsp;&nbsp;&nbsp; zelkovas : sorte d'orme<br>
 </div>
 <br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">
+Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
 target="_blank">Man'yōshū</a><br>
 Poème VI-1062 - Traduction de Jacqueline Pigeot<br>
@@ -1825,61 +1884,46 @@ target="_blank">Le pavillon du vent dans les pins - Traduction (1987)
 de Martine Vallette-Hémery</a><br>
 1355<br>
 <br>
-“La pluie, le vent, la rosée, le tonnerre sont d’origine céleste. On
-peut voir la pluie et la rosée, dont toute chose attend l’eau qui la
-vivifie. Le tonnerre, on ne le voit pas, on l’entend ; il en est de
-même pour le vent.<br>
-Mais, à la différence du tonnerre, le vent ne peut produire de sons par
-lui-même, il dépend pour cela des choses. Les sons qu’il produit,
-faibles ou forts, purs ou troubles, agréables ou irritants, varient
-selon les choses. Il ne pourrait tirer un son d’une stèle massive. Mais
-il gronde lorsqu’il se déchaîne dans une vide et profonde vallée, il
-mugit quand il soulève des eaux mouvantes et dociles. Ici comme là, il
-ne parvient pas à un accord paisible et fait trembler d’effroi ceux qui
-l’entendent. C’est seulement avec les plantes et les arbres que son
-accord est harmonieux. Mais si les feuilles sont trop grandes, le son
-est émoussé ; si elles sont trop sèches, le son est triste ; si elles
-sont malingres, le son est grêle. Aussi rien ne s’accorde mieux au vent
-que les pins.<br>
-Les pins ont un tronc droit et des branches recourbées, aux rameaux
-déliés et aux feuilles effilées. Ils prennent des formes
-extraordinaires ou s’étirent majestueusement en hauteur. Ils sont à la
-fois aériens et massifs, ébouriffés et délicatement ciselés. Le vent
+“&nbsp;&nbsp;&nbsp; La pluie, le vent, la rosée, le tonnerre sont
+d’origine céleste. On peut voir la pluie et la rosée, dont toute chose
+attend l’eau qui la vivifie. Le tonnerre, on ne le voit pas, on
+l’entend ; il en est de même pour le vent.<br>
+&nbsp;&nbsp;&nbsp; Mais, à la différence du tonnerre, le vent ne peut
+produire de sons par lui-même, il dépend pour cela des choses. Les sons
+qu’il produit, faibles ou forts, purs ou troubles, agréables ou
+irritants, varient selon les choses. Il ne pourrait tirer un son d’une
+stèle massive. Mais il gronde lorsqu’il se déchaîne dans une vide et
+profonde vallée, il mugit quand il soulève des eaux mouvantes et
+dociles. Ici comme là, il ne parvient pas à un accord paisible et fait
+trembler d’effroi ceux qui l’entendent. C’est seulement avec les
+plantes et les arbres que son accord est harmonieux. Mais si les
+feuilles sont trop grandes, le son est émoussé ; si elles sont trop
+sèches, le son est triste ; si elles sont malingres, le son est grêle.
+Aussi rien ne s’accorde mieux au vent que les pins.<br>
+&nbsp;&nbsp;&nbsp; Les pins ont un tronc droit et des branches
+recourbées, aux rameaux déliés et aux feuilles effilées. ... Le vent
 souffle sans obstacle à travers eux et produit une musique qui est
 celle de la nature même. À l’écouter, on est délivré de ses tourments
 et purifié de ses humeurs troubles. On se sent apaisé et détaché,
-l’esprit dilaté et le cœur léger. On s’envole dans les airs pour se
-promener avec le créateur. Ceux qui aiment vivre cachés dans les monts
-et les bois en éprouvent une joie plus intense encore et ne peuvent
-s’éloigner.<br>
-Sur le Pic du Coq d’Or, il y a trois pins on ne sait
+l’esprit dilaté et le cœur léger. ...<br>
+&nbsp;&nbsp;&nbsp; Sur le Pic du Coq d’Or, il y a trois pins on ne sait
 combien de fois centenaires. Quand une brise les caresse, c’est une
-source qui chante, enfouie dans les galets. Quand le vent est un peu
+source qui chante, enfouie dans des galets. Quand le vent est un peu
 plus fort, c’est une musique noble et solennelle. Quand il souffle en
 tempête, c’est un déferlement de vagues ou un roulement de tambours au
 rythme grave et triste. Le moine Fangzhou a construit sous ces pins un
 ermitage qu’il a nommé le Pavillon du Vent dans les Pins. Passant un
 jour par là, je m’y arrêtai et y fus si heureux que je ne pus songer au
-retour.<br>
-...<br>
-Le Pavillon du Vent dans les Pins domine une source vive au pied du Pic
-du Coq d’Or. J’y passai deux nuits au début du printemps. Comme il
-pleuvait, je n’entendis, jour et nuit, qu’une rumeur de vagues et ne
-pus en apprécier pleinement la beauté. Cette fois, lors de séjours
-successifs, je demeurai en tout une dizaine de jour au Pavillon et le
-connus enfin sous tous ses aspects.<br>
-Le Pic, derrière le Pavillon, est plus haut que tous les autres. Il est
-couvert jusqu’à sa cime de pins qui semblent autant de colonnes ou de
-dais suspendus au-dessus de nos têtes. Quand le vent agite leurs
-branches sous le soleil de midi, on voit comme une danse ailée de
-dragons et de phénix, un frémissement de plumes, un lacis mobile de
-courbes ; leurs ombres projettent sur les tuiles du toit un brocart
-d’azur et d’or. À les voir, le regard se clarifie. Quand ils bruissent,
-on entend comme un chant d’ocarina ou de flûte, une pluie battante, un
-jet d’eau sur une paroi rocheuse, un galop de chevaux cuirassés ; ou
-encore, comme un bourdonnement d’insectes cachés dans les herbes, tour
-à tour ample ou ténu, proche ou lointain. Je ne trouve pas de mots plus
-justes pour les décrire. À l’écouter, l’oreille se fait plus subtile.”<br>
+retour. ...<br>
+&nbsp;&nbsp;&nbsp; Le pic, derrière le Pavillon, est plus haut que tous
+les autres. Il est couvert jusqu’à sa cime de pins qui semblent autant
+de colonnes ou de dais suspendus au-dessus de nos têtes. ... Quand ils
+bruissent, on entend comme un chant d’ocarina ou de flûte, une pluie
+battante, un jet d’eau sur une paroi rocheuse, un galop de chevaux
+cuirassés ; ou encore, comme un bourdonnement d’insectes cachés dans
+les herbes, tour à tour ample ou ténu, proche ou lointain. Je ne trouve
+pas de mots plus justes pour le décrire. À l’écouter, l’oreille se fait
+plus subtile.”<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8187,7 +8231,7 @@ boulevard extérieur grincent musicalement sur leurs rails."<br>
 reste immobile, les
 fauteuils empire s’étirent, craquent, éclatent, le bois du lit leur
 répond. La maison desséchée et sonore pétille, comme travaillée d’un
-sourd incendie. Debout depuis deux siècles dans le soleil et le vent,
+lourd incendie. Debout depuis deux siècles dans le soleil et le vent,
 sa charpente chaude gémit sans cesse, et on l’appelle, dans le pays, la
 Maison Sèche."<br>
 <br>
@@ -8195,25 +8239,22 @@ Maison Sèche."<br>
 roulements sourds et
 doux... Un bref fracas l’éveille, suivi d’un coup de vent singulier,
 qui
-débute en brise chuchotante, s’enfle, assaille la maison qui craque
+débute en brise chuchotante, s’enfle en vague, assaille la maison qui
+craque
 tout entière... Puis, un grand calme mort."<br>
 <br>
-"&nbsp;&nbsp;&nbsp; Minne entend les arbres gémir... Un vacarme creux
-couvre leur plainte
-;
-le tonnerre sonne vide et faux, rejeté par les échos des petites
-montagnes... « Ce n’est pas le même tonnerre qu’à Paris, songe Minne,
-pliée en chien de fusil sur son lit découvert... J’entends la porte de
-la
-chambre de Maman... »"<br>
+"... Minne entend les arbres gémir... Un vacarme creux couvre leur
+plainte ; le tonnerre sonne vide et faux, rejeté par les échos des
+petites montagnes... « Ce n’est pas le même tonnerre qu’à Paris, songe
+Minne, pliée en chien de fusil sur son lit découvert... J’entends la
+porte de la chambre de Maman... »"<br>
 <br>
-"... un troupeau de moutons petits sabots secs criblant le sol,
+"... un troupeau de moutons : petits sabots secs criblant le sol,
 bêlements en gamme disloquée, odeur caséeuse et pacifique... Minne
 entend le souffle des chiens qui vont et viennent, frôle les rondes
 croupes laineuses. Ils passent comme la grêle, et Minne peut croire un
 instant qu’ils ont emporté avec eux tous les bruits de la nuit... Mais
-un
-train bout au loin, s’élance, rageur, crachant derrière lui une
+un train bout au loin, s’élance, rageur, crachant derrière lui une
 mitraille de charbons rouges..."<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Cette nuit sans ombre, qui éveille, au cœur
@@ -8889,6 +8930,37 @@ allemande."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
+target="_blank">Guillaume Apollinaire</a><br>
+<a href="https://fr.wikisource.org/wiki/Calligrammes/Texte_entier"
+target="_blank">Calligrammes - Poèmes de la paix et de la guerre
+1913-1916</a><br>
+1916<br>
+<br>
+OBUS COULEUR DE LUNE<br>
+<br>
+LE CHANT D’AMOUR<br>
+<br>
+"Voici de quoi est fait le chant symphonique de l'amour<br>
+Il y a le chant de l'amour de jadis<br>
+Le bruit des baisers éperdus des amants illustres<br>
+Les cris d'amour des mortelles violées par les dieux<br>
+Les virilités des héros fabuleux érigées comme des pièces contre avions<br>
+Le hurlement précieux de Jason<br>
+Le chant mortel du cygne<br>
+Et l'hymne victorieux que les premiers rayons du soleil ont fait
+chanter à Memnon l'immobile<br>
+Il y a le cri des Sabines au moment de l'enlèvement<br>
+Il y a aussi les cris d'amour des félins dans les jongles<br>
+La rumeur sourde des sèves montant dans les plantes tropicales<br>
+Le tonnerre des artilleries qui accomplissent le terrible amour des
+peuples<br>
+Les vagues de la mer où naît la vie et la beauté<br>
+<br>
+Il y a là le chant de tout l'amour du monde"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Barbusse" target="_blank">Henri
 Barbusse</a><br>
 <a href="https://fr.wikisource.org/wiki/Le_Feu/24#" target="_blank">Le
@@ -8986,6 +9058,29 @@ expirer tout doucement, à bout de forces...<br>
 &nbsp;&nbsp;&nbsp; Enfin, tout à coup, il y eut dans la nuit, le
 sursaut brutal et rageur
 d’un éclatement."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
+target="_blank">Guillaume Apollinaire</a><br>
+<a
+href="https://fr.wikisource.org/wiki/L%E2%80%99Esprit_nouveau_et_les_po%C3%A8tes"
+target="_blank">L’Esprit nouveau et les poètes</a><br>
+1917<br>
+<br>
+"... un poème ou une symphonie composés au phonographe pourraient fort
+bien consister en bruits artistement choisis et lyriquement mêlés ou
+juxtaposés, tandis que pour ma part, je conçois mal que l’on fasse
+consister tout simplement un poème dans l’imitation d’un bruit auquel
+aucun sens lyrique, tragique ou pathétique ne peut être attaché. Et si
+quelques poètes se livrent à ce jeu, il ne faut y voir qu’un exercice,
+une sorte de croquis des notes qu’ils inséreront dans une œuvre. Le «
+brékéké koax » des <span style="font-style: italic;">Grenouilles</span>
+d’Aristophane n’est rien si on le sépare d’une œuvre où il prend tout
+son sens comique et satirique. Les <span style="font-style: italic;">iiii</span>
+prolongés, durant toute une ligne, de l’oiseau de Francis Jammes sont
+d’une piètre harmonie imitative si on les détache d’un poème dont ils
+précisent toute la fantaisie."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9337,8 +9432,9 @@ mots de terminaisons trop sensibles."<br>
 que disaient tous ces tués que je connaissais. Ils me disaient aussi,
 car beaucoup étaient fils de fonctionnaires, qu’ils auraient aimé
 revoir Rodez, Le Puy, que le Maroc est si beau, son air si pur, et
-celui qui n’avait jamais eu le temps ou l’occasion de lire la
-<span style="font-style: italic;">Chartreuse de Parme</span> me
+celui qui n’avait jamais eu le temps ou l’occasion de lire <span
+style="font-style: italic; font-weight: bold;">la
+Chartreuse de Parme</span> me
 demandait de me recueillir et de la lui
 résumer,
 autant que possible, en un mot... Pas de phrases avec les morts. Un
@@ -11273,6 +11369,8 @@ href="https://www.editionspoints.com/ouvrage/la-musique-et-les-heures-vladimir-j
 target="_blank">La Musique et les Heures</a><br>
 1957<br>
 <br>
+Le&nbsp;nocturne<br>
+<br>
 "&nbsp;&nbsp;&nbsp; Cette nature, qui est le laboratoire de toutes les
 disjonctions civilisées, elle commence à parler aux hommes quand les
 ombres du soir s'allongent dans les vallées, quand les jardins du jour
@@ -11280,7 +11378,7 @@ s'emplissent de mystère, de fraîcheur et de musique. La rumeur magique
 de chaque nuit s’est éveillée. Ceux qui ne dorment pas savent retrouver
 dans la nuit un témoin de l’origine des temps et comme la revanche de
 ces forces élémentaires que chassera de nouveau, au grand jour revenu,
-le vent du nord de la raison."<br>
+le vent du nord de la raison..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12458,24 +12556,6 @@ avait presque partie gagnée."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Jaime_Montestrela" target="_blank">Jaime
-Montestrela</a><br>
-<a
-href="https://www.gallimard.fr/catalogue/contes-liquides-de-jaime-montestrela/9782073036896"
-target="_blank">Contes liquides - Traduction de Hervé Le Tellier</a><br>
-1968 .. 1973<br>
-<br>
-Conte n°&nbsp;95<br>
-<br>
-"Au marché si typique de Nahahuta (Pérou), la cacophonie est telle
-qu’espérer comprendre ce que crient les marchands est tout à fait vain.
-Aussi ceux-ci imitent-ils le cri de l’animal dont ils vendent la
-viande. Les charcutiers grouinent, les volaillers caquettent, les
-bouchers beuglent. Seuls les poissonniers ont du mal à se faire
-entendre."<br>
-</div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Perec" target="_blank">Georges
 Perec</a><br>
 <a href="https://fr.wikipedia.org/wiki/La_Disparition_%28roman%29"
@@ -12631,6 +12711,24 @@ pressées, perçantes, dissonantes comme des bruits. Martyrisantes."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jaime_Montestrela" target="_blank">Jaime
+Montestrela</a><br>
+Contos aquosos - Edições da Figueira<br>
+<a href="https://www.editionsdelattente.com/book/contes-liquides/"
+target="_blank">Contes liquides - Traduction de Hervé Le Tellier</a><br>
+1973<br>
+<br>
+Conte n°&nbsp;95<br>
+<br>
+"Au marché si typique de Nahahuta (Pérou), la cacophonie est telle
+qu’espérer comprendre ce que crient les marchands est tout à fait vain.
+Aussi ceux-ci imitent-ils le cri de l’animal dont ils vendent la
+viande. Les charcutiers grouinent, les volaillers caquettent, les
+bouchers beuglent. Seuls les poissonniers ont du mal à se faire
+entendre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
 Barthes</a><br>
 <a
@@ -12765,7 +12863,7 @@ coalescence, « alternant les plus grandes et les plus petites, afin de
 suggérer l'idée des rapports entre les temps infiniment longs des
 étoiles et des montagnes, et infiniment courts des insectes et des
 atomes : pouvoir élémentaire, cosmique, qui ... vient avant tout du
-travail rythmique »." (Gisèle Bre1et - Histoire de la musique - Pléiade)<br>
+travail rythmique »." (Gisèle Brelet - Histoire de la musique - Pléiade)<br>
 <br>
 De la ritournelle <br>
 <br>
@@ -13525,4 +13623,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 5 8 2026 
+page mise à jour 8 8 2026 
