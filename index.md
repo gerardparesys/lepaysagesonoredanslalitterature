@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">805 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">811 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -126,14 +126,20 @@ href="https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_
 target="_blank">L'Iliade - Traduction (1955) de Robert Flacelière</a><br>
 8e siècle av. J.-C.<br>
 <br>
-"L'armée avance à la façon d'un incendie qui se déchaînerait dans toute
+Chant II - Catalogue achéen<br>
+<br>
+"&nbsp;&nbsp;&nbsp; L'armée avance à la façon d'un incendie qui se
+déchaînerait dans toute
 la contrée. Et la terre gémit, comme autrefois sous le courroux de Zeus
 Tonnant, quand la foudre cingla le sol près de Typhée, au pays des
 Arimes, où se trouve, dit-on, le gîte de ce monstre. Ainsi gémit la
 terre à grand bruit sous leurs pas, tandis qu'en marchant vite ils
 traversent la plaine."<br>
 <br>
-"Quand la houle marine en flots pressés déferle au souffle du Zéphyr
+Chant IV - DÉBUT DE LA BATAILLE<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Quand la houle marine en flots pressés déferle au
+souffle du Zéphyr
 sur la grève sonore, les vagues tout d'abord se soulèvent au large,
 puis viennent se briser sur la terre à grand bruit ; on les voit se
 gonfler autour des promontoires, dresser haut dans les airs leur crête,
@@ -144,12 +150,15 @@ croirait jamais que cheminent ensemble un si grand nombre d'hommes,
 dont chacun, dans sa gorge, est doué d'une voix. Ils vont, silencieux,
 par crainte de leurs chefs.<br>
 ...<br>
-Les Troyens font penser, en revanche, aux brebis qui, très nombreuses,
+&nbsp;&nbsp;&nbsp; Les Troyens font penser, en revanche, aux brebis
+qui, très nombreuses,
 dans l'enclos d'un homme riche, quand on trait leur lait blanc,
 poussent, en écoutant l'appel de leurs agneaux, des bêlements sans fin
 : pareille est la clameur qui monte de l'armée immense des Troyens.
 Tous n'ont pas même accent ni semblable parler ; leurs langues sont
 diverses : ce sont des gens venus de pays si nombreux !"<br>
+<br>
+Chant XVI - MORT DE SARPÉDON<br>
 <br>
 "Comme monte, dans les vallons d'une montagne, le bruit des bûcherons,
 que l'on entend de loin : tel monte, de la terre immense, le fracas que
@@ -160,6 +169,8 @@ est couvert de plaies, de sang et de poussière. Et sans relâche autour
 du cadavre ils se pressent, comme, aux jours du printemps, les mouches
 qui bourdonnent, dans une étable, autour des vases pleins de lait :
 ainsi les combattants autour du corps se pressent."<br>
+<br>
+Chant XXI - LA LUTTE DES DIEUX<br>
 <br>
 "Alors à grand fracas l'un sur l'autre ils se ruent. La terre immense
 gronde. Le ciel vaste à l'entour claironne la bataille. Zeus, assis sur
@@ -176,7 +187,7 @@ VIIIe siècle av. J.-C.<br>
 href="https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955"
 target="_blank">Traduction (1955) de Victor Bérard</a><br>
 <br>
-Chant IX<br>
+Chant IX - LE CYCLOPE<br>
 <br>
 "... C'est ainsi qu'en son oeil, nous tenions et tournions notre pointe
 de feu, et le sang bouillonnait autour du pieu brûlant : paupière et
@@ -191,7 +202,7 @@ Mais nous, épouvantés, nous étions déjà loin."<br>
 href="https://fr.wikisource.org/wiki/L%E2%80%99Odyss%C3%A9e/Traduction_Bareste"
 target="_blank">Traduction (1842) de Eugène Bareste</a><br>
 <br>
-Livre XII<br>
+Livre XII - Charybde, Scylla<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Enfin nous entrons en gémissant dans le détroit.
 D'un côté se trouve Scylla, et de l'autre la redoutable Charybde qui
@@ -212,7 +223,9 @@ target="_blank">La Théogonie</a><br>
 8e siècle av. J.-C.<br>
 <br>
 <a href="https://www.laviedesclassiques.fr/anthologie-theogonique"
-target="_blank">La Théogonie - Traduction (1928) de Paul Mazon</a><br>
+target="_blank">Traduction (1928) de Paul Mazon</a><br>
+<br>
+La prison infernale<br>
 <br>
 "Terriblement, à l’entour, grondait la mer infinie. La terre soudain
 mugit à grande voix, et le vaste ciel, ébranlé, lui répondait en
@@ -226,7 +239,7 @@ tumulte effrayant."<br>
 <br>
 <a
 href="https://fr.wikisource.org/wiki/La_Th%C3%A9ogonie_%28traduction_Leconte_de_Lisle%29"
-target="_blank">La Théogonie - Traduction (1869) de Leconte de Lisle</a><br>
+target="_blank">Traduction (1869) de Leconte de Lisle</a><br>
 <br>
 "Et de ses épaules sortaient cinquante têtes d’un horrible Dragon,
 dardant des langues noires. Et des yeux de ces têtes monstrueuses, à
@@ -234,49 +247,51 @@ travers les sourcils, flambait du feu, et de toutes ces têtes qui
 regardaient, jaillissait ce feu. Et des voix sortaient de toutes ces
 têtes affreuses, rendant des sons de toutes sortes, ineffables,
 semblables aux voix mêmes des Dieux, ou à la voix énorme d’un taureau
-mugissant et féroce, ou à celle d’un lion à l’âme farouche, ou, chose
+mugissant et féroce, ou à ce&nbsp;&nbsp;&nbsp; dlle d’un lion à l’âme
+farouche, ou, chose
 prodigieuse, à l’aboiement des petits chiens, ou au bruit strident des
 hautes montagnes."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
-Ésaïe<br>
+<a href="https://fr.wikipedia.org/wiki/Isa%C3%AFe" target="_blank">Isaïe
+ou Ésaïe</a><br>
 8e .. 7e siècle av. J.-C.<br>
 <br>
-<a
-href="https://www.biblegateway.com/passage/?search=%C3%89sa%C3%AFe%2013&amp;version=NEG1979"
+<a href="https://www.bible.com/fr/bible/106/ISA.13.NEG79"
 target="_blank">Ésaïe 13 - Prophétie contre Babylone - Nouvelle
 Edition de Genève (1979)</a><br>
 <br>
-"On entend une rumeur sur les montagnes,<br>
-Comme celle d’un peuple nombreux ;<br>
-On entend un tumulte de royaumes, de nations rassemblées :<br>
-L’Eternel des armées passe en revue l’armée qui va combattre."<br>
+"&nbsp;&nbsp;&nbsp; On entend une rumeur sur les montagnes, Comme
+celle d’un peuple nombreux ; On entend un tumulte de royaumes, de
+nations rassemblées : L’Eternel des armées passe en revue l’armée qui
+va combattre."<br>
 <br>
-<a
-href="https://www.biblegateway.com/passage/?search=%C3%89sa%C3%AFe%2024&amp;version=NEG1979"
+<a href="https://www.bible.com/fr/bible/106/ISA.24.NEG79"
 target="_blank">Ésaïe 24 - Jugement universel - Nouvelle Edition de
 Genève (1979)</a><br>
 <br>
-"Le moût est triste, la vigne est flétrie ;<br>
-Tous ceux qui avaient le cœur joyeux soupirent.<br>
-La joie des tambourins a cessé, la gaité bruyante a pris fin,<br>
-La joie de la harpe a cessé.<br>
-On ne boit plus de vin en chantant ;<br>
-Les liqueurs fortes sont amères au buveur.<br>
-La ville déserte est en ruines ;<br>
-Toutes les maisons sont fermées, on n’y entre plus.<br>
-On crie dans les rues, parce que le vin manque ;<br>
-Toute réjouissance a disparu,<br>
-..."<br>
+"&nbsp;&nbsp; Le moût est triste, la vigne est flétrie ; Tous ceux qui
+avaient le cœur joyeux soupirent.<br>
+&nbsp;&nbsp;&nbsp; La joie des tambourins a cessé, la gaité bruyante a
+pris fin, La joie de la harpe a cessé.<br>
+&nbsp;&nbsp;&nbsp; On ne boit plus de vin en chantant ; Les liqueurs
+fortes sont amères au buveur.<br>
+&nbsp;&nbsp;&nbsp; La ville déserte est en ruines ; Toutes les maisons
+sont fermées, on n’y entre plus.<br>
+&nbsp;&nbsp;&nbsp; On crie dans les rues, parce que le vin manque ;
+Toute réjouissance a disparu, L'allégresse est bannie du pays."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
+<a href="https://fr.wikipedia.org/wiki/J%C3%A9r%C3%A9mie"
+target="_blank">Jérémie</a><br>
+650 av. J.-C.<br>
+<br>
 <a href="http://www.sefarim.fr/Proph%E8tes_J%E9r%E9mie_47_2.aspx"
 target="_blank">Jérémie 47 - Traduction du Rabbinat</a><br>
-650 av. J.-C.<br>
 <br>
 "Voici que des flots s'avancent du Nord et deviennent un torrent
 impétueux, submergeant la terre et ce qu'elle renferme, les villes et
@@ -289,7 +304,8 @@ enfants, tant ils sont abattus..."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
-Ezéchiel<br>
+<a href="https://fr.wikipedia.org/wiki/Livre_d%27%C3%89z%C3%A9chiel"
+target="_blank">Ezéchiel</a><br>
 6e siècle av. J.-C.<br>
 <br>
 <a href="http://www.sefarim.fr/Proph%E8tes_Ez%E9chiel_1_24.aspx"
@@ -311,15 +327,17 @@ bruit des roues vis-à-vis d'elles et le bruit d'un grand tumulte."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
-Livre des Psaumes<br>
+<a href="https://fr.wikipedia.org/wiki/Livre_des_Psaumes"
+target="_blank">Livre des Psaumes</a><br>
 460 av. J.-C.<br>
 <br>
 <a
 href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
-target="_blank">&nbsp;Psaume
-93 - Bible de Jerusalem (1956)</a><br>
+target="_blank">Psaume
+93 - Bible de Jerusalem</a><br>
 "Les fleuves déchaînent, ô Yahvé, les fleuves déchaînent leur voix,
-les fleuves déchaînent leur fracas ; plus que la voix des eaux
+les fleuves déchaînent leur fracas ; <br>
+plus que la voix des eaux
 innombrables, plus superbe que le ressac de la mer ; superbe est Yahvé
 dans les hauteurs."
 </div>
@@ -385,10 +403,13 @@ entrera-t-il quelque portion de récit."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
+<a href="https://fr.wikipedia.org/wiki/Esther_%28Bible%29"
+target="_blank">Esther</a><br>
+4e .. 2e siècle av. J.-C.<br>
+<br>
 <a
 href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
-target="_blank">Esther - Bible de Jerusalem (1956)</a><br>
-4e .. 2e siècle av. J.-C.<br>
+target="_blank">Esther - Bible de Jerusalem</a><br>
 <br>
 "Or, voici quel fut ce songe. Cris et fracas, le tonnerre gronde, le
 sol tremble, bouleversement sur toute la terre.<br>
@@ -438,13 +459,17 @@ pleurent abondamment."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
-<a
-href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
-target="_blank">Livre de la Sagesse - Bible de Jerusalem (1956)</a><br>
+<a href="https://fr.wikipedia.org/wiki/Livre_de_la_Sagesse"
+target="_blank">Livre de la Sagesse</a><br>
 1er siècle av. J.-C.<br>
 <br>
+<a
+href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
+target="_blank">Livre de la Sagesse - Bible de Jerusalem</a><br>
+<br>
 "... Le vent qui siffle, le chant mélodieux des oiseaux dans les
-rameaux touffus, le bruit cadencé d'une eau coulant avec violence, le
+rameaux touffus, le bruit cadencé d'une eau coulant avec violence,<br>
+le
 rude fracas des pierres dégringolant, la course invisible d'animaux
 bondissants, le rugissement des bêtes les plus sauvages, l'écho se
 répercutant au creux des montagnes, tout les terrorisait et les
@@ -678,23 +703,29 @@ d'allumettes."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Bible" target="_blank">La Bible</a><br>
-<a
-href="https://livres-mystiques.com/partieTEXTES/Bibliques/Bible_de_Jerusalem.pdf"
-target="_blank">Apocalypse de Jean - Bible de Jerusalem (1956)</a><br>
+<a href="https://fr.wikipedia.org/wiki/Apocalypse" target="_blank">Apocalypse</a><br>
 1er siècle<br>
 <br>
-Apocalypse 8<br>
-"Et lorsque l'Agneau ouvrit le septième sceau, il se fit un silence
-dans le ciel, environ une demi-heure..."<br>
+<a href="https://www.scrutatio.it/bibbia/lettura/fr/jerusalem/73/8"
+target="_blank">Apocalypse 8 - Bible de Jerusalem</a><br>
 <br>
-Apocalypse 14<br>
+"Et lorsque l'Agneau ouvrit le septième sceau, il se fit un silence
+dans le ciel, environ une demi-heure...<br>
+Et je vis les sept Anges qui se tiennent devant Dieu; on leur remit
+sept trompettes."<br>
+<br>
+<a href="https://www.scrutatio.it/bibbia/lettura/fr/jerusalem/73/14"
+target="_blank">Apocalypse 14 - Bible de Jerusalem</a><br>
+<br>
 "Et j'entendis un bruit venant du ciel, comme le mugissement des
 grandes eaux ou le grondement d'un orage violent, et ce bruit me
 faisait songer à des joueurs de harpe touchant de leurs instruments ; <br>
 ils chantent un cantique nouveau devant le trône et devant les quatre
 Vivants et les Vieillards."<br>
 <br>
-Apocalypse 19<br>
+<a href="https://www.scrutatio.it/bibbia/lettura/fr/jerusalem/73/19"
+target="_blank">Apocalypse 19 - Bible de Jerusalem</a><br>
+<br>
 "Alors j'entendis comme le bruit d'une foule immense, comme le
 mugissement des grandes eaux, comme le grondement de violents tonnerres
 ; on clamait : "Alleluia ! Car il a pris possession de son règne, le
@@ -714,7 +745,8 @@ tel le mugissement grave des taureaux, le hurlement aigu des loups, le
 triste barrissement des éléphants, le gai hennissement des chevaux, et
 les clameurs ravies des oiseaux, et les rugissements indignés des
 lions, et tant d’autres voix d’animaux, qui menaçantes ou limpides,
-expriment soit la rage hostile, soit le contentement bienveillant. À
+expriment soit la rage hostile, soit le contentement bienveillant.<br>
+&nbsp;&nbsp;&nbsp; À
 défaut, l’homme a reçu de dieu une voix moins ample à la vérité, mais
 plus utile pour l’esprit qu’elle n’est propre à plaire aux oreilles" <br>
 <br>
@@ -1369,7 +1401,8 @@ qui charme aussi les paysans de nos régions."
 href="https://fr.wikipedia.org/wiki/Marcabru" target="_blank">Marcabru</a>
 (vers 1110 .. vers 1150)<br>
 <a href="https://gallica.bnf.fr/ark:/12148/bpt6k4240c/" target="_blank">Poésies
-complètes - Traduction (1909) de Jean-Marie-Lucien Dejeanne</a><br>
+complètes du troubadour Marcabru - Traduction (1909) de
+Jean-Marie-Lucien Dejeanne</a><br>
 <br>
 XXI<br>
 "I. J'aime quand la feuille paraît orgueilleuse sur la haute petite
@@ -1399,6 +1432,17 @@ II. Crapaud et serpent qui se pelotonnent ne me font épouvante ni mal,
 non plus que la mouche et le taon qui volent ; les scarabées et les
 frelons, ces ailés maudits, je ne les entends bruire ni ne sens leur
 mauvaise odeur, car le franc hiver nous en délivre."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Bernard_de_Ventadour"
+target="_blank">Bernard de Ventadour</a> (1120 .. 1195)<br>
+cité dans : <a
+href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
+target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
+paysage sonore</a> de Jean-Marie Fritz<br>
+<br>
+"Mieux vaut une eau qui bruit qu’une eau qui dort"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
@@ -4857,8 +4901,9 @@ Flaubert</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Par_les_champs_et_par_les_gr%C3%A8ves/Bretagne"
 target="_blank"> Par les champs et par les grèves</a><br>
-Bretagne<br>
 1847<br>
+<br>
+Bretagne<br>
 <br>
 "Par un beau jour d’été comme aujourd’hui, peut-être, quand ce moulin
 qui claque sa cliquette et met en bruit tout le paysage n’existait pas,
@@ -8171,6 +8216,35 @@ L’odeur du silence est si vieille."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren"
+target="_blank">Émile Verhaeren</a><br>
+<a
+href="https://fr.wikisource.org/wiki/La_Multiple_Splendeur_%28Verhaeren%29"
+target="_blank">La Multiple Splendeur</a><br>
+1906<br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/La_Conqu%C3%AAte_%28Verhaeren%29"
+target="_blank">La Conquête</a><br>
+<br>
+"Le monde est trépidant de trains et de navires.<br>
+<br>
+De l’est à l’ouest, du sud au nord,<br>
+Stridents et violents,<br>
+Ils vont et fuient ;<br>
+Et leurs signaux et leurs sifflets déchirent<br>
+L’aube, le jour, le soir, la nuit ;<br>
+Et leur fumée énorme et transversale<br>
+Barre les cités colossales ;<br>
+Et la plaine et la grève, et les flots et les cieux,<br>
+Et le tonnerre sourd de leurs roulants essieux,<br>
+Et le bruit rauque et haletant de leurs chaudières<br>
+Font tressaillir, à coups tumultueux de gongs,<br>
+Ici, là-bas, partout, jusqu’en son cœur profond,<br>
+La terre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Romains" target="_blank">Jules
 Romains</a><br>
 <a href="https://archive.org/details/lavieunanimep00roma/"
@@ -8227,7 +8301,8 @@ col pour Minne – l’aiguille, à chaque point, toque du bec. Dehors, les
 platanes du boulevard Berthier ruissellent de pluie, et les tramways du
 boulevard extérieur grincent musicalement sur leurs rails."<br>
 <br>
-"&nbsp;&nbsp;&nbsp; Au pas léger de Minne, le plancher gémit. Si elle
+"&nbsp;&nbsp;&nbsp; Au pas léger de Minne, le plancher gémit. Si
+elle
 reste immobile, les
 fauteuils empire s’étirent, craquent, éclatent, le bois du lit leur
 répond. La maison desséchée et sonore pétille, comme travaillée d’un
@@ -8630,6 +8705,31 @@ Et le monde comme l'horloge du quartier juif de Prague, tourne
 éperdument à rebours." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
+Proust</a><br>
+<a href="https://alarecherchedutempsperdu.com/texte.html"
+target="_blank">À la recherche du temps perdu</a><br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/Du_c%C3%B4t%C3%A9_de_chez_Swann/Texte_entier"
+target="_blank">Du côté de chez Swann</a><br>
+1913<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Un petit coup au carreau, comme si quelque chose
+l'avait heurté, suivi
+d'une ample chute légère comme de grains de sable qu'on eût laissés
+tomber d'une fenêtre au-dessus, puis la chute s'étendant, se réglant,
+adoptant un rythme, devenant fluide, sonore, musicale, innombrable,
+universelle : c'était la pluie."<br>
+<br>
+"Avant de repartir nous restions longtemps à manger des fruits, du pain
+et du chocolat, sur l'herbe où parvenaient jusqu'à nous, horizontaux,
+affaiblis, mais denses et métalliques encore, des sons de la cloche de
+Saint-Hilaire qui ne s'étaient pas mélangés à l'air qu'ils traversaient
+depuis si longtemps, et côtelés par la palpitation successive de toutes
+leurs lignes sonores, vibraient en rasant les fleurs, à nos pieds." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
 <a href="https://www.gutenberg.org/files/43475/43475-h/43475-h.htm"
 target="_blank"> Les Heures longues</a><br>
@@ -8649,240 +8749,6 @@ voix
 de femmes et d'enfants, tintements de cuillères et de verrerie, mieux :
 le son d'un bon orchestre, tout proche, qui joue, — sans rancune, — une
 valse viennoise..." </div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
-Proust</a><br>
-À la recherche du temps perdu<br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/Du_c%C3%B4t%C3%A9_de_chez_Swann/Texte_entier"
-target="_blank">Du côté de chez Swann</a><br>
-1913<br>
-<br>
-"&nbsp;&nbsp;&nbsp; Un petit coup au carreau, comme si quelque chose
-l'avait heurté, suivi
-d'une ample chute légère comme de grains de sable qu'on eût laissés
-tomber d'une fenêtre au-dessus, puis la chute s'étendant, se réglant,
-adoptant un rythme, devenant fluide, sonore, musicale, innombrable,
-universelle : c'était la pluie."<br>
-<br>
-"Avant de repartir nous restions longtemps à manger des fruits, du pain
-et du chocolat, sur l'herbe où parvenaient jusqu'à nous, horizontaux,
-affaiblis, mais denses et métalliques encore, des sons de la cloche de
-Saint-Hilaire qui ne s'étaient pas mélangés à l'air qu'ils traversaient
-depuis si longtemps, et côtelés par la palpitation successive de toutes
-leurs lignes sonores, vibraient en rasant les fleurs, à nos pieds."<br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/Le_C%C3%B4t%C3%A9_de_Guermantes/Texte_entier"
-target="_blank">Le Côté de Guermantes</a><br>
-1920<br>
-<br>
-"... une campagne étendue où, par les beaux jours, flotte si souvent
-dans le lointain une sorte de buée sonore intermittente qui — comme un
-rideau de peupliers par ses sinuosités dessine le cours d’une rivière
-qu’on ne voit pas — révèle les changements de place d’un régiment à la
-manœuvre, que l’atmosphère même des rues, des avenues et des places, a
-fini par contracter une sorte de perpétuelle vibratilité musicale et
-guerrière, et que le bruit le plus grossier de chariot ou de tramway
-s’y prolonge en vagues appels de clairon, ressassés indéfiniment aux
-oreilles hallucinées par le silence."<br>
-<br>
-"J’entendais le tic tac de la montre de Saint-Loup, laquelle ne devait
-pas être bien loin de moi. Ce tic tac changeait de place à tout moment,
-car je ne voyais pas la montre ; il me semblait venir de derrière moi,
-de devant, d’à droite, d’à gauche, parfois s’éteindre comme s’il était
-très loin. Tout d’un coup je découvris la montre sur la table. Alors
-j’entendis le tic tac en un lieu fixe d’où il ne bougea plus. Je
-croyais l’entendre à cet endroit-là ; je ne l’y entendais pas, je l’y
-voyais, les sons n’ont pas de lieu. Du moins les rattachons-nous à des
-mouvements et par là ont-ils l’utilité de nous prévenir de ceux-ci, de
-paraître les rendre nécessaires et naturels. Certes il arrive
-quelquefois qu’un malade auquel on a hermétiquement bouché les oreilles
-n’entende plus le bruit d’un feu pareil à celui qui rabâchait en ce
-moment dans la cheminée de Saint-Loup, tout en travaillant à faire des
-tisons et des cendres qu’il laissait ensuite tomber dans sa corbeille,
-n’entende pas non plus le passage des tramways dont la musique prenait
-son vol, à intervalles réguliers, sur la grand’place de Doncières.
-Alors que le malade lise, et les pages se tourneront silencieusement
-comme si elles étaient feuilletées par un dieu. La lourde rumeur d’un
-bain qu’on prépare s’atténue, s’allège et s’éloigne comme un
-gazouillement céleste. Le recul du bruit, son amincissement, lui ôtent
-toute puissance agressive à notre égard ; affolés tout à l’heure par
-des coups de marteau qui semblaient ébranler le plafond sur notre tête,
-nous nous plaisons maintenant à les recueillir, légers, caressants,
-lointains comme un murmure de feuillages jouant sur la route avec le
-zéphir. On fait des réussites avec des cartes qu’on n’entend pas, si
-bien qu’on croit ne pas les avoir remuées, qu’elles bougent
-d’elles-mêmes et, allant au-devant de notre désir de jouer avec elles,
-se sont mises à jouer avec nous. Et à ce propos on peut se demander si
-pour l’Amour (ajoutons même à l’Amour l’amour de la vie, l’amour de la
-gloire, puisqu’il y a, paraît-il, des gens qui connaissent ces deux
-derniers sentiments) on ne devrait pas agir comme ceux qui, contre le
-bruit, au lieu d’implorer qu’il cesse, se bouchent les oreilles ; et, à
-leur imitation, reporter notre attention, notre défensive, en
-nous-même, leur donner comme objet à réduire, non pas l’être extérieur
-que nous aimons, mais notre capacité de souffrir par lui.<br>
-<br>
-&nbsp;&nbsp;&nbsp; Pour revenir au son, qu’on épaississe encore les
-boules qui ferment le
-conduit auditif, elles obligent au pianissimo la jeune fille qui jouait
-au-dessus de notre tête un air turbulent ; qu’on enduise une de ces
-boules d’une matière grasse, aussitôt son despotisme est obéi par toute
-la maison, ses lois mêmes s’étendent au dehors. Le pianissimo ne suffit
-plus, la boule fait instantanément fermer le clavier et la leçon de
-musique est brusquement finie ; le monsieur qui marchait sur notre tête
-cesse d’un seul coup sa ronde ; la circulation des voitures et des
-tramways est interrompue comme si on attendait un Chef d’État. Et cette
-atténuation des sons trouble même quelquefois le sommeil au lieu de le
-protéger. Hier encore les bruits incessants, en nous décrivant d’une
-façon continue les mouvements dans la rue et dans la maison,
-finissaient par nous endormir comme un livre ennuyeux ; aujourd’hui, à
-la surface de silence étendue sur notre sommeil, un heurt plus fort que
-les autres arrive à se faire entendre, léger comme un soupir, sans lien
-avec aucun autre son, mystérieux ; et la demande d’explication qu’il
-exhale suffit à nous éveiller. Que l’on retire pour un instant au
-malade les cotons superposés à son tympan, et soudain la lumière, le
-plein soleil du son se montre de nouveau, aveuglant, renaît dans
-l’univers ; à toute vitesse rentre le peuple des bruits exilés ; on
-assiste, comme si elles étaient psalmodiées par des anges musiciens, à
-la résurrection des voix. Les rues vides sont remplies pour un instant
-par les ailes rapides et successives des tramways chanteurs. Dans la
-chambre elle-même, le malade vient de créer, non pas, comme Prométhée,
-le feu, mais le bruit du feu. Et en augmentant, en relâchant les
-tampons d’ouate, c’est comme si on faisait jouer alternativement l’une
-et l’autre des deux pédales qu’on a ajoutées à la sonorité du monde
-extérieur."<br>
-<br>
-<a href="https://fr.wikisource.org/wiki/Sodome_et_Gomorrhe/Texte_entier"
-target="_blank">Sodome et Gomorrhe</a><br>
-1921<br>
-<br>
-"... j'entendis tout à coup, mécanique et sublime, comme dans <span
-style="font-style: italic;">Tristan</span>
-l'écharpe agitée ou le chalumeau du pâtre, le bruit de toupie du
-téléphone."<br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/La_Prisonni%C3%A8re/Texte_entier"
-target="_blank">La Prisonnière</a><br>
-1923 (Edition posthume)<br>
-<br>
-"... je savais déjà le temps qu'il faisait. Les premiers bruits de la
-rue me l'avaient appris, selon qu'ils me parvenaient amortis et déviés
-par l'humidité ou vibrants comme des flèches dans l'aire résonnante et
-vide d'un matin spacieux, glacial et pur&nbsp;; dès le roulement du
-premier
-tramway, j'avais entendu s'il était morfondu dans la pluie ou en
-partance pour l'azur. Et peut-être ces bruits avaient-ils été devancés
-eux-mêmes par quelque émanation plus rapide et plus pénétrante qui,
-glissée au travers de mon sommeil, y répandait une tristesse
-annonciatrice de la neige, ou y faisait entonner, à certain petit
-personnage intermittent, de si nombreux cantiques à la gloire du soleil
-que ceux-ci finissaient par amener pour moi, qui encore endormi
-commençais à sourire et dont les paupières closes se préparaient à être
-éblouies, un étourdissant réveil en musique."<br>
-<br>
-"Certains beaux jours, il faisait si froid, on était en si large
-communication avec la rue qu'il semblait qu'on eût disjoint les murs de
-la maison, et chaque fois que passait le tramway, son timbre résonnait
-comme eût fait un couteau d'argent frappant une maison de verre."<br>
-<br>
-"&nbsp;&nbsp;&nbsp; J'écoutais cette murmurante émanation mystérieuse,
-douce comme un
-zéphir marin, féerique comme ce clair de lune, qu'était son sommeil.<br>
-... son sommeil, au bord duquel je rêvais, avec une fraîche volupté
-dont je ne me fusse jamais lassé et que j'eusse pu goûter indéfiniment,
-c'était pour moi tout un paysage. Son sommeil mettait à mes côtés
-quelque chose d'aussi calme, d'aussi sensuellement délicieux que ces
-nuits de pleine lune dans la baie de Balbec devenue douce comme un lac,
-où les branches bougent à peine, où, étendu sur le sable, l'on
-écouterait sans fin se briser le reflux."<br>
-<br>
-"Il y avait des jours où le bruit d'une cloche qui sonnait l'heure
-portait sur la sphère de sa sonorité une plaque si fraîche, si
-puissamment étalée de mouillé ou de lumière, que c'était comme une
-traduction pour aveugles, ou si l'on veut, comme une traduction
-musicale du charme de la pluie, ou du charme du soleil. Si bien qu'à ce
-moment-là, les yeux fermés, dans mon lit, je me disais que tout peut se
-transposer et qu'un univers seulement audible pourrait être aussi varié
-que l'autre."<br>
-<br>
-"... j'allai me mettre un instant à la fenêtre. Il y eut d'abord un
-silence, où le sifflet du marchand de tripes et la corne du tramway
-firent résonner l'air à des octaves différentes, comme un accordeur de
-piano aveugle. Puis peu à peu devinrent distincts les motifs
-entre-croisés auxquels de nouveaux s'ajoutaient. Il y avait aussi un
-autre sifflet, appel d'un marchand dont je n'ai jamais su ce qu'il
-vendait, sifflet qui, lui, était exactement pareil à celui d'un
-tramway, et comme il n'était pas emporté par la vitesse on croyait à un
-seul tramway, non doué de mouvement, ou en panne, immobilisé, criant à
-petits intervalles, comme un animal qui meurt. Et il me semblait que,
-si jamais je devais quitter ce quartier aristocratique – à moins que ce
-ne fût pour un tout à fait populaire – les rues et boulevards du centre
-(où la fruiterie, la poissonnerie, etc... stabilisées dans de grandes
-maisons d'alimentation, rendraient inutiles les cris des marchands, qui
-n'eussent pas, du reste, réussi à se faire entendre) me sembleraient
-bien mornes, bien inhabitables, dépouillés, décantés de toutes ces
-litanies des petits métiers et des ambulantes mangeailles, privés de
-l'orchestre qui venait me charmer dès le matin.<br>
-...<br>
-Le ronflement d'un violon était dû parfois au passage d'une automobile,
-parfois à ce que je n'avais pas mis assez d'eau dans ma bouillotte
-électrique. Au milieu de la symphonie détonnait un « air » démodé :
-remplaçant la vendeuse de bonbons qui accompagnait d'habitude son air
-avec une crécelle, le marchand de jouets, au mirliton duquel était
-attaché un pantin qu'il faisait mouvoir en tous sens, promenait
-d'autres pantins et, sans souci de la déclamation rituelle de Grégoire
-le Grand, de la déclamation réformée de Palestrina et de la déclamation
-lyrique des modernes, entonnait à pleine voix, partisan attardé de la
-pure mélodie : « Allons les papas, allons les mamans, contentez vos
-petits enfants&nbsp;; c'est moi qui les fais, c'est moi qui les vends,
-et
-c'est moi qui boulotte l'argent. Tra la la la. Tra la la lalaire, tra
-la la la la la la. Allons les petits&nbsp;! » De petits Italiens,
-coiffés
-d'un béret, n'essayaient pas de lutter avec cet aria vivace, et c'est
-sans rien dire qu'ils offraient de petites statuettes. Cependant qu'un
-petit fifre réduisait le marchand de jouets à s'éloigner et à chanter
-plus confusément, quoique presto : « Allons les papas, allons les
-mamans. » Le petit fifre était-il un de ces dragons que j'entendais le
-matin à Doncières&nbsp;? Non, car ce qui suivait c'étaient ces mots : «
-Voilà le réparateur de faïence et de porcelaine. Je répare le verre, le
-marbre, le cristal, l'os, l'ivoire et objets d'antiquité. Voilà le
-réparateur. »"<br>
-<br>
-"Soudain j’éprouvai de nouveau la nostalgie de ma liberté perdue en
-entendant un bruit que je ne reconnus pas d’abord et que ma grand’mère
-eût, lui aussi, tant aimé. C’était comme le bourdonnement d’une guêpe
-« Tiens, me dit Albertine, il y a un aéroplane, il est très haut,
-très haut. » Je regardais tout autour de moi, mais je ne voyais, sans
-aucune tache noire, que la pâleur intacte du bleu sans mélange.
-J’entendais pourtant toujours le bourdonnement des ailes qui tout d’un
-coup entrèrent dans le champ de ma vision. Là-haut, de minuscules
-ailes brunes et brillantes fronçaient le bleu uni du ciel inaltérable.
-J’avais pu enfin attacher le bourdonnement à sa cause, à ce petit
-insecte qui trépidait là-haut, sans doute à bien deux mille mètres
-de hauteur&nbsp;; je le voyais bruire."<br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/Le_Temps_retrouv%C3%A9/Texte_entier"
-target="_blank">Le Temps retrouvé</a><br>
-1927 (Edition posthume)<br>
-<br>
-"C’était l’époque où il y avait continuellement des raids de gothas
-; l’air grésillait perpétuellement d’une vibration vigilante et
-sonore d’aéroplanes français. Mais parfois retentissait la sirène
-comme un appel déchirant de Walkyrie – seule musique allemande qu’on
-eût entendue depuis la guerre – jusqu’à l’heure où les pompiers
-annonçaient que l’alerte était finie tandis qu’à côté d’eux la
-berloque, comme un invisible gamin, commentait à intervalles
-réguliers la bonne nouvelle et jetait en l’air son cri de joie."<br>
-<br>
-<a href="https://alarecherchedutempsperdu.com/texte.html"
-target="_blank">À la recherche du temps perdu (Texte intégral en une
-seule page)</a>&nbsp; </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Alfred_D%C3%B6blin" target="_blank">Alfred
@@ -9084,6 +8950,121 @@ précisent toute la fantaisie."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren"
+target="_blank">Émile Verhaeren</a><br>
+<a href="https://fr.wikisource.org/wiki/Les_Flammes_hautes"
+target="_blank">Les Flammes hautes</a><br>
+1917<br>
+<br>
+<a target="_blank"
+href="https://fr.wikisource.org/wiki/Mon_ami_le_paysage_%28Verhaeren%29">Mon
+ami, le paysage</a><br>
+<br>
+"J'ai pour voisin et compagnon<br>
+Un vaste et puissant paysage<br>
+Qui change et luit comme un visage<br>
+Devant le seuil de ma maison.<br>
+...<br>
+Un bruit s’entend : c’est un ruisseau<br>
+Qui abaisse de pente en pente<br>
+Le geste bleu de son eau lente<br>
+Jusqu’à la crique d’un hameau.<br>
+...<br>
+Quand l’air est sec et refroidi<br>
+Et que tout bruit semble plus proche,<br>
+Je reconnais au son des cloches<br>
+Quel angelus tinte à midi."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
+Proust</a><br>
+<a href="https://alarecherchedutempsperdu.com/texte.html"
+target="_blank">À la recherche du temps perdu</a><br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/Le_C%C3%B4t%C3%A9_de_Guermantes/Texte_entier"
+target="_blank">Le Côté de Guermantes</a><br>
+1920<br>
+<br>
+"... une campagne étendue où, par les beaux jours, flotte si souvent
+dans le lointain une sorte de buée sonore intermittente qui — comme un
+rideau de peupliers par ses sinuosités dessine le cours d’une rivière
+qu’on ne voit pas — révèle les changements de place d’un régiment à la
+manœuvre, que l’atmosphère même des rues, des avenues et des places, a
+fini par contracter une sorte de perpétuelle vibratilité musicale et
+guerrière, et que le bruit le plus grossier de chariot ou de tramway
+s’y prolonge en vagues appels de clairon, ressassés indéfiniment aux
+oreilles hallucinées par le silence."<br>
+<br>
+"J’entendais le tic tac de la montre de Saint-Loup, laquelle ne devait
+pas être bien loin de moi. Ce tic tac changeait de place à tout moment,
+car je ne voyais pas la montre ; il me semblait venir de derrière moi,
+de devant, d’à droite, d’à gauche, parfois s’éteindre comme s’il était
+très loin. Tout d’un coup je découvris la montre sur la table. Alors
+j’entendis le tic tac en un lieu fixe d’où il ne bougea plus. Je
+croyais l’entendre à cet endroit-là ; je ne l’y entendais pas, je l’y
+voyais, les sons n’ont pas de lieu. Du moins les rattachons-nous à des
+mouvements et par là ont-ils l’utilité de nous prévenir de ceux-ci, de
+paraître les rendre nécessaires et naturels. Certes il arrive
+quelquefois qu’un malade auquel on a hermétiquement bouché les oreilles
+n’entende plus le bruit d’un feu pareil à celui qui rabâchait en ce
+moment dans la cheminée de Saint-Loup, tout en travaillant à faire des
+tisons et des cendres qu’il laissait ensuite tomber dans sa corbeille,
+n’entende pas non plus le passage des tramways dont la musique prenait
+son vol, à intervalles réguliers, sur la grand’place de Doncières.
+Alors que le malade lise, et les pages se tourneront silencieusement
+comme si elles étaient feuilletées par un dieu. La lourde rumeur d’un
+bain qu’on prépare s’atténue, s’allège et s’éloigne comme un
+gazouillement céleste. Le recul du bruit, son amincissement, lui ôtent
+toute puissance agressive à notre égard ; affolés tout à l’heure par
+des coups de marteau qui semblaient ébranler le plafond sur notre tête,
+nous nous plaisons maintenant à les recueillir, légers, caressants,
+lointains comme un murmure de feuillages jouant sur la route avec le
+zéphir. On fait des réussites avec des cartes qu’on n’entend pas, si
+bien qu’on croit ne pas les avoir remuées, qu’elles bougent
+d’elles-mêmes et, allant au-devant de notre désir de jouer avec elles,
+se sont mises à jouer avec nous. Et à ce propos on peut se demander si
+pour l’Amour (ajoutons même à l’Amour l’amour de la vie, l’amour de la
+gloire, puisqu’il y a, paraît-il, des gens qui connaissent ces deux
+derniers sentiments) on ne devrait pas agir comme ceux qui, contre le
+bruit, au lieu d’implorer qu’il cesse, se bouchent les oreilles ; et, à
+leur imitation, reporter notre attention, notre défensive, en
+nous-même, leur donner comme objet à réduire, non pas l’être extérieur
+que nous aimons, mais notre capacité de souffrir par lui.<br>
+<br>
+&nbsp;&nbsp;&nbsp; Pour revenir au son, qu’on épaississe encore les
+boules qui ferment le
+conduit auditif, elles obligent au pianissimo la jeune fille qui jouait
+au-dessus de notre tête un air turbulent ; qu’on enduise une de ces
+boules d’une matière grasse, aussitôt son despotisme est obéi par toute
+la maison, ses lois mêmes s’étendent au dehors. Le pianissimo ne suffit
+plus, la boule fait instantanément fermer le clavier et la leçon de
+musique est brusquement finie ; le monsieur qui marchait sur notre tête
+cesse d’un seul coup sa ronde ; la circulation des voitures et des
+tramways est interrompue comme si on attendait un Chef d’État. Et cette
+atténuation des sons trouble même quelquefois le sommeil au lieu de le
+protéger. Hier encore les bruits incessants, en nous décrivant d’une
+façon continue les mouvements dans la rue et dans la maison,
+finissaient par nous endormir comme un livre ennuyeux ; aujourd’hui, à
+la surface de silence étendue sur notre sommeil, un heurt plus fort que
+les autres arrive à se faire entendre, léger comme un soupir, sans lien
+avec aucun autre son, mystérieux ; et la demande d’explication qu’il
+exhale suffit à nous éveiller. Que l’on retire pour un instant au
+malade les cotons superposés à son tympan, et soudain la lumière, le
+plein soleil du son se montre de nouveau, aveuglant, renaît dans
+l’univers ; à toute vitesse rentre le peuple des bruits exilés ; on
+assiste, comme si elles étaient psalmodiées par des anges musiciens, à
+la résurrection des voix. Les rues vides sont remplies pour un instant
+par les ailes rapides et successives des tramways chanteurs. Dans la
+chambre elle-même, le malade vient de créer, non pas, comme Prométhée,
+le feu, mais le bruit du feu. Et en augmentant, en relâchant les
+tampons d’ouate, c’est comme si on faisait jouer alternativement l’une
+et l’autre des deux pédales qu’on a ajoutées à la sonorité du monde
+extérieur."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Ren%C3%A9_Maran" target="_blank">René
 Maran</a><br>
 <a
@@ -9150,6 +9131,22 @@ qu’ils nourrissent maintenant pour l’éternité.<br>
 les bruits qu’elle
 recevait en bloc. Elle les enregistrait, en quelque sorte, assignant à
 chacun sa place exacte et sa signification précise."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
+Proust</a><br>
+<a href="https://alarecherchedutempsperdu.com/texte.html"
+target="_blank">À la recherche du temps perdu</a><br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Sodome_et_Gomorrhe/Texte_entier"
+target="_blank">Sodome et Gomorrhe</a><br>
+1921<br>
+<br>
+"... j'entendis tout à coup, mécanique et sublime, comme dans <span
+style="font-style: italic;">Tristan</span>
+l'écharpe agitée ou le chalumeau du pâtre, le bruit de toupie du
+téléphone."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9230,6 +9227,115 @@ Giovanni</span> qu’il joue à présent."&nbsp;<br>
 </tr>
 </tbody>
 </table>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
+Proust</a><br>
+<a href="https://alarecherchedutempsperdu.com/texte.html"
+target="_blank">À la recherche du temps perdu</a><br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/La_Prisonni%C3%A8re/Texte_entier"
+target="_blank">La Prisonnière</a><br>
+1923 (Edition posthume)<br>
+<br>
+"... je savais déjà le temps qu'il faisait. Les premiers bruits de la
+rue me l'avaient appris, selon qu'ils me parvenaient amortis et déviés
+par l'humidité ou vibrants comme des flèches dans l'aire résonnante et
+vide d'un matin spacieux, glacial et pur&nbsp;; dès le roulement du
+premier
+tramway, j'avais entendu s'il était morfondu dans la pluie ou en
+partance pour l'azur. Et peut-être ces bruits avaient-ils été devancés
+eux-mêmes par quelque émanation plus rapide et plus pénétrante qui,
+glissée au travers de mon sommeil, y répandait une tristesse
+annonciatrice de la neige, ou y faisait entonner, à certain petit
+personnage intermittent, de si nombreux cantiques à la gloire du soleil
+que ceux-ci finissaient par amener pour moi, qui encore endormi
+commençais à sourire et dont les paupières closes se préparaient à être
+éblouies, un étourdissant réveil en musique."<br>
+<br>
+"Certains beaux jours, il faisait si froid, on était en si large
+communication avec la rue qu'il semblait qu'on eût disjoint les murs de
+la maison, et chaque fois que passait le tramway, son timbre résonnait
+comme eût fait un couteau d'argent frappant une maison de verre."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; J'écoutais cette murmurante émanation mystérieuse,
+douce comme un
+zéphir marin, féerique comme ce clair de lune, qu'était son sommeil.<br>
+... son sommeil, au bord duquel je rêvais, avec une fraîche volupté
+dont je ne me fusse jamais lassé et que j'eusse pu goûter indéfiniment,
+c'était pour moi tout un paysage. Son sommeil mettait à mes côtés
+quelque chose d'aussi calme, d'aussi sensuellement délicieux que ces
+nuits de pleine lune dans la baie de Balbec devenue douce comme un lac,
+où les branches bougent à peine, où, étendu sur le sable, l'on
+écouterait sans fin se briser le reflux."<br>
+<br>
+"Il y avait des jours où le bruit d'une cloche qui sonnait l'heure
+portait sur la sphère de sa sonorité une plaque si fraîche, si
+puissamment étalée de mouillé ou de lumière, que c'était comme une
+traduction pour aveugles, ou si l'on veut, comme une traduction
+musicale du charme de la pluie, ou du charme du soleil. Si bien qu'à ce
+moment-là, les yeux fermés, dans mon lit, je me disais que tout peut se
+transposer et qu'un univers seulement audible pourrait être aussi varié
+que l'autre."<br>
+<br>
+"... j'allai me mettre un instant à la fenêtre. Il y eut d'abord un
+silence, où le sifflet du marchand de tripes et la corne du tramway
+firent résonner l'air à des octaves différentes, comme un accordeur de
+piano aveugle. Puis peu à peu devinrent distincts les motifs
+entre-croisés auxquels de nouveaux s'ajoutaient. Il y avait aussi un
+autre sifflet, appel d'un marchand dont je n'ai jamais su ce qu'il
+vendait, sifflet qui, lui, était exactement pareil à celui d'un
+tramway, et comme il n'était pas emporté par la vitesse on croyait à un
+seul tramway, non doué de mouvement, ou en panne, immobilisé, criant à
+petits intervalles, comme un animal qui meurt. Et il me semblait que,
+si jamais je devais quitter ce quartier aristocratique – à moins que ce
+ne fût pour un tout à fait populaire – les rues et boulevards du centre
+(où la fruiterie, la poissonnerie, etc... stabilisées dans de grandes
+maisons d'alimentation, rendraient inutiles les cris des marchands, qui
+n'eussent pas, du reste, réussi à se faire entendre) me sembleraient
+bien mornes, bien inhabitables, dépouillés, décantés de toutes ces
+litanies des petits métiers et des ambulantes mangeailles, privés de
+l'orchestre qui venait me charmer dès le matin.<br>
+...<br>
+Le ronflement d'un violon était dû parfois au passage d'une automobile,
+parfois à ce que je n'avais pas mis assez d'eau dans ma bouillotte
+électrique. Au milieu de la symphonie détonnait un « air » démodé :
+remplaçant la vendeuse de bonbons qui accompagnait d'habitude son air
+avec une crécelle, le marchand de jouets, au mirliton duquel était
+attaché un pantin qu'il faisait mouvoir en tous sens, promenait
+d'autres pantins et, sans souci de la déclamation rituelle de Grégoire
+le Grand, de la déclamation réformée de Palestrina et de la déclamation
+lyrique des modernes, entonnait à pleine voix, partisan attardé de la
+pure mélodie : « Allons les papas, allons les mamans, contentez vos
+petits enfants&nbsp;; c'est moi qui les fais, c'est moi qui les vends,
+et
+c'est moi qui boulotte l'argent. Tra la la la. Tra la la lalaire, tra
+la la la la la la. Allons les petits&nbsp;! » De petits Italiens,
+coiffés
+d'un béret, n'essayaient pas de lutter avec cet aria vivace, et c'est
+sans rien dire qu'ils offraient de petites statuettes. Cependant qu'un
+petit fifre réduisait le marchand de jouets à s'éloigner et à chanter
+plus confusément, quoique presto : « Allons les papas, allons les
+mamans. » Le petit fifre était-il un de ces dragons que j'entendais le
+matin à Doncières&nbsp;? Non, car ce qui suivait c'étaient ces mots : «
+Voilà le réparateur de faïence et de porcelaine. Je répare le verre, le
+marbre, le cristal, l'os, l'ivoire et objets d'antiquité. Voilà le
+réparateur. »"<br>
+<br>
+"Soudain j’éprouvai de nouveau la nostalgie de ma liberté perdue en
+entendant un bruit que je ne reconnus pas d’abord et que ma grand’mère
+eût, lui aussi, tant aimé. C’était comme le bourdonnement d’une guêpe
+« Tiens, me dit Albertine, il y a un aéroplane, il est très haut,
+très haut. » Je regardais tout autour de moi, mais je ne voyais, sans
+aucune tache noire, que la pâleur intacte du bleu sans mélange.
+J’entendais pourtant toujours le bourdonnement des ailes qui tout d’un
+coup entrèrent dans le champ de ma vision. Là-haut, de minuscules
+ailes brunes et brillantes fronçaient le bleu uni du ciel inaltérable.
+J’avais pu enfin attacher le bourdonnement à sa cause, à ce petit
+insecte qui trépidait là-haut, sans doute à bien deux mille mètres
+de hauteur&nbsp;; je le voyais bruire."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9447,6 +9553,27 @@ style="font-style: italic;">A ma
 connaissance c'est dans ce texte où apparait pour la première fois en
 langue française l'expression "paysage sonore".</span><br>
 </div>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
+Proust</a><br>
+<a href="https://alarecherchedutempsperdu.com/texte.html"
+target="_blank">À la recherche du temps perdu</a><br>
+<br>
+<a
+href="https://fr.wikisource.org/wiki/Le_Temps_retrouv%C3%A9/Texte_entier"
+target="_blank">Le Temps retrouvé</a><br>
+1927 (Edition posthume)<br>
+<br>
+"C’était l’époque où il y avait continuellement des raids de gothas
+; l’air grésillait perpétuellement d’une vibration vigilante et
+sonore d’aéroplanes français. Mais parfois retentissait la sirène
+comme un appel déchirant de Walkyrie – seule musique allemande qu’on
+eût entendue depuis la guerre – jusqu’à l’heure où les pompiers
+annonçaient que l’alerte était finie tandis qu’à côté d’eux la
+berloque, comme un invisible gamin, commentait à intervalles
+réguliers la bonne nouvelle et jetait en l’air son cri de joie."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -13623,4 +13750,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 8 8 2026 
+page mise à jour 11 8 2026 
