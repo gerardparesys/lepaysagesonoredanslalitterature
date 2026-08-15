@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">811 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">818 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -8708,7 +8708,8 @@ Et le monde comme l'horloge du quartier juif de Prague, tourne
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
-target="_blank">À la recherche du temps perdu</a><br>
+target="_blank">
+À la recherche du temps perdu</a><br>
 <br>
 <a
 href="https://fr.wikisource.org/wiki/Du_c%C3%B4t%C3%A9_de_chez_Swann/Texte_entier"
@@ -8980,7 +8981,8 @@ Quel angelus tinte à midi."<br>
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
-target="_blank">À la recherche du temps perdu</a><br>
+target="_blank">
+À la recherche du temps perdu</a><br>
 <br>
 <a
 href="https://fr.wikisource.org/wiki/Le_C%C3%B4t%C3%A9_de_Guermantes/Texte_entier"
@@ -9137,7 +9139,8 @@ chacun sa place exacte et sa signification précise."
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
-target="_blank">À la recherche du temps perdu</a><br>
+target="_blank">
+À la recherche du temps perdu</a><br>
 <br>
 <a href="https://fr.wikisource.org/wiki/Sodome_et_Gomorrhe/Texte_entier"
 target="_blank">Sodome et Gomorrhe</a><br>
@@ -9233,7 +9236,8 @@ Giovanni</span> qu’il joue à présent."&nbsp;<br>
 href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
-target="_blank">À la recherche du temps perdu</a><br>
+target="_blank">
+À la recherche du temps perdu</a><br>
 <br>
 <a
 href="https://fr.wikisource.org/wiki/La_Prisonni%C3%A8re/Texte_entier"
@@ -9366,6 +9370,31 @@ Battier</a><br>
 paroles ici, du grillon chez le boulanger, du train sur la voie des
 Indes, des étoiles, des musiciens chinois et nègres, des machines à
 Liverpool, des tambours polynésiens. Tout !"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Vladimir_Nabokov" target="_blank">Vladimir
+Nabokov</a><br>
+Звуки<br>
+<a href="https://fr.wikipedia.org/wiki/Bruits">Bruits - Traduction
+(1991) de Bernard Kreise</a><br>
+1923<br>
+<br>
+"Tu te taisais avec légèreté et insouciance, comme se taisent les
+nuages, les plantes. Tout silence contient l’hypothèse d’un secret. À
+beaucoup tu semblais secrète."<br>
+<br>
+"Et ce jour-là j'étais sur la crête d’une vague, je savais que tout
+autour de moi était constitué de notes d’une même harmonie, je savais —
+secrètement — comment étaient apparus, comment devaient se résoudre des
+bruits réunis l’espace d’un instant, quel nouvel accord serait suscité
+par chacune des notes dispersées. L'oreille musicale de mon âme savait
+tout, comprenait tout."<br>
+<br>
+"Je filai sans bruit sur le chemin piétiné le long des isbas. L'air mat
+fut traversé par un beuglement ; des quilles furent projetées en l'air.
+Plus loin, sur la route, dans l’immensité du soleil couchant, dans les
+champs obscurément embrumés, c'était le silence."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Ashin'an
@@ -11743,6 +11772,62 @@ oscillait de sa chaleur vivante au feu glacé des étoiles."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Julien_Gracq" target="_blank">Julien
+Gracq</a><br>
+<a href="https://editions-corti.fr/livres/un-balcon-en-foret"
+target="_blank">Un balcon en forêt</a><br>
+1958<br>
+<br>
+"La forêt au-delà de la frontière laissait glisser jusqu’à eux des
+bruits légers&nbsp;– auxquels malgré eux ils tendaient l’oreille&nbsp;–
+pareils à ces menues épaves ininterprétables que rejette la mer sur une
+grève et où l’œil du promeneur s’attache machinalement&nbsp;: cette
+lisière sourdement alertée où les forets patrouillées de la guerre
+venaient border on ne savait quel silence respirant et heureux qui
+tendait l’oreille attirait Grange et l’intriguait."<br>
+<br>
+"... et il écoutait dans le noir leurs deux souffles mêlés passer et
+repasser sur le long bruissement grave de la forêt&nbsp;: c’était comme
+le bruit des vaguelettes au fond d’une grotte qui respirent sur la
+clameur même des brisants&nbsp;; la même épaule énorme de la marée qui
+balayait la terre les soulevait, portait ensemble la veille et le
+sommeil."<br>
+<br>
+"Ils s’enfonçaient dans le chemin de neige molle qui épongeait les
+bruits."<br>
+<br>
+"... la route vous collait à son bruissement comme une ventouse."<br>
+<br>
+"A une lieue à la ronde, on eût juré que la forêt n’avait pas un
+bruit&nbsp;; il tendait l’oreille vers les taillis sans oiseaux,
+vaguement inquiet de cet évanouissement suspect de l’homme, de ce
+chantier rêveur de grève sur le tas. Soudain, comme il rallumait sa
+cigarette, il se fit très haut au-dessus de sa tête un déchirement de
+l’air singulier&nbsp;: un long fracas somptueux de rapide céleste
+froissant ses rails et ferraillant sur des aiguillages&nbsp;:
+l’artillerie lourde de la Meuse ouvrait le feu sur la Belgique.<br>
+&nbsp;&nbsp;&nbsp; Il lui sembla ensuite que les choses se passaient
+très vite. Il était à peine à mi-chemin du fortin qu’un puissant
+ronflement de moteurs se mit à fouir, à tarauder la forêt de tous les
+côtés à la fois, avec le sans-gêne d’une troupe de rabatteurs entrant
+dans un fourré, et le Toit brusquement entra en transe dans un énorme
+tapage de bombes et de mitrailleuses. Grange demeura un moment
+stupide&nbsp;: la forêt vibrait comme une rue secouée par le vacarme
+d’une perforatrice&nbsp;; il se sentait giflé, bousculé, par la
+trépidation véhémente, incompréhensible, qui entrait en lui à la fois
+par la plante des pieds et par les oreilles."<br>
+<br>
+"Il se faisait dans sa tête une rumeur matinale et fraîche que rien
+n’arrêtait plus&nbsp;: c’était comme si tout à coup un <span
+style="font-style: italic;">bruit de fond</span>, un grincement
+indiscernable tant il était habituel, avait cessé d’embrouiller sa vie."<br>
+<br>
+"La vie retombait à ce silence douceâtre de prairie d’asphodèles, plein
+du léger froissement du sang contre l’oreille, comme au fond d’un
+coquillage le bruit de la mer qu’on n’atteindra jamais."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Duras" target="_blank">Marguerite
 Duras</a><br>
 <a href="https://fr.wikipedia.org/wiki/Moderato_cantabile"
@@ -11858,7 +11943,8 @@ La vie continue à peu près comme un morceau de Feldman."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
 Queneau</a><br>
-<a href="http://www.bludog.fr/overblog/Divers/Queneau/index.html"
+<a
+href="https://fr.wikipedia.org/wiki/Cent_mille_milliards_de_po%C3%A8mes"
 target="_blank">Cent mille milliards de poèmes</a><br>
 1961<br>
 <br>
@@ -12380,6 +12466,26 @@ transparaissent les uns dans les autres, s’interrompent les uns les
 autres, glissent, dans toutes les langues, éclats, relents, avec des
 thèmes qui émergent, s’organisent en cascades, canons, agglomérats,
 cycles."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Olivier_Messiaen" target="_blank">Olivier
+Messiaen</a><br>
+<a
+href="https://www.la-pleiade.fr/catalogue/histoire-de-la-musique-2-du-xviii-siecle-a-nos-jours/9782070104048"
+target="_blank">Texte de Gisèle Brelet - Histoire de la musique II -
+Encyclopédie de la Pléiade</a><br>
+1963<br>
+<br>
+MUSIQUE CONTEMPORAINE EN FRANCE<br>
+<br>
+"... Messiaen ne craindra pas de mettre en présence 64 durées «
+chromatiques » de 1 à 64, alternant par groupes de 4 les plus grandes
+et les plus petites, afin de nous suggérer l’idée des rapports entre
+les temps infiniment longs des étoiles et des montagnes, et infiniment
+courts des insectes et des atomes. Le pouvoir élémentaire, cosmique,
+qui émane des meilleures pages de Messiaen vient avant tout du travail
+rythmique qui en constitue l'assise vitale et la raison d’être."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12982,15 +13088,6 @@ target="_blank">Félix Guattari</a><br>
 <a href="http://palimpsestes.fr/textes_philo/deleuze/Mille-Plateaux.pdf"
 target="_blank">Mille Plateaux</a><br>
 1980<br>
-<br>
-Devenir-intense, devenir-animal, devenir-imperceptible...<br>
-<br>
-"Messiaen met en présence des durées chromatiques multiples, en
-coalescence, « alternant les plus grandes et les plus petites, afin de
-suggérer l'idée des rapports entre les temps infiniment longs des
-étoiles et des montagnes, et infiniment courts des insectes et des
-atomes : pouvoir élémentaire, cosmique, qui ... vient avant tout du
-travail rythmique »." (Gisèle Brelet - Histoire de la musique - Pléiade)<br>
 <br>
 De la ritournelle <br>
 <br>
@@ -13750,4 +13847,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 11 8 2026 
+page mise à jour 15 8 2026 
