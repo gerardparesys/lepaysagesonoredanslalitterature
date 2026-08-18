@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">818 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">826 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -56,10 +56,25 @@ de soleil !"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Litt%C3%A9rature_de_l%27%C3%89gypte_antique"
+target="_blank">Égypte antique</a><br>
+Anonyme - <a href="https://fr.wikipedia.org/wiki/Papyrus_Ebers"
+target="_blank">Papyrus Ebers</a> - Traduction (1956) de Gustave
+Lefebvre dans <a href="https://archive.org/details/Lefebvre1956/"
+target="_blank">Essai sur la médecine égyptienne de l'époque
+pharaonique</a><br>
+16e siècle av. J.-C.<br>
+<br>
+"... le souffle de la vie entrant par l'oreille droite et le souffle de
+la mort entrant par l'oreille gauche."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
-<a href="https://fr.wikipedia.org/wiki/Enuma_Anu_Enlil" target="_blank">Enuma
-Anu Enlil</a> - <a
+Anonyme - <a href="https://fr.wikipedia.org/wiki/Enuma_Anu_Enlil"
+target="_blank">Enuma
+Anu Enlil</a> - Tablette 44 - <a
 href="https://revues.droz.org/RR/article/view/RR_31_197-209/html"
 target="_blank">Traduction (2011) de Anne-Caroline Rendu Loisel</a><br>
 1600 .. 1200 av. J.-C.<br>
@@ -247,8 +262,7 @@ travers les sourcils, flambait du feu, et de toutes ces têtes qui
 regardaient, jaillissait ce feu. Et des voix sortaient de toutes ces
 têtes affreuses, rendant des sons de toutes sortes, ineffables,
 semblables aux voix mêmes des Dieux, ou à la voix énorme d’un taureau
-mugissant et féroce, ou à ce&nbsp;&nbsp;&nbsp; dlle d’un lion à l’âme
-farouche, ou, chose
+mugissant et féroce, ou à celle d’un lion à l’âme farouche, ou, chose
 prodigieuse, à l’aboiement des petits chiens, ou au bruit strident des
 hautes montagnes."<br>
 </div>
@@ -399,6 +413,35 @@ instruments, et en outre la voix des chiens, des moutons, des oiseaux.
 Tout son discours ne sera qu’imitation de voix et de gestes&nbsp;; à
 peine y
 entrera-t-il quelque portion de récit."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Aristote" target="_blank">Aristote</a><br>
+<a
+href="https://remacle.org/bloodwolf/philosophes/Aristote/tableanimaux.htm"
+target="_blank">Histoire des animaux - Traduction (1892) de Jules
+Barthélemy-Saint-Hilaire</a><br>
+343 av. J.-C.<br>
+<br>
+<a
+href="https://remacle.org/bloodwolf/philosophes/Aristote/animaux9ab.htm#XXVII"
+target="_blank">Tome 3 Livre IX Chapitre XXVII</a><br>
+<br>
+"&nbsp;&nbsp;&nbsp; II semble que les abeilles aiment le bruit ; et
+aussi, on les rassemble, dit-on, dans la ruche en frappant bruyamment
+des coquilles ou des vases de terre, les uns contre les autres.
+Toutefois on ne sait pas du tout si elles ont la faculté de l'ouïe, ou
+si elles ne l'ont pas ; et si quand elles se rassemblent ainsi, c'est
+par plaisir ou par peur.<br>
+... Le matin, elles dorment en silence, jusqu'à ce que l'une d'elles
+réveille les autres en bourdonnant deux ou trois fois ; et
+sur-le-champ, elles volent toutes à l'ouvrage. En rentrant, elles font
+d'abord grand bruit ; et petit à petit, elles en font de moins en
+moins, jusqu'à ce que l'une d'entre elles bourdonne, comme pour le
+signal du sommeil ; et toutes alors gardent le silence à l'instant
+même. On reconnaît la santé de la ruche au bruit énorme qu'elle fait,
+et au mouvement des entrées et des sorties des abeilles, parce que
+c'est à ce moment qu'elles font leur couvain."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3920,14 +3963,8 @@ Le bruit.
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne-Fran%C3%A7ois_Vidocq"
 target="_blank">Eugène-François Vidocq</a><br>
-<a href="https://www.ebooksgratuits.com/pdf/vidocq_memoires_tome_1.pdf"
-target="_blank">Mémoires de Vidocq Tome 1</a>&nbsp;&nbsp; <a
-href="https://www.ebooksgratuits.com/pdf/vidocq_memoires_tome_2.pdf"
-target="_blank">Tome 2</a>&nbsp;&nbsp; <a
-href="https://www.ebooksgratuits.com/pdf/vidocq_memoires_tome_3.pdf"
-target="_blank">Tome 3</a>&nbsp;&nbsp; <a
-href="https://www.ebooksgratuits.com/pdf/vidocq_memoires_tome_4.pdf"
-target="_blank">Tome 4</a><br>
+<a href="https://www.ebooksgratuits.com/pdf/vidocq_memoires_tome_2.pdf"
+target="_blank">Mémoires de Vidocq Tome 2</a><br>
 1828<br>
 <br>
 "Bientôt nous entendîmes aller et venir les portes ; c’est un
@@ -8484,6 +8521,26 @@ tendue, la chute d’une planche, etc. La littérature de l’avenir a là de
 belles perspectives."<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Claude_Debussy" target="_blank">Claude
+Debussy</a><br>
+<a
+href="https://www.gallimard.fr/catalogue/monsieur-croche-et-autres-ecrits/9782070711079"
+target="_blank">Monsieur Croche et autres écrits</a><br>
+1911<br>
+<br>
+M. Claude Debussy et Le Martyre de saint Sébastien (Interview par Henry
+Malherbe.)<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Qui connaîtra le secret de la composition musicale
+? Le bruit de la mer, la courbe d’un horizon, le vent dans les
+feuilles, le cri d’un oiseau déposent en nous de multiples impressions.
+Et, tout à coup, sans que l’on y consente le moins du monde, l’un de
+ces souvenirs se répand hors de nous et s’exprime en langage musical.
+Il porte en lui-même son harmonie. Quelque effort que l’on fasse, on
+n’en pourra trouver de plus juste, ni de plus sincère."<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">
 <a href="https://fr.wikipedia.org/wiki/Thomas_Mann" target="_blank">Thomas
 Mann</a>
@@ -10303,6 +10360,47 @@ SAVIONS QUE C'EST NOUS QUI PARLIONS.</small>"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Agatha_Christie" target="_blank">Agatha
+Christie</a><br>
+<a href="https://en.wikipedia.org/wiki/And_Then_There_Were_None"
+target="_blank">Ten little niggers</a><br>
+<a href="https://fr.wikipedia.org/wiki/Ils_%C3%A9taient_dix"
+target="_blank">Dix petits nègres - Traduction (1993) de Gérard de
+Chergé</a><br>
+1939<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Parfaitement immobile, Blore écoutait. Il entendait
+maintenant des bruits de tous les côtés : craquements, frôlements,
+mystérieux chuchotis... Mais son esprit réaliste, opiniâtre, les
+reconnaissait pour ce qu’ils étaient : des créations de son imagination
+enfiévrée.<br>
+&nbsp;&nbsp;&nbsp; Et puis soudain, il entendit un bruit qui n’avait
+rien d’imaginaire. Des pas. Très légers, très prudents, mais
+parfaitement audibles pour un homme qui, comme Blore, écoutait de
+toutes ses oreilles.<br>
+&nbsp;&nbsp;&nbsp; Les pas feutrés venaient du fond du couloir (les
+chambres de Lombard et d’Armstrong étaient plus éloignées de l’escalier
+que la sienne). Ils passèrent devant sa porte sans hésiter ni ralentir."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Soudain, elle se raidit. Elle avait entendu un
+bruit. On aurait dit un bruit de verre brisé. Et ça provenait du
+rez-de-chaussée.<br>
+&nbsp;&nbsp;&nbsp; Elle écouta de toutes ses forces, mais le bruit ne
+se répéta pas.<br>
+&nbsp;&nbsp;&nbsp; Elle entendit – ou crut entendre – des pas furtifs,
+des craquements dans l’escalier, un frou-frou de vêtements... mais rien
+de très précis et elle décida, tout comme Blore avant elle, que ces
+bruits avaient son imagination pour origine.<br>
+&nbsp;&nbsp;&nbsp; Mais elle entendit bientôt des sons plus concrets.
+Des gens qui remuaient en bas... des murmures de voix. Puis des pas
+décidés qui montaient l’escalier... des portes qui s’ouvraient et se
+fermaient quelqu’un qui grimpait dans la mansarde. D’autres bruits
+venant de là-haut.<br>
+&nbsp;&nbsp;&nbsp; Et, finalement, des pas dans le couloir et la voix
+de Lombard..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Albert_Camus" target="_blank">Albert
 Camus</a><br>
 <a href="https://fr.wikipedia.org/wiki/Carnets_%28Albert_Camus%29"
@@ -10315,6 +10413,19 @@ m'accueillait soudain, je me suis senti délivré.<br>
 Tout se taisait. Le wagon vibrait doucement. Et si j'entendais derrière
 les vitres les froissements de la nuit pluvieuse, je l'entendais encore
 comme un silence."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul
+Sartre</a><br>
+<a href="https://fr.wikipedia.org/wiki/Lettres_au_Castor"
+target="_blank">Lettres au Castor</a><br>
+22 novembre 1939<br>
+<br>
+"Et pourtant cette musique de poubelle était encore susceptible d’être
+humiliée, elle l’était par les bruits d’assiettes et puis des voix
+immondes et puis les types qui tournaient les boutons, augmentaient ou
+diminuaient l’intensité, arrêtaient l’air, le faisaient reprendre, etc."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -13044,6 +13155,33 @@ exceptionnellement, le langage."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
+Barthes</a><br>
+<a
+href="https://www.seuil.com/ouvrage/comment-vivre-ensemble-cours-et-seminaires-au-college-de-france-1976-1977-roland-barthes/9782020478434"
+target="_blank">Comment vivre ensemble. Cours et séminaires au Collège
+de France (1976-1977)</a><br>
+Séance du 16 mars 1977 - ÉCOUTE<br>
+<br>
+TERRITOIRE ET ÉCOUTE<br>
+<br>
+"— Territoire : réseau polyphonique de tous les bruits familiers : ceux
+que je peux reconnaître et qui dès lors sont les signes de mon espace.<br>
+...<br>
+= Véritable paysage sonore, familial : de rassurement. Intéressant, car
+paysage discontinu, erratique, et cependant très codé, d’où la force de
+l’insolite ; soit silence inattendu, soit bruit irreconnaissable
+obligeant à un travail interne d’interprétation. Différence à ce sujet,
+entre l’appartement et la maison. Appartement : bruits exigus,
+maîtrisables ≠ maison : risque accru de bruits inconnus. Maison : objet
+fantastique ; tout un folklore de la peur par apparition du bruit
+irreconnaissable. Appartement : sécurité, parce qu’on est sûr qu’un
+vague bruit de robinet ou de chauffage derrière une cloison vient du
+voisin. ≠ Maison : intègre tous les bruits. Tous les bruits
+m’appartiennent, me concernent : je suis visé par le bruit inconnu."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/R._Murray_Schafer" target="_blank">Raymond
 Murray Schafer</a><br>
 <a
@@ -13057,6 +13195,23 @@ target="_blank">Le Paysage sonore Le monde comme musique Traduction
 "Le talent de romanciers tels que Tolstoï, Thomas Hardy ou Thomas Mann,
 qui ont su saisir les paysages sonores de leur époque et de leur pays,
 nous a permis de reconstituer le passé."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; La destruction du calme de l'hiver nordique dans le
+vacarme des chasse-neige et des scooters des neiges est l'une des plus
+grandes transformations du paysage sonore du XXIe siècle. Ces engins
+détruisent l' "idée du Nord" qui a forgé le tempérament des peuples
+septentrionaux et engendré une mythologie puissante du monde. L'idée du
+Nord, d'austérité, d'espace et de solitude à la fois pouvait facilement
+imprimer la peur au coeur de l'homme (Dante n'avait-il pas réfrigéré le
+centre de son enfer ?), mais elle évoquait une terreur intense, pure,
+sans tentation possible et silencieuse. Les technocrates du progrès
+n'ont pas compris qu'en introduisant dans le Nord toutes ces machines,
+ils tronquaient l'intégrité de leur propre esprit, noyant les mystères
+et leurs pouvoirs d'évocation dans les postes à essence, réduisant les
+légendes à des poupées de plastique. Le silence chassé du Nord signifie
+la fin des mythes. Il devient plus difficile de comprendre les Eddas et
+les sagas, et beaucoup même de ce qui est au coeur de la littérature et
+de l'art russe, scandinave et esquimau."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -13847,4 +14002,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 15 8 2026 
+page mise à jour 18 8 2026 
