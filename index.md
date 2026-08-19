@@ -25,7 +25,7 @@ Un grillon solitaire entame un chœur bruyant,<br>
 Une palombe gazouille, une tourterelle lui répond.<br>
 À l'appel de la cigogne, la forêt jubile,<br>
 Au cri du francolin, la forêt jubile pleinement.<br>
-Les mères singes chantent à haute voix, un jeune singe crie :<br>
+Les mères-singe chantent à haute voix, un jeune singe crie :<br>
 Tel un orchestre de musiciens et de percussionnistes,<br>
 Chaque jour ils font retentir cette symphonie devant Humbaba." </div>
 <br>
@@ -427,7 +427,7 @@ Barthélemy-Saint-Hilaire</a><br>
 href="https://remacle.org/bloodwolf/philosophes/Aristote/animaux9ab.htm#XXVII"
 target="_blank">Tome 3 Livre IX Chapitre XXVII</a><br>
 <br>
-"&nbsp;&nbsp;&nbsp; II semble que les abeilles aiment le bruit ; et
+"&nbsp;&nbsp;&nbsp; Il semble que les abeilles aiment le bruit ; et
 aussi, on les rassemble, dit-on, dans la ruche en frappant bruyamment
 des coquilles ou des vases de terre, les uns contre les autres.
 Toutefois on ne sait pas du tout si elles ont la faculté de l'ouïe, ou
@@ -2297,12 +2297,12 @@ entendions cette sonnerie renforcée.<br>
 Nous doutions que fut Dodone avec ses chaudrons, ou le portique dit
 Heptaphone en Olympie, ou bien le bruit sempiternel du colosse érigé
 sur la sépulture de Memnon en Thèbes d’Égypte, ou les tintamarres
-que jadis on ovait autour d’un sépulcre en l’île Lipara, l’une des
+que jadis on oyait autour d’un sépulcre en l’île Lipara, l’une des
 Éolides&nbsp;; mais la chorographie n’y consentait. « Je doute, dit
 Pantagruel, que là quelque compagnie d’abeilles aient commencé
 prendre vol en l’air, pour lesquelles révoquer le voisinage fait ce
 triballement de poêles, chaudrons, bassins, cymbales corybantiques
-de Cvbèle, mère grande des dieux. Entendons. » Approchants davantage,
+de Cybèle, mère grande des dieux. Entendons. » Approchants davantage,
 entendîmes, entre la perpétuelle sonnerie des cloches, chant
 infatigable des hommes là résidants, comme était notre avis."<br>
 &nbsp;&nbsp;&nbsp; doutions : craignions<br>
@@ -2402,7 +2402,7 @@ target="_blank">The Tragicall Historie of Hamlet Prince of Denmarke
 target="_blank">Traduction (1957) de Yves Bonnefoy</a><br>
 1603<br>
 <br>
-Acte II Scene II<br>
+Acte II Scène II<br>
 <br>
 &nbsp;&nbsp;&nbsp; LE PREMIER COMEDIEN<br>
 <br>
@@ -4192,12 +4192,16 @@ funèbre."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
-<a href="https://www.gutenberg.org/ebooks/2150" target="_blank">Metzengerstein</a><br>
+<a
+href="https://en.wikisource.org/wiki/Poe%27s_Tales_of_Mystery_and_Imagination"
+target="_blank">Tales of Mystery and Imagination</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Histoires_extraordinaires/Metzengerstein"
 target="_blank">Histoires
 extraordinaires - Traduction (1856) de Charles Baudelaire</a><br>
 1832<br>
+<br>
+Metzengerstein<br>
 <br>
 "... mais aucun son, excepté un cri unique, ne s’échappa de ses lèvres
 lacérées, qu’il mordait d’outre en outre dans l’intensité de sa
@@ -4298,10 +4302,11 @@ href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
 <a href="https://www.gutenberg.org/ebooks/932" target="_blank">The Fall
 of the House of Usher</a><br>
-<a href="https://beq.ebooksgratuits.com/vents/poe-2.pdf" target="_blank">
-La Chute de la maison Usher - Nouvelles
+<a href="https://beq.ebooksgratuits.com/vents/poe-2.pdf" target="_blank">Nouvelles
 histoires extraordinaires - Traduction (1857) de Charles Baudelaire</a><br>
 1839<br>
+<br>
+La Chute de la maison Usher<br>
 <br>
 "... il fit craquer et se fendre, et sauter le tout en morceaux, si
 bien que le bruit du bois sec et sonnant le creux porta l’alarme et fut
@@ -4496,10 +4501,14 @@ route parmi les pierres de son lit. Le lendemain, il parlait plus haut
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
+<a
+href="https://en.wikisource.org/wiki/Poe%27s_Tales_of_Mystery_and_Imagination"
+target="_blank">A Descent into the Maelstrom</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/poe-1.pdf" target="_blank">Histoires
 extraordinaires - Traduction (1856) de Charles Baudelaire</a><br>
-Une descente dans le Maelstrom<br>
 1841<br>
+<br>
+Une descente dans le Maelstrom<br>
 <br>
 "Pendant que le vieil homme parlait, j’eus la perception d’un bruit
 très fort et qui allait croissant, comme le mugissement d’un immense
@@ -4730,9 +4739,11 @@ Allan Poe</a><br>
 <a href="https://www.gutenberg.org/ebooks/2148" target="_blank">The
 Tell-Tale Heart</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/poe-2.pdf" target="_blank">
-Le Cœur révélateur - Nouvelles
+Nouvelles
 histoires extraordinaires - Traduction (1857) de Charles Baudelaire</a><br>
 1843<br>
+<br>
+Le Cœur révélateur<br>
 <br>
 "Le tintement devint plus distinct&nbsp;; – il persista et devint
 encore
@@ -5064,10 +5075,14 @@ la cheminée oscilla."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar
 Allan Poe</a><br>
-<a href="https://www.gutenberg.org/ebooks/2151" target="_blank">Hop-Frog</a><br>
+<a
+href="https://en.wikisource.org/wiki/Poe%27s_Tales_of_Mystery_and_Imagination"
+target="_blank">Tales of Mystery and Imagination</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/poe-2.pdf" target="_blank">Nouvelles
 histoires extraordinaires - Traduction (1857) de Charles Baudelaire</a><br>
 1849<br>
+<br>
+Hop-Frog<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Il y eut pendant une demi-minute un silence de
 mort, pendant lequel on
@@ -12162,8 +12177,8 @@ souviens encor de cette heure exeuquise</option>
 <option value="On vous fait devenir une orde marchandise">On vous fait
 devenir une orde marchandise</option>
 <option selected="selected"
-value="Le cheval Parthénon frissonait sous la bise">Le cheval
-Parthénon frissonait sous la bise</option>
+value="Le cheval Parthénon frissonnait sous la bise">Le cheval
+Parthénon frissonnait sous la bise</option>
 <option value="Souvenez-vous amis de ces îles de Frise">Souvenez-vous
 amis de ces îles de Frise</option>
 <option value="On était bien surpris par cette plaine grise">On était
@@ -12178,6 +12193,7 @@ pourtant c'était lui le frère de feintise</option>
 l'autre a raison non la foule insoumise</option>
 <option value="Du voisin le Papou suçote l'apophyse">Du voisin le Papou
 suçote l'apophyse</option>
+&nbsp;
 </select>
 <br>
 <select>
@@ -12271,8 +12287,8 @@ souffle et resouffle au-dessus de la botte</option>
 boue urbaine on retrousse sa cotte</option>
 <option value="Le généalogiste observe leur bouillotte">Le généalogiste
 observe leur bouillotte</option>
-<option value="Le poète inspiré n'est point une polyglotte">Le poète
-inspiré n'est point une polyglotte</option>
+<option value="Le poète inspiré n'est point un polyglotte">Le poète
+inspiré n'est point un polyglotte</option>
 <option value="Le loup est amateur de coq et de cocotte">Le loup est
 amateur de coq et de cocotte</option>
 </select>
@@ -12284,8 +12300,8 @@ eut qui s'y pique s'y frotte</option>
 arguer de sa mine pâlotte</option>
 <option value="on comptait les esprits acérés à la hotte">on comptait
 les esprits acérés à la hotte</option>
-<option value="on sale le requin on fume à l'échalotte">on sale le
-requin on fume à l'échalotte</option>
+<option value="on sale le requin on fume à l'échalote">on sale le
+requin on fume à l'échalote</option>
 <option value="comme à Chandernagor le manant sent la crotte">comme à
 Chandernagor le manant sent la crotte</option>
 <option value="le touriste à Florence ignoble charibotte">le touriste à
@@ -12299,6 +12315,7 @@ value="une langue suffit pour emplir sa cagnotte">une langue suffit
 pour emplir sa cagnotte</option>
 <option value="le chat fait un festin de têtes de linotte">le chat fait
 un festin de têtes de linotte</option>
+&nbsp;
 </select>
 <br>
 <select>
@@ -13433,8 +13450,9 @@ target="_blank">Lac</a><br>
 comme la sourdine d’un monstrueux piano répétitif, la main gauche de
 l’artiste assurant, par accords continus, le bourdonnement grave des
 rumeurs pendant que la droite improvisait sur les motifs cliquetants et
-véloces, aigus et précis, fournis par les coups de parechoc ou de
-klaxon dans la rue de Rome, les bris de glace de la miroiterie."
+véloces, aigus et précis, fournis par les coups de pare-choc ou de
+klaxon dans la rue de Rome, les bris de glace de la miroiterie.
+Sonnerie du téléphone par-dessus tout ça."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14002,4 +14020,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 18 8 2026 
+page mise à jour 19 8 2026 
