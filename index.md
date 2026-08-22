@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">826 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">834 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1102,16 +1102,19 @@ que le monde averti puisse reconnaître sa culpabilité."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://www.le-coran.com/" target="_blank">Le Coran - Traduction
-(1989) de Muhammad Hamidullah</a><br>
-<a href="https://www.le-coran.com/coran-francais-sourate-69-0.html"
-target="_blank">Sourate 69 Al-Haqqah / Celle qui montre la vérité</a><br>
+href="https://fr.wikipedia.org/wiki/Coran" target="_blank">Le Coran</a><br>
+<a
+href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86"
+target="_blank">القُرْآن</a><br>
+<a href="https://coran-seul.com/index.php/verset?sourate=69&amp;verset=5"
+target="_blank">Sourate 69 Al-Haqqah / Celle qui montre la vérité -
+Traduction (1959) de Muhammad Hamidullah</a><br>
 632 .. 634<br>
 <br>
 "...<br>
-5 Quant aux Thamud, ils furent détruits par le [bruit] excessivement
+5 Quant aux Tamud, ils furent détruits par le [bruit] excessivement
 fort.<br>
-6 Et quant aux 'Ad, ils furent détruits par un vent mugissant et furieux<br>
+6 Et quant aux Aad, ils furent détruits par un vent mugissant et furieux<br>
 7 qu'[Allah] déchaîna contre eux pendant sept nuits et huit jours
 consécutifs ; tu voyais alors les gens renversés par terre comme des
 souches de palmiers évidées.<br>
@@ -1907,6 +1910,48 @@ Par la suite il devint une voix qui sortit<br>
 hors de son bec ouvert, sous forme de propos,<br>
 tels que les attendait mon coeur, où je les mis :<br>
 ..." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois_d%27Assise"
+target="_blank">François d'Assise</a><br>
+<a
+href="https://payot.ch/p/les-fioretti-de-saint-francois-d-assise-9782204101721"
+target="_blank">Les Fioretti de saint François d'Assise - Traduction
+(2013) de Armelle Le Huërou</a><br>
+1327 .. 1337<br>
+<br>
+"Saint François dit aux oiseaux : « Vous êtes tenus à beaucoup envers
+Dieu, oiseaux mes frères, et vous devez toujours et partout le louer
+pour la liberté de voler partout que vous avez, pour votre vêtement
+double et triple, pour votre habit coloré et orné, pour la nourriture
+préparée sans votre travail, pour le chant à vous octroyé par le
+Créateur, pour votre nombre qui s’est multiplié par la bénédiction de
+Dieu, pour votre semence préservée par Dieu dans l’arche de Noé, pour
+l’élément de l’air qui vous a été confié... » <br>
+A ces paroles du très saint père, tous les oiseaux commencèrent à
+ouvrir le bec, déployer les ailes, tendre le cou, incliner la tête avec
+révérence jusqu’à terre et montrer par leurs chants et mouvements que
+les paroles qu'avait dites le saint père leur plaisaient à tous égards.<br>
+... Alors tous les oiseaux s’élevèrent ensemble en altitude et firent
+ensemble en l’air un grand et merveilleux chant ; le chant terminé,
+suivant la croix faite par le saint père, ils se répartirent en formant
+une croix et partirent en quatre directions. En s’élevant en hauteur
+avec un chant merveilleux, chaque groupe se dirigea vers une des quatre
+parties du monde : un vers l’orient, un vers l’occident, le troisième
+vers le midi et le quatrième vers le nord, ..."<br>
+<br>
+"... en excellent pasteur, il s’employait davantage à repaître
+intérieurement l’âme par des sensations divines qu’à faire bruisser des
+sons extérieurs aux oreilles de la chair, car le royaume de Dieu n’est
+pas dans les choses extérieures mais dans les choses intimes."<br>
+<br>
+"... des oiseaux, appelés corneilles, l’importunaient de la pire
+manière par leur très grande rumeur et leurs cris. Alors, au nom du
+Seigneur Jésus, il ordonna à ces oiseaux de ne plus venir. Merveilleux
+à dire ! Alors que le lieu de Brunforte, de la custodie de Fermo,
+existe depuis plus de cinquante ans, jamais on ne vit ni n’entendit de
+tels oiseaux dans tout le périmètre du lieu ni partout alentour ; ..."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/P%C3%A9trarque" target="_blank">Pétrarque</a>
@@ -4263,7 +4308,7 @@ Baudelaire</a><br>
 <a
 href="https://fr.wikisource.org/wiki/%C5%92uvres_posthumes_%28Baudelaire%29_%281908%29/Texte_entier"
 target="_blank">Incompatibilité</a><br>
-1837 .. 1838<br>
+1837 (posthume)<br>
 <br>
 "... <br>
 On rencontre un lac sombre encaissé dans l’abîme<br>
@@ -5533,9 +5578,11 @@ revient au moulin avec un roulement semblable à celui du tonnerre."<br>
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Obsession"
-target="_blank">Les Fleurs du mal - Obsession</a><br>
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
+target="_blank">Les Fleurs du mal</a><br>
 1860<br>
+<br>
+Obsession<br>
 <br>
 "Grands bois, vous m’effrayez comme des cathédrales ;<br>
 Vous hurlez comme l’orgue ; et dans nos coeurs maudits,<br>
@@ -5546,7 +5593,11 @@ profundis</span>.<br>
 Je te hais, Océan ! tes bonds et tes tumultes,<br>
 Mon esprit les retrouve en lui ; ce rire amer<br>
 De l’homme vaincu, plein de sanglots et d’insultes,<br>
-Je l’entends dans le rire énorme de la mer."
+Je l’entends dans le rire énorme de la mer."<br>
+<br>
+À une passante<br>
+<br>
+"La rue assourdissante autour de moi hurlait."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6666,6 +6717,40 @@ target="_blank">Sagesse - La vie humble</a><br>
 Que l’appel, ô mon Dieu, des cloches dans la tour,<br>
 Et faire un de ces bruits soi-même, cela pour<br>
 L’accomplissement vil de tâches puériles ;"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Paul_Ar%C3%A8ne" target="_blank">Paul
+Arène</a><br>
+<a
+href="https://fr.wikisource.org/wiki/La_vraie_tentation_du_grand_Saint_Antoine,_contes_de_No%C3%ABl/Texte_entier"
+target="_blank">La vraie tentation du grand Saint Antoine, contes de
+Noël</a><br>
+1880<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Depuis quelques instants, un frémissement d’ailes
+invisibles montait et grandissait dans le silence de la nuit. Un éclat
+de rire traversa l’air, et de petits coups, frappés discrètement,
+sonnèrent sur mon volet et sur ma porte. — « Les diables ! cache-toi,
+Barrabas ! » m’écriai-je. Et Barrabas, qui avait de bonnes raisons pour
+ne point aimer la diablerie, se réfugia derrière le pétrin.<br>
+&nbsp;&nbsp;&nbsp; Les tuiles de mon toit tintaient comme sous la grêle
+; de nouveau, tout autour de ma pauvre cabane, la bande infernale se
+déchaînait.<br>
+&nbsp;&nbsp;&nbsp; Mais voici bien le plus étrange. Au lieu des bruits
+terrifiants et discords par lesquels mes ennemis s’annonçaient
+d’ordinaire : cris d’oiseau de nuit, bêlements de boucs, ossements
+entrechoqués et chaînes de fer secouées, c’étaient cette fois des
+bruits très doux, vagues d’abord et pareils à ceux que le voyageur
+transi entend sortir d’une hôtellerie fumante et close, mais qui,
+distincts de plus en plus, finirent par se fondre en une merveilleuse
+musique de broches qu’on fourbit, de casseroles qu’on récure, de
+bouteilles qui se vident, de verres qui s’emplissent, de fourchettes
+piquant l’assiette et de tournebroches qui carillonnent, demandant à
+être remontés.<br>
+&nbsp;&nbsp;&nbsp; Tout à coup, la musique cessa, un choc violent fit
+frémir les ais de ma cabane, le volet s’ouvrit, la porte tomba, et, le
+vent s’engouffrant, ma lampe s’éteignit."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9758,6 +9843,36 @@ comme de l’eau qui monte."<br>
 m’accompagnait d’îlots de silence mouvants..." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Pierre_Jean_Jouve" target="_blank">Pierre-Jean
+Jouve</a><br>
+<a href="http://www.fatamorgana.fr/livres/le-paradis-perdu"
+target="_blank">Le Paradis perdu</a><br>
+1929<br>
+<br>
+Mouvement<br>
+<br>
+"La chose tremble et l’on entend<br>
+Les forêts de cristaux se former et les mers se fendre<br>
+Les gaz se déposer en continents<br>
+Fragiles puis s’emplir de solidité,<br>
+Les musiques jamais entendues se mettre au travail<br>
+Les laves puis les respirations<br>
+Se joindre<br>
+&nbsp;&nbsp;&nbsp; et toutes choses prodigieusement ensemencées,<br>
+Les monstres non formés<br>
+S’avancer, cheminer sur les routes de l’éther<br>
+Chercher leur destination<br>
+Leur lieu d’amour."<br>
+<br>
+Furtif<br>
+<br>
+"&nbsp;&nbsp;&nbsp; C’est un rien d’abord, une ombre, un voile, un
+soupir. La feuille remonte froissée, la tige. C’est un son d’ailes
+d’insecte. Un bruit de patte dans les terrains aquatiques. C’est aussi
+un glissement, un petit éclair."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marguerite_Yourcenar"
 target="_blank">Marguerite Yourcenar</a><br>
 <a
@@ -12193,7 +12308,6 @@ pourtant c'était lui le frère de feintise</option>
 l'autre a raison non la foule insoumise</option>
 <option value="Du voisin le Papou suçote l'apophyse">Du voisin le Papou
 suçote l'apophyse</option>
-&nbsp;
 </select>
 <br>
 <select>
@@ -12315,7 +12429,6 @@ value="une langue suffit pour emplir sa cagnotte">une langue suffit
 pour emplir sa cagnotte</option>
 <option value="le chat fait un festin de têtes de linotte">le chat fait
 un festin de têtes de linotte</option>
-&nbsp;
 </select>
 <br>
 <select>
@@ -12626,7 +12739,6 @@ target="_blank">Maigret se défend</a><br>
 "Par la fenêtre entrouverte, on entendait les rares bruits de la
 rue, le glissement d'une auto, un passant, de loin en loin, un couple
 dont on percevait les voix...<br>
-...<br>
 &nbsp;&nbsp; &nbsp;L'arrêt d'une voiture. Un léger crissement de
 freins. Des pas sur le trottoir puis une sonnerie lointaine, étouffée.
 La petite porte qui se refermait dans la grande. Des pas sur les pavés
@@ -13507,6 +13619,37 @@ de glaces, de pastèque, de thé."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+target="_blank" href="https://fr.wikipedia.org/wiki/Olivier_Messiaen">Olivier
+Messiaen</a><br>
+<a
+href="https://www.stretta-music.fr/messiaen-trait-de-rythme-de-couleur-et-dornithologie-1-nr-374457.html"
+target="_blank">Traité de rythme, de couleur, et d'ornithologie -
+Tome I</a><br>
+1948 .. 1992<br>
+<br>
+"Le musicien actuel aurait tout à gagner à écouter, à noter les bruits
+de la nature. Vibrations de l'atmosphère, sons harmoniques répandus
+dans les airs, en haute montagne — mélodies et rythmes délicats de la
+pluie et des sources d'eau (le bruit des gouttes d'eau tombant des
+arbres pendant et après l'orage est particulièrement intéressant pour
+l'étude de l'accelerando et du rallentando) — densités, intensités des
+colonnes d'harmoniques mouvantes et tournantes, provoquées par le vent
+dans les arbres, dont le timbre change suivant l'arbre et la qualité de
+son feuillage — arsis et thésis du vent et de la mer — et tous les
+bruits et bruissements des insectes : le ronflement souterrain de la
+courtilière, les pédales stridulantes des grillons, le trille de
+cymbale de la sauterelle éphippigère frottant l'une contre l'autre ses
+élytres, les vrombissements des hannetons — sans parler des exquises
+notes de vibraphone, égrenées par le choeur des alytes, petits crapauds
+qui chantent sous les pierres, dans les lieux humides : tout cela est
+utile au musicien — non par des enregistrements stériles, aussi
+éloignés de la musique que la photographie peut l'être de la peinture,
+mais en retrouvant l'esprit de ces sonorités, de ces rythmes
+merveilleux, pour en dégager une nouvelle technique du son et de la
+durée..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
 <a href="https://fr.wikipedia.org/wiki/Chien_de_printemps"
@@ -14020,4 +14163,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 19 8 2026 
+page mise à jour 22 8 2026 
