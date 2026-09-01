@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">834 descriptions de paysage sonore trouvées dans la littérature.</h1>
+<h1 style="font-size: 1.3rem;">836 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1444,6 +1444,22 @@ qui charme aussi les paysans de nos régions."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Beatus_de_Li%C3%A9bana"
+target="_blank">Beatus de Liébana ou San Beato</a> (8e siècle)<br>
+<a href="https://fr.wikipedia.org/wiki/Beatus_de_Silos" target="_blank">Beatus
+de Silos</a> - Commentaire sur l’Apocalypse<br>
+1109<br>
+<br>
+"Factum est silentium in celo." : "Il se fit un silence dans le ciel."<br>
+<br>
+<img style="width: 100%; max-width: 726px;"
+alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg"><br>
+<br>
+"Sed partem silentii uidit.quia eadem" : "Mais il percevait une partie
+de ce silence, car..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Marcabru" target="_blank">Marcabru</a>
 (vers 1110 .. vers 1150)<br>
 <a href="https://gallica.bnf.fr/ark:/12148/bpt6k4240c/" target="_blank">Poésies
@@ -2860,6 +2876,21 @@ herbes.</span>"
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Madame_de_S%C3%A9vign%C3%A9"
+target="_blank">Madame de Sévigné</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Lettres_choisies_%28S%C3%A9vign%C3%A9%29,_%C3%A9d._1846/Lettre_281"
+target="_blank">Lettre à Madame de Grignan</a><br>
+24 janvier 1689<br>
+<br>
+"Sa jeunesse lui fait du bruit, il n’entend pas."<br>
+<br>
+Cité par Marcel Proust dans : <a
+href="https://fr.wikisource.org/wiki/Les_Plaisirs_et_les_Jours/La_Mort_de_Baldassare_Silvande"
+target="_blank">Les Plaisirs et les Jours</a><br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/F%C3%A9nelon" target="_blank">Fénelon</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Les_Aventures_de_T%C3%A9l%C3%A9maque/Texte_entier"
@@ -3697,7 +3728,7 @@ href="https://fr.wikipedia.org/wiki/Heinrich_Heine" target="_blank">Heinrich
 Heine</a><br>
 <a
 href="https://de.wikisource.org/wiki/D%C3%A4mmernd_liegt_der_Sommerabend"
-target="_blank">Die Heimkehr - Dämmernd liegt der Sommerabendn</a><br>
+target="_blank">Die Heimkehr - LXXXV</a><br>
 <a href="https://gallica.bnf.fr/ark:/12148/bpt6k165058r/f79.item"
 target="_blank">Le Retour - Un réseau d'ombres emprisonne - Traduction
 (1881) de Georges Clerc</a> pour une <a
@@ -3706,12 +3737,12 @@ target="_blank">mélodie de André Messager</a><br>
 1824<br>
 <br>
 "Un réseau d'ombres emprisonne <br>
-Les prés, les champs et la forêt;<br>
+Les prés, les champs et la forêt ;<br>
 L'azur pâlit, le vent frissonne, <br>
 La lune à l'orient paraît.<br>
 <br>
 Un grillon de sa chanson vive<br>
-Lutine le ruisseau qui dort:<br>
+Lutine le ruisseau qui dort :<br>
 Un clapotement bat la rive,<br>
 Un bruit léger de l'onde sort.<br>
 <br>
@@ -5442,6 +5473,9 @@ des navires."<br>
 marquait dans le silence comme un battement de métronome, tandis qu’à
 l’arrière, la bauce qui traînait ne discontinuait pas son petit
 clapotement doux dans l’eau."<br>
+&nbsp;&nbsp;&nbsp; <a
+href="https://flaubert.univ-rouen.fr/labo-flaubert/questions-r%C3%A9ponses1/questions-reponses/bauce/"
+target="_blank">bauce</a> ou bosse = corde<br>
 <br>
 "Elle entendait le battement de la pendule, le bruit du feu, et
 Charles, debout près de sa couche, qui respirait."<br>
@@ -5666,9 +5700,13 @@ href="https://ebooks-bnr.com/ebooks/pdf4/baudelaire_les_paradis_artificiels.pdf"
 target="_blank">Les Paradis artificiels</a><br>
 1860<br>
 <br>
+Confessions préliminaires<br>
+<br>
 "La maison était vaste, et l’absence de meubles et de tapisseries la
 rendait plus sonore ; le fourmillement des rats remplissait de bruit
 les salles et l’escalier."<br>
+<br>
+Chagrins d’enfance<br>
 <br>
 "... et, pendant qu’immobile il la regardait, un vent solennel s’éleva
 et se mit à souffler violemment, « le vent le plus mélancolique,
@@ -6751,6 +6789,7 @@ piquant l’assiette et de tournebroches qui carillonnent, demandant à
 &nbsp;&nbsp;&nbsp; Tout à coup, la musique cessa, un choc violent fit
 frémir les ais de ma cabane, le volet s’ouvrit, la porte tomba, et, le
 vent s’engouffrant, ma lampe s’éteignit."<br>
+&nbsp;&nbsp;&nbsp; (Barrabas est le cochon de saint Antoine)<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -7878,6 +7917,8 @@ href="https://fr.wikisource.org/wiki/Les_Plaisirs_et_les_Jours/Texte_entier"
 target="_blank"> Les Plaisirs et les Jours</a><br>
 1896<br>
 <br>
+La Mort de Baldassare Silvande - V<br>
+<br>
 "Tout à coup il entendit un petit bruit argentin, imperceptible et
 profond comme un battement de cœur. C'était le son des cloches d'un
 village extrêmement éloigné, qui, par la grâce de l'air si limpide ce
@@ -7890,6 +7931,8 @@ après longuement et faiblement avec elles. À toutes les époques de sa
 vie, dès qu'il entendait le son lointain des cloches, il se rappelait
 malgré lui leur douceur dans l'air du soir, quand, petit enfant encore,
 il rentrait au château, par les champs."<br>
+<br>
+Les Regrets, Rêveries couleur du temps - IX - Sonate Clair de Lune - I<br>
 <br>
 "Tout d'un coup, un bruit léger s'éveilla longuement comme une
 inquiétude, rapidement grandit, sembla rouler sur le bois. C'était le
@@ -14163,4 +14206,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 22 8 2026 
+page mise à jour 1 9 2026 
