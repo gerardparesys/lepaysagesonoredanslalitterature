@@ -5,8 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">836 descriptions de paysage sonore trouvées dans la littérature.</h1>
-<br>
+<h1 style="font-size: 1.3rem;">838 descriptions de paysage sonore trouvées dans la littérature.</h1>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
@@ -1451,9 +1450,8 @@ de Silos</a> - Commentaire sur l’Apocalypse<br>
 1109<br>
 <br>
 "Factum est silentium in celo." : "Il se fit un silence dans le ciel."<br>
-<br>
 <img style="width: 100%; max-width: 726px;"
-alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg"><br>
+alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg">
 <br>
 "Sed partem silentii uidit.quia eadem" : "Mais il percevait une partie
 de ce silence, car..."<br>
@@ -5271,7 +5269,7 @@ href="https://www.schopenhauer.fr/oeuvres/fichier/essai-sur-les-apparitions-et-o
 target="_blank">Essai sur les apparitions et opuscules divers -
 Traduction (1912) de Auguste Dietrich</a><br>
 <br>
-<div style="margin-left: 40px;">Préface de Auguste Dietrich<br>
+Préface de Auguste Dietrich<br>
 <br>
 "A Scutari, ville turque de 80.000 âmes, défense absolue aux cochers de
 faire claquer leur fouet et d’échanger entre eux les aménités dont les
@@ -5279,8 +5277,7 @@ nôtres sont si prodigues, aux camelots et marchands ambulants
 d’annoncer à grands cris leurs objets à vendre ; dans cette enceinte
 privilégiée, point de trompes d’autos beuglant aux carrefours, point de
 bruits de ferrailles tressautant sur le pavé, point de monologues ou de
-chansons d'ivrognes."<br>
-</div>
+chansons d'ivrognes.<br>
 <br>
 Sur le bruit et le vacarme<br>
 <br>
@@ -11377,10 +11374,10 @@ href="https://fr.wikipedia.org/wiki/Aldous_Huxley" target="_blank">Aldous
 Huxley</a><br>
 <a
 href="https://ia601800.us.archive.org/27/items/205p-aldous-huxley-collected-essays/205p%20aldous_huxley_collected_essays.pdf"
-target="_blank">The Desert</a><br>
-<a
-href="https://ia800307.us.archive.org/28/items/pdfy-vnXO-od_TGesvm_S/Huxley%2CAldous-Les%20portes%20de%20la%20perception.pdf"
-target="_blank">Le désert - Traduction (1954) de Jules Castier</a><br>
+target="_blank">Collected Essays - The Desert</a><br>
+<a href="https://archive.org/details/pdfy-vnXO-od_TGesvm_S/"
+target="_blank">Les portes de la perception - Le désert - Traduction
+(1954) de Jules Castier</a><br>
 1954<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Et pourtant, malgré tout, le silence persiste. Car
@@ -11564,6 +11561,46 @@ pompiers. Les pompiers avaient le droit de se servir de l’avertisseur."<br>
 Le calme absolu enveloppait le quartier. Les fantômes eux-mêmes se
 tenaient tranquilles, refusant de remuer leurs chaînes de peur qu’on
 les prît pour des bimbelotiers en train de proposer l’article."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/C._S._Lewis" target="_blank">C. S.
+Lewis</a><br>
+<a href="https://fr.wikipedia.org/wiki/Le_Monde_de_Narnia"
+target="_blank">Les Chroniques de Narnia</a> - <a
+href="https://fr.wikipedia.org/wiki/Le_Neveu_du_magicien"
+target="_blank">1 Le Neveu du magicien</a><br>
+1955<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le silence dans la pièce était si profond que l’on
+remarquait tout de suite le tic-tac de l’horloge. Pourtant, pensait
+Polly, ce n’était pas non plus un silence absolu. L’on percevait un
+léger&nbsp;– léger, très léger&nbsp;– bourdonnement. Si l’aspirateur
+avait existé à cette époque, Polly aurait dit que c’était le bruit d’un
+Hoover que quelqu’un passait sur une large surface, plusieurs pièces
+plus loin et plusieurs étages plus bas. En fait, c’était un son plus
+agréable, qui avait quelque chose de plus musical, mais tellement sourd
+qu’on pouvait à peine l’identifier."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; La clochette émit une longue note, très douce,
+comme en sourdine, qui, au lieu de s’évanouir, se maintenait, se
+maintenait et amplifiait. Une minute à peine plus tard, elle était déjà
+deux fois plus forte qu’au début, puis tellement forte que si les
+enfants avaient essayé de parler (à vrai dire ils ne songeaient plus à
+parler, ils étaient tétanisés) ils auraient été incapables de
+s’entendre. Bientôt, la note était si puissante qu’elle aurait couvert
+des hurlements. Le volume augmentait toujours, mais c’était la même
+note, douce et continue, dont la douceur même contenait quelque chose
+de terrifiant, jusqu’au moment où toute l’atmosphère de la pièce se mit
+à frémir, et les deux enfants sentirent le sol trembler sous leurs
+pieds. À cette note commença à se mêler un autre son, plus vague,
+inquiétant, qui ressemblait au roulement lointain d’un train pour finir
+en un craquement d’arbre qui tombe. On aurait dit d’énormes poids qui
+s’écroulaient. Enfin, au milieu d’un éclat de tonnerre fracassant et
+d’une secousse qui faillit les renverser, près d’un quart du toit
+s’écroula, d’immenses blocs de maçonnerie s’effondrèrent et les murs se
+mirent à trembler. Le son de la cloche s’arrêta. Les nuages de
+poussière se dissipèrent. Tout redevint calme."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14206,4 +14243,4 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 1 9 2026 
+page mise à jour 3 9 2026 
