@@ -10,6 +10,7 @@ in_menu: true
 Wikipedia:  
 - [Paysage sonore](https://fr.wikipedia.org/wiki/Paysage_sonore){:target="_blank"}
 - [Soundscape](https://en.wikipedia.org/wiki/Soundscape){:target="_blank"}
+- [Silence](https://fr.wikipedia.org/wiki/Silence){:target="_blank"}
 
 Textes:
 - [Écoute du paysage et esthétique écosophique](https://plastik.univ-paris1.fr/2020/09/14/ecoute-du-paysage-et-esthetique-ecosophique/){:target="_blank"} de Roberto Barbanti
