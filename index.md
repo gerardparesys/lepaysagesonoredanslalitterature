@@ -14243,4 +14243,5 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div><br>
-page mise à jour 3 9 2026 
+<div style="text-align: right"> collectés par Gérard Paresys</div>
+page mise à jour 6 9 2026 
