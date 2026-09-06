@@ -14243,6 +14243,6 @@ arrive à destination.<br>
 s’immobilise dans un
 dernier éternuement."
 </div>
-<div style="text-align: right"> <h1 style="font-size: 1.3rem;">collectés par Gérard Paresys</h1></div>
 <br>
+<div style="text-align: right"> <h1 style="font-size: 1.3rem;">collectés par Gérard Paresys</h1></div>
 page mise à jour 6 9 2026 
