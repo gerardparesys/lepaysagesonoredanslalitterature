@@ -14242,6 +14242,7 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
-<div style="text-align: right"> collectés par Gérard Paresys</div>
+</div>
+<div style="text-align: right"> <h1 style="font-size: 1.3rem;">collectés par Gérard Paresys</h1></div>
+<br>
 page mise à jour 6 9 2026 
