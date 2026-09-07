@@ -5,7 +5,8 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">838 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">844 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
 target="_blank">Mythologie mésopotamienne</a><br>
@@ -2763,6 +2764,30 @@ intelligence qui gouverne les villes et les royaumes.<br>
 !"<br>
 <br>
 "Le silence éternel de ces espaces infinis m'effraie."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/John_Milton" target="_blank">John
+Milton</a><br>
+<a href="https://fr.wikisource.org/wiki/Le_Paradis_perdu"
+target="_blank">Le Paradis perdu - Traduction (1861) de François-René
+de Chateaubriand</a><br>
+1667<br>
+<br>
+Livre I<br>
+<br>
+"Pendant tout ce temps l'airain sonore souffle des sons belliqueux,
+auxquels l'universelle armée renvoie un cri qui déchire la concavité de
+l'enfer et épouvante au-delà l'empire du Chaos et de la vieille Nuit."<br>
+<br>
+Livre II<br>
+<br>
+"Enfin, une étrange et universelle rumeur de sons sourds et de voix
+confuses, née du creux des ténèbres, assaillit l'oreille de Satan avec
+la plus grande véhémence. Intrépide, il tourne son vol de ce côté, pour
+rencontrer le pouvoir quelconque ou l'esprit du profond abîme qui
+réside dans ce bruit, afin de lui demander de quel côté se trouve la
+limite des ténèbres la plus rapprochée confinant à la lumière."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8320,6 +8345,42 @@ dans l’avenue&nbsp;; un silence se fit..."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Anton_Tchekhov" target="_blank">Anton
+Tchekhov</a><br>
+<a
+href="https://ru.wikipedia.org/wiki/%D0%92%D0%B8%D1%88%D0%BD%D1%91%D0%B2%D1%8B%D0%B9_%D1%81%D0%B0%D0%B4"
+target="_blank">Вишнёвый сад</a><br>
+<a href="https://www.ebooksgratuits.com/details.php?book=2271"
+target="_blank">La Cerisaie - Traduction (1944) de Denis Roche</a><br>
+1904<br>
+<br>
+Acte II<br>
+<br>
+"&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Tous restent
+assis, rêveurs. Le calme du soir. On n’entend que Firs qui marmonne.
+Tout à coup, un bruit lointain, comme venu du ciel&nbsp;; c’est le
+bruit d’une corde qui casse, mourante et triste.</span>"<br>
+<br>
+Acte IV<br>
+<br>
+"&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Ils sortent. La
+scène est vide. On entend fermer à clé toutes les portes, puis les
+voitures partir. Le silence. Puis le bruit sourd, monotone, d’une hache
+sur un arbre. On entend des pas. Sur la porte, à droite, apparaît Firs.</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">...</span><br
+style="font-style: italic;">
+<span style="font-style: italic;">&nbsp;&nbsp;&nbsp; Il reste étendu
+sans mouvement. On entend le bruit lointain, comme tombant du ciel,
+mourant, lugubre, d’une corde qui se casse. Puis le silence s’établit.
+On n’entend plus au loin dans la cerisaie qu’une hache frappant un
+arbre.</span><br style="font-style: italic;">
+<br>
+<div style="text-align: center;">RIDEAU"<br>
+</div>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Oscar_Vladislas_de_Lubicz-Milosz"
 target="_blank">Oscar Vladislas de Lubicz-Milosz</a><br>
 Les sept solitudes<br>
@@ -8907,7 +8968,6 @@ Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">
 À la recherche du temps perdu</a><br>
-<br>
 <a
 href="https://fr.wikisource.org/wiki/Du_c%C3%B4t%C3%A9_de_chez_Swann/Texte_entier"
 target="_blank">Du côté de chez Swann</a><br>
@@ -9180,7 +9240,6 @@ Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">
 À la recherche du temps perdu</a><br>
-<br>
 <a
 href="https://fr.wikisource.org/wiki/Le_C%C3%B4t%C3%A9_de_Guermantes/Texte_entier"
 target="_blank">Le Côté de Guermantes</a><br>
@@ -9338,7 +9397,6 @@ Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">
 À la recherche du temps perdu</a><br>
-<br>
 <a href="https://fr.wikisource.org/wiki/Sodome_et_Gomorrhe/Texte_entier"
 target="_blank">Sodome et Gomorrhe</a><br>
 1921<br>
@@ -9435,7 +9493,6 @@ Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">
 À la recherche du temps perdu</a><br>
-<br>
 <a
 href="https://fr.wikisource.org/wiki/La_Prisonni%C3%A8re/Texte_entier"
 target="_blank">La Prisonnière</a><br>
@@ -9786,7 +9843,6 @@ href="https://fr.wikipedia.org/wiki/Marcel_Proust" target="_blank">Marcel
 Proust</a><br>
 <a href="https://alarecherchedutempsperdu.com/texte.html"
 target="_blank">À la recherche du temps perdu</a><br>
-<br>
 <a
 href="https://fr.wikisource.org/wiki/Le_Temps_retrouv%C3%A9/Texte_entier"
 target="_blank">Le Temps retrouvé</a><br>
@@ -11100,6 +11156,45 @@ entrouverte. Des bruits dans ce silence, angoissants, menaçants comme
 le son distant d'un tamtam." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Blaise_Cendrars" target="_blank">Blaise
+Cendrars</a><br>
+<a href="https://fr.wikipedia.org/wiki/Bourlinguer" target="_blank">Bourlinguer</a><br>
+1948<br>
+<br>
+VIII Gênes<br>
+<br>
+"... je dois employer une autre technique et un autre engin pour
+enregistrer cet autre cycle de mes souvenirs, ceux de mes jongleries
+chinoises, que je voudrais orchestrer non plus à la machine, dont les
+engrenages qui grasseyent (et la ridicule petite sonnette au bout de la
+ligne&nbsp;!) rendent si bien la crise de conscience grinçante
+avant-coureuse de la panne des Occidentaux, mais <span
+style="font-style: italic;">au piano à écrire</span>, non pour
+poétiser mes sensations exotiques, mais pour mieux rendre <span
+style="font-style: italic;">le silence humain</span>
+dans la cacophonie orientale&nbsp;– les gongs, les cloches, le grand
+bourdon, les flûtes aigrelettes, les trompettes bouchées, le crin crin
+rance et les gammes et les criailleries en demis et en quarts de tons
+chromatiques, tout ce que l’on met en branle pour chasser les mauvais
+esprits..."<br>
+<br>
+IX Rotterdam<br>
+<br>
+"Mais je ne pourrai jamais oublier ce que c’est qu’un piano venant se
+fracasser au sol, tombant d’un troisième étage. Mille chats qui
+miaulent dans la nuit faisant l’amour sur le rebord d’un toit ou mille
+chattes en chaleur menant leur sarabande parmi les gargouilles sur la
+façade d’une cathédrale n’existent pas et comptent pour rien par
+rapport à un piano dont toutes les cordes se rompent d’un coup en
+faisant éclater le ventre de la caisse de résonance et miaulent en
+arpège toutes les notes, du grave à l’aigu et de l’aigu au grave. C’est
+aussi assourdissant mais exactement le contraire que le <span
+style="font-style: italic;">boum&nbsp;!</span> d’un coup de canon
+parce que l’explosion d’un piano reste malgré tout inscrite dans une
+échelle harmonique."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Henri_Bosco" target="_blank">Henri
 Bosco</a><br>
 <a href="https://www.folio-lesite.fr/catalogue/sylvius/9782070370108"
@@ -11569,7 +11664,8 @@ Lewis</a><br>
 <a href="https://fr.wikipedia.org/wiki/Le_Monde_de_Narnia"
 target="_blank">Les Chroniques de Narnia</a> - <a
 href="https://fr.wikipedia.org/wiki/Le_Neveu_du_magicien"
-target="_blank">1 Le Neveu du magicien</a><br>
+target="_blank">1 Le Neveu du magicien - Traduction (2001) de Cécile
+Dutheil de la Rochère</a><br>
 1955<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Le silence dans la pièce était si profond que l’on
@@ -13746,8 +13842,9 @@ mots."<br>
 href="https://fr.wikipedia.org/wiki/Alain_Corbin" target="_blank">Alain
 Corbin</a><br>
 <a
-href="https://preview.epagine.fr/preview/ws/getPreview/epub/9782226296023/"
-target="_blank">Les Cloches de la terre - extrait</a><br>
+href="https://www.librairie-gallimard.com/livre/9782081307902-les-cloches-de-la-terre-paysage-sonore-et-culture-sensible-dans-les-campagnes-au-xixe-siecle-alain-corbin/"
+target="_blank">Les Cloches de la terre - Paysage sonore et culture
+sensible dans les campagnes au XIXe siècle</a><br>
 1994<br>
 <br>
 "Le 14&nbsp;juillet 1790, jour de la fête de la Fédération, les cloches
@@ -14242,7 +14339,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
+</div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
 page mise à jour 7 9 2026 
