@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">844 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">859 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -135,6 +135,35 @@ ses vases et elle ferma celle-ci de son sceau."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Litt%C3%A9rature_de_l%27%C3%89gypte_antique"
+target="_blank">Égypte antique</a><br>
+Anonyme - <a href="https://fr.wikipedia.org/wiki/Livre_de_l%27Amdouat"
+target="_blank">Livre de l'Amdouat</a><br>
+cité dans : <a
+href="https://www.academia.edu/21141619/Autour_de_l_ou%C3%AFe_la_voix_et_les_sons_approche_anthropologique_des_paysages_sonores_de_l_%C3%89gypte_ancienne_dans_S_Emerit_S_Perrot_A_Vincent_%C3%A9d_Le_paysage_sonore_de_l_Antiquit%C3%A9_M%C3%A9thodologie_historiographie_et_perspectives_RAPH_40_Le_Caire_2015_p_115_154"
+target="_blank">Autour de l’ouïe, de la voix et des sons. Approche
+anthropologique des « paysages sonores » de l’Égypte ancienne</a> de
+Sibylle Emerit<br>
+vers 1470 av. J.-C.<br>
+<br>
+"<span style="font-style: italic;">Le Livre de l’Amdouat</span>, peint
+sur les parois des tombes royales du Nouvel Empire, retrace le parcours
+nocturne du dieu Rê pendant les douze heures de la nuit. À la huitième
+heure, la barque solaire traverse un paysage qui comprend 10 cavernes ;
+de chacune d’entre elles provient un son :<br>
+&nbsp; 1. intense bourdonnement d’abeilles ;<br>
+&nbsp; 2. frappement de deux cymbales (?) ;<br>
+&nbsp; 3. hommes en train de pleurer ;<br>
+&nbsp; 4. mugissement de taureaux en rut ;<br>
+&nbsp; 5. supplication d’une grande violence ;<br>
+&nbsp; 6. cri d’un chat en rut ;<br>
+&nbsp; 7. murmure des vivants ;<br>
+&nbsp; 8. chute des rives dans le Noun ;<br>
+&nbsp; 9. cri du faucon divin ;<br>
+10. cri de la totalité du nid."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
 <a
 href="https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955_"
@@ -151,7 +180,7 @@ Arimes, où se trouve, dit-on, le gîte de ce monstre. Ainsi gémit la
 terre à grand bruit sous leurs pas, tandis qu'en marchant vite ils
 traversent la plaine."<br>
 <br>
-Chant IV - DÉBUT DE LA BATAILLE<br>
+Chant IV - Début de la bataille<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Quand la houle marine en flots pressés déferle au
 souffle du Zéphyr
@@ -173,7 +202,7 @@ poussent, en écoutant l'appel de leurs agneaux, des bêlements sans fin
 Tous n'ont pas même accent ni semblable parler ; leurs langues sont
 diverses : ce sont des gens venus de pays si nombreux !"<br>
 <br>
-Chant XVI - MORT DE SARPÉDON<br>
+Chant XVI - Mort de Sarpédon<br>
 <br>
 "Comme monte, dans les vallons d'une montagne, le bruit des bûcherons,
 que l'on entend de loin : tel monte, de la terre immense, le fracas que
@@ -185,7 +214,7 @@ du cadavre ils se pressent, comme, aux jours du printemps, les mouches
 qui bourdonnent, dans une étable, autour des vases pleins de lait :
 ainsi les combattants autour du corps se pressent."<br>
 <br>
-Chant XXI - LA LUTTE DES DIEUX<br>
+Chant XXI - La lutte des dieux<br>
 <br>
 "Alors à grand fracas l'un sur l'autre ils se ruent. La terre immense
 gronde. Le ciel vaste à l'entour claironne la bataille. Zeus, assis sur
@@ -1217,7 +1246,8 @@ Mon âme s'est élancée en dehors des choses visibles,<br>
 Errante et captive, tout à la fois, dans un merveilleux ravissement."<br>
 </div>
 <br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme
+japonais<br>
 <a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
 target="_blank">Man'yōshū</a><br>
 Chōka 3223 - Traduction de Claude Péronny<br>
@@ -1255,7 +1285,7 @@ Vers mon amant pour l'en parer."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">
-Anonyme<br>
+Anonyme japonais<br>
 <a href="https://fr.wikipedia.org/wiki/Man%27y%C5%8Dsh%C5%AB"
 target="_blank">Man'yōshū</a><br>
 Poème VI-1062 - Traduction de Jacqueline Pigeot<br>
@@ -1506,13 +1536,27 @@ paysage sonore</a> de Jean-Marie Fritz<br>
 "Mieux vaut une eau qui bruit qu’une eau qui dort"<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Hildegarde_de_Bingen"
+target="_blank">Hildegarde de Bingen</a><br>
+<a href="https://www.arbredor.com/ebooks/Scivias.pdf" target="_blank">Scivias</a><br>
+1152<br>
+<br>
+Livre premier - Vision troisième<br>
+<br>
+" Et cette humidité s’étant amoncelée, une pluie soudaine tomba avec
+beaucoup de bruit ; et lorsqu’elle se fut épanchée doucement, une pluie
+fine tomba avec un léger bruissement. Alors un souffle (de vent) avec
+ses tourbillons sortit pour se répandre sur toute la sphère."<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Prise_d%27Orange" target="_blank">La
-Prise d’Orange</a><br>
+Prise d’Orange - Traduction de Jean-Marie Fritz</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore</a> de Jean-Marie Fritz<br>
+paysage sonore</a><br>
 12e siècle<br>
 <br>
 "Si vous y aviez été le premier jour d’été<br>
@@ -1524,11 +1568,11 @@ les Sarrasins se divertir et s’égayer."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Renaud_de_Montauban"
-target="_blank">Renaud de Montauban</a><br>
+target="_blank">Renaud de Montauban - Traduction de Jean-Marie Fritz</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-1"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore</a> de Jean-Marie Fritz<br>
+paysage sonore</a><br>
 12e siècle<br>
 <br>
 "Les chevaux parcourent la plaine fort rapidement,<br>
@@ -1538,11 +1582,11 @@ le monde en résonne et la vallée retentit."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
 <a href="https://fr.wikipedia.org/wiki/Charroi_de_N%C3%AEmes"
-target="_blank">Charroi de Nîmes</a><br>
+target="_blank">Charroi de Nîmes - Traduction de Jean-Marie Fritz</a><br>
 cité dans : <a
 href="https://publications-romanes-francaises.droz.org/book/9782600014748/body-1-2"
 target="_blank">La Cloche et la lyre. Pour une poétique médiévale du
-paysage sonore</a> de Jean-Marie Fritz<br>
+paysage sonore</a><br>
 12e siècle<br>
 <br>
 "Ils entendent la rumeur de la bonne cité<br>
@@ -2450,13 +2494,36 @@ de mon esprit.”<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Henry_Boguet" target="_blank">Henry
+Boguet</a><br>
+<a href="https://gallica.bnf.fr/ark:/12148/btv1b8626239h"
+target="_blank">Discours des sorciers</a><br>
+1602<br>
+<br>
+<a href="https://gallica.bnf.fr/ark:/12148/btv1b8626239h/f49.item"
+target="_blank">De la voix des demons - Chap. X - p27</a><br>
+<br>
+"... car si la voix se fait par une agitation et battement d’air, il
+s’ensuit que Satan s’en peut former une en cette façon, vu qu’il se
+compose bien un corps d’air. L’exemple de l’Echo nous servira en cet
+endroit : car nous voyons des vallées qui répondent articulément à la
+voix de l’homme, si bien qu’il est avis qu’elles parlent et imitent
+notre parole. Et de là, il est aisé de colliger [déduire] que la voix
+humaine se peut bien feindre sans poumon, sans langue, sans dents."<br>
+<br>
+cité dans: <a
+href="https://univ-montpellier3-paul-valery.hal.science/hal-03806460/document"
+target="_blank">Histoire de l'écho : le son, le temps et la lumière</a>
+de François Baskevitch <br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank"
 href="https://fr.wikipedia.org/wiki/William_Shakespeare">William
 Shakespeare</a><br>
 <a
 href="https://en.wikisource.org/wiki/Hamlet,_First_Quarto,_1603_%28Huntington_Shelfmark_69304%29"
-target="_blank">The Tragicall Historie of Hamlet Prince of Denmarke
-(1603)</a><br>
+target="_blank">The Tragicall Historie of Hamlet Prince of Denmarke</a><br>
 <a href="https://fr.wikipedia.org/wiki/Hamlet" target="_blank">Hamlet</a>
 - <a href="https://www.gallimard.fr/catalogue/hamlet/9782070468508"
 target="_blank">Traduction (1957) de Yves Bonnefoy</a><br>
@@ -2908,10 +2975,9 @@ target="_blank">Lettre à Madame de Grignan</a><br>
 <br>
 "Sa jeunesse lui fait du bruit, il n’entend pas."<br>
 <br>
-Cité par Marcel Proust dans : <a
+Cité dans : <a
 href="https://fr.wikisource.org/wiki/Les_Plaisirs_et_les_Jours/La_Mort_de_Baldassare_Silvande"
-target="_blank">Les Plaisirs et les Jours</a><br>
-</div>
+target="_blank">Les Plaisirs et les Jours</a> de Marcel Proust </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/F%C3%A9nelon" target="_blank">Fénelon</a><br>
@@ -2967,6 +3033,22 @@ target="_blank">Tanka Haiku Renga Le triangle magique de Maurice Coyaud</a><br>
 "Le vent cesse<br>
 Les gouttes dégoulinent en forêt<br>
 Voix du coucou kanko"
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Louis_de_Rouvroy_de_Saint-Simon"
+target="_blank">Louis de Rouvroy de Saint-Simon</a><br>
+<a
+href="https://fr.wikisource.org/wiki/M%C3%A9moires_%28Saint-Simon%29/Tome_6/10"
+target="_blank">Mémoires du duc de Saint-Simon - Tome 6 - Chapitre X</a><br>
+1708<br>
+<br>
+"« Eh ! quand cela seroit, interrompit le roi tout d’un coup avec
+colère... »<br>
+Un silence à entendre une fourmi marcher succéda à cette espèce de
+sortie. On baissoit les yeux, à peine osoit-on respirer. Chacun demeura
+stupéfoit. Jusqu’aux gens de bâtiments et aux jardiniers demeurèrent
+immobiles. Ce silence dura plus d’un quart d’heure."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5943,6 +6025,27 @@ Est le miroir de mon amour."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Frederic_Farrar" target="_blank">Frederic
+William Farrar</a><br>
+<a href="https://archive.org/details/chaptersoflangua00farriala"
+target="_blank">Chapters on language</a><br>
+1865<br>
+<br>
+"La légende estonienne...<br>
+Le dieu du chant, Wannemunne, descendit sur le Domberg, où se dresse un
+bois sacré, et là, il joua et chanta. Toutes les créatures furent
+invitées à l’écouter, et chacune apprit un fragment de ce son céleste ;
+le bois qui écoutait apprit son bruissement, le ruisseau son grondement
+; le vent capta et apprit à faire écho aux notes les plus aiguës, et
+les oiseaux, au prélude du chant. Les poissons sortirent la tête hors
+de l’eau jusqu’aux yeux, mais laissèrent leurs oreilles sous l’eau ;
+ils virent les mouvements de la bouche du dieu et les imitèrent, mais
+restèrent muets. Seul l’homme saisit tout cela, et c’est pourquoi son
+chant pénètre jusqu’au plus profond du cœur et s’élève jusqu’aux
+demeures des dieux."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
 Verne</a><br>
 <a href="https://beq.ebooksgratuits.com/vents/Verne-Hatteras.pdf"
@@ -6069,6 +6172,34 @@ c’est-à-dire de <span style="font-style: italic;">serrurier</span>,
 fer lorsqu'il est scié avec rapidité. Ce cri, que l’on entend souvent à
 l’époque du printemps, le long des routes, dans les pays ombragés, a
 quelque chose de triste et de sinistre."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/L%C3%A9on_Dierx" target="_blank">Léon
+Dierx</a><br>
+<a href="https://fr.wikisource.org/wiki/Les_L%C3%A8vres_closes"
+target="_blank">Les Lèvres closes</a><br>
+1867<br>
+<br>
+Le Remous<br>
+<br>
+"Tout se tait maintenant dans la ville, et les rues<br>
+Ne retentissent plus sous les lourds tombereaux.<br>
+Le gain du jour compté, victimes et bourreaux<br>
+S'endorment en rêvant aux richesses accrues ;<br>
+Plus de lampe qui luise à travers les carreaux.<br>
+<br>
+Tous dorment en rêvant aux richesses lointaines.<br>
+On n'entend plus tinter le métal des comptoirs ;<br>
+Parfois, dans le silence, un pas sur les trottoirs<br>
+Sonne, et se perd au sein des rumeurs incertaines.<br>
+Tout est désert : marchés, théâtres, abattoirs.<br>
+<br>
+Tout bruit se perd au fond d'une rumeur qui roule.<br>
+Seul, aux abords vivants des gares, par moment,<br>
+Hurle en déchirant l'air un aigu sifflement.<br>
+La nuit règne. Son ombre étreint comme une foule.<br>
+— Oh ! Ces millions d'yeux sous le noir firmament."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6575,6 +6706,25 @@ target="_blank">Les Illuminations - Fairy</a><br>
 rumeur du torrent sous
 la ruine des bois, de la sonnerie des bestiaux à l’écho des vals, et
 des cris des steppes. -"
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/%C3%89mile_Zola" target="_blank">Émile
+Zola</a><br>
+<a
+href="https://fr.wikisource.org/wiki/L%E2%80%99Assommoir/Texte_entier"
+target="_blank">L’Assommoir</a><br>
+1876<br>
+<br>
+" ... elle entendait, dans ce vaste espace clair, des sifflets de
+locomotives, les secousses rythmées des plaques tournantes, toute une
+activité colossale et cachée. Puis, un train passa, sortant de Paris,
+arrivant avec l’essoufflement de son haleine et son roulement peu à peu
+enflé. Et elle n’aperçut de ce train qu’un panache blanc, une brusque
+bouffée qui déborda du parapet et se perdit. Mais le pont avait
+tremblé, elle-même restait dans le branle de ce départ à toute vapeur.
+Elle se tourna, comme pour suivre la locomotive invisible, dont le
+grondement se mourait."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -8120,7 +8270,7 @@ Strindberg</a><br>
 Inferno - Traduction anglaise (1912) de Claud Field</a><br>
 <a href="https://www.gallimard.fr/catalogue/inferno/9782070764563"
 target="_blank">Inferno</a><br>
-cité par dans : <a
+cité dans : <a
 href="https://classiques.uqam.ca/classiques/bachelard_gaston/flamme_de_la_chandelle/flamme_de_la_chandelle.pdf"
 target="_blank">La Flamme d'une chandelle</a> de Gaston Bachelard<br>
 1897<br>
@@ -8140,7 +8290,7 @@ href="https://fr.wikipedia.org/wiki/Jules_Verne" target="_blank">Jules
 Verne</a><br>
 <a
 href="https://www.ebooksgratuits.com/pdf/verne_secret_wilhelm_storitz_vo.pdf"
-target="_blank">Le secret de Wilhelm Storitz</a>&nbsp;&nbsp; (version
+target="_blank">Le secret de Wilhelm Storitz</a>&nbsp; (version
 d’origine)<br>
 1898<br>
 <br>
@@ -11213,6 +11363,57 @@ nuit, paisiblement."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Leiris" target="_blank">Michel
+Leiris</a><br>
+<a href="https://www.gallimard.fr/catalogue/biffures/9782070723485"
+target="_blank">La règle du jeu (Tome 1) - Biffures</a><br>
+1948<br>
+<br>
+PERSÉPHONE<br>
+<br>
+Le phonographe...<br>
+"&nbsp;&nbsp;&nbsp; Ça n'était pas le bruissement de friture que fait
+parfois le téléphone&nbsp;; ça n'était pas non plus le pétillement du
+bois humide qui flambe ni le cassement des feuilles sèches qu'on
+piétine. Cela aurait ressemblé plutôt&nbsp;–&nbsp;à cause de ce que
+cela avait d'un peu gras&nbsp;–&nbsp;à des clappements de langue ou
+bien encore à de légers claquements de fouet (d'un fouet tel que ceux
+dont se servent les enfants pour jouer à la toupie) mais en notablement
+plus grave et plus épais, assez varié, d'ailleurs, et présentant toute
+une gamme, de même que des coups de canon, tirés par la même pièce avec
+des projectiles théoriquement identiques, ne donnent pas tous
+exactement la même détonation, les uns plus secs ou plus forts, les
+autres plus longs ou plus assourdis, en raison des petites différences
+soit de chargement, soit de calibre par lesquelles une cartouche se
+distingue d'une autre cartouche si homogènes qu'en soient les séries,
+ou pour toute autre cause à ranger, comme à l'article DIVERS d'un
+carnet de comptes quotidiens, sous l'étiquette négative de
+l'imprévisible."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Si dans le bronze j'entends toujours le
+bourdonnement des cloches et dans l'airain le bruit des casques et des
+armes qui s'entrechoquent, je reconnais d'emblée dans le laiton une
+matière maigre et pauvre comme le fer-blanc du ferblantier ou comme le
+métal dont sont faits les bidons de laitier. "<br>
+p186<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Borborygmes de gnomes&nbsp;: telle est la formule
+qui, avant de passer dans ma plume, tend à agiter mes lèvres, quand je
+pense à ces bruissements mal définis que traîne avec lui le mot
+«&nbsp;mine&nbsp;», une fois libéré du fuseau de bois qui le lestait et
+le domestiquait. Borborygmes de gnomes&nbsp;: coups de pic répercutés
+de galerie en galerie, ferraillement des wagonnets chargés de grands
+morceaux de houille détachés du filon, trébuchement du vieux cheval
+aveugle (non pas piaffements, ni hennissements) à chaque traverse de
+bois du chemin de fer à voie étroite, souffle de l'ascenseur qui
+descend vite et tire le cœur, piétinement des lourdes godasses, appels
+brefs, ahans sourds, cliquetis des lampes et des outils. Borborygmes de
+gnomes&nbsp;: bulles de sons confus qu'on jurerait entendre crever à
+l'énoncé de mots tels que «&nbsp;ressources minières&nbsp;»,
+«&nbsp;bassin houiller&nbsp;» ou «&nbsp;entrailles de la terre&nbsp;»."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yasunari_Kawabata" target="_blank">Yasunari
 Kawabata</a><br>
 <a href="https://fr.wikipedia.org/wiki/Le_Grondement_de_la_montagne"
@@ -11728,6 +11929,58 @@ de ses murailles rébarbatives derrière lesquelles on avait peine à
 croire que des gens vivaient. Le silence, rompu brusquement par des
 gargouillis de radio qui cessèrent aussi vite qu’ils étaient nés. Le
 silence, la douceur et le calme."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Leiris" target="_blank">Michel
+Leiris</a><br>
+<a href="https://www.gallimard.fr/catalogue/fourbis/9782070723478"
+target="_blank">La règle du jeu (Tome 2) - Fourbis</a><br>
+1955<br>
+<br>
+MORS<br>
+<br>
+«&nbsp;Souvenir imprécis... Souvenir vrai, quant à la peur provoquée
+par ce bruissement léger entendu dans la nuit et dont le caractère
+angoissant reposait peut-être exclusivement sur le fait qu'il
+manifestait l'état de veille de quelque chose d'infime ou de lointain,
+unique présence sonore dans le silence d'un lieu plus ou moins
+campagnard où j'imaginais qu'à pareille heure tout devait être endormi
+ou commencer à s'endormir.&nbsp;»<br>
+<br>
+«&nbsp;Si j'entends aujourd'hui, dans un pays ensoleillé, les cigales,
+cela ne fait que porter à l'extrême le plaisir que j'éprouve à me
+trouver baigné dans la lumière et la chaleur&nbsp;: rumeur de fête
+qu'on dirait issue d'une quantité de voix qui ne seraient elles-mêmes
+que la traduction, sur un autre registre, d'une ardeur et d'une
+luminosité trop vives pour rester sans répercussions. Quand j'ai
+entendu, il y a maintenant plus d'un an, l'incroyable vacarme produit à
+la Martinique, sitôt l'obscurité venue, par les sauterelles qu'on
+appelle «&nbsp;cabrit bois&nbsp;» et les grenouilles&nbsp;–&nbsp;entre
+autres êtres fort divers qu'il est d'usage de classer, les uns comme
+les autres, dans le règne animal&nbsp;– cela aussi m'a semblé
+réconfortant&nbsp;: nulle correspondance harmonique entre cette clameur
+et la moiteur d'une nuit de saison des pluies sous les tropiques mais,
+comme pour les cigales, une jubilation multiple et sa résultante
+musicale. Sous deux climats différents et à des heures bien distinctes,
+fouillis de sons, exubérance, bourgeonnement sonore signalant un nombre
+incalculable de présences, trop infimes pour faire peur (comme le
+pourrait un déchaînement de foule humaine) et qui, bien au contraire,
+sont rassurantes puisque leur nombre évoque une vie intense, capable de
+proliférer à l'infini.&nbsp;»<br>
+<br>
+"&nbsp;&nbsp;&nbsp; C'est souvent par des voies détournées que se
+faufile jusqu'à nous la crainte de la mort&nbsp;: crissement d'insecte
+entendu dans la nuit, heurts de sabots sur le pavé de la rue tandis
+qu'on est au lit, craquement de meubles (manifestant une vie qui nous
+est étrangère), déclic annonciateur d'une mise en marche de mécanique
+ou&nbsp;–&nbsp;tel un râle&nbsp;–&nbsp;ronflement de dormeur, pour ne
+parler que des bruits. A l'inverse des craquements d'os (preuve
+formelle qu'on se rouille), ils ne recèlent rien qui soit de nature à
+spécialement inquiéter&nbsp;: balbutiement émané d'un lieu vague ou
+bien indice d'une existence séparée, ni l'un ni l'autre de ces traits
+ne permettrait de déceler, autrement qu'à la réflexion, ce qui peut en
+faire des signes funèbres."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -12361,7 +12614,7 @@ La vie continue à peu près comme un morceau de Feldman."<br>
 href="https://fr.wikipedia.org/wiki/Raymond_Queneau" target="_blank">Raymond
 Queneau</a><br>
 <a
-href="https://fr.wikipedia.org/wiki/Cent_mille_milliards_de_po%C3%A8mes"
+href="https://www.gallimard.fr/catalogue/cent-mille-milliards-de-poemes/9782070104673"
 target="_blank">Cent mille milliards de poèmes</a><br>
 1961<br>
 <br>
@@ -13382,7 +13635,7 @@ href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
 Barthes</a><br>
 <a
 href="https://www.placedeslibraires.fr/livre/9782757854136-essais-critiques-tome-4-le-bruissement-de-la-langue-roland-barthes/"
-target="_blank">Essais critiques IV Le bruissement de la langue</a><br>
+target="_blank">Essais critiques IV - Le bruissement de la langue</a><br>
 1975<br>
 <br>
 Le bruissement de la langue<br>
@@ -13418,7 +13671,7 @@ href="https://fr.wikipedia.org/wiki/Roland_Barthes" target="_blank">Roland
 Barthes</a><br>
 <a
 href="https://www.placedeslibraires.fr/livre/9782020146098-l-obvie-et-l-obtus-essais-critiques-iii-roland-barthes/"
-target="_blank">L'obvie et l'obtus Essais critiques III</a><br>
+target="_blank">Essais critiques III - L'obvie et l'obtus</a><br>
 1976<br>
 <br>
 "... l’espace ménager, celui de la maison, de l’appartement (équivalent
@@ -13427,6 +13680,33 @@ approximatif du territoire animal) est un espace de bruits familiers,
 forme une sorte de symphonie domestique :
 claquement différencié des portes, éclats de voix, bruits de cuisine,
 de tuyaux, rumeurs extérieures..."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Michel_Leiris" target="_blank">Michel
+Leiris</a><br>
+<a href="https://www.gallimard.fr/catalogue/frele-bruit/9782070725526"
+target="_blank">La règle du jeu (Tome 4) - Frêle bruit</a><br>
+1976<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Nietzsche. Son nom évoque un bruit de tisons qui
+s'affaissent entre des chenêts, de fagots qu'on entasse pour dresser un
+bûcher ou de torche qu'on éteint dans l'eau&nbsp;; peut-être aussi de
+feuilles sèches sur lesquelles on marche, d'allumette qu'on frotte et
+qui s'enflamme pour une brève illumination ou encore de jet de vapeur
+lancé par une locomotive au repos."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Aux Augustins, le bruit&nbsp;; aux Augustines, le
+silence. Cette différence compte beaucoup, bien que je ne sois pas
+spécialement amateur de calme plat et qu'un silence trop proche du zéro
+aille même jusqu'à m'effrayer. Ce qui me convient le mieux, c'est sans
+doute un léger bruit&nbsp;: juste ce qu'il faut pour qu'on puisse
+s'accrocher à quelque chose, au lieu de se croire immergé dans le
+néant. Aux Augustines, que ne trouble pas le vacarme des Augustins,
+j'ai du moins le recours de ces menus bruits qui fêlent plutôt qu'ils
+ne rompent le silence et grâce auxquels on peut rester à l'écoute de
+soi-même sans sombrer dans le vertige que l'absence de toute liaison
+par le canal de l'oreille entraînerait infailliblement."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14339,6 +14619,7 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
+</div>
+<br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 7 9 2026 
+page mise à jour 24 9 2026 
