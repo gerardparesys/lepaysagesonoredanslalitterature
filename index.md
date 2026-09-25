@@ -13815,7 +13815,7 @@ il faut toujours être calme, silencieux.<br>
 On a tout juste le droit de chuchoter"<br>
 <br>
 <img style="width: 100%; max-width: 726px;" alt="Monsieur Silence"
-src="images/characterbio-mr_quiet_pic3.jpg"><br>
+src="images/characterbio-mr_quiet_pic3.jpg">
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
