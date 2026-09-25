@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">859 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">860 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -225,7 +225,7 @@ dans la mêlée."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Hom%C3%A8re" target="_blank">Homère</a><br>
 <a href="https://fr.wikipedia.org/wiki/Odyss%C3%A9e" target="_blank">L'Odyssée</a><br>
-VIIIe siècle av. J.-C.<br>
+8e siècle av. J.-C.<br>
 <br>
 <a
 href="https://www.academia.edu/69615506/Hom%C3%A8re_LIliade_et_LOdyss%C3%A9e_tr_Robert_Flaceli%C3%A8re_et_Victor_B%C3%A9rard_1955"
@@ -1481,6 +1481,7 @@ de Silos</a> - Commentaire sur l’Apocalypse<br>
 1109<br>
 <br>
 "Factum est silentium in celo." : "Il se fit un silence dans le ciel."<br>
+<br>
 <img style="width: 100%; max-width: 726px;"
 alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg">
 <br>
@@ -6043,6 +6044,8 @@ ils virent les mouvements de la bouche du dieu et les imitèrent, mais
 restèrent muets. Seul l’homme saisit tout cela, et c’est pourquoi son
 chant pénètre jusqu’au plus profond du cœur et s’élève jusqu’aux
 demeures des dieux."<br>
+(Traduction <a href="https://www.deepl.com/fr/translator"
+target="_blank">DeepL</a>)<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -11940,25 +11943,25 @@ target="_blank">La règle du jeu (Tome 2) - Fourbis</a><br>
 <br>
 MORS<br>
 <br>
-«&nbsp;Souvenir imprécis... Souvenir vrai, quant à la peur provoquée
-par ce bruissement léger entendu dans la nuit et dont le caractère
-angoissant reposait peut-être exclusivement sur le fait qu'il
-manifestait l'état de veille de quelque chose d'infime ou de lointain,
-unique présence sonore dans le silence d'un lieu plus ou moins
-campagnard où j'imaginais qu'à pareille heure tout devait être endormi
-ou commencer à s'endormir.&nbsp;»<br>
+"Souvenir imprécis... Souvenir vrai, quant à la peur provoquée par ce
+bruissement léger entendu dans la nuit et dont le caractère angoissant
+reposait peut-être exclusivement sur le fait qu'il manifestait l'état
+de veille de quelque chose d'infime ou de lointain, unique présence
+sonore dans le silence d'un lieu plus ou moins campagnard où
+j'imaginais qu'à pareille heure tout devait être endormi ou commencer à
+s'endormir."<br>
 <br>
-«&nbsp;Si j'entends aujourd'hui, dans un pays ensoleillé, les cigales,
-cela ne fait que porter à l'extrême le plaisir que j'éprouve à me
-trouver baigné dans la lumière et la chaleur&nbsp;: rumeur de fête
-qu'on dirait issue d'une quantité de voix qui ne seraient elles-mêmes
-que la traduction, sur un autre registre, d'une ardeur et d'une
-luminosité trop vives pour rester sans répercussions. Quand j'ai
-entendu, il y a maintenant plus d'un an, l'incroyable vacarme produit à
-la Martinique, sitôt l'obscurité venue, par les sauterelles qu'on
-appelle «&nbsp;cabrit bois&nbsp;» et les grenouilles&nbsp;–&nbsp;entre
-autres êtres fort divers qu'il est d'usage de classer, les uns comme
-les autres, dans le règne animal&nbsp;– cela aussi m'a semblé
+"Si j'entends aujourd'hui, dans un pays ensoleillé, les cigales, cela
+ne fait que porter à l'extrême le plaisir que j'éprouve à me trouver
+baigné dans la lumière et la chaleur&nbsp;: rumeur de fête qu'on dirait
+issue d'une quantité de voix qui ne seraient elles-mêmes que la
+traduction, sur un autre registre, d'une ardeur et d'une luminosité
+trop vives pour rester sans répercussions. Quand j'ai entendu, il y a
+maintenant plus d'un an, l'incroyable vacarme produit à la Martinique,
+sitôt l'obscurité venue, par les sauterelles qu'on appelle
+«&nbsp;cabrit bois&nbsp;» et les grenouilles&nbsp;–&nbsp;entre autres
+êtres fort divers qu'il est d'usage de classer, les uns comme les
+autres, dans le règne animal&nbsp;– cela aussi m'a semblé
 réconfortant&nbsp;: nulle correspondance harmonique entre cette clameur
 et la moiteur d'une nuit de saison des pluies sous les tropiques mais,
 comme pour les cigales, une jubilation multiple et sa résultante
@@ -11967,7 +11970,7 @@ fouillis de sons, exubérance, bourgeonnement sonore signalant un nombre
 incalculable de présences, trop infimes pour faire peur (comme le
 pourrait un déchaînement de foule humaine) et qui, bien au contraire,
 sont rassurantes puisque leur nombre évoque une vie intense, capable de
-proliférer à l'infini.&nbsp;»<br>
+proliférer à l'infini."<br>
 <br>
 "&nbsp;&nbsp;&nbsp; C'est souvent par des voies détournées que se
 faufile jusqu'à nous la crainte de la mort&nbsp;: crissement d'insecte
@@ -13800,6 +13803,22 @@ de l'art russe, scandinave et esquimau."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Roger_Hargreaves" target="_blank">Roger
+Hargreaves</a><br>
+<a href="https://mrmen.com/pages/mr-quiet" target="_blank">Mr. Quiet</a><br>
+<a href="https://monsieurmadame.fr/personnage/m-silence/"
+target="_blank">Monsieur Silence - Traduction (1983)</a><br>
+1978<br>
+<br>
+"En effet dans une bibliothèque,<br>
+il faut toujours être calme, silencieux.<br>
+On a tout juste le droit de chuchoter"<br>
+<br>
+<img style="width: 100%; max-width: 726px;" alt="Monsieur Silence"
+src="images/characterbio-mr_quiet_pic3.jpg"><br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
 <a href="https://fr.wikipedia.org/wiki/Rue_des_Boutiques_obscures"
@@ -14619,7 +14638,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
+</div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 24 9 2026 
+page mise à jour 25 9 2026 
