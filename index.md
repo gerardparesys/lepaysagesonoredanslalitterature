@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">860 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">865 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -442,6 +442,23 @@ instruments, et en outre la voix des chiens, des moutons, des oiseaux.
 Tout son discours ne sera qu’imitation de voix et de gestes&nbsp;; à
 peine y
 entrera-t-il quelque portion de récit."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Platon" target="_blank">Platon</a><br>
+<a href="https://fr.wikisource.org/wiki/Tim%C3%A9e_%28trad._Chambry%29"
+target="_blank">Timée - Traduction (1939) de Émile Chambry.</a><br>
+360 av. J.-C.<br>
+<br>
+"D’une manière générale, nous pouvons définir le son comme un coup
+donné par l’air à travers les oreilles au cerveau et au sang et
+arrivant jusqu’à l’âme. Le mouvement qui s’ensuit, lequel commence à la
+tête et se termine dans la région du foie, est l’ouïe. Ce mouvement
+est-il rapide, le son est aigu&nbsp;; s’il est plus lent, le son est
+plus grave&nbsp;; s’il est uniforme, le son est égal et doux&nbsp;; il
+est rude dans le cas contraire&nbsp;; il est fort grand, lorsque le
+mouvement est grand, et faible, s’il est petit. Quant à l’accord des
+sons entre eux, c’est une question qu’il nous faudra traiter plus tard."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2730,7 +2747,7 @@ href="https://fr.wikipedia.org/wiki/Harmonie_universelle">Harmonie
 Universelle</a><br>
 1636<br>
 <br>
-<a href="https://cnum.cnam.fr/pgi/fpage.php?PTFOLN3.1RES/101/40/1653"
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k5471093v/f67.item"
 target="_blank">Livre Premier, Proposition VIII.</a><br>
 <br>
 <span style="font-style: italic;">Le Son ne se communique pas dans un
@@ -2744,12 +2761,11 @@ manières, et particulièrement lorsque l'on voit que la hache ou le
 maillet du bûcheron et des autres qui frappent sur quelque corps, a
 déjà frappé deux coups lorsque l'on ouï le premier coup : ce qui arrive
 quand on est éloigné de cinq ou six cent pas ou davantage.<br>
-... un fauconneau fut aussitôt ouï de 1000 pas que la fumée en fut
-aperçue.<br>
-&nbsp;&nbsp;&nbsp; Le son d'une pièce portant le boulet de douze
+...<br>
+&nbsp;&nbsp;&nbsp; Le Son d'une pièce portant le boulet de douze
 livres, tirant de mil cinq cents pas à trois heures après midi par un
 temps clair aidé du vent, et placé sur une courtine sur l'eau, fut ouï
-à deux battements de pouls. Le son d'une mousquetade tirée à cinquante
+à deux battements de pouls. Le Son d'une mousquetade tirée à cinquante
 pas sur l'eau, le vent étant à demi contraire, et le temps couvert,
 s'entendit au quatrième battement, quoiqu'une autre mousquetade tirée
 de 1000 pas au-dessous du vent, par un temps sombre et couvert, une
@@ -4445,7 +4461,7 @@ Baudelaire</a><br>
 <a
 href="https://fr.wikisource.org/wiki/%C5%92uvres_posthumes_%28Baudelaire%29_%281908%29/Texte_entier"
 target="_blank">Incompatibilité</a><br>
-1837 (posthume)<br>
+1837<br>
 <br>
 "... <br>
 On rencontre un lac sombre encaissé dans l’abîme<br>
@@ -5277,12 +5293,10 @@ jaillir tout d’un coup de tous les coins de la chambre."
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
-target="_blank">Les Fleurs du mal</a><br>
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281857%29/Texte_entier"
+target="_blank">Les Fleurs du mal (1857)</a><br>
 <br>
-<a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/La_Cloche_f%C3%AAl%C3%A9e"
-target="_blank">La cloche fêlée</a><br>
+LVIII La cloche fêlée<br>
 1851<br>
 <br>
 "Il est amer et doux, pendant les nuits d’hiver,<br>
@@ -5295,10 +5309,7 @@ Qui, malgré sa vieillesse, alerte et bien portante,<br>
 Jette fidèlement son cri religieux,<br>
 Ainsi qu’un vieux soldat qui veille sous la tente !"<br>
 <br>
-<a
-href="https://fr.wikipedia.org/wiki/Spleen_I_%28po%C3%A8me%29_-_Pluvi%C3%B4se,_irrit%C3%A9_contre_la_ville_enti%C3%A8re"
-target="_blank">Spleen I (poème) - Pluviôse, irrité contre la ville
-entière</a><br>
+LIX Spleen<br>
 1851<br>
 <br>
 "Pluviôse, irrité contre la ville entière,<br>
@@ -5550,9 +5561,11 @@ auditive."
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Le_Cr%C3%A9puscule_du_soir"
-target="_blank">Les Fleurs du mal - Le crépuscule du soir</a><br>
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281857%29/Texte_entier"
+target="_blank">Les Fleurs du mal (1857)</a><br>
 1855<br>
+<br>
+LXVII Le crépuscule du soir<br>
 <br>
 "On entend çà et là les cuisines siffler,<br>
 Les théâtres glapir, les orchestres ronfler ;"
@@ -5626,31 +5639,23 @@ d’un moustique qui s’est glissé sous ma couverture, près de mon oreille
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
-target="_blank">Les Fleurs du mal</a><br>
-<br>
-<a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Chant_d%E2%80%99automne"
-target="_blank">Chant d’automne</a><br>
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281857%29/Texte_entier"
+target="_blank">Les Fleurs du mal (1857)</a><br>
 1857<br>
 <br>
-"J’entends déjà tomber avec des chocs funèbres<br>
-Le bois retentissant sur le pavé des cours.<br>
-...<br>
-J’écoute en frémissant chaque bûche qui tombe&nbsp;;<br>
-L’échafaud qu’on bâtit n’a pas d’écho plus sourd.<br>
-Mon esprit est pareil à la tour qui succombe<br>
-Sous les coups du bélier infatigable et lourd.<br>
+XX Les Bijoux<br>
 <br>
-Il me semble, bercé par ce choc monotone,<br>
-Qu’on cloue en grande hâte un cercueil quelque part.<br>
-Pour qui&nbsp;? – C’était hier l’été&nbsp;; voici l’automne&nbsp;!<br>
-Ce bruit mystérieux sonne comme un départ."<br>
+"La très-chère était nue, et, connaissant mon cœur,<br>
+Elle n’avait gardé que ses bijoux sonores,<br>
+Dont le riche attirail lui donnait l’air vainqueur<br>
+Qu’ont dans leurs jours heureux les esclaves des Maures.<br>
 <br>
-<a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Harmonie_du_soir"
-target="_blank">Harmonie du soir</a><br>
-1857<br>
+Quand il jette en dansant son bruit vif et moqueur,<br>
+Ce monde rayonnant de métal et de pierre<br>
+Me ravit en extase, et j’aime avec fureur<br>
+Les choses où le son se mêle à la lumière."<br>
+<br>
+XLIII Harmonie du soir<br>
 <br>
 "Voici venir les temps où vibrant sur sa tige<br>
 Chaque fleur s'évapore ainsi qu'un encensoir ;<br>
@@ -5695,6 +5700,42 @@ bruits qui fendent la tête et qui n’empêchent pas l’artisan de
 réfléchir et même de rêver..." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Hector_Berlioz" target="_blank">Hector
+Berlioz</a><br>
+<a href="https://fr.wikisource.org/wiki/%C3%80_travers_chants"
+target="_blank">À Travers Chants</a><br>
+1860<br>
+<br>
+À MM. les membres de l’Académie des beaux-arts de l’Institut<br>
+<br>
+"Nuit paisible et sereine !<br>
+La lune, douce reine<br>
+Qui plane en souriant,<br>
+L’insecte des prairies<br>
+Dans les herbes fleuries<br>
+En secret bruissant,<br>
+&nbsp;&nbsp;&nbsp; Philomèle,<br>
+&nbsp;&nbsp;&nbsp; Qui mêle<br>
+Au murmure du bois<br>
+Les splendeurs de sa voix ;<br>
+&nbsp;&nbsp;&nbsp; L’hirondelle<br>
+&nbsp;&nbsp;&nbsp; Fidèle<br>
+Caressant sous nos toits<br>
+Sa nichée en émois ;<br>
+Dans sa coupe de marbre<br>
+Ce jet d’eau retombant<br>
+&nbsp;&nbsp;&nbsp; Écumant ;<br>
+L’ombre de ce grand arbre<br>
+En spectre se mouvant<br>
+&nbsp;&nbsp;&nbsp; Sous le vent ;<br>
+&nbsp;&nbsp;&nbsp; Harmonies<br>
+&nbsp;&nbsp;&nbsp; Infinies,<br>
+Que vous avez d’attraits<br>
+Et de charmes secrets<br>
+Pour les âmes attendries !"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/George_Eliot" target="_blank">George
 Eliot</a><br>
 <a href="https://georgeeliotarchive.org/items/show/10" target="_blank">The
@@ -5711,32 +5752,6 @@ m’assourdissent me portent à la rêverie et font ressortir le calme de
 cette scène. On dirait un grand rideau de bruit qui me sépare du reste
 du monde. Voici maintenant un énorme chariot rempli de sacs de blé, qui
 revient au moulin avec un roulement semblable à celui du tonnerre."<br>
-</div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
-Baudelaire</a><br>
-<a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
-target="_blank">Les Fleurs du mal</a><br>
-1860<br>
-<br>
-Obsession<br>
-<br>
-"Grands bois, vous m’effrayez comme des cathédrales ;<br>
-Vous hurlez comme l’orgue ; et dans nos coeurs maudits,<br>
-Chambres d’éternel deuil où vibrent de vieux râles,<br>
-Répondent les échos de vos <span style="font-style: italic;">De
-profundis</span>.<br>
-<br>
-Je te hais, Océan ! tes bonds et tes tumultes,<br>
-Mon esprit les retrouve en lui ; ce rire amer<br>
-De l’homme vaincu, plein de sanglots et d’insultes,<br>
-Je l’entends dans le rire énorme de la mer."<br>
-<br>
-À une passante<br>
-<br>
-"La rue assourdissante autour de moi hurlait."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -5849,6 +5864,47 @@ tonnantes.<br>
 &nbsp;&nbsp;&nbsp; L'œil aussi était blessé autant que l'oreille au
 contraste diabolique de cette neige éblouissante fouettant dans ces
 laves si noires." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
+Baudelaire</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281861%29/Texte_entier"
+target="_blank">Les Fleurs du mal (1861)</a><br>
+1861<br>
+<br>
+LVI Chant d’automne<br>
+<br>
+"J’entends déjà tomber avec des chocs funèbres<br>
+Le bois retentissant sur le pavé des cours.<br>
+...<br>
+J’écoute en frémissant chaque bûche qui tombe&nbsp;;<br>
+L’échafaud qu’on bâtit n’a pas d’écho plus sourd.<br>
+Mon esprit est pareil à la tour qui succombe<br>
+Sous les coups du bélier infatigable et lourd.<br>
+<br>
+Il me semble, bercé par ce choc monotone,<br>
+Qu’on cloue en grande hâte un cercueil quelque part.<br>
+Pour qui&nbsp;? – C’était hier l’été&nbsp;; voici l’automne&nbsp;!<br>
+Ce bruit mystérieux sonne comme un départ."<br>
+<br>
+LXXIX Obsession<br>
+<br>
+"Grands bois, vous m’effrayez comme des cathédrales ;<br>
+Vous hurlez comme l’orgue ; et dans nos coeurs maudits,<br>
+Chambres d’éternel deuil où vibrent de vieux râles,<br>
+Répondent les échos de vos <span style="font-style: italic;">De
+profundis</span>.<br>
+<br>
+Je te hais, Océan ! tes bonds et tes tumultes,<br>
+Mon esprit les retrouve en lui ; ce rire amer<br>
+De l’homme vaincu, plein de sanglots et d’insultes,<br>
+Je l’entends dans le rire énorme de la mer."<br>
+<br>
+XCIII À une passante<br>
+<br>
+"La rue assourdissante autour de moi hurlait."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Dickens" target="_blank">Charles
@@ -6008,24 +6064,6 @@ réveille avec transes au moment même où vous alliez vous assoupir."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
-Baudelaire</a><br>
-<a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281868%29/Le_Jet_d%E2%80%99eau"
-target="_blank">Les Fleurs du mal - Le jet d’eau</a><br>
-1865<br>
-<br>
-"Ô toi, que la nuit rend si belle,<br>
-Qu’il m’est doux, penché vers tes seins,<br>
-D’écouter la plainte éternelle<br>
-Qui sanglote dans les bassins !<br>
-Lune, eau sonore, nuit bénie,<br>
-Arbres qui frissonnez autour,<br>
-Votre pure mélancolie<br>
-Est le miroir de mon amour."
-</div>
-<br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Frederic_Farrar" target="_blank">Frederic
 William Farrar</a><br>
 <a href="https://archive.org/details/chaptersoflangua00farriala"
@@ -6078,19 +6116,20 @@ flancs frissonner."
 href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
-href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%28%C3%A9d._1857%29/Les_Bijoux"
-target="_blank">Les Fleurs du mal - Les Bijoux</a><br>
+href="https://fr.wikisource.org/wiki/Les_Fleurs_du_mal_%281868%29/Texte_entier"
+target="_blank">Les Fleurs du mal (1868)</a><br>
 1866<br>
 <br>
-"La très-chère était nue, et, connaissant mon cœur,<br>
-Elle n’avait gardé que ses bijoux sonores,<br>
-Dont le riche attirail lui donnait l’air vainqueur<br>
-Qu’ont dans leurs jours heureux les esclaves des Maures.<br>
+XCVII Le Jet d’eau<br>
 <br>
-Quand il jette en dansant son bruit vif et moqueur,<br>
-Ce monde rayonnant de métal et de pierre<br>
-Me ravit en extase, et j’aime avec fureur<br>
-Les choses où le son se mêle à la lumière."
+"Ô toi, que la nuit rend si belle,<br>
+Qu’il m’est doux, penché vers tes seins,<br>
+D’écouter la plainte éternelle<br>
+Qui sanglote dans les bassins !<br>
+Lune, eau sonore, nuit bénie,<br>
+Arbres qui frissonnez autour,<br>
+Votre pure mélancolie<br>
+Est le miroir de mon amour."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -6488,17 +6527,17 @@ href="https://fr.wikipedia.org/wiki/Charles_Baudelaire" target="_blank">Charles
 Baudelaire</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Petits_Po%C3%A8mes_en_prose/Texte_entier"
-target="_blank">Le Spleen de Paris ou Petits poèmes en prose</a><br>
-1869<br>
+target="_blank">Le Spleen de Paris ou Petits Poèmes en prose</a><br>
+1869 (Edition posthume)<br>
 <br>
-Le Fou et la Vénus<br>
+VII Le Fou et la Vénus<br>
 <br>
 "&nbsp;&nbsp;&nbsp; L'extase universelle des choses ne s'exprime par
 aucun bruit ; les
 eaux elles-mêmes sont comme endormies. Bien différente des fêtes
 humaines, c'est ici une orgie silencieuse."<br>
 <br>
-À une heure du matin<br>
+X À une heure du matin<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Enfin ! seul ! On n'entend plus que le roulement de
 quelques fiacres
@@ -14027,6 +14066,30 @@ pneumatiques, le coassement des radios."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Knud_Viktor" target="_blank">Knud
+Viktor</a><br>
+À la recherche de Knud Viktor. Entretien avec Knud Viktor de Hervé
+Martin <br>
+cité dans : <a
+href="https://archive.nt2.uqam.ca/revuecaptures-org/article-dune-publication/knud-viktor-%C3%A9thopo%C3%A8te.html"
+target="_blank">Knud Viktor, éthopoète. Sonorités situées et mémoires
+du pays</a> de Julie Michel<br>
+1987<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Un jour, c’était au début, je marchais dans la
+montagne. Il y avait un paysan qui criait après son cheval. Tout à coup
+j’ai senti que cette voix-là n’était pas un son mais un objet qui
+correspondait exactement à la forme et au volume de la vallée. La voix
+était devenue une pierre d’une certaine forme qui avait une relation
+très exacte avec le volume de la vallée. Peu de temps après, un mois de
+septembre, j’entendais des chouettes chevêches, qui n’existent plus
+maintenant. Elles poussaient des cris. Pour moi, c’était des sculptures
+très pures dans la nuit. Le chant des grillons était un espace
+horizontal et, posées dessus, il y avait des sculptures verticales, les
+cris des chouettes."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Echenoz" target="_blank">Jean
 Echenoz</a><br>
 <a href="http://www.leseditionsdeminuit.fr/livre-Lac-1633-1-1-0-1.html"
@@ -14132,9 +14195,33 @@ target="_blank">Chien de printemps</a><br>
 1993<br>
 <br>
 "... on écrit avec des mots et lui, il recherchait le silence. Une
-photographie peut exprimer le silence. Mais les mots? Voilà ce qui
+photographie peut exprimer le silence. Mais les mots ? Voilà ce qui
 aurait été intéressant à son avis : réussir à créer le silence avec des
 mots."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Knud_Viktor" target="_blank">Knud
+Viktor</a><br>
+Quels paysages sonores demain ? (Actes du colloque "Les racines du
+paysage")<br>
+cité dans : <a
+href="https://archive.nt2.uqam.ca/revuecaptures-org/article-dune-publication/knud-viktor-%C3%A9thopo%C3%A8te.html"
+target="_blank">Knud Viktor, éthopoète. Sonorités situées et mémoires
+du pays</a> de Julie Michel<br>
+1993<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il y a trois sons qui sont devenus pour moi très
+importants : le premier, c’est celui émis par un gentil petit hibou, le
+plus petit de l’espèce, le Petit-duc, qui vit en France et dans les
+pays méditerranéens. Il chante toute la nuit avec une note très
+régulière comme un métronome; le deuxième, c’est le son de la cigale ;
+et le troisième, c’est le son du grillon. Pour moi, ces deux trames et
+cette note, puisque la cigale et le grillon émettent des sons assez
+continus, et le Petit-duc des sons discontinus, forment ce qui fait
+l’ambiance sonore des pays méditerranéens. Il y a plein d’autres sons
+[…] mais cependant je considère que les trois premiers sont comme les
+primaires en couleurs."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14203,18 +14290,40 @@ target="_blank">Maison de jour, maison de nuit - Traduction de Maryla
 Laurent</a><br>
 1998<br>
 <br>
+Les petits pois<br>
+<br>
 "C'était un silence velouté, protecteur comme du polystyrène, agréable
 au toucher et sec. Il était en soie."<br>
 <br>
-"Du silence apparent émergèrent lentement les respirations des
-dormeurs, d'abord des frôlements, des bruissements qui emplissaient mes
-oreilles jusqu'a ce que je ne soit plus toute entière qu'une oreille,
-réceptacle de chair, pavillon desséché, trompe d'Eustache humide,
-collée aux parois.<br>
-... Les paupières s'agitaient, inquiètes, elles claquaient comme des
-morceaux de viande jetés sur un sol froid&nbsp;; le coeur des dormeurs
-résonnait d'un son qui était plus lourd que l'air et filait aussitôt
-sous terre. Les lits grinçaient au rythme du sommeil."
+L’ouïe<br>
+<br>
+"La lune s’était déjà couchée. En revanche, mon ouïe s’était activée,
+elle avait pris le contrôle de mon corps pour l’entraîner à sa suite.
+Elle rampait sur les murs de la maison pour écouter. Du silence
+apparent émergèrent lentement les respirations des dormeurs, d’abord
+des frôlements, des bruissements qui emplissaient mes oreilles jusqu’à
+ce que je ne sois plus tout entière qu’une oreille, réceptacle de
+chair, pavillon desséché, trompe d’Eustache humide, collée aux parois.
+Pour la première fois de ma vie, j’entendis du début à la fin le
+souffle des personnes endormies entre les murs de la maison, de
+mugissement il devenait sifflement pour s’engouffrer dans le corps
+humain pour en animer les structures inertes à la façon des zombies.
+Les paupières s’agitaient, inquiètes, elles claquaient comme des
+morceaux de viande jetés sur un sol froid&nbsp;; le cœur des dormeurs
+résonnait d’un son qui était plus lourd que l’air et filait aussitôt
+sous terre. Les lits grinçaient au rythme du sommeil. Ensuite,
+j’entendis le boucan des métropoles de souris dans les murs de la
+maison, avec leurs petits entrecroisements rapides, leurs lieux de
+tendres rencontres, leurs réserves de nourriture. J’entendais les
+vrillettes dans les pieds de la table en pin. À la cuisine, le
+réfrigérateur démarrait à grand bruit ses envolées glacées. Les
+papillons de nuit chatouillaient la fraîcheur des espaces nocturnes. Et
+tout cela était mis en pièces par le tintement hystérique des gouttes
+qui tombaient du robinet de la cuisine. Assourdie, je me couchai sur le
+dos pour regarder le ciel. Il aurait dû être silencieux à son habitude,
+mais il ne l’était pas. J’entendis le sifflement des météorites qui
+tombaient et le bourdonnement de la comète à vous glacer le sang dans
+les veines."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14417,6 +14526,24 @@ comme l’eau des fleuves."<br>
 le bruit de la lumière qui bondissait sur les roches, tous les
 craquements secs, les claquements, les chuintements, et, près de ses
 oreilles, le murmure aigu pareil au chant des abeilles." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Olga_Tokarczuk" target="_blank">Olga
+Tokarczuk</a><br>
+<a
+href="https://www.leseditionsnoirsurblanc.fr/catalogue/sur-les-ossements-des-morts/"
+target="_blank">Sur les ossements des morts - Traduction (2012)
+de&nbsp;Margot Carlier</a><br>
+2009<br>
+<br>
+La bête féroce<br>
+<br>
+"&nbsp;&nbsp;&nbsp; À la fin juin, les pluies étaient devenues très
+intenses. C’est souvent le cas ici, durant l’été. Avec l’humidité
+ambiante,&nbsp;on peut alors entendre l’herbe pousser dans un
+bruissement&nbsp;léger, le lierre grimper le long des murs, le mycélium
+enfler&nbsp;sous la terre."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://musique.uqam.ca/le-departement/charges-de-cours/luana-stan/"
@@ -14640,4 +14767,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 25 9 2026 
+page mise à jour 3 10 2026 
