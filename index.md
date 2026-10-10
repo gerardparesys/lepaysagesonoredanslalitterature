@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">865 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">872 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -1805,6 +1805,26 @@ target="_blank">Les Crieries de Paris - Traduction de Madeleine Jeay</a><br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Rutebeuf" target="_blank">Rutebeuf</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Rutebeuf_-_%C5%92uvres_compl%C3%A8tes,_1839/Ci_coumence_li_diz_de_l%E2%80%99erberie"
+target="_blank">Le Dit de l’herberie</a><br>
+1265<br>
+<br>
+"Juqu’à la rivière qui bruit<br>
+Dou flun des pierres jor et nuit<br>
+﻿Fui pierres querre."<br>
+<br>
+<a
+href="https://gallica.bnf.fr/ark:/12148/bpt6k29595f.image.hl.r=herberie.f144.langFR"
+target="_blank">Traduction (1891) de Léon Clédat</a> :<br>
+<br>
+"Jusqu'à la rivière qui bruit,<br>
+Roulant des pierres jour et nuit,<br>
+Fus chercher pierres."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Gautier_d%27%C3%89pinal"
 target="_blank">Gautier d'Épinal</a> (? .. 1272)<br>
 cité dans : <a
@@ -1988,13 +2008,13 @@ hors de son bec ouvert, sous forme de propos,<br>
 tels que les attendait mon coeur, où je les mis :<br>
 ..." </div>
 <br>
-<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
-href="https://fr.wikipedia.org/wiki/Fran%C3%A7ois_d%27Assise"
-target="_blank">François d'Assise</a><br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">Anonyme<br>
+<a
+href="https://fr.wikipedia.org/wiki/Les_Fioretti_de_saint_Fran%C3%A7ois_d%27Assise"
+target="_blank">Les Fioretti de saint François d'Assise</a><br>
 <a
 href="https://payot.ch/p/les-fioretti-de-saint-francois-d-assise-9782204101721"
-target="_blank">Les Fioretti de saint François d'Assise - Traduction
-(2013) de Armelle Le Huërou</a><br>
+target="_blank">Traduction (2013) de Armelle Le Huërou</a><br>
 1327 .. 1337<br>
 <br>
 "Saint François dit aux oiseaux : « Vous êtes tenus à beaucoup envers
@@ -3109,7 +3129,7 @@ Le chant des cigales."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
-target="_blank">Buffon</a><br>
+target="_blank">Georges-Louis Leclerc de Buffon</a><br>
 <a
 href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan"
 target="_blank">Œuvres complètes</a><br>
@@ -3306,7 +3326,7 @@ d’obscur." </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
-target="_blank">Buffon</a><br>
+target="_blank">Georges-Louis Leclerc de Buffon</a><br>
 <a
 href="https://fr.wikisource.org/wiki/%C5%92uvres_compl%C3%A8tes_de_Buffon,_%C3%A9d._Lanessan"
 target="_blank">Œuvres complètes</a><br>
@@ -3438,6 +3458,36 @@ Surpris et curieux je me lève, je perce à travers un fourré de
 broussailles du côté d’où venait le bruit, et dans une combe à vingt
 pas du lieu même où je croyais être parvenu le premier j’aperçois une
 manufacture de bas." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
+target="_blank">Georges-Louis Leclerc de Buffon</a><br>
+<a href="https://lillonum.univ-lille.fr/s/lillonum/ark:/72505/btwSCI"
+target="_blank">Œuvres complètes</a><br>
+<a href="https://lillonum.univ-lille.fr/s/lillonum/ark:/72505/benhz6"
+target="_blank">Tome 6 Oiseaux</a><br>
+1779<br>
+<br>
+Le rossignol<br>
+<br>
+"... la sphère que remplit la voix du rossignol n'a pas moins d'un
+mille de diamètre, surtout lorsque l'air est calme, ce qui égale au
+moins la portée de la voix humaine."<br>
+<br>
+La fauvette à tête noire<br>
+<br>
+"La fauvette à tête noire est, de toutes les fauvettes, celle qui a le
+chant le plus agréable et le plus continu ; il tient un peu de celui du
+rossignol, et l'on en jouit bien plus longtemps, car plusieurs semaines
+après que ce chantre du printemps s'est tu, l'on entend les bois
+résonner partout du chant de ces fauvettes ; leur voix est facile, pure
+et légère, et leur chant s'exprime par une suite de modulations peu
+étendues, mais agréables, flexibles et nuancées ; ce chant semble tenir
+de la fraîcheur des lieux où il se fait entendre ; il en peint la
+tranquillité, il en exprime même le bonheur ; car les coeurs sensibles
+n'entendent pas, sans une douce émotion, les accents inspirés par la
+nature aux êtres qu'elle rend heureux."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Fabre_d%27%C3%89glantine"
@@ -4526,10 +4576,11 @@ target="_blank">Œuvres de jeunesse</a><br>
 <br>
 Smarh<br>
 <br>
-"... j'écoutais avec ravissement le bruit des feuilles des arbres que
-le vent agitait, l'eau qui coulait dans les vallées ... <br>
-et je me disais que l'éternité devait être aussi quelque chose de
-suave, de doux, de silencieux et d'immense..."<br>
+"... j'écoutais avec ravissement le bruit des feuilles des arbres
+que le vent agitait, l'eau qui coulait dans les vallées ... et je me
+disais que l'éternité devait être aussi quelque chose de suave, de
+doux, de silencieux et d'immense, et tout cela sans vallée, sans arbre,
+sans feuilles... "<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9178,6 +9229,54 @@ affaiblis, mais denses et métalliques encore, des sons de la cloche de
 Saint-Hilaire qui ne s'étaient pas mélangés à l'air qu'ils traversaient
 depuis si longtemps, et côtelés par la palpitation successive de toutes
 leurs lignes sonores, vibraient en rasant les fleurs, à nos pieds." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Georg_Trakl" target="_blank">Georg
+Trakl</a><br>
+<a target="_blank"
+href="https://de.wikipedia.org/wiki/Sebastian_im_Traum">Sebastian im
+Traum</a><br>
+<a href="https://fr.wikipedia.org/wiki/Sebastian_im_Traum"
+target="_blank">Sébastien en rêve</a><br>
+1914<br>
+<br>
+<a href="https://heros-limite.com/livres/reve-et-folie-autres-poemes/"
+target="_blank">Au bord du marais - Traduction (1956) de Henri Stierlin</a><br>
+<br>
+"Promeneur dans le vent noir ; les roseaux secs chuchotent doucement<br>
+Dans le calme du marécage. Au ciel gris<br>
+Passe un vol d’oiseaux sauvages ;<br>
+Diagonale sur les eaux sombres.<br>
+<br>
+Tumulte. Au fond d’une cabane délabrée,<br>
+La pourriture aux ailes noires prend son envol ;<br>
+Des bouleaux rabougris gémissent dans le vent.<br>
+<br>
+Soirée dans une auberge abandonnée ; sur le chemin du retour<br>
+S’attarde la douce mélancolie des troupeaux qui paissent.<br>
+Apparition nocturne : des crapauds sortent des eaux argentées."<br>
+<br>
+<a
+href="https://www.gallimard.fr/catalogue/oeuvres-completes/9782070281299"
+target="_blank">1ere version : Décembre - Traduction (1972) de Marc
+Petit &amp; Jean-Claude Schneider</a><br>
+<br>
+"Le manteau dans le vent noir&nbsp;; doucement murmure le roseau
+desséché<br>
+Dans le silence du marécage. Dans le ciel gris<br>
+Suit un cortège d’oiseaux sauvages —<br>
+Diagonale au-dessus d’eaux sombres.<br>
+<br>
+À travers des bouleaux dénudés glissent les mains osseuses.<br>
+Craque le pas dans le taillis brun<br>
+Où pour mourir habite une bête solitaire.<br>
+<br>
+Des petites vieilles croisèrent le chemin<br>
+Vers le village. Des araignées tombèrent de leurs yeux<br>
+Et une neige rouge. Corneilles et longue sonnerie de cloches<br>
+<br>
+Accompagnent le sentier noir, ... "<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
@@ -14090,6 +14189,25 @@ cris des chouettes."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Umberto_Eco" target="_blank">Umberto
+Eco</a><br>
+<a href="https://it.wikipedia.org/wiki/Il_pendolo_di_Foucault"
+target="_blank">Il pendolo di Foucault</a><br>
+<a href="https://fr.wikipedia.org/wiki/Le_Pendule_de_Foucault"
+target="_blank">Le pendule de Foucault - Traduction (1990) de
+Jean-Noël Schifano</a><br>
+1988<br>
+<br>
+"... tandis que dans le noir je percevais une succession de
+bruissements, craquements, grincements – et je me disais de garder mon
+calme, car c'était la manière dont les musées, les bibliothèques, les
+antiques palais parlent dans leur barbe, la nuit, ce ne sont que de
+vieilles armoires qui cherchent leur équilibre, des corniches qui
+réagissent à l'humidité vespérale, des plâtres qui s'écaillent, avares,
+un millimètre par siècle, des murailles qui bâillent."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean_Echenoz" target="_blank">Jean
 Echenoz</a><br>
 <a href="http://www.leseditionsdeminuit.fr/livre-Lac-1633-1-1-0-1.html"
@@ -14698,6 +14816,29 @@ regard », comme disaient les occupants nazis."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Olga_Tokarczuk" target="_blank">Olga
+Tokarczuk</a><br>
+<a href="https://pl.wikipedia.org/wiki/Ksi%C4%99gi_Jakubowe"
+target="_blank">Księgi Jakubowe</a><br>
+<a href="https://fr.wikipedia.org/wiki/Les_Livres_de_Jak%C3%B3b"
+target="_blank">Les Livres de Jakób - Traduction (2018) de Maryla
+Laurent</a><br>
+Le Grand Voyage à travers sept frontières, cinq langues, trois grandes
+religions et d'autres moindres.<br>
+2014<br>
+<br>
+Chapitre 25 - Des cavernes voyageuses<br>
+<br>
+"Un silence se fait dans lequel les paroles de Jakób cherchent à se
+situer. C’est un peu comme si, au-dessus de lui, toutes les cartes du
+monde glissaient dans un bruissement et tournaient les unes par rapport
+aux autres pour s’ajuster. Il faut un long moment avant que l’on
+entende des raclements de gorge, un soupir, et qu’enfin tout semble en
+ordre. Jakób dit&nbsp;: «&nbsp;Chantons.&nbsp;» Et ils chantent comme
+toujours ensemble, comme ils chantaient à Iwanie."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://fr.wikipedia.org/wiki/Pascal_Quignard">Pascal
 Quignard</a><br>
 <a href="https://www.liseuse-hachette.fr/?ean=9782246813361"
@@ -14767,4 +14908,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 3 10 2026 
+page mise à jour 10 10 2026 
