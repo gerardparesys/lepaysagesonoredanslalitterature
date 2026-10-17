@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">872 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">884 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2578,7 +2578,7 @@ Au-dessus de la terre comme morte — et le tonnerre<br>
 Déchire alors affreusement le ciel, ainsi Pyrrhus<br>
 S'éveille après sa pause a la vengeance."<br>
 <br>
-Acte V Scene II <br>
+Acte V Scène II <br>
 <br>
 &nbsp;&nbsp;&nbsp; HAMLET<br>
 <br>
@@ -2708,10 +2708,10 @@ target="_blank">The Tragedy of Macbeth</a><br>
 <a href="https://fr.wikipedia.org/wiki/Macbeth_%28Shakespeare%29"
 target="_blank">Macbeth</a> - <a
 href="https://editions.flammarion.com/macbeth/9782080712950"
-target="_blank">Traduction de Pierre Jean Jouve</a><br>
+target="_blank">Traduction (1959) de Pierre Jean Jouve</a><br>
 1606<br>
 <br>
-Acte II Scene II<br>
+Acte II Scène II<br>
 <br>
 "&nbsp;&nbsp;&nbsp; MACBETH<br>
 <br>
@@ -2722,6 +2722,16 @@ J'ai fait l’action... Pas entendu de bruit ?<br>
 J'ai entendu<br>
 La chouette ululer et les criquets crier.<br>
 N’avez-vous pas parlé ?"<br>
+<br>
+Acte V Scène V<br>
+<br>
+"&nbsp;&nbsp;&nbsp; MACBETH<br>
+<br>
+La vie n’est qu’une ombre en marche, un pauvre acteur<br>
+Qui s’agite pendant une heure sur la scène<br>
+Et alors on ne l’entend plus ; c’est un récit<br>
+Conté par un idiot, plein de son et furie,<br>
+Ne signifiant rien."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -9393,6 +9403,32 @@ parce que les hommes...<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://nicolas.demassieux.fr/2022/02/02/lalmanach-hachette-wikipedia-de-poche-pendant-80-ans/"
+target="_blank">Almanach Hachette</a><br>
+Cité dans : <a
+href="https://shs.cairn.info/la-fin-du-monde-est-un-concept-sans-avenir--9782021483888-page-938?lang=fr"
+target="_blank">L’avant-garde de l’oubli</a> (1994) de Paul
+Virilio&nbsp; <br>
+1916<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le tir des canons ou l’explosion des bombes de
+forte puissance ont donné lieu, depuis longtemps, à maintes
+observations météorologiques, et des constatations curieuses ont été
+faites au point de vue de la propagation du son. Par exemple, lorsque
+les canons des Autrichiens tirèrent sur Anvers, on a pu constater que
+dans une zone de soixante à quatre-vingts kilomètres – la zone de
+silence – le bruit des détonations n’était pas perçu, alors qu’on
+l’entendait beaucoup plus loin, sur les côtes du nord des Pays-Bas.
+Cela s’explique aisément, si l’on pense à la discontinuité qui se
+produit dans l’atmosphère terrestre vers l’altitude de quatre-vingts
+kilomètres où se trouve une couche d’hydrogène de moindre densité. Le
+son se réfléchit sur cette couche, et en s’abaissant jusqu’au sol, à la
+suite de cette réflexion, atteint ainsi la deuxième “zone de bruit”.
+C’est ce que les spécialistes en météorologie désignent sous le vocable
+d’<span style="font-style: italic;">échos atmosphériques.</span>"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Guillaume_Apollinaire"
 target="_blank">Guillaume Apollinaire</a><br>
 <a target="_blank"
@@ -10222,12 +10258,61 @@ target="_blank">Le Bruit et la Fureur - Traduction (1949) de Maurice
 Edgar Coindreau</a><br>
 1929<br>
 <br>
+"&nbsp;&nbsp;&nbsp; <span style="font-style: italic;">Je pouvais
+entendre la pendule et je pouvais entendre Caddy debout derrière moi,
+et je pouvais entendre le toit. Il pleut toujours, dit Caddy. Je hais
+la pluie. Je hais tout. Et puis sa tête est tombée sur mes genoux, et
+elle pleurait en me tenant, et je me suis mis à pleurer. Et puis, de
+nouveau j’ai regardé le feu, et les formes brillantes et douces ont
+recommencé. Je pouvais entendre la pendule et le toit et Caddy.</span>"<br>
+<br>
+"Caddy me tenait et je pouvais nous entendre tous, et l’obscurité
+aussi, et quelque chose que je pouvais sentir. Et puis j’ai pu voir la
+fenêtre où les arbres faisaient du bruit."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Le magasin était plein de tic-tac, comme des
+criquets dans l’herbe de septembre, et je pouvais entendre un cartel
+sur le mur, au-dessus de ma tête."<br>
+<br>
+"Et nous étions là, assis dans les feuilles sèches qui bruissaient sous
+la lente respiration de notre attente et la lente respiration de la
+terre et la calme atmosphère d’octobre. L’odeur rance de la lanterne
+empestait l’air vif, et nous écoutions les chiens et l’écho de la voix
+de Louis qui s’éteignait. Sa voix, il ne l’élevait jamais, et pourtant,
+par les nuits calmes, il nous arrivait de l’entendre de notre véranda.
+Quand il appelait ses chiens, on aurait dit le son de sa trompe qu’il
+portait toujours en bandoulière et n’employait jamais, mais plus clair,
+plus velouté, comme si sa voix faisait partie des ténèbres et du
+silence, en sortait et y rentrait en de longues volutes. Hooooooooou !
+Hoooooou ! Hoooooooooooooou !"<br>
+<br>
+"Ses pieds nus marchaient sans bruit, se posaient, plus doux que des
+feuilles dans la poussière légère. Dans le verger, les abeilles
+bourdonnaient comme un vent qui s’élève, son arrêté par magie au bord
+du crescendo, et soutenu."<br>
+<br>
 "Le bruit des abeilles diminua, soutenu encore, comme si, au lieu de
 s’abîmer dans le silence, le silence ne faisait qu’augmenter entre nous
 comme de l’eau qui monte."<br>
 <br>
+"<span style="font-style: italic;">Alors pourquoi écouter nous
+pourrions nous enfuir toi Benjy et moi là où personne ne nous
+connaîtrait où</span>
+Le boghei était traîné par un cheval blanc dont les sabots claquaient
+dans la poussière fine. Arachnéennes, les roues faisaient entendre un
+murmure délicat et sec, montaient la côte sous un châle de feuilles
+gauffrées."<br>
+<br>
 "... et la petite scie des grillons qui s’éteignait dans l’herbe
-m’accompagnait d’îlots de silence mouvants..." </div>
+m’accompagnait d’îlots de silence mouvants..."<br>
+<br>
+"... elle me tenait la tête contre sa poitrine humide et ferme je
+pouvais entendre son coeur qui ne martelait plus mais battait lentement
+durement l’eau chantonnait parmi les saules dans les ténèbres..."<br>
+<br>
+"Dans l’air, un son de cloche vibra, puis, comme n’attendant que ce
+signal, d’autres cloches s’emparèrent du son et le reproduisirent."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_Jean_Jouve" target="_blank">Pierre-Jean
@@ -11552,6 +11637,32 @@ brefs, ahans sourds, cliquetis des lampes et des outils. Borborygmes de
 gnomes&nbsp;: bulles de sons confus qu'on jurerait entendre crever à
 l'énoncé de mots tels que «&nbsp;ressources minières&nbsp;»,
 «&nbsp;bassin houiller&nbsp;» ou «&nbsp;entrailles de la terre&nbsp;»."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+target="_blank" href="https://fr.wikipedia.org/wiki/Raymond_Queneau">Raymond
+Queneau</a><br>
+<a
+href="https://www.la-pleiade.fr/catalogue/oeuvres-completes-1/9782070111688"
+target="_blank">L'instant fatal - III Pour un art poétique</a><br>
+1948<br>
+<br>
+XI<br>
+<br>
+"Un train qui siffle dans la nuit<br>
+C’est un sujet de poésie<br>
+Un train qui siffle en Bohème<br>
+C’est là le sujet d’un poème<br>
+<br>
+Un train qui siffle mélod’<br>
+Ieusement c’est pour une ode<br>
+Un train qui siffle comme un sansonnet<br>
+C’est bien un sujet de sonnet<br>
+<br>
+Et un train qui siffle comme un hérisson<br>
+Ça fait tout un poème épique<br>
+Seul un train sifflant dans la nuit<br>
+Fait un sujet de poésie"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -13850,6 +13961,36 @@ soi-même sans sombrer dans le vertige que l'absence de toute liaison
 par le canal de l'oreille entraînerait infailliblement."<br>
 </div>
 <br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;">Samuel
+Makidemewabe<br>
+Conteur <a href="https://fr.wikipedia.org/wiki/Cris" target="_blank">Cri</a>
+(ou Cree)<br>
+<a href="https://en.wikipedia.org/wiki/Howard_Norman" target="_blank">Transcription
+de Howard Alan Norman</a><br>
+<a href="https://po-et-sie.fr/texte/dire-le-nom/" target="_blank">Dire&nbsp;
+le&nbsp; nom - Traduction (1982) de Marie-Madeleine Delay</a><br>
+1976<br>
+<br>
+Tapait-l’eau<br>
+<br>
+"Cette fille connaissait bien les bruits de l’étang<br>
+celui du castor qui tape de la queue<br>
+et le bruit des arbres qui tombent dans l’eau<br>
+à cause des castors.<br>
+Vous pouviez trouver l’empreinte de ses pas<br>
+se rendant à l’étang, et parfois l’apercevoir<br>
+en train d’écouter <span style="font-style: italic;">au-dedans</span>
+à travers un roseau.<br>
+Elle a dû entendre<br>
+d’autres bruits d’eau de cette manière.<br>
+Mais je ne l’ai pas demandé.<br>
+&nbsp;<br>
+Je ne l’ai pas demandé, non<br>
+mais une fois je l’ai vue taper l’eau de sa main<br>
+et rire..."<br>
+&nbsp;&nbsp;&nbsp; (au-dedans : mots chuchotés)<br>
+</div>
+<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Michel_Serres" target="_blank">Michel
 Serres</a><br>
@@ -14333,7 +14474,7 @@ du pays</a> de Julie Michel<br>
 importants : le premier, c’est celui émis par un gentil petit hibou, le
 plus petit de l’espèce, le Petit-duc, qui vit en France et dans les
 pays méditerranéens. Il chante toute la nuit avec une note très
-régulière comme un métronome; le deuxième, c’est le son de la cigale ;
+régulière comme un métronome ; le deuxième, c’est le son de la cigale ;
 et le troisième, c’est le son du grillon. Pour moi, ces deux trames et
 cette note, puisque la cigale et le grillon émettent des sons assez
 continus, et le Petit-duc des sons discontinus, forment ce qui fait
@@ -14908,4 +15049,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 10 10 2026 
+page mise à jour 17 10 2026 
