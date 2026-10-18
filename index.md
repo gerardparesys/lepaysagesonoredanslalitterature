@@ -1499,8 +1499,8 @@ de Silos</a> - Commentaire sur l’Apocalypse<br>
 <br>
 "Factum est silentium in celo." : "Il se fit un silence dans le ciel."<br>
 <br>
-<a href="images/beatosilos2.jpg" target="_blank"><img
-style="border: 2px solid ; width: 100%; max-width: 726px; height: 561px;"
+<a href="images/beatosilos2.jpg"><img
+style="border: 2px solid ; width: 100%; max-width: 726px;"
 alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg"></a>
 <br>
 "Sed partem silentii uidit.quia eadem" : "Mais il percevait une partie
