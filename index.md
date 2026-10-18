@@ -1499,8 +1499,9 @@ de Silos</a> - Commentaire sur l’Apocalypse<br>
 <br>
 "Factum est silentium in celo." : "Il se fit un silence dans le ciel."<br>
 <br>
-<img style="width: 100%; max-width: 726px;"
-alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg">
+<a href="images/beatosilos2.jpg" target="_blank"><img
+style="border: 2px solid ; width: 100%; max-width: 726px; height: 561px;"
+alt="Apocalypse 8,1 - Le silence" src="images/ApocalypseSilence.jpg"></a>
 <br>
 "Sed partem silentii uidit.quia eadem" : "Mais il percevait une partie
 de ce silence, car..."<br>
@@ -13963,8 +13964,8 @@ par le canal de l'oreille entraînerait infailliblement."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;">Samuel
 Makidemewabe<br>
-Conteur <a href="https://fr.wikipedia.org/wiki/Cris" target="_blank">Cri</a>
-(ou Cree)<br>
+Conteur <a href="https://fr.wikipedia.org/wiki/Cris" target="_blank">Cri
+(ou Cree)</a><br>
 <a href="https://en.wikipedia.org/wiki/Howard_Norman" target="_blank">Transcription
 de Howard Alan Norman</a><br>
 <a href="https://po-et-sie.fr/texte/dire-le-nom/" target="_blank">Dire&nbsp;
@@ -15049,4 +15050,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 17 10 2026 
+page mise à jour 18 10 2026 
