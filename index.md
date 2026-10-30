@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">884 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">889 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2157,6 +2157,35 @@ plus subtile.”<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Kan%27ami_Kiyotsugu"
+target="_blank">Kan'ami Kiyotsugu</a> (1333 .. 1384) &amp; <a
+href="https://fr.wikipedia.org/wiki/Zeami" target="_blank">Zeami</a>
+(1363 .. 1443)<br>
+<a href="https://fr.wikipedia.org/wiki/Matsukaze" target="_blank">Matsukaze
+(Le Vent dans les pins)</a> - <a
+href="https://unesdoc.unesco.org/ark:/48223/pf0000032709"
+target="_blank">Traduction de René Sieffert</a><br>
+cité dans : <a href="https://dumas.ccsd.cnrs.fr/dumas-05413322v1/"
+target="_blank">L’aspect musical dans les pièces de théâtre nô</a> de
+Sophie Girard<br>
+<br>
+"Elle bat le rivage et déferle la vague<br>
+Et dans les roseaux du rivage les grues crient et s’agitent<br>
+Aux quatre horizons un vent de tempête mène grand bruit<br>
+Ah comment supporter le froid de la nuit<br>
+Obscure est la nuit et la lune brille d’un vif éclat"<br>
+<br>
+"Elle s’en retourne et des vagues qui déferlent le bruit<br>
+Sonne clair et dessus le rivage de Suma<br>
+Souffle le vent qui descend des montagnes<br>
+Au cri des coqs sur la route de la Barrière<br>
+Tiré d’un songe dont il ne reste trace au point du jour<br>
+S’il avait cru entendre l’ondée<br>
+Ce matin il s’aperçoit<br>
+Qu’il ne reste que le vent dans les pins"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Charles_Ier_d%27Orl%C3%A9ans"
 target="_blank">Charles d’Orléans</a> (1394 .. 1465)<br>
 <a target="_blank"
@@ -2907,8 +2936,7 @@ limite des ténèbres la plus rapprochée confinant à la lumière."<br>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D" target="_blank">Matsuo
-Bashō</a>
-(1644 .. 1694)<br>
+Bashō</a><br>
 <br>
 <a href="https://www.editionslibretto.fr/catalogue/fourmis-sans-ombre/"
 target="_blank">Fourmis sans ombre - Le livre du haïku - Maurice Coyaud</a><br>
@@ -2918,20 +2946,37 @@ target="_blank">Fourmis sans ombre - Le livre du haïku - Maurice Coyaud</a><br>
 La pluie dans le baquet<br>
 J’écoute : c’est la nuit"<br>
 <br>
+<a href="https://www.haikuspirit.org/bashoFR.html" target="_blank">Traduction
+de Gilles Fabre</a><br>
+1686<br>
+<br>
+"silence du vieil étang ~<br>
+une grenouille saute<br>
+plouf !"<br>
+<br>
 <a
 href="https://www.librairie-gallimard.com/livre/9782070413065-haiku-anthologie-du-poeme-court-japonais-collectif/"
-target="_blank">Traduction de Corinne Atlan - Haiku,
-Anthologie du poème court japonais</a><br>
+target="_blank">Haiku - Anthologie du poème court japonais -
+Traduction (2002) de Corinne Atlan</a><br>
+Date ?<br>
+<br>
+"Nuit d’été&nbsp;—<br>
+le bruit de mes socques<br>
+fait vibrer le silence"<br>
+<br>
+<a
+href="https://www.editionslatableronde.fr/seigneur-ermite/9782710369158"
+target="_blank">Bashō Seigneur ermite - Traduction de Makoto Kemmoku
+et Dominique Chipot</a><br>
 1688<br>
 <br>
-"La cloche se tait -<br>
-les fleurs en écho<br>
-parfument le soir !"<br>
+"Le son de la cloche s'apaise<br>
+le parfum des fleurs<br>
+frappe le soir"<br>
 <br>
-<a href="https://fr.wikipedia.org/wiki/Matsuo_Bash%C5%8D#cite_ref-11"
-target="_blank">Traduction de Cheng Wing et Hervé Collet</a> pour <a
-target="_blank" href="https://moundarren.com/poesie-japonaise/">les Ed
-Moundarren</a><br>
+<a
+href="https://www.albin-michel.fr/basho-maitre-de-haiku-9782226220417"
+target="_blank">Traduction de Hervé Collet et Wing Fun Cheng</a><br>
 1689<br>
 <br>
 "Silence<br>
@@ -3131,7 +3176,10 @@ meurtres qui causent la publique allégresse."
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Chiyo-ni" target="_blank">Chiyo-ni</a>
 (1703 .. 1775)<br>
-<a href="http://sornettes.free.fr/spip.php?article214#4" target="_blank">sornettes-Chiyo-ni</a><br>
+<a
+href="https://www.librairie-gallimard.com/livre/9782070413065-haiku-anthologie-du-poeme-court-japonais-collectif/"
+target="_blank">Haiku - Anthologie du poème court japonais -
+Traduction (2002) de Corinne Atlan</a><br>
 <br>
 "Même le bruit de la cascade<br>
 S’est affaibli<br>
@@ -14170,6 +14218,27 @@ personnage rythmique aux transformations infinies."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
+Modiano</a><br>
+<a href="https://www.gallimard.fr/catalogue/une-jeunesse/9782070376292"
+target="_blank">Une jeunesse</a><br>
+1981<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Elle est entrée chez <span
+style="font-style: italic;">Sinfonia</span>. A cette heure-là, il y
+avait beaucoup de clients. Elle s'est glissée jusqu'au fond du magasin.
+Elle a choisi un disque et l'a donné au vendeur pour qu'il le lui fasse
+écouter. Elle a attendu que l'une des cabines soit libre et elle s'est
+assise en fixant les deux petits écouteurs à ses oreilles. Un silence
+d'ouate. Elle a oublié l'agitation autour d'elle. Maintenant, elle se
+laisse envahir par la voix de la chanteuse et elle ferme les yeux. Elle
+rêve qu'un jour, elle ne marchera plus dans cette foule et dans ce
+vacarme qui l'étouffent. Un jour, elle parviendra à crever cet écran de
+bruit et d'indifférence et elle ne sera plus qu'une voix, une voix qui
+se détache avec netteté, comme celle qu'elle écoute en ce moment."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques_Roubaud" target="_blank">Jacques
 Roubaud</a><br>
 <a
@@ -15050,4 +15119,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 18 10 2026 
+page mise à jour 30 10 2026 
