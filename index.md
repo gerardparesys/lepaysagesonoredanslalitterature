@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">889 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">895 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -2966,8 +2966,8 @@ fait vibrer le silence"<br>
 <br>
 <a
 href="https://www.editionslatableronde.fr/seigneur-ermite/9782710369158"
-target="_blank">Bashō Seigneur ermite - Traduction de Makoto Kemmoku
-et Dominique Chipot</a><br>
+target="_blank">Bashō Seigneur ermite - Traduction (2012) de Makoto
+Kemmoku et Dominique Chipot</a><br>
 1688<br>
 <br>
 "Le son de la cloche s'apaise<br>
@@ -3208,12 +3208,29 @@ lorsqu’il s’y trouve renfermé."<br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Yosa_Buson" target="_blank">Buson</a>
 (1716 .. 1783)<br>
-<a href="http://sornettes.free.fr/spip.php?article214#3" target="_blank">sornettes-Buson</a><br>
+<a href="https://haicourtoujours.wordpress.com/tag/chiyo-ni/"
+target="_blank">Traduction de Daniel Py</a><br>
 1757<br>
 <br>
-"Dans la profondeur des bois<br>
-Le pivert<br>
-Et le bruit de la hache."
+"au fin fond de la forêt<br>
+le pivert<br>
+et le bruit de la hache"<br>
+<br>
+Date ?<br>
+<br>
+"le son d’une souris<br>
+marchant sur une assiette<br>
+est froid"<br>
+<br>
+<a
+href="https://www.librairie-gallimard.com/livre/9782070413065-haiku-anthologie-du-poeme-court-japonais-collectif/"
+target="_blank">Haiku - Anthologie du poème court japonais -
+Traduction (2002) de Corinne Atlan</a><br>
+Date ?<br>
+<br>
+"Si frais<br>
+le souffle de la cloche&nbsp;—<br>
+lorsqu’il quitte la cloche&nbsp;!"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3337,7 +3354,9 @@ Rousseau</a><br>
 <a
 href="https://ebooks-bnr.com/ebooks/pdf4/rousseau_les_confessions.pdf"
 target="_blank">Les Confessions</a><br>
-1765<br>
+1765 .. 1770<br>
+<br>
+Livre VI<br>
 <br>
 "Mes artères se mirent à battre d’une si grande force, que non
 seulement je sentais leur battement, mais que je l’entendais même, et
@@ -3350,7 +3369,8 @@ toucher mon corps de mes mains. Ce bruit interne était si grand qu’il
 m’ôta la finesse d’ouïe que j’avais auparavant, et me rendit non tout à
 fait sourd, mais dur d’oreille comme je le suis depuis ce temps-là."<br>
 <br>
-"Aussi bruyant que je l’étais peu, il se faisait voir et surtout
+"Un jeune homme était avec elle...<br>
+Aussi bruyant que je l’étais peu, il se faisait voir et surtout
 entendre à la fois à la charrue, aux foins, au bois, à l’écurie, à la
 basse-cour. Il n’y avait que le jardin qu’il négligeait, parce que
 c’était un travail trop paisible et qui ne faisait point de bruit. Son
@@ -3486,37 +3506,38 @@ href="https://fr.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 target="_blank">Jean-Jacques
 Rousseau</a><br>
 <a
-href="https://ebooks-bnr.com/ebooks/pdf4/rousseau_reveries_promeneur_solitaire.pdf"
+href="https://fr.wikisource.org/wiki/Les_R%C3%AAveries_du_promeneur_solitaire/Texte_entier"
 target="_blank"> Les Rêveries du promeneur solitaire</a><br>
 1778<br>
 <br>
 Cinquième promenade <br>
 <br>
-"... mais qu’il est intéressant pour des contemplatifs solitaires qui
-aiment à s’enivrer à loisir des charmes de la nature, et à se
+"... mais il est intéressant pour des contemplatifs solitaires qui
+aiment à s’enivrer à loisir des charmes de la nature, &amp; à se
 recueillir dans un silence que ne trouble aucun autre bruit que le cri
-des aigles, le ramage entrecoupé de quelques oiseaux, et le roulement
-des torrents qui tombent de la montagne."<br>
+des aigles, le ramage entrecoupé de quelques oiseaux, &amp; le
+roulement des torrents qui tombent de la montagne !"<br>
 <br>
-"&nbsp;&nbsp;&nbsp; Quand le soir approchait je descendais des cimes de
-l’île et j’allais volontiers m’asseoir au bord du lac, sur la grève,
-dans quelque asile caché ; là le bruit des vagues et l’agitation de
-l’eau fixant mes sens et chassant de mon âme toute autre agitation la
-plongeaient dans une rêverie délicieuse où la nuit me surprenait
-souvent sans que je m’en fusse aperçu. Le flux et reflux de cette eau,
-son bruit continu mais renflé par intervalles frappant sans relâche mon
-oreille et mes yeux, suppléaient aux mouvements internes que la rêverie
-éteignait en moi et suffisaient pour me faire sentir avec plaisir mon
-existence, sans prendre la peine de penser. "<br>
+"&nbsp;&nbsp;&nbsp; Quand le soir approchoit je descendais des cimes de
+l’île &amp; j’allois volontiers m’asseoir au bord du lac sur la grève
+dans quelque asile caché ; là le bruit des vagues &amp; l’agitation de
+l’eau fixant mes sens &amp; chassant de mon ame toute autre agitation
+la plongeoient dans une rêverie délicieuse où la nuit me surprenoit
+souvent sans que je m’en fusse aperçu. Le flux &amp; reflux de cette
+eau, son bruit continu mais renflé par intervalles frappant sans
+relâche mon oreille &amp; mes yeux, suppléoient aux mouvemens internes
+que la rêverie éteignoit en moi &amp; suffisoient pour me faire sentir
+avec plaisir mon existence sans prendre la peine de penser."<br>
 <br>
 Septième promenade <br>
 <br>
 "... j’entendis peu loin de moi un certain cliquetis que je crus
-reconnaître&nbsp;; j’écoute : le même bruit se répète et se multiplie.
-Surpris et curieux je me lève, je perce à travers un fourré de
-broussailles du côté d’où venait le bruit, et dans une combe à vingt
-pas du lieu même où je croyais être parvenu le premier j’aperçois une
-manufacture de bas." </div>
+reconnoître ; j’écoute : le même bruit se répete &amp; se multiplie.
+Surpris &amp; curieux je me leve, je perce à travers un fourré de
+broussailles du côté d’où venoit le bruit, &amp; dans une combe à vingt
+pas du lieu même où je croyois être parvenu le premier j’aperçois une
+manufacture de bas."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges-Louis_Leclerc_de_Buffon"
@@ -11067,6 +11088,42 @@ comme un silence."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Nathalie_Sarraute" target="_blank">Nathalie
+Sarraute</a><br>
+<a href="https://fr.wikipedia.org/wiki/Tropismes" target="_blank">Tropismes</a><br>
+1939<br>
+<br>
+V<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Il y avait un grand vide sous cette chaleur, un
+silence, tout semblait en suspens&nbsp;; on entendait seulement,
+agressif, strident, le grincement d’une chaise traînée sur le carreau,
+le claquement d’une porte. C’était dans cette chaleur, dans ce silence
+– un froid soudain, un déchirement."<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Quelquefois le cri aigu des cigales, dans la
+prairie pétrifiée sous le soleil et comme morte, provoque cette
+sensation de froid, de solitude, d’abandon dans un univers hostile où
+quelque chose d’angoissant se prépare."<br>
+<br>
+"Ce bruit soudain de l’eau dans ce silence suspendu, ce serait comme un
+signal, comme un appel vers eux, ce serait comme un contact horrible,
+..."<br>
+<br>
+XIV<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Toujours fixés sur elle, comme fascinés, ils
+surveillaient avec effroi chaque mot, la plus légère intonation, la
+nuance la plus subtile, chaque geste, chaque regard&nbsp;; ils
+avançaient sur la pointe des pieds, en se retournant au moindre bruit,
+car ils savaient qu’il y avait partout des endroits mystérieux, des
+endroits dangereux qu’il ne fallait pas heurter, pas effleurer, sinon,
+au plus léger contact, des clochettes, comme dans un conte d’Hoffmann,
+des milliers de clochettes à la note claire comme sa voix virginale –
+se mettraient en branle."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jean-Paul_Sartre" target="_blank">Jean-Paul
 Sartre</a><br>
 <a href="https://fr.wikipedia.org/wiki/Lettres_au_Castor"
@@ -15117,6 +15174,7 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div><br>
+</div>
+<br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 30 10 2026 
+page mise à jour 2 11 2026 
