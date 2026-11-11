@@ -5,7 +5,7 @@ in_menu: true
 ---
 <img style="width: 100%;" alt="Lescun Béarn 2006" src="images/imm005_4A-768x512.jpg" align="middle">
 <br>
-<h1 style="font-size: 1.3rem;">895 descriptions de paysage sonore trouvées dans la littérature...</h1>
+<h1 style="font-size: 1.3rem;">910 descriptions de paysage sonore trouvées dans la littérature...</h1>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Mythologie_m%C3%A9sopotamienne"
@@ -387,9 +387,54 @@ dans les hauteurs."
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Aristophane" target="_blank">Aristophane</a><br>
+Νεφέλαι<br>
+<a
+href="https://fr.wikisource.org/wiki/Les_Nu%C3%A9es_%28trad._Eug%C3%A8ne_Talbot%29"
+target="_blank">Les Nuées - Traduction (1897 édition posthume) de
+Eugène Talbot</a><br>
+423 av. J.-C.<br>
+<br>
+<div style="text-align: center;">"STREPSIADÈS.<br>
+</div>
+... Mais tu ne m’as encore rien appris sur le bruit du tonnerre.<br>
+<div style="text-align: center;">SOKRATÈS.<br>
+</div>
+Ne m’as-tu pas entendu te dire que les Nuées étaient pleines d’eau et,
+tombant les unes sur les autres, font ce fracas à cause de leur
+densité&nbsp;?<br>
+<div style="text-align: center;">STREPSIADÈS.<br>
+</div>
+Voyons, comment peut-on croire cela&nbsp;?<br>
+<div style="text-align: center;">SOKRATÈS.<br>
+</div>
+Je vais te l’enseigner par ton propre exemple. Quand tu t’es rempli de
+viande aux Panathènæa et que tu as ensuite le ventre troublé, le
+désordre ne le fait-il pas résonner tout à coup&nbsp;?<br>
+<div style="text-align: center;">STREPSIADÈS.<br>
+</div>
+Oui, par Apollôn&nbsp;! je souffre aussitôt, le trouble se met en
+moi&nbsp;; comme un tonnerre le manger éclate et fait un bruit
+déplorable, d’abord sourdement, pappax, pappax, puis plus fort,
+papapappax, et quand je fais mon cas, c’est un vrai tonnerre,
+papapappax, comme les Nuées.<br>
+<div style="text-align: center;">SOKRATÈS.<br>
+</div>
+Considère donc que, avec ton petit ventre, tu as fait un pet
+résonnant&nbsp;: n’est-il pas naturel alors que l’air qui est immense
+produise un bruit détonant&nbsp;?<br>
+<div style="text-align: center;">STREPSIADÈS.<br>
+</div>
+En effet, les mots «&nbsp;bruit détonant&nbsp;» et «&nbsp;pet
+résonnant&nbsp;» ont entre eux quelque ressemblance..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Aristophane" target="_blank">Aristophane</a><br>
+Βάτραχοι<br>
 <a
 href="https://fr.wikisource.org/wiki/Les_Grenouilles_%28trad._Eug%C3%A8ne_Talbot%29"
-target="_blank">Les Grenouilles - Traduction (1897) de Eugène Talbot</a><br>
+target="_blank">Les Grenouilles - Traduction (1897 édition posthume)
+de Eugène Talbot</a><br>
 405 av. J.-C.<br>
 <br>
 <div style="text-align: center;">"LES GRENOUILLES.<br>
@@ -1973,26 +2018,41 @@ Si aigus que personne ne saurait les décrire." </div>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Dante_Alighieri" target="_blank">Dante
 Alighieri</a><br>
-<a
-href="https://www.academia.edu/112741375/Dante_Alighieri_La_Divine_Com%C3%A9die_Traduction_introduction_et_commentaire_par_Alexandre_Cioranescu_Texte"
-target="_blank">La Divine Comédie - Traduction (1968) de Alexandre
-Cioranescu</a><br>
-1321<br>
+<a href="https://fr.wikipedia.org/wiki/Divine_Com%C3%A9die"
+target="_blank">La Divine Comédie</a><br>
 <br>
 <a
 href="https://www.ebooksgratuits.com/pdf/dante_alighieri_divine_comedie_enfer.pdf"
-target="_blank">L’enfer</a><br>
+target="_blank">L’enfer - Traduction (1968) de Alexandre Cioranescu</a><br>
+1304 .. 1307<br>
 <br>
 "Nous étions à l'endroit où parvenait le bruit<br>
 de l'eau qui dévalait dans le cercle suivant,<br>
 pareil au bruissement d'un grand essaim d'abeilles,<br>
 ..."<br>
 <br>
-<a
-href="https://www.ebooksgratuits.com/pdf/dante_alighieri_divine_comedie_paradis.pdf">Le
-paradis</a><br>
+"L'hiver, l'eau du Danube est couverte en Autriche<br>
+de voiles moins épais que ceux qu'on voit ici,<br>
+ou sous un ciel transi, là-bas, le Tanaïs ;<br>
 <br>
-"je crus entendre au loin le bruit d’une rivière<br>
+car si de Tambernic la masse tout entière<br>
+ou de Pietrapana s'écroulait au-dessus,<br>
+on n'entendrait pas même un petit : crac ! au bord.<br>
+<br>
+Et comme la grenouille a, lorsqu'elle coasse,<br>
+le museau hors de l'eau, pendant cette saison<br>
+où les riches moissons font rêver la vilaine,<br>
+<br>
+livides jusqu'au point où rougit la vergogne,<br>
+des esprits douloureux plongeaient dans cette glace<br>
+et leurs dents, en claquant, rappelaient les cigognes. "<br>
+<br>
+<a target="_blank"
+href="https://www.ebooksgratuits.com/pdf/dante_alighieri_divine_comedie_paradis.pdf">Le
+paradis - Traduction (1968) de Alexandre Cioranescu</a><br>
+1307 .. 1313<br>
+<br>
+"... je crus entendre au loin le bruit d’une rivière<br>
 dont le flot transparent descend de pierre en pierre,<br>
 de sa veine première indiquant l’abondance.<br>
 <br>
@@ -2201,10 +2261,10 @@ Que Nature leur avoit ordonnée.<br>
 C’estoit d’un per, comme chascun choisy<br>
 Si ne me peu rendormir, pour leur cry,<br>
 Sur le dur lit d’Ennuieuse Pensée."<br>
-&nbsp;&nbsp;&nbsp; per : compagnon<br>
 &nbsp;
 &nbsp; <a href="https://www.cnrtl.fr/definition/livr%C3%A9e"
 target="_blank">livrée</a>: couleurs distinctes d'une chose<br>
+&nbsp;&nbsp;&nbsp; per : compagnon<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2295,6 +2355,42 @@ d’étranges visages et costumes et une infinité de choses que tu
 pourras ramener à une forme nette et compléter. Et il en va de ces murs
 et couleurs comme du son des cloches ; dans leurs battements tu
 trouveras tous les sons et les mots que tu voudras imaginer."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Charles_de_Bovelles"
+target="_blank">Charles de Bovelles</a><br>
+Liber de sensibus<br>
+Cité dans <a href="https://books.openedition.org/enseditions/22565"
+target="_blank">Par la vue et par l’ouïe</a> de Michèle Gally et
+Michel Jourde
+<br>
+1509
+<br>
+<br>
+"Charles de Bovelles, en 1509, rédige un <span
+style="font-style: italic;">Liber de sensibus</span>
+, qui vise à montrer la supériorité de l’ouïe sur la vue, au nom
+d’arguments empruntant à la fois à Aristote, aux symboles et à
+l’analogie, ou à la physiologie : les organes de l’ouïe sont « plus
+secrets, et plus profonds en la teste que la bouche et les yeulx ». La
+foi elle-même, selon saint Paul, naît de l’écoute. Seule l’oreille,
+pour Bovelles, est capable d’entendre la voix de Dieu dans l’invisible.
+Le livre de la nature, qui a été écrit par le Verbe divin, se lit avec
+les oreilles.<br>
+...
+<br>
+<img style="width: 100%; max-width: 726px;" alt="Liber de sensibus"
+src="images/Bovelles.jpg"> <br>
+Dans un des diagrammes proposés par Bovelles dans son <span
+style="font-style: italic;">Liber de sensibus</span> , la <span
+style="font-style: italic;">Lectio</span> est une ligne droite qui
+unit les yeux aux mains et l’<span style="font-style: italic;">Auditio</span>
+une courbe intermittente qui unit les oreilles à la bouche : du
+croisement de cette droite et de cette courbe peuvent naître de
+nombreuses figures, qui serviront à décrire la relation que les organes
+de la sensation organisent entre l’esprit de l’homme et ce qui
+l’entoure."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -2530,6 +2626,26 @@ Soit à nous un hyver, aux autres un printemps."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jacques_Peletier_du_Mans"
+target="_blank">Jacques Peletier du Mans</a><br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k72086f/f10.item"
+target="_blank">Louange de la parole</a><br>
+Cité dans <a href="https://books.openedition.org/enseditions/22565"
+target="_blank">Par la vue et par l’ouïe</a> de Michèle Gally et
+Michel Jourde<br>
+1581<br>
+<br>
+"La force en l’Œil semble plus terrienne,<br>
+Et de l’Oreille est plus aérienne ;<br>
+L’Œil seulement voit la couleur des corps,<br>
+L’Oreille en prend les esprits et accords :<br>
+L’Œil pour mieux voir, deçà delà se jette,<br>
+L’Oreille n’est à tant de tours sujette.<br>
+L'Œil ne voit rien si la clarté ne luit,<br>
+L'obscurité à l'Oreille ne nuit"<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 target="_blank" href="https://en.wikipedia.org/wiki/Yuan_Zhongdao">Yuan
 Zhongdao</a> (1570 .. 1624)<br>
 <a href="https://www.albin-michel.fr/les-formes-du-vent-9782226178312"
@@ -2579,7 +2695,7 @@ voix de l’homme, si bien qu’il est avis qu’elles parlent et imitent
 notre parole. Et de là, il est aisé de colliger [déduire] que la voix
 humaine se peut bien feindre sans poumon, sans langue, sans dents."<br>
 <br>
-cité dans: <a
+cité dans : <a
 href="https://univ-montpellier3-paul-valery.hal.science/hal-03806460/document"
 target="_blank">Histoire de l'écho : le son, le temps et la lumière</a>
 de François Baskevitch <br>
@@ -2848,6 +2964,25 @@ bien perceptiblement tous les sons.<br>
 ...<br>
 Elle tonne avec le ciel, lance des éclairs avec les nuages rapides,
 darde avec la grêle, siffle avec les vents, écume avec les vagues, ..."
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Savinien_de_Cyrano_de_Bergerac"
+target="_blank">Savinien de Cyrano de Bergerac</a><br>
+<a
+href="https://fr.wikisource.org/wiki/L%E2%80%99Autre_monde_ou_les_%C3%89tats_et_Empires_de_la_Lune"
+target="_blank">L’Autre monde ou les États et Empires de la Lune</a><br>
+1650<br>
+<br>
+"C’est un Livre à la vérité, mais c’est un Livre miraculeux qui n’a ni
+feuillets ni caractères ; enfin c’est un Livre où pour apprendre les
+yeux sont inutiles ; on n’a besoin que des oreilles. Quand quelqu’un
+donc souhaite lire, il bande avec grande quantité de toutes sortes de
+petits nerfs cette machine, puis il tourne l’aiguille sur le chapitre
+qu’il désire écouter, et au même temps il en sort comme de la bouche
+d’un homme, ou d’un instrument de musique, tous les sons distincts et
+différents qui servent, entre les grands lunaires, à l’expression du
+langage"<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -3518,16 +3653,17 @@ recueillir dans un silence que ne trouble aucun autre bruit que le cri
 des aigles, le ramage entrecoupé de quelques oiseaux, &amp; le
 roulement des torrents qui tombent de la montagne !"<br>
 <br>
-"&nbsp;&nbsp;&nbsp; Quand le soir approchoit je descendais des cimes de
-l’île &amp; j’allois volontiers m’asseoir au bord du lac sur la grève
-dans quelque asile caché ; là le bruit des vagues &amp; l’agitation de
-l’eau fixant mes sens &amp; chassant de mon ame toute autre agitation
-la plongeoient dans une rêverie délicieuse où la nuit me surprenoit
-souvent sans que je m’en fusse aperçu. Le flux &amp; reflux de cette
-eau, son bruit continu mais renflé par intervalles frappant sans
-relâche mon oreille &amp; mes yeux, suppléoient aux mouvemens internes
-que la rêverie éteignoit en moi &amp; suffisoient pour me faire sentir
-avec plaisir mon existence sans prendre la peine de penser."<br>
+"&nbsp;&nbsp;&nbsp; Quand le soir approchoit je descendais des
+cimes de l’île &amp; j’allois volontiers m’asseoir au bord du lac sur
+la grève dans quelque asile caché ; là le bruit des vagues &amp;
+l’agitation de l’eau fixant mes sens &amp; chassant de mon ame toute
+autre agitation la plongeoient dans une rêverie délicieuse où la nuit
+me surprenoit souvent sans que je m’en fusse aperçu. Le flux &amp;
+reflux de cette eau, son bruit continu mais renflé par intervalles
+frappant sans relâche mon oreille &amp; mes yeux, suppléoient aux
+mouvemens internes que la rêverie éteignoit en moi &amp; suffisoient
+pour me faire sentir avec plaisir mon existence sans prendre la peine
+de penser."<br>
 <br>
 Septième promenade <br>
 <br>
@@ -3784,13 +3920,13 @@ cadence." </div>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jacques-Henri_Bernardin_de_Saint-Pierre"
 target="_blank">Bernardin de Saint-Pierre</a><br>
-<a
-href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f267.image/f1n426.pdf"
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/"
 target="_blank">Études et harmonies de la nature (mises en ordre par
 l'abbé Dauphin)<br>
 </a>1796<br>
 <br>
-8e étude - De quelques lois générales de la nature<br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f186.item"
+target="_blank">8e étude - De quelques lois générales de la nature</a><br>
 <br>
 "Il est très remarquable que partout les oiseaux chanteurs ont
 l'instinct de se rapprocher de l'habitation de l'homme. S'il y a une
@@ -3832,7 +3968,8 @@ tranquilles forêts agitées par les zéphirs, représentent, au fond des
 vallées et sur les pentes des coteaux, les ondulations et les murmures
 des flots de la mer qui se brisent sur le rivage."<br>
 <br>
-12e étude - Harmonies générales<br>
+<a href="https://gallica.bnf.fr/ark:/12148/bpt6k9604324z/f267.item"
+target="_blank">12e étude - Harmonies générales</a><br>
 <br>
 "Quelquefois un vieux Chêne élève au milieu d'eux ses larges bras
 dépouillés de feuilles, et immobiles. Comme un vieillard, il ne prend
@@ -4462,7 +4599,7 @@ target="_blank">Faust - Der Tragödie zweiter Teil</a><br>
 <a
 href="https://fr.wikisource.org/wiki/Faust_%28Goethe,_trad._Nerval,_1877%29/Second_Faust/Prologue"
 target="_blank">Second Faust - Traduction (1850) de Gérard de Nerval</a><br>
-1831 (posthume)<br>
+1831 (Edition posthume)<br>
 <div style="text-align: right;">"Un bruit immense annonce l’approche du
 soleil.<br>
 </div>
@@ -8777,6 +8914,38 @@ L’odeur du silence est si vieille."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Jack_London" target="_blank">Jack
+London</a><br>
+<a href="https://en.wikisource.org/wiki/White_Fang" target="_blank">White
+Fang</a><br>
+<a href="https://www.livredepoche.com/livre/croc-blanc-9782253001492/"
+target="_blank">Croc-Blanc - Traduction (1976) de Daniel
+Alibert-Kouraguine</a><br>
+1906<br>
+<br>
+1 La piste de la viande<br>
+<br>
+"C’était le règne du silence et de la solitude, un monde figé, si froid
+et si désolé qu’il se situait au-delà même de toute tristesse. En fait,
+on y percevait plutôt comme l’ébauche d’un rire, ... un rire sinistre
+et angoissant participant de l’inéluctable. C’était l’impérieuse et
+indicible sagesse de l’éternité qui manifestait sa dérision à l’égard
+de la vie et de ses vaines entreprises. C’était l’immensité sauvage et
+glacée du Grand Nord.<br>
+...<br>
+Ce silence les accablait sous le poids de l’infini et de l’irrévocable.
+Il pénétrait les plus obscurs recoins de leur conscience, en éliminait,
+comme le jus d’un fruit que l’on presse, toutes prétentions et toute
+vaine exaltation..."<br>
+<br>
+3 Le cri de la faim<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Des cris humains lui parvenaient, des bruits de
+traineaux, avec des claquements de harnais et le halètement furieux de
+chiens en plein effort."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/%C3%89mile_Verhaeren"
 target="_blank">Émile Verhaeren</a><br>
 <a
@@ -9828,6 +9997,32 @@ de serrurerie, etc."
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
+<a href="https://fr.wikipedia.org/wiki/La_Maison_de_Claudine"
+target="_blank">La Maison de Claudine</a><br>
+1922<br>
+<br>
+<a
+href="https://fr.wikisource.org/w/index.php?title=Page:Colette_-_%C5%92uvres_compl%C3%A8tes_%28%C3%A9d._Le_Fleuron%29_tome_VII.djvu/180&amp;action=edit"
+target="_blank">La Noisette Creuse</a><br>
+<br>
+"&nbsp;&nbsp;&nbsp; La noisette collée à l’oreille, elle écoute. « Ça
+chante. Ça dit : hû-û-û... » <br>
+&nbsp;&nbsp;&nbsp; Elle écoute, la bouche entr’ouverte, les sourcils
+relevés touchant sa frange de cheveux plats. Ainsi immobile, et comme
+désaffectée par l’attention, elle n’a presque plus d’âge. Elle regarde
+sans le voir l’horizon familier de ses vacances.<br>
+... « Qu’est-ce que tu fais de cette vieille noisette ? » Mieux vaut se
+taire, et cacher, tantôt dans une poche, tantôt dans un vase vide ou
+dans le nœud d’un mouchoir, la noisette qu’un instant, impossible à
+prévoir, dépouillera de toutes ses vertus, mais qui pour l’heure
+chante, contre l’oreille de Bel-Gazou, ce chant qui la tient immobile
+et comme enracinée...<br>
+&nbsp;&nbsp;&nbsp; — Je vois ! Je vois la chanson ! Elle est aussi fine
+qu’un cheveu, elle est aussi fine qu’une herbe !... "<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/James_Joyce" target="_blank">James
 Joyce</a><br>
 <a href="https://www.gutenberg.org/files/4300/4300-h/4300-h.htm"
@@ -10130,6 +10325,34 @@ Pays qui se tait, car le chant des eaux<br>
 n'est qu'un excès de silence,<br>
 de ce silence entre les mots<br>
 qui, en rythmes, avancent." </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Paul_Claudel" target="_blank">Paul
+Claudel</a><br>
+La philosophie du Livre - conférence<br>
+cité dans <a
+href="https://theses.hal.science/file/index/docid/1069650/filename/2011PA030108.pdf"
+target="_blank">Espace et poésie chez Baudelaire...</a> de Daichi
+Hirota<br>
+1925<br>
+<br>
+"La page consiste essentiellement en un certain rapport du bloc imprimé
+ou <span style="font-style: italic;">justification</span>, et du
+blanc, ou <span style="font-style: italic;">marge</span>.
+Ce rapport n’est pas purement matériel, il est l’image de ce que tout
+mouvement de la pensée, quand il est arrivé à se traduire par un bruit
+et une parole, laisse autour de lui d’inexprimé, mais non pas d’inerte,
+mais non pas d’incorporel, le silence environnant d’où cette voix est
+issue et qu’elle imprègne à son tour, quelque chose comme son champ
+magnétique. Ce rapport entre la parole et le silence, entre l’écriture
+et le blanc est la ressource particulière de la poésie, et c’est
+pourquoi la <span style="font-style: italic;">page</span> est son
+domaine propre, comme le livre est plutôt celui de la prose. <br>
+&nbsp;&nbsp;&nbsp; Le <span style="font-style: italic;">blanc</span>
+n’est pas un effet seulement pour le poème, une nécessité matérielle
+imposée du dehors. Il est la condition même de son existence, de sa vie
+et de sa respiration."&nbsp;<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Jorge_Luis_Borges" target="_blank">Jorge
@@ -11294,6 +11517,23 @@ en présence d’une composition de type « partition »."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
+<a
+href="https://fr.wikisource.org/wiki/Journal_%C3%A0_rebours/Texte_entier"
+target="_blank">Journal à rebours</a><br>
+1941<br>
+<br>
+Fièvre<br>
+<br>
+"&nbsp;&nbsp;&nbsp; Battement du cœur, précipité mais égal, et qui
+semble avoir déserté sa source, le gros muscle propulseur, pour
+s’établir à la base du cou, dans les pouces, l’épaule qu’opprime le
+poids du corps couché… Ce sont les premiers timbaliers de la fièvre.
+Derrière eux résonne une pédale d’eaux non point courantes mais versées
+par masses, bruit léger d’eaux lourdes et lointaines..."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Georges_Simenon" target="_blank">Georges
 Simenon</a><br>
 <a
@@ -11444,6 +11684,31 @@ la main de la mer. On est ce plaisir de la respirer. Dans un ordre qui
 ne sent pas, on est ce rien de désordre qui sent. Une chose à constater
 la mer. On goûte alors comme une gourmande le bruit de son cœur qui
 bat. Alors qu’il pourrait ne pas... " </div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Colette" target="_blank">Colette</a><br>
+<a href="https://fr.wikisource.org/wiki/Gigi" target="_blank">Gigi</a><br>
+1944<br>
+<br>
+<a href="https://fr.wikisource.org/wiki/Gigi/Flore_et_Pomone"
+target="_blank">Flore et Pomone</a><br>
+<br>
+"&nbsp;&nbsp;&nbsp; Pour bruyant qu’était notre Paris autrefois, il eut
+toujours ses moments imprévus d’apaisement, Cours-la-Reine, entre une
+heure et une heure et demie, les derniers camions ayant gagné leurs
+réfectoires, les amateurs de fleurs et de silence pouvaient goûter une
+trêve étrange, une solitude où les fleurs semblaient se remettre de la
+curiosité humaine. La chaleur filtrée par le plafond de toile,
+l’absence de toute brise, le poids somnifère d’un air chargé d’odeur et
+d’humidité, sont des biens dont Paris est d’habitude avare. Par
+milliers les iris semblaient couver fiévreusement l’été. La paix
+régnait mais non le silence, que troublait un bruit insistant et léger,
+plus fin que le grignotement d’une magnanerie, un bruit de soie
+égratignée… Le bruit d’élytre qui s’entr’ouvre, le bruit de patte
+délicate d’insecte, le bruit de feuille morte dansant, c’étaient les
+iris, dans la lumière propice et tamisée, desserrant la membrane sèche
+roulée à la base de leur calice, les iris qui par milliers éclosaient."<br>
+</div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Pierre_Seghers" target="_blank">Pierre
@@ -11802,6 +12067,40 @@ Mais peut-être n’avait-il pas retenti ? <br>
 &nbsp;&nbsp; &nbsp;Mais pourtant il a vraiment retenti, ce grondement
 de la montagne, comme si quelque démon l’avait fait résonner au
 passage."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/Marguerite_Yourcenar"
+target="_blank">Marguerite Yourcenar</a><br>
+<a href="https://fr.wikipedia.org/wiki/M%C3%A9moires_d%27Hadrien"
+target="_blank">Mémoires d'Hadrien</a><br>
+1951<br>
+<br>
+"L’espace d’une seconde, je sentis les battements de mon coeur se
+précipiter, puis se ralentir, s’interrompre, cesser ; je crus tomber
+comme une pierre dans je ne sais quel puits noir qui est sans doute la
+mort. Si c’était bien elle, on se trompe quand on la prétend
+silencieuse : j’étais emporté par des cataractes, assourdi comme un
+plongeur par le grondement des eaux. Je n’atteignis pas le fond ; je
+remontai à la surface ; je suffoquais... <br>
+J’avais presque honte de cette maladie tout intérieure, quasi
+invisible, sans fièvre, sans abcès, sans douleurs d’entrailles, qui n’a
+pour symptômes qu’un souffle un peu plus rauque et la marque livide
+laissée sur le pied gonflé par la courroie de la sandale.<br>
+&nbsp;&nbsp;&nbsp; Un silence extraordinaire s’établit autour de ma
+tente ; le camp de Béthar tout entier semblait devenu une chambre de
+malade. L’huile aromatique qui brûlait aux pieds de mon Génie rendait
+plus lourd encore l’air renfermé sous cette cage de toile ; le bruit de
+forge de mes artères me faisait vaguement penser à l’île des Titans au
+bord de la nuit. À d’autres moments, ce bruit insupportable devenait
+celui d’un galop piétinant la terre molle ; cet esprit si soigneusement
+tenu en rênes pendant près de cinquante ans s’évadait ; ce grand corps
+flottait à la dérive ; j’acceptais d’être cet homme las qui compte
+distraitement les étoiles et les losanges de sa couverture ; je
+regardais dans l’ombre la tache blanche d’un buste ; une cantilène en
+l’honneur d’Épona, déesse des chevaux, que chantait jadis à voix basse
+ma nourrice espagnole, grande femme sombre qui ressemblait à une
+Parque, remontait du fond d’un abîme de plus d’un demi-siècle."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14282,17 +14581,18 @@ target="_blank">Une jeunesse</a><br>
 1981<br>
 <br>
 "&nbsp;&nbsp;&nbsp; Elle est entrée chez <span
-style="font-style: italic;">Sinfonia</span>. A cette heure-là, il y
-avait beaucoup de clients. Elle s'est glissée jusqu'au fond du magasin.
-Elle a choisi un disque et l'a donné au vendeur pour qu'il le lui fasse
-écouter. Elle a attendu que l'une des cabines soit libre et elle s'est
-assise en fixant les deux petits écouteurs à ses oreilles. Un silence
-d'ouate. Elle a oublié l'agitation autour d'elle. Maintenant, elle se
-laisse envahir par la voix de la chanteuse et elle ferme les yeux. Elle
-rêve qu'un jour, elle ne marchera plus dans cette foule et dans ce
-vacarme qui l'étouffent. Un jour, elle parviendra à crever cet écran de
-bruit et d'indifférence et elle ne sera plus qu'une voix, une voix qui
-se détache avec netteté, comme celle qu'elle écoute en ce moment."<br>
+style="font-style: italic;">Sinfonia</span>.
+A cette heure-là, il y avait beaucoup de clients. Elle s'est glissée
+jusqu'au fond du magasin. Elle a choisi un disque et l'a donné au
+vendeur pour qu'il le lui fasse écouter. Elle a attendu que l'une des
+cabines soit libre et elle s'est assise en fixant les deux petits
+écouteurs à ses oreilles. Un silence d'ouate. Elle a oublié l'agitation
+autour d'elle. Maintenant, elle se laisse envahir par la voix de la
+chanteuse et elle ferme les yeux. Elle rêve qu'un jour, elle ne
+marchera plus dans cette foule et dans ce vacarme qui l'étouffent. Un
+jour, elle parviendra à crever cet écran de bruit et d'indifférence et
+elle ne sera plus qu'une voix, une voix qui se détache avec netteté,
+comme celle qu'elle écoute en ce moment."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
@@ -14574,6 +14874,50 @@ durée..."<br>
 </div>
 <br>
 <div style="border-style: solid; border-width: 1px; padding: 10px;"><a
+href="https://fr.wikipedia.org/wiki/W._G._Sebald" target="_blank">W.
+G. Sebald</a><br>
+<a href="https://de.wikipedia.org/wiki/Die_Ausgewanderten"
+target="_blank">Die Ausgewanderten. Vier lange Erzählungen</a><br>
+<a href="https://actes-sud.fr/catalogue/les-emigrants-004557"
+target="_blank">Les Émigrants : quatre récits illustrés</a> -
+Traduction (1999) de Patrick Charbonneau<br>
+1992<br>
+<br>
+AMBROS ADELWARTH<br>
+<br>
+"... ont sans doute été dévorés depuis longtemps par les souris, car
+celles-ci ont pris possession de la bastide des fous depuis qu’elle est
+désaffectée et s’y sont multipliées au point de constituer désormais
+une population phénoménale – à en juger tout au moins par les bruits
+furtifs et incessants que j’entends dans la vieille coque desséchée,
+toutes les nuits où le vent ne souffle pas. Parfois, quand la pleine
+lune se lève derrière les arbres, j’ai l’impression d’entendre un chant
+pathétique sortant de milliers de gorges minuscules. J’ai mis tous mes
+espoirs dans la gent trotte-menu, et aussi dans les vrillettes,
+horloges de la mort et perce-bois qui, à plus ou moins brève échéance,
+vont faire tomber en ruine ce sanatorium, lequel cède déjà par endroits
+en émettant des craquements sinistres."<br>
+<br>
+MAX FERBER<br>
+<br>
+"Il régnait un silence tellement étrange que je crois me souvenir
+d’avoir entendu des soupirs sur les aires des entrepôts et des greniers
+déserts et que je sursautai d’une frayeur mortelle quand, surgissant
+soudain de l’ombre d’un bâtiment très haut, quelques mouettes prirent
+leur envol vers la lumière en poussant des cris perçants."<br>
+<br>
+"Une rumeur incessante montait jusqu’à ma fenêtre, interrompue
+néanmoins par de longues pauses de silence&nbsp;; et pendant l’un de
+ces profonds silences, il me sembla entendre, bien que ce fut tout à
+fait impossible, dans le Free Trade Hall d’à côté, l’orchestre
+symphonique local essayant ses instruments au milieu des habituels
+raclements de gorges et de pieds, et j’entendis aussi, loin, très loin,
+tout là-bas, le petit chanteur d’opéra qui dans les années soixante se
+produisait toujours au Liston’s Music Hall et chantait en allemand de
+longs passages de Parsifal."<br>
+</div>
+<br>
+<div style="border-style: solid; border-width: 1px; padding: 10px;"><a
 href="https://fr.wikipedia.org/wiki/Patrick_Modiano" target="_blank">Patrick
 Modiano</a><br>
 <a href="https://fr.wikipedia.org/wiki/Chien_de_printemps"
@@ -14672,7 +15016,8 @@ Tokarczuk</a><br>
 target="_blank">Dom dzienny, dom nocny</a><br>
 <a
 href="https://www.leseditionsnoirsurblanc.fr/catalogue/maison-de-jour-maison-de-nuit/"
-target="_blank">Maison de jour, maison de nuit - Traduction de Maryla
+target="_blank">Maison de jour, maison de nuit - Traduction (2021) de
+Maryla
 Laurent</a><br>
 1998<br>
 <br>
@@ -15174,7 +15519,6 @@ arrive à destination.<br>
 &nbsp;&nbsp;&nbsp; Ça freine, ça chuinte, ça crisse, ça siffle, ça
 s’immobilise dans un
 dernier éternuement."
-</div>
-<br>
+</div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 2 11 2026 
+page mise à jour 11 11 2026 
