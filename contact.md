@@ -5,7 +5,7 @@ in_menu: true
 ---
 email : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
-[SoundCloud](https://soundcloud.com/gerard-paresys)
+<a href="https://soundcloud.com/gerard-paresys" target="_blank" >SoundCloud</a>
 
 [Site](http://gerard.paresys.free.fr)
 
