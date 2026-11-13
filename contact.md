@@ -11,6 +11,4 @@ email : [gerard.paresys@free.fr](mailto:gerard.paresys@free.fr)
 
 <a href="https://github.com/gerardparesys" target="_blank" >GitHub</a>
 
-<br>
-Site réalisé par Gérard Parésys avec [Scribouilli](https://scribouilli.org/philosophie.html)
-et la police de caractères [Luciole](http://www.luciole-vision.com/fr/index.html). 
+Site réalisé par Gérard Parésys avec <a href="https://scribouilli.org/philosophie.html" target="_blank" >Scribouilli</a> et la police de caractères <a href="http://www.luciole-vision.com/fr/index.html" target="_blank" >Luciole</a> 
