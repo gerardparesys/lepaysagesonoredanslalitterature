@@ -66,6 +66,8 @@ Lien texte + image -> Site : [Baratin ![Photo de paysage - 128x128]({% link imag
 
 Lien image -> Image : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](images/imm005_4A-768x512.jpg)
 
+Lien image -> Image nouvel onglet : [![Photo de paysage - 128x128]({% link images/imm005_4A-128x128.jpg %})](images/imm005_4A-768x512.jpg){:target="_blank"}
+
 ---
 
 <p class="encart">Un encart !</p> 
