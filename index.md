@@ -15521,4 +15521,4 @@ s’immobilise dans un
 dernier éternuement."
 </div><br>
 <div style="text-align: right"> <h1 style="font-size: 1.3rem;">... collectées par Gérard Paresys</h1></div>
-page mise à jour 11 11 2026 
+page mise à jour 17 11 2026 
